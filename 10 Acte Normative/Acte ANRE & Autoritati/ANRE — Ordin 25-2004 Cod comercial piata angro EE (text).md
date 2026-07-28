@@ -1,3 +1,20 @@
+---
+title: "ANRE — Ordin 25-2004 Cod comercial piata angro EE (text)"
+type: act-text
+act_type: act-anre
+issuer: ANRE
+nr: 25
+an: 2004
+domeniu: [energetică, piețe, angro]
+tags: [act-text, ANRE, piata-angro]
+mo_publicare: "MO nr. 989 / 27.10.2004"
+in_vigoare: true
+continut: ordin-aprobare
+text_complet: false
+annex: "[[ANRE — Ordin 25-2004 Cod comercial piata angro EE — Anexa (text)]]"
+created: 2026-07-28
+---
+
 
 
 ORDIN nr. 25 din 22 octombrie 2004pentru aprobarea Codului comercial al pieței angro de energie

@@ -1,3 +1,16 @@
+---
+title: "ANRE — Ordin 25-2004 Cod comercial piata angro EE — Anexa (text)"
+type: act-text
+act_type: act-anre
+issuer: ANRE
+nr: 25
+an: 2004
+domeniu: [energetică, piețe, angro]
+tags: [act-text, ANRE, cod-comercial, anexa]
+parent: "[[ANRE — Ordin 25-2004 Cod comercial piata angro EE (text)]]"
+created: 2026-07-28
+---
+
 
 
 

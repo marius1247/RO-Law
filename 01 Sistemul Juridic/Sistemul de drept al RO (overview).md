@@ -4,14 +4,44 @@ type: reference
 domeniu: [sistemul-juridic]
 tags: [reference, foundations, overview]
 created: 2026-07-26
+updated: 2026-07-28
 ---
 
 # The Romanian legal system — overview
 
-A one-page orientation before diving into any domain.
+A one-page orientation before diving into any domain. **Hierarchy:** [[Ierarhia actelor normative]] · **Dispute routes:** [[_Regulatory Risk & Litigation Matrix]]
+
+## Executive briefing
+
+| Theme | Takeaway |
+|---|---|
+| **Civil-law tradition** | Written statutes primary; no formal *stare decisis*, but ÎCCJ **RIL** / **HP** and CCR decisions are operationally binding |
+| **Public / private split** | Jurisdiction and substantive rules differ — state-contract disputes often sit in **administrative courts** (*contencios administrativ și fiscal*) |
+| **Dual judicial hierarchy** | Ordinary courts adjudicate; **CCR** alone decides constitutional compliance |
+| **OUG peculiarity** | Government emergency ordinances are primary legislation in practice — track approval status |
 
 ## Family
 Romania is a **continental / civil-law** jurisdiction. Codified written acts are the primary source; case law is not formally binding precedent, though **Curtea Constituțională** decisions are binding *erga omnes* on the points decided, and High Court (*ÎCCJ*) rulings in the interest of the law / preliminary rulings on legal questions are strongly persuasive. Legal reasoning runs from general codes to special laws (*lex specialis derogat legi generali*).
+
+## Sources of law (*izvoarele dreptului*)
+
+1. **[[Constitutia Romaniei (text)|Constituția]]** — supreme norm
+2. **EU treaties & regulations** — direct applicability; primacy over conflicting domestic law (Const. art. 148)
+3. **Primary legislation** — organic and ordinary laws; OG and OUG
+4. **Secondary legislation** — HG, ministerial orders, regulatory authority acts (ANRE, ASF, ANCOM)
+5. **Custom & usages** — only where statute refers to them or in absence of explicit provision (Civil Code art. 1)
+
+## Uniform judicial interpretation (ÎCCJ)
+
+| Mechanism | Purpose | Binding effect |
+|---|---|---|
+| **Recurs în interesul legii (RIL)** | Resolves contradictory final rulings across appellate districts | Universally binding on all courts from MO publication |
+| **Hotărâre prealabilă (HP)** | Resolves novel/complex points pending before a court of last instance | Binding on referring court and all courts on identical issues |
+
+## Practitioner notes
+
+- **Administrative act challenges:** Ministerial orders and ANRE/ASF regulations are challenged under **Legea 554/2004** (*contencios administrativ*). Mandatory prior administrative appeal (*plângere prealabilă*) before court action.
+- **ÎCCJ jurisprudence:** Always check whether a RIL or HP exists on ambiguous statutory terms — domestic judges treat them with strict obedience.
 
 ## The main pillars
 - **[[Constitutia Romaniei (text)|Constituția]]** (1991, **republicată 2003** after the L429/2003 revision) — supreme law.

@@ -14,7 +14,7 @@ source_missing: false
 created: 2026-07-27
 ---
 
-**Act:** Ordinul ANRE nr. 9/21.04.2026 · **Hub:** [[MOC — Energetică]] · **Parent:** [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Related:** [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_9-2026_Comunitati_energie.pdf`
+**Act:** Ordinul ANRE nr. 9/21.04.2026 · **Text:** [[ANRE — Ordin 9-2026 Reguli comunitati energie (text)]] · **Hub:** [[MOC — Energetică]] · **Parent:** [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Related:** [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_9-2026_Comunitati_energie.pdf`
 
 # Memoriu Juridic — Ordinul ANRE nr. 9/2026 — Comunități de Energie și Piețele Angro
 

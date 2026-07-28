@@ -6,15 +6,25 @@ domeniu: [energetică, energie-electrică, gaze-naturale]
 tags: [act-note, analysis, energetică, UE]
 status: draft
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Legea nr. 123/2012 a energiei electrice și a gazelor naturale — Analysis
 
-**Raw text:** [[Legea 123-2012 — energia electrica si gazele naturale (text)]] ✅ *complete* · **Regulator organic law:** [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]] · **RES support:** [[Legea 220-2008 — promovare energie regenerabila (text)|L220/2008]]
+**Raw text:** [[Legea 123-2012 — energia electrica si gazele naturale (text)]] ✅ *complete* · **Regulator organic law:** [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]] · **RES support:** [[Legea 220-2008 — promovare energie regenerabila (text)|L220/2008]] · **Due diligence:** [[_Energy Investment Due Diligence Index]]
 
 > [!info] Currency
 > Working consolidare Portal Legislativ id `307058` (versiune_text 2026-02-27), including notes from **OUG 9/2026** (biogas/biomethane definitions and connection). Heavily amended by **OUG 143/2021** (Dir. 2019/944 package) and later acts — treat article numbers as stable only within this consolidare.
+
+## Executive briefing
+
+| Theme | Takeaway |
+|---|---|
+| **Core market architecture** | Primary framework for electricity and natural gas — aligned with EU Dir. 2019/944 and gas directives |
+| **Bilateral / OTC PPAs** | Direct negotiated corporate PPAs permitted off-exchange or on OPCOM — bankability driver for RES project finance |
+| **Grid connection (ATR)** | Non-discriminatory access; Transelectrica / DSO connection rules; reinforcement-cost allocation risk |
+| **Price interventions** | Recurring emergency measures (OUG 27/2022 lineage) — windfall taxes, price caps, MACEE centralised purchasing |
+| **Licensing perimeter** | Generation >1 MW, trading, aggregation, storage, supply — each with distinct licence category (art. 10) |
 
 ## What it is / scope
 

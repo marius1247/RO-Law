@@ -1,3 +1,14 @@
+---
+title: "OPCOM — Procedura inregistrare PEE rev 17 (text)"
+type: act-text
+act_type: act-autoritate
+issuer: OPCOM
+rev: 17
+domeniu: [energetică, piețe, OPCOM]
+tags: [act-text, OPCOM, PEE, inregistrare]
+created: 2026-07-28
+---
+
 
 
 

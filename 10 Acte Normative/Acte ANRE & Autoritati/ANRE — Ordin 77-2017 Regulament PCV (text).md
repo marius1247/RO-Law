@@ -1,3 +1,16 @@
+---
+title: "ANRE — Ordin 77-2017 Regulament PCV (text)"
+type: act-text
+act_type: act-anre
+issuer: ANRE
+nr: 77
+an: 2017
+domeniu: [energetică, regenerabile, certificate-verzi]
+tags: [act-text, ANRE, PCV, certificate-verzi]
+note: "OPCOM-formatted reading copy; verify against MO original"
+created: 2026-07-28
+---
+
 
 
 

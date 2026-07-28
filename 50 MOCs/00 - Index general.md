@@ -3,7 +3,7 @@ title: "00 - Index general"
 type: moc
 tags: [moc, index]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Index general — Romanian Law
@@ -11,6 +11,11 @@ updated: 2026-07-26
 ## Entry
 - [[Home]] · [[Convenții vault]] · [[Roadmap]] · [[SOURCE INDEX]]
 - Foundations: [[Sistemul de drept al RO (overview)]] · [[Ierarhia actelor normative]] · [[Currency ledger]]
+
+## Cross-disciplinary indexes
+- [[_Energy Investment Due Diligence Index]]
+- [[_M&A Regulatory Compliance Checklist]]
+- [[_Regulatory Risk & Litigation Matrix]]
 
 ## Domain hubs
 - [[MOC — Energetică]] — [[Energetică — sinteza sectorului]]

@@ -1,3 +1,17 @@
+---
+title: "ANRE — Ordin 50-2026 Procedura registru comunitati (text)"
+type: act-text
+act_type: act-anre
+issuer: ANRE
+nr: 50
+an: 2026
+domeniu: [energetică, comunități-energie]
+tags: [act-text, ANRE, registru, CESR, CEC]
+mo_publicare: "MO nr. 535 / 30.06.2026"
+parent: "[[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]]"
+created: 2026-07-28
+---
+
 
 
 PROCEDURĂ din 25 iunie 2026de constituire a Registrului național al comunităților de energie, în vederea înregistrării comunităților de energie legal

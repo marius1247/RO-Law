@@ -6,17 +6,27 @@ domeniu: [fiscal, procedură]
 tags: [act-note, analysis, fiscal]
 status: draft
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Codul de procedură fiscală (Legea nr. 207/2015) — Analysis
 
-**Raw text index:** [[Codul de procedura fiscala 207-2015 (text) — Index]] · **Substantive tax:** [[Codul fiscal 227-2015 (text) — Index|Codul fiscal]] · **Checklist:** [[Download checklist — Batch A currency]]
+**Raw text index:** [[Codul de procedura fiscala 207-2015 (text) — Index]] · **Substantive tax:** [[Codul fiscal 227-2015 (text) — Index|Codul fiscal]] · **Checklist:** [[Download checklist — Batch A currency]] · **Litigation matrix:** [[_Regulatory Risk & Litigation Matrix]]
 
 > [!warning] Currency — working text is SOAP base
 > Working corpus is the **full SOAP** dump (`portal_id` **170007**): complete but **not** the latest portal consolidare.
 >
 > Newer consolidare referenced in attachments / checklist: ~**`309359` (08.05.2026)** — not fully re-ingested. Deadlines, e-enforcement tools, RO e-Factura / SAF-T hooks and international-exchange chapters are the first places to drift. Verify against the May 2026 form before relying on time limits or digital-reporting duties.
+
+## Executive briefing
+
+| Theme | Takeaway |
+|---|---|
+| **Administrative appeal** | Mandatory *contestație fiscală* within **45 days** of service — prerequisite to court litigation |
+| **Immediate enforceability** | Tax decisions enforceable on issue; appeal does **not** auto-suspend collection |
+| **Court suspension** | Requires guarantee (*cauțiune*) up to **20%** of contested liability (CPF art. 278 + Legea 554/2004) |
+| **Prescription** | **5 years** general (from 1 July following fiscal year); **10 years** if tax evasion criminal element |
+| **Digital enforcement** | RO e-Factura / SAF-T / e-TVA mismatch triggers audit — align ERP logs with D300 returns |
 
 ## What it is / scope
 

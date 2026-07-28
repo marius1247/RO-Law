@@ -1,3 +1,17 @@
+---
+title: "ANRE — Ordin 9-2026 Reguli comunitati energie (text)"
+type: act-text
+act_type: act-anre
+issuer: ANRE
+nr: 9
+an: 2026
+domeniu: [energetică, comunități-energie, stocare]
+tags: [act-text, ANRE, CESR, CEC]
+mo_publicare: "MO nr. 384 / 07.05.2026"
+parent: "[[ANRE — Ordin 9-2026 Comunitati energie (notă)]]"
+created: 2026-07-28
+---
+
 
 
 REGULI din 21 aprilie 2026privind participarea unei comunități de energie din surse regenerabile sau

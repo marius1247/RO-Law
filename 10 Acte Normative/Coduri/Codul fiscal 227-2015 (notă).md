@@ -6,12 +6,12 @@ domeniu: [fiscal]
 tags: [act-note, analysis, fiscal]
 status: draft
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Codul fiscal (Legea nr. 227/2015) — Analysis
 
-**Raw text index:** [[Codul fiscal 227-2015 (text) — Index]] · **Procedure:** [[Codul de procedura fiscala 207-2015 (text) — Index|CPF]] · **Checklist:** [[Download checklist — Batch A currency]]
+**Raw text index:** [[Codul fiscal 227-2015 (text) — Index]] · **Procedure:** [[Codul de procedura fiscala 207-2015 (text) — Index|CPF]] · **Checklist:** [[Download checklist — Batch A currency]] · **M&A:** [[_M&A Regulatory Compliance Checklist]]
 
 > [!warning] Currency — working text is SOAP base
 > The vault working corpus is the **full SOAP** dump (`portal_id` **171282**, versiune_text ~2016-01-01): complete article coverage, **not** the latest Portal Legislativ consolidare.
@@ -19,6 +19,18 @@ updated: 2026-07-26
 > Latest portal consolidări flagged for re-ingest: **CF `311621` / `311622` (01.07.2026)**. A truncated newer dump may exist under `99 Attachments/source-portal/`. **Do not cite rates, thresholds, micro-tax rules, VAT rates or contribution bases from the SOAP text without checking the 01.07.2026 consolidare** — those fields move often by OUG/lege.
 >
 > Article **numbers** below are verified against the SOAP Titluri in the vault and are usually stable; operative amounts may not be.
+
+## Executive briefing (2025–2026 reforms — verify consolidare)
+
+| Theme | Indicative position (confirm in CF 311621/311622) |
+|---|---|
+| **Standard CIT** | **16%** on taxable profit |
+| **IMCA (turnover minimum tax)** | Entities with turnover >EUR 50M — higher of 16% CIT or **0.5%** adjusted turnover (sunset provision targeted 2027) |
+| **Dividend WHT** | **16%** from 2026 (up from 10%) — EU parent-subsidiary exemption if >10% / 24 months |
+| **Standard VAT** | **21%** (increased from 19%) |
+| **Reduced VAT** | **11%** unified reduced rate (pharma, basic food, utilities) |
+| **RO e-Factura** | Mandatory B2B XML routing — invoices outside platform ineligible for input VAT deduction |
+| **Pillar II** | 15% ETR top-up for MNE groups >EUR 750M consolidated revenue |
 
 ## What it is / scope
 

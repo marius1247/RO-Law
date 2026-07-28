@@ -43,6 +43,8 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 
 | Family | Status | Notes |
 |---|---|---|
+| Wholesale commercial code | [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)\|Ord. 25/2004]] ✅ | Cod comercial angro EE — partially repealed; see note |
+| Green certificates (PCV) | [[ANRE — Ordin 77-2017 Regulament PCV (notă)\|Ord. 77/2017]] ✅ | PCV market rules — OPCOM reading copy |
 | CfD contracts | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)\|Ord. 52/2024]] ✅ | Contribution + scheme-operator contracts |
 | Smart grid KPIs | [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)\|Ord. 59/2025]] ✅ | Ordin + methodology PDFs |
 | Forward markets | [[ANRE — Ordin 134-2022 Piata termen (notă)\|Ord. 134/2022]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)\|Ord. 12/2023]] ✅ | General rules + OPCOM regulation |
@@ -54,6 +56,7 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | Piețe / coduri / GC | Planned | Checklist: [[Download checklist — Batch B ANRE]] |
 
 ## OPCOM market procedures (OPEED)
+- [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] — participant registration (Rev. 17 / 2026)
 - [[OPCOM — PO-PZU Rev7 2025 (notă)]] — day-ahead operational procedure (15′ products, SDAC)
 - [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] — financial guarantees for PZU / PI-IDCT / PI-IDA
 - [[OPCOM — Act aditional model unic PZU-PI 2025 (notă)]] — standard amendment to Participation Convention
@@ -79,4 +82,10 @@ Cross-vault: `EU Law/` · Moldovan Law `[[Energetică — sinteza sectorului]]`.
 - Complete Batch B normative Ordine
 - Map 2024–2026 market-design OUGs amending L123
 - Deepen act note companions
+- Ingest primary texts for Batch 4–5 sectoral acts (L21, L53, L98, L208, OUG 195)
 - Unbundling ↔ company law → [[Societăți & guvernanță — sinteza]]
+
+## Cross-disciplinary indexes
+- [[_Energy Investment Due Diligence Index]]
+- [[_M&A Regulatory Compliance Checklist]]
+- [[_Regulatory Risk & Litigation Matrix]]

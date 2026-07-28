@@ -3,7 +3,7 @@ title: "Home — Legislația României"
 type: home
 tags: [home, index]
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-07-28
 ---
 
 # Legislația României
@@ -52,6 +52,20 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 | [[MOC — Energetică]] | [[Energetică — sinteza sectorului]] | [[ANRE]] |
 | [[MOC — Societăți & Guvernanță]] | [[Societăți & guvernanță — sinteza]] | [[ONRC]] |
 | [[MOC — Fiscalitate]] | [[Fiscalitate — sinteza sistemului fiscal]] | [[ANAF]] |
+
+## Cross-disciplinary indexes (RAG hubs)
+- [[_Energy Investment Due Diligence Index]] — RES / conventional energy DD pipeline
+- [[_M&A Regulatory Compliance Checklist]] — competition, tax, HR, sectoral licensing
+- [[_Regulatory Risk & Litigation Matrix]] — forums, appeals, suspension mechanisms
+
+## Sectoral analysis (text pending ingestion)
+| Act | Analysis |
+|---|---|
+| [[Legea 21-1996 — concurenta (notă)\|L21/1996 — concurență]] | Antitrust, merger control, dawn raids |
+| [[Legea 53-2003 — codul muncii (notă)\|L53/2003 — Codul muncii]] | Employment, REGES, termination |
+| [[Legea 98-2016 — achizitii publice (notă)\|L98/2016 — achiziții publice]] | SEAP, CNSC, tender disputes |
+| [[Legea 208-2015 — piete de capital (notă)\|L208/2015 — piețe financiare]] | BNR/ASF, mandatory takeover bids |
+| [[OUG 195-2005 — protectia mediului (notă)\|OUG 195/2005 — mediu]] | EIA, AIM, ESG / contamination liability |
 
 ## Sibling vaults
 - `Moldovan Law/` — structural model · comparative L164/L108/L10

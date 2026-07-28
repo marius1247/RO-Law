@@ -13,7 +13,7 @@ source_pdf: "[[99 Attachments/source-anre/ANRE_Ordin_50-2026_Registru_comunitati
 created: 2026-07-27
 ---
 
-**Act:** Ordinul ANRE nr. 50/25.06.2026 · **Hub:** [[MOC — Energetică]] · **Related:** [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_50-2026_Registru_comunitati_energie.pdf`
+**Act:** Ordinul ANRE nr. 50/25.06.2026 · **Text:** [[ANRE — Ordin 50-2026 Procedura registru comunitati (text)]] · **Hub:** [[MOC — Energetică]] · **Related:** [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_50-2026_Registru_comunitati_energie.pdf`
 
 # Memoriu Juridic — Ordinul ANRE nr. 50/2026 — Registrul Național al Comunităților de Energie
 
