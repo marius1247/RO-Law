@@ -1,0 +1,10 @@
+ ORDIN nr. 59 din 2 august 2013  pentru aprobarea  Regulamentului  privind racordarea utilizatorilor la rețelele electrice de interes public     EMITENT     AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI       Publicat în 
+			  MONITORUL OFICIAL nr. 517 din 19 august 2013      Având în vedere prevederile  art. 25 alin. (13) din Legea energiei electrice și a gazelor naturale nr. 123/2012 ,   în temeiul prevederilor art. 5 alin. (1) lit. c) și ale  art. 9 alin. (1) lit. q) din Ordonanța de urgență a Guvernului nr. 33/2007  privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei, aprobată cu modificări și completări prin  Legea nr. 160/2012 ,   președintele Autorității Naționale de Reglementare în Domeniul Energiei emite prezentul ordin.    
+				 + 
+			  Articolul 1      Se aprobă  Regulamentul  privind racordarea utilizatorilor la rețelele electrice de interes public, prevăzut în  anexa *) care face parte integrantă din prezentul ordin. *) Anexa se publică în Monitorul Oficial al României, Partea I, nr. 517 bis, care se poate achiziționa de la Centrul pentru relații cu publicul al Regiei Autonome "Monitorul Oficial", București, șos. Panduri nr. 1.        
+				 + 
+			  Articolul 2      Operatorii economici din sectorul energiei electrice duc la îndeplinire prevederile prezentului ordin, iar entitățile organizatorice din cadrul Autorității Naționale de Reglementare în Domeniul Energiei urmăresc respectarea prevederilor prezentului ordin.      
+				 + 
+			  Articolul 3      Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare la data abrogării  Hotărârii Guvernului nr. 90/2008  pentru aprobarea Regulamentului privind racordarea utilizatorilor la rețelele electrice de interes public, publicată în Monitorul Oficial al României, Partea I, nr. 109 din 12 februarie 2008.       Președintele Autorității Naționale de Reglementare în Domeniul Energiei,    Niculae Havrileț    București, 2 august 2013.   Nr. 59.    
+				 + 
+			  ANEXĂ         REGULAMENT privind racordarea utilizatorilor la rețelele electrice de interes public         
