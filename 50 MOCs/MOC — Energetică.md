@@ -83,6 +83,8 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | EU Member State | Energy Community + accession track |
 | ANRE Ordine | HANRE |
 
+**EU carbon pricing (analysis layer):** [[MOC — EU Carbon Pricing]] · [[EU ETS — sinteza pietei carbon]] · [[_EU Carbon Market Analysis Index]] — EUA exposure on thermal generation sits in commodity margin ([[Concept — Fuel switching price si clean spreads]]), separate from [[Concept — Cost stack producator energie]].
+
 Cross-vault: `EU Law/` · Moldovan Law `[[Energetică — sinteza sectorului]]`.
 
 ## Open threads

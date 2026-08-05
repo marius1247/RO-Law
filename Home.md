@@ -50,11 +50,13 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 | Hub | Synthesis | Authorities |
 |---|---|---|
 | [[MOC — Energetică]] | [[Energetică — sinteza sectorului]] | [[ANRE]] |
+| [[MOC — EU Carbon Pricing]] | [[EU ETS — sinteza pietei carbon]] | — (EU acquis) |
 | [[MOC — Societăți & Guvernanță]] | [[Societăți & guvernanță — sinteza]] | [[ONRC]] |
 | [[MOC — Fiscalitate]] | [[Fiscalitate — sinteza sistemului fiscal]] | [[ANAF]] |
 
 ## Cross-disciplinary indexes (RAG hubs)
 - [[_Energy Investment Due Diligence Index]] — RES / conventional energy DD pipeline
+- [[_EU Carbon Market Analysis Index]] — EUA trading · CBAM · ETS 2 · CDR stack
 - [[Tarife retea — snapshot 2026]] — regulated network tariff snapshot (producers)
 - [[_M&A Regulatory Compliance Checklist]] — competition, tax, HR, sectoral licensing
 - [[_Regulatory Risk & Litigation Matrix]] — forums, appeals, suspension mechanisms

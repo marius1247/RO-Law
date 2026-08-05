@@ -174,6 +174,16 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 
 ---
 
+## Done — EU carbon pricing knowledge layer (2026-08-05)
+
+- [[EU ETS — sinteza pietei carbon]] — legislative architecture · 4-pillar framework · ETS 1/2 · CDR endgame
+- [[MOC — EU Carbon Pricing]] — navigation hub
+- [[_EU Carbon Market Analysis Index]] — practitioner checklist
+- 14 concept notes: LRF/MSR · 4 pillars · fuel switching · ETS 1 vs 2 · CBAM phase-out · CBAM formula · ETS 2 pass-through/SCF · merger scenarios · CDR integration · DACCS vs BioCCS · CO₂ hubs · RED III feedstock · CRCF LCA · open threads
+- Cross-linked [[MOC — Energetică]] · [[Energetică — sinteza sectorului]] · [[Home]] · [[00 - Index general]]
+
+---
+
 ## Done — Batch B analysis integration (2026-08-05)
 
 - [[SOURCE INDEX]] rebuilt as portal dump → working text map
@@ -263,7 +273,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 | L21, L53, L98, L208, OUG 195 — primary **text** ingest | notă only today |
 | L24/2000 newer consolidare | lagging SOAP |
 | Deepen concept notes with `#Articolul N` links (Batch B core landed) | ongoing |
-| Cross-link `EU Law/` · Moldovan Law parallels | ongoing |
+| Cross-link `EU Law/` · Moldovan Law parallels | ongoing — EU carbon analysis layer: [[MOC — EU Carbon Pricing]] |
 | Gas/hydrogen package (Dir 2024/1788) → L123 Title II | watch |
 
 ---

@@ -78,6 +78,8 @@ Liberalisation needs a default supplier when the chosen one fails or the consume
 
 Romania is **inside** the EU energy internal market. Electricity has moved with the Clean Energy Package / electricity market design reforms (Dir. 2019/944, Reg. 2019/943, REMIT, CACM lineage); gas remains on the gas directive / package track with later hydrogen/decarbonisation overlays. ACER cooperation and ENTSO-E/G membership are operational facts, not aspirational ones.
 
+**Carbon pricing:** Romanian power producers and industrial emitters are **EU ETS 1 compliance entities** — EUA cost is a commodity-margin exposure (fuel-switching driven), not a regulated network tariff. Full analysis stack: [[MOC — EU Carbon Pricing]] · [[EU ETS — sinteza pietei carbon]] · [[Concept — Fuel switching price si clean spreads]]. ETS 2 (buildings/transport, from 2027) and CBAM (industrial imports/exports) add parallel exposure channels.
+
 **Comparative note vs Moldova:** MD electricity jumped to the fourth package via L164/2025 while still an EnC contracting party; RO already had to implement as a Member State and then absorb each amending wave through L123 + OUGs + ANRE Ordine. Expect RO secondary acts to re-issue more often after market-design OUGs.
 
 ## 7. Where the risk sits — practitioner’s read
@@ -93,7 +95,7 @@ Romania is **inside** the EU energy internal market. Electricity has moved with 
 - ~~Producer cost stack / BESS / PRE / curtailment synthesis~~ → **done 2026-08-05** — see [[Concept — Cost stack producator energie]], [[Tarife retea — snapshot 2026]]
 - Deepen [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123 notă]] and [[Legea 220-2008 — promovare energie regenerabila (notă)|L220 notă]]
 - Map post-2022 market-design OUGs into the cascade table
-- Cross-link concrete EU instruments in `EU Law/`
+- Cross-link concrete EU instruments in `EU Law/` — EU carbon pricing layer started: [[MOC — EU Carbon Pricing]]
 - Corporate unbundling execution → [[Societăți & guvernanță — sinteza]]
 
 ## Related

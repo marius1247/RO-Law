@@ -14,11 +14,13 @@ updated: 2026-07-28
 
 ## Cross-disciplinary indexes
 - [[_Energy Investment Due Diligence Index]]
+- [[_EU Carbon Market Analysis Index]]
 - [[_M&A Regulatory Compliance Checklist]]
 - [[_Regulatory Risk & Litigation Matrix]]
 
 ## Domain hubs
 - [[MOC — Energetică]] — [[Energetică — sinteza sectorului]]
+- [[MOC — EU Carbon Pricing]] — [[EU ETS — sinteza pietei carbon]]
 - [[MOC — Piețe de echilibrare]] — [[Piețe de echilibrare — sinteza]]
 - [[MOC — Societăți & Guvernanță]] — [[Societăți & guvernanță — sinteza]]
 - [[MOC — Fiscalitate]] — [[Fiscalitate — sinteza sistemului fiscal]]
