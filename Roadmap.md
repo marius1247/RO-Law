@@ -10,6 +10,9 @@ updated: 2026-08-05
 
 Master build plan. **Done** = in vault today. **Next** = gaps, split by whether sources are **retrievable** (portal / ANRE / OPCOM / Transelectrica PDFs) vs **manual or out-of-scope**.
 
+> [!success] Integration round complete (2026-08-05)
+> **Done this round:** Batch B text ingest (16 acts) · analysis wiring · producer cost / tariff synthesis pass. **Next round:** market rules · network codes · Ord. **6/2025** · optional SS/perimeter text ingest.
+
 Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download checklist — Batch B ANRE]]
 
 ---
@@ -190,8 +193,8 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 | Act | Why |
 |---|---|
 | **OUG 59/2025**, **OUG 80/2025** | Recent L123 amendments (check consolidare `307058`) |
-| **Ord. 51/2024** + **Ord. 10/2025** — contribuție CfD | CfD levy mechanics *(methodology ingested; amending Ordine TBD)* |
-| **Ord. 60/2025**, **10/2026** — SS / perimeter (text) | Analysis + snapshot exist |
+| **Ord. 10/2025** — contribuție CfD rate amend | CfD levy mechanics *(Ord. 51/2024 methodology ✅ ingested)* |
+| **Ord. 60/2025**, **10/2026** — SS / perimeter (text) | Analysis + snapshot exist — optional text ingest |
 
 ### C. TSO / market operator procedures (retrievable from operator sites)
 
@@ -207,7 +210,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 
 | Note | Depends on |
 |---|---|
-| `Concept — Metodologii tarifare retea` | ✅ [[ANRE — Metodologii tarifare EE (notă)]] — deepen article links |
+| ~~Metodologii tarifare index~~ | ✅ [[ANRE — Metodologii tarifare EE (notă)]] — deepen `#Articolul N` links |
 | `Concept — Agregare` | Market rules + L123 art. 3 / art. 10 |
 | `Concept — CfD mecanism` (beyond existing HG/Ord. 52 notes) | Ord. 1290/2024, auction results |
 | Expand [[Concept — Curtailment si redispatch RES]] with network-code articles | Network code ingest |
@@ -231,8 +234,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 |---|---|
 | L123 **post–Feb 2026 consolidare** if portal moves before next pull | Re-check `307058` |
 | **Cod fiscal / CPF** full 2026 consolidare | Portal HTTPS / ~1 MB WebFetch truncation → manual PDF ([[Download checklist — Batch A currency]]) |
-| **Gas network code / gas market rules** (Title II L123) | Lower priority; same Batch B pattern |
-| **OUG 163/2022** full text | ✅ ingested — [[OUG 163-2022 — promovare energie regenerabila (text)]] |
+| **Gas network code / gas market rules** (Title II L123) | Lower priority; same Batch B remainder pattern |
 | **Crisis OUGs** (27/2022 lineage — windfall, price caps) | Needed for retail/intervention DD; scattered amendments |
 
 ### Operator-specific (retrieve when advising named client)
@@ -251,7 +253,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 | Batch A — CF/CPF full re-ingest (01.07.2026 / 08.05.2026) | **lagging** — manual portal |
 | L21, L53, L98, L208, OUG 195 — primary **text** ingest | notă only today |
 | L24/2000 newer consolidare | lagging SOAP |
-| Deepen concept notes with `#Articolul N` links as Batch B lands | ongoing |
+| Deepen concept notes with `#Articolul N` links (Batch B core landed) | ongoing |
 | Cross-link `EU Law/` · Moldovan Law parallels | ongoing |
 | Gas/hydrogen package (Dir 2024/1788) → L123 Title II | watch |
 

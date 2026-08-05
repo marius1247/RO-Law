@@ -4,6 +4,7 @@ type: moc
 domeniu: energetică
 tags: [moc, index, energetică]
 created: 2026-07-26
+updated: 2026-08-05
 status: draft
 ---
 
@@ -83,9 +84,8 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 Cross-vault: `EU Law/` · Moldovan Law `[[Energetică — sinteza sectorului]]`.
 
 ## Open threads
-- Complete Batch B remainder: electricity/gas **market rules**, **network codes**, Ord. **6/2025** authorisation
+- Batch B **remainder:** electricity/gas market rules · network codes · Ord. **6/2025** authorisation
 - Deepen `#Articolul N` links in concept notes against ingested regulamente/metodologii
-- Deepen act note companions
 - Ingest primary texts for Batch 4–5 sectoral acts (L21, L53, L98, L208, OUG 195)
 - Unbundling ↔ company law → [[Societăți & guvernanță — sinteza]]
 

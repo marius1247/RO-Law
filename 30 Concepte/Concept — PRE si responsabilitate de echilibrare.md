@@ -159,7 +159,7 @@ System services tariff (**SS 14,70 lei/MWh** from Jan 2026) funds **collective**
 2. **Collateral shortfall** → TSO suspension → cascade to OPCOM suspension.
 3. **Delegated PRE** without back-to-back imbalance pass-through in PPA.
 4. **Curtailment** without schedule adjustment → imbalance charges ([[Concept — Curtailment si redispatch RES]]).
-5. **Missing Batch B texts** — balancing rulebook, PRE procedure, network code redispatch rules not ingested; pull live from Transelectrica/ANRE for named projects.
+5. **Missing normative texts** — balancing rulebook and network-code redispatch articles not ingested; Transelectrica PRE procedures are operator-site docs — pull live for named projects.
 
 ---
 
@@ -168,7 +168,7 @@ System services tariff (**SS 14,70 lei/MWh** from Jan 2026) funds **collective**
 - [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]] — balancing financial responsibility
 - [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)|Ord. 25/2004 Cod comercial]] — surviving commercial rules (partially repealed)
 - [[OPCOM — PO-PZU Rev7 2025 (notă)]] — DAM requires PRE before registration (art. 6.1.8 lineage)
-- Transelectrica balancing procedures — **pending Batch B ingestion**
+- Transelectrica balancing procedures — operator-site (not in vault; normative market rules still Batch B remainder)
 
 ## Related
 

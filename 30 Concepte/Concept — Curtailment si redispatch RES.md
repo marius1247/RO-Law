@@ -14,8 +14,8 @@ updated: 2026-08-05
 
 Practitioner note on **when and how Solar PV and wind output may be constrained off the network**, whether compensation is due, and how curtailment interacts with **PRE imbalance** and **support schemes**.
 
-> [!warning] Batch B gap
-> Detailed redispatch compensation rules sit in **network codes and market rules** not yet ingested. This note maps the **statutory framework** and operational risks; verify live ANRE/Transelectrica procedures for project-specific advice.
+> [!note] Batch B remainder
+> Detailed redispatch compensation rules sit in **network codes and market rules** (not yet ingested). Connection/supply regulamente are in vault — [[ANRE — Regulament racordare EE 2013 (notă)]] · [[ANRE — Regulament furnizare EE 2023 (notă)]]. Verify live ANRE/Transelectrica procedures for project-specific advice.
 
 ---
 
@@ -42,7 +42,7 @@ L123/2012 art. 25 — connection & access; security/capacity refusal grounds
     ↓
 L123/2012 art. 7¹ — ANRE monitors congestion rules; TSO publishes congestion management
     ↓
-Network codes + market rules (ANRE Ordine — Batch B pending)
+Network codes + market rules (ANRE Ordine — Batch B **remainder**)
     ↓
 Transelectrica operational instructions / redispatch orders
 ```

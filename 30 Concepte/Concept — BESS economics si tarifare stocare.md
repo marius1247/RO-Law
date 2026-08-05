@@ -89,7 +89,7 @@ Market participation:
 - **OPCOM registration** if using PZU/IDM — [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]]
 - **CfD contribution** — storage operators supplying own/consumers added as plătitori (Ord. 71/2025 amending Ord. 52/2024) — [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]]
 
-Balancing / ancillary revenue: prequalification rules for BESS as BSP still evolving; cross-market optimisation (DA/ID/aFRR/mFRR) is merchant opportunity but **regulatory access to reserve markets remains a live gap** in the vault Batch B list.
+Balancing / ancillary revenue: prequalification rules for BESS as BSP still evolving; cross-market optimisation (DA/ID/aFRR/mFRR) is merchant opportunity but **regulatory access to reserve markets** depends on network codes (Batch B remainder).
 
 ---
 
