@@ -19,7 +19,7 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 
 ## Start here
 - [[Convenții vault]] — structure & ingestion rules
-- [[Roadmap]] — build plan and gaps
+- [[Roadmap]] — build plan, vault inventory & energy gaps
 - [[Currency ledger]] — per-act currency status
 - [[SOURCE INDEX]] — raw portal dumps → working texts
 - [[Dataview — currency & corpus]] — live tables (Dataview plugin)
