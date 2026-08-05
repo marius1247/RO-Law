@@ -24,7 +24,7 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 
 ## 1. Grid access & market integration
 
-- **ATR assessment:** Verify valid *Aviz Tehnic de Racordare* under [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] and applicable ANRE connection ordinances.
+- **ATR assessment:** Verify valid *Aviz Tehnic de Racordare* under [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] and [[ANRE — Regulament racordare EE 2013 (notă)|racordare regulament]].
 - **Reinforcement costs:** Check contingent liabilities for *lucrări de întărire* allocated to the project SPV.
 - **Environmental clearance:** Confirm *acord de mediu* and **AIM** under [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005]].
 
@@ -48,7 +48,7 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 
 - **PRE / BRP:** Confirm Balancing Agreement with Transelectrica or valid delegation — [[Concept — PRE si responsabilitate de echilibrare]].
 - **Network cost stack:** Model TG + SS + TD by delimitation voltage — [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]].
-- **BESS:** Verify Ord. 56/2025 exemption scope on charge/discharge legs — [[Concept — BESS economics si tarifare stocare]].
+- **BESS:** Verify [[ANRE — Norme stocare BESS 2025 (notă)|Ord. 56/2025]] exemption scope on charge/discharge legs — [[Concept — BESS economics si tarifare stocare]].
 - **Curtailment:** PPA + scheme + PRE schedule alignment — [[Concept — Curtailment si redispatch RES]].
 - **OPCOM registration:** [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · energy communities [[ANRE — Ordin 9-2026 Comunitati energie (notă)]].
 
@@ -62,6 +62,9 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 - [[Legea 123-2012 — energia electrica si gazele naturale (notă)]]
 - [[HG 318-2024 — cadru general CfD (notă)]]
 - [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]]
+- [[ANRE — Regulament racordare EE 2013 (notă)]]
+- [[ANRE — Norme stocare BESS 2025 (notă)]]
+- [[OUG 134-2024 — stocare energie electrica (notă)]]
 - [[Codul fiscal 227-2015 (notă)]]
 - [[OUG 195-2005 — protectia mediului (notă)]]
 - [[_M&A Regulatory Compliance Checklist]]

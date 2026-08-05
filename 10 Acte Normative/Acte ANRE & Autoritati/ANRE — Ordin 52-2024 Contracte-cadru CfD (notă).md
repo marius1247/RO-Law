@@ -11,9 +11,10 @@ status: draft
 mo_publicare: "MO nr. 734 / 26.07.2024"
 source_pdf: "[[99 Attachments/source-anre/ANRE_Ordin_52-2024_Contracte_cadru_CfD.pdf]]"
 created: 2026-07-27
+updated: 2026-08-05
 ---
 
-**Act:** Ordinul ANRE nr. 52/17.07.2024 (modificat Ord. 5/2025, 71/2025) · **Hub:** [[MOC — Energetică]] · **Parent:** [[HG 318-2024 — cadru general CfD (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_52-2024_Contracte_cadru_CfD.pdf`
+**Act:** Ordinul ANRE nr. 52/17.07.2024 (modificat Ord. 5/2025, 71/2025) · **Text:** [[ANRE — Ordin 52-2024 Contract-cadru CfD (text)]] · **Metodologie contribuție:** [[ANRE — Metodologie contributie CfD 2024 (text)]] · **Hub:** [[MOC — Energetică]] · **Parent:** [[HG 318-2024 — cadru general CfD (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_52-2024_Contracte_cadru_CfD.pdf`
 
 # Memoriu Juridic — Ordinul ANRE nr. 52/2024 — Contractele-Cadru CfD
 

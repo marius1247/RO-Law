@@ -21,7 +21,7 @@ A tradable instrument issued for eligible electricity produced from renewable so
 4. **Trading** — bilateral / organised market transfers
 5. **Compliance** — surrender / reporting; substitute payment if short
 
-ANRE methodologies below L220 set issuance, trading, and quota mechanics — Batch B ingest targets.
+ANRE methodologies below L220 set issuance, trading, and quota mechanics — see [[ANRE — Metodologie quota certificate verzi 2022 (text)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)]] · [[ANRE — Ordin 77-2017 Regulament PCV (text)|Ord. 77/2017 PCV]].
 
 ## Contrast with Moldova
 | | RO L220 | MD L10/2016 |
@@ -38,7 +38,7 @@ ANRE methodologies below L220 set issuance, trading, and quota mechanics — Bat
 ## Governing provisions
 - [[Legea 220-2008 — promovare energie regenerabila (text)|L220/2008]]
 - [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]] — market / producer interface
-- ANRE Ordine on GC issuance, trading, quotas *(planned — [[Download checklist — Batch B ANRE]])*
+- [[ANRE — Metodologie quota certificate verzi 2022 (text)|Metodologie cotă CV (Ord. 96/2022)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)|Ord. 81/2025 quota 2026]] · [[ANRE — Ordin 77-2017 Regulament PCV (notă)|Ord. 77/2017 PCV]]
 
 ## Related
 [[Concept — Racordare la rețea]] · [[Concept — Licență în energetică]] · [[Energetică — sinteza sectorului]] · [[MOC — Energetică]] · [[ANRE]]

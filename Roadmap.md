@@ -48,7 +48,14 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 | L98/2016 — achiziții publice | [[Legea 98-2016 — achizitii publice (notă)]] | EPC / public grid |
 | L208/2015 — piețe de capital | [[Legea 208-2015 — piete de capital (notă)]] | Listed issuers |
 | OUG 195/2005 — mediu | [[OUG 195-2005 — protectia mediului (notă)]] | EIA / AIM |
-| OUG 163/2022 — RED II / L220 | [[OUG 163-2022 — promovare energie regenerabila (notă)]] | RES amendments |
+
+### Batch B OUGs — full `— text` + `— notă` (2026-08-05)
+
+| Act | Text | Analysis |
+|---|---|---|
+| OUG 163/2022 — RED II / L220 | [[OUG 163-2022 — promovare energie regenerabila (text)]] | [[OUG 163-2022 — promovare energie regenerabila (notă)]] |
+| OUG 134/2024 — stocare | [[OUG 134-2024 — stocare energie electrica (text)]] | [[OUG 134-2024 — stocare energie electrica (notă)]] |
+| OUG 143/2021 — Dir. 2019/944 | [[OUG 143-2021 — Directiva 2019-944 energie (text)]] | [[OUG 143-2021 — Directiva 2019-944 energie (notă)]] |
 
 ---
 
@@ -62,12 +69,23 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 | Ord. 77/2017 — PCV | [[ANRE — Ordin 77-2017 Regulament PCV (text)]] | [[ANRE — Ordin 77-2017 Regulament PCV (notă)]] | ✅ |
 | Ord. 9/2026 — comunități energie | [[ANRE — Ordin 9-2026 Reguli comunitati energie (text)]] | [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] | ✅ |
 | Ord. 50/2026 — registru comunități | [[ANRE — Ordin 50-2026 Procedura registru comunitati (text)]] | [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] | ✅ |
-| Ord. 52/2024 — contracte-cadru CfD | — | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] | notă + PDF ref |
+| Ord. 52/2024 — contracte-cadru CfD | [[ANRE — Ordin 52-2024 Contract-cadru CfD (text)]] | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] | ✅ |
 | Ord. 59/2025 — smart grid KPIs | — | [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)]] | notă + PDF ref |
 | Ord. 12/2023 — tranzacționare OPCOM | — | [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)]] | notă only |
 | Ord. 134/2022 — piață termen | — | [[ANRE — Ordin 134-2022 Piata termen (notă)]] | notă only |
 | Ord. 98/2015 — autorizare gaze | — | [[ANRE — Ordin 98-2015 Autorizare gaze (notă)]] | notă only |
-| Ord. 60/2025 + 73/2025 + 10/2026 — tarife SS/ITC | — | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] | notă only; SS **14,70** from 2026 |
+| Ord. 60/2025 + 73/2025 + 10/2026 — tarife SS/ITC | — | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] | notă + snapshot; SS **14,70** from 2026 |
+
+### Batch B core — ingested 2026-08-05
+
+| Item | Text | Analysis | Status |
+|---|---|---|---|
+| Regulament racordare (Ord. 59/2013) | [[ANRE — Regulament racordare EE 2013 (text)]] | [[ANRE — Regulament racordare EE 2013 (notă)]] | ✅ portal 160289 |
+| Regulament furnizare (Ord. 5/2023) | [[ANRE — Regulament furnizare EE 2023 (text)]] | [[ANRE — Regulament furnizare EE 2023 (notă)]] | ✅ portal 264611 |
+| Metodologii tarifare (67/68/116/96/51) | [[ANRE — Metodologie tarife transport EE 2024 (text)]] et al. | [[ANRE — Metodologii tarifare EE (notă)]] | ✅ |
+| Norme stocare BESS (Ord. 56/2025) | [[ANRE — Norme stocare BESS 2025 (text)]] | [[ANRE — Norme stocare BESS 2025 (notă)]] | ✅ |
+| Tarife 2026 TG/TL/TD (74/76/77) | [[ANRE — Ordin 74-2025 Tarife transport EE (text)]] · [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]] · [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] | ✅ |
+| Cotă CV 2026 (Ord. 81/2025) | [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)]] | [[Concept — Certificat verde]] | ✅ |
 
 ### HG — CfD framework
 
@@ -92,12 +110,10 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 |---|---|
 | `307058` — L123 consolidat | Source for working text |
 | `98742` — L220 consolidat | Source for working text |
-| `264610` — Ord. 5/2023 furnizare (SOAP) | **Not converted** — currency-check then ingest |
+| `source-portal/` — Batch B (16 acts) | See [[SOURCE INDEX]] → `10 Acte normative/` |
 | `257158` / `195958` — OUG 33/2007 | ANRE organic law |
 | Truncated CF/CPF (`311622`, `309359`, `307010`) | Pending Batch A re-ingest |
-
-> [!note] Missing dump
-> Checklist references `150711` (Ord. 59/2013 racordare) — **file not in repo**; must be downloaded.
+| `264610` — mislabeled dump | **Do not use** — contains Cod fiscal; use **264611** for furnizare |
 
 ---
 
@@ -146,32 +162,36 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 
 ---
 
+## Done — Batch B analysis integration (2026-08-05)
+
+- [[SOURCE INDEX]] rebuilt as portal dump → working text map
+- [[Currency ledger]] — 16 Batch B rows **current**
+- [[Download checklist — Batch B ANRE]] — core items checked
+- New `— notă` companions: racordare, furnizare, OUG 134/143, BESS norme, metodologii index
+- Wired into [[MOC — Energetică]] · concepts · [[Energetică — sinteza sectorului]] · [[_Energy Investment Due Diligence Index]]
+
+---
+
 ## Next — Energy (retrievable)
 
-Normative sources available from **Portal Legislativ**, **ANRE**, **OPCOM**, or **Transelectrica** public sites. Drop into `99 Attachments/source-anre/` or `source-opcom/` then ingest.
+Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM**, or **Transelectrica** public sites.
 
-### A. Batch B core — normative Ordine (high priority)
+### A. Batch B remainder — normative Ordine
 
 | Act | Why | Retrieve from |
 |---|---|---|
-| **Ord. 59/2013** (+ consolidations) — racordare EE | ATR, connection charges, reinforcement | Portal / ANRE — dump `150711` **missing from repo** |
-| **Ord. 5/2023** — furnizare EE | Metering, billing, supply switching | SOAP `264610` **in repo** → currency-check + convert |
 | **Electricity market rules** (current normative Ordin) | Balancing, scheduling, commercial rules post-2014 repeal | ANRE / portal |
 | **Electricity network code(s)** | Redispatch, curtailment compensation, technical requirements | ANRE |
-| **Tariff methodologies** Ord. **67/2024** (distribuție), **68/2024** (transport), **116/2022** (SS) | Explain TG/TL/SS/TD building blocks | ANRE PDFs |
-| **GC stack** — Ord. **96/2022** (quota methodology), **81/2025** (2026 quota), issuance/billing Ordine | Legacy RES revenue/compliance | Portal / ANRE |
+| **Ord. 6/2025** — autorizare producție/stocare | BESS licensing procedure | Portal / ANRE |
+| Gas connection / supply / market regulamente | Title II L123 | ANRE / portal |
 
-### B. 2024–2026 market-design acts (retrievable from portal)
+### B. 2024–2026 acts still pending
 
 | Act | Why |
 |---|---|
-| **OUG 134/2024** — stocare | Parent law for Ord. 56/2025; definitions in L123 |
-| **OUG 143/2021** — Dir. 2019/944 | Clean Energy Package transposition into L123 |
 | **OUG 59/2025**, **OUG 80/2025** | Recent L123 amendments (check consolidare `307058`) |
-| **ANRE Ord. 6/2025** — autorizare producție/stocare | BESS licensing procedure |
-| **ANRE Ord. 56/2025** — norme stocare tarife | Full text for BESS note |
-| **ANRE Ord. 51/2024** + **Ord. 10/2025** — contribuție CfD | CfD levy mechanics |
-| **Tariff Ordine 73/2025, 74/2025, 76/2025, 77/2025** | Ingest alongside snapshot refresh |
+| **Ord. 51/2024** + **Ord. 10/2025** — contribuție CfD | CfD levy mechanics *(methodology ingested; amending Ordine TBD)* |
+| **Ord. 60/2025**, **10/2026** — SS / perimeter (text) | Analysis + snapshot exist |
 
 ### C. TSO / market operator procedures (retrievable from operator sites)
 
@@ -187,7 +207,7 @@ Normative sources available from **Portal Legislativ**, **ANRE**, **OPCOM**, or 
 
 | Note | Depends on |
 |---|---|
-| `Concept — Metodologii tarifare retea` | Ord. 67/68/116 ingest |
+| `Concept — Metodologii tarifare retea` | ✅ [[ANRE — Metodologii tarifare EE (notă)]] — deepen article links |
 | `Concept — Agregare` | Market rules + L123 art. 3 / art. 10 |
 | `Concept — CfD mecanism` (beyond existing HG/Ord. 52 notes) | Ord. 1290/2024, auction results |
 | Expand [[Concept — Curtailment si redispatch RES]] with network-code articles | Network code ingest |
@@ -212,7 +232,7 @@ Normative sources available from **Portal Legislativ**, **ANRE**, **OPCOM**, or 
 | L123 **post–Feb 2026 consolidare** if portal moves before next pull | Re-check `307058` |
 | **Cod fiscal / CPF** full 2026 consolidare | Portal HTTPS / ~1 MB WebFetch truncation → manual PDF ([[Download checklist — Batch A currency]]) |
 | **Gas network code / gas market rules** (Title II L123) | Lower priority; same Batch B pattern |
-| **OUG 163/2022** full text | Note only; portal ingest pending |
+| **OUG 163/2022** full text | ✅ ingested — [[OUG 163-2022 — promovare energie regenerabila (text)]] |
 | **Crisis OUGs** (27/2022 lineage — windfall, price caps) | Needed for retail/intervention DD; scattered amendments |
 
 ### Operator-specific (retrieve when advising named client)

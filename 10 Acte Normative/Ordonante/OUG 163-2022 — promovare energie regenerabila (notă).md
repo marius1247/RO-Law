@@ -9,14 +9,15 @@ tags: [act-note, analysis, OUG, RED-II, comunități-energie, PPA]
 status: draft
 mo_publicare: "MO nr. 1165 / 06.12.2022"
 source_pdf: null
-source_missing: true
+source_missing: false
+updated: 2026-08-05
 created: 2026-07-27
 ---
 
-**Act:** OUG nr. 163/29.11.2022 (incl. amendments via OUG 59/2025 as analysed) · **Hub:** [[MOC — Energetică]] · **Amends:** [[Legea 220-2008 — promovare energie regenerabila (notă)]] · **Downstream:** [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · **EU:** [[Dir 2023-2413 — RED III (notă)]] / RED II
+**Act:** OUG nr. 163/29.11.2022 (incl. amendments via OUG 59/2025 as analysed) · **Text:** [[OUG 163-2022 — promovare energie regenerabila (text)]] · **Hub:** [[MOC — Energetică]] · **Amends:** [[Legea 220-2008 — promovare energie regenerabila (notă)]] · **Downstream:** [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · **EU:** [[Dir 2023-2413 — RED III (notă)]] / RED II
 
-> [!warning] Original missing in this batch
-> No source PDF/Portal dump was uploaded with this summary. Analysis only until the consolidare is ingested (Portal → `99 Attachments/source-portal/` → `— text`).
+> [!note] Working text ingested
+> Portal SOAP dump **262191** → [[OUG 163-2022 — promovare energie regenerabila (text)]]. Verify OUG 59/2025 amendments against L220 consolidare before advising.
 
 # Memoriu Juridic — OUG nr. 163/2022 privind Promovarea Energiei din Surse Regenerabile
 

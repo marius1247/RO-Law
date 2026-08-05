@@ -38,7 +38,7 @@ Each stage carries **regulated maximum time limits** — the most practically us
 
 ## Governing provisions
 - [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]] — enabling articles (EE / gas titles)
-- **ANRE Ordin 59/2013** (+ amendments) — electricity connection *(Batch B — SOAP `150711`)*
+- **ANRE Ordin 59/2013** (+ amendments) — electricity connection → [[ANRE — Regulament racordare EE 2013 (text)|Regulament racordare]] · [[ANRE — Regulament racordare EE 2013 (notă)|notă]]
 - Parallel gas connection Ordine *(to map)*
 - Network codes — technical requirements at the connection point
 

@@ -49,7 +49,7 @@ Romania kept electricity and gas in **one statute**; Moldova split them and then
 ## 4. Four regulatory problems the sector is organised around
 
 ### 4.1 Natural monopoly → regulated tariffs
-Transmission and distribution cannot be duplicated. ANRE publishes a **methodology** (normative), then applies it in individual tariff decisions (out of scope). Methodologies are the durable layer — Batch B priority. → tariff concepts in MOC
+Transmission and distribution cannot be duplicated. ANRE publishes a **methodology** (normative), then applies it in individual tariff decisions (out of scope). Methodologies ingested — [[ANRE — Metodologii tarifare EE (notă)]].
 
 ### 4.2 Vertical integration → unbundling
 Separate network activities from generation/supply. EU third/fourth-package ladder (accounting → functional → legal → ownership / ITO / ISO). Certification is the enforcement gate. → [[Concept — Unbundling]]
@@ -57,10 +57,10 @@ Separate network activities from generation/supply. EU third/fourth-package ladd
 ### 4.3 Entry → licensing and connection
 Two gates, often confused:
 - **Licence** — permission to *carry on the activity* → [[Concept — Licență în energetică]]
-- **Connection (*racordare*)** — attach a specific installation → [[Concept — Racordare la rețea]] (ANRE Ordin 59/2013 + amendments — Batch B)
+- **Connection (*racordare*)** — attach a specific installation → [[Concept — Racordare la rețea]] · [[ANRE — Regulament racordare EE 2013 (notă)|Ord. 59/2013 regulament]]
 
 ### 4.4 Universal service / exposed consumer → FUI
-Liberalisation needs a default supplier when the chosen one fails or the consumer never chooses. Romania’s label is **furnizor de ultimă instanță (FUI)**. → [[Concept — Furnizor de ultimă instanță]] · supply rules (Ordin 5/2023 — Batch B)
+Liberalisation needs a default supplier when the chosen one fails or the consumer never chooses. Romania’s label is **furnizor de ultimă instanță (FUI)**. → [[Concept — Furnizor de ultimă instanță]] · [[ANRE — Regulament furnizare EE 2023 (notă)|furnizare regulament]]
 
 ## 5. Renewables — green certificates (L220/2008)
 
@@ -84,11 +84,12 @@ Romania is **inside** the EU energy internal market. Electricity has moved with 
 
 1. **Version risk dominates.** Two-thirds of what binds a participant is ANRE-level and is amended continuously. → [[Currency ledger]]
 2. **OUGs rewrite the statute mid-year.** Always check whether a 2024–2026 OUG has moved the enabling article your Ordin cites.
-3. **Cod fiscal / CPF lag does not block energy advice — ANRE lag does.** Prioritise Batch B Ordine over tax consolidations for energy mandates.
+3. **Cod fiscal / CPF lag does not block energy advice — market rules / network codes still pending.** Core Batch B connection, supply, methodologies, and 2024–2026 OUGs are ingested.
 4. **Individual Decizii are out of scope** by design (same rule as MD HANRE ingestion). Cite the methodology / regulation, then pull the live Decizie from ANRE when advising a specific tariff or licence.
 
 ## 8. Open threads
-- Ingest Batch B normative Ordine: racordare, furnizare, piețe, network codes, tariff methodologies, GC → [[Download checklist — Batch B ANRE]]
+- Complete Batch B remainder: electricity/gas **market rules**, **network codes**, Ord. **6/2025**
+- ~~Ingest Batch B core: racordare, furnizare, metodologii, OUG 134/143/163, BESS norme, 2026 tariffs~~ → **done 2026-08-05**
 - ~~Producer cost stack / BESS / PRE / curtailment synthesis~~ → **done 2026-08-05** — see [[Concept — Cost stack producator energie]], [[Tarife retea — snapshot 2026]]
 - Deepen [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123 notă]] and [[Legea 220-2008 — promovare energie regenerabila (notă)|L220 notă]]
 - Map post-2022 market-design OUGs into the cascade table

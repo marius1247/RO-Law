@@ -25,7 +25,7 @@ Led by a president (and board structure as amended). Annual activity report to P
 | Layer | Status |
 |---|---|
 | Enabling: OUG 33/2007, L123, L220 | ✅ ingested |
-| Normative Ordine (racordare, furnizare, piețe, codes, methodologies, GC) | Batch B — [[Download checklist — Batch B ANRE]] |
+| Normative Ordine (racordare, furnizare, metodologii, GC, BESS, 2026 tariffs) | ✅ Batch B core ingested 2026-08-05 — [[Download checklist — Batch B ANRE]] |
 | Individual Decizii (licences, site tariffs) | **Out of scope** (same rule as MD) |
 
 ## Pattern worth noting

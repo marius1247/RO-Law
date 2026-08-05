@@ -151,7 +151,7 @@ See dedicated note [[Concept — BESS economics si tarifare stocare]]. Key point
 ## Governing provisions
 
 - [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 75|L123/2012 art. 75]] — price/tariff typology
-- Methodologies (Batch B — not yet ingested): Ord. 68/2024 (transport), 67/2024 (distribution), 116/2022 (system services)
+- Methodologies (ingested): [[ANRE — Metodologie tarife transport EE 2024 (text)|Ord. 68/2024 transport]] · [[ANRE — Metodologie tarife distributie EE 2024 (text)|Ord. 67/2024 distribution]] · [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022 SS]] — index [[ANRE — Metodologii tarifare EE (notă)]]
 - Snapshot values: [[Tarife retea — snapshot 2026]] · [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]]
 
 ## Related

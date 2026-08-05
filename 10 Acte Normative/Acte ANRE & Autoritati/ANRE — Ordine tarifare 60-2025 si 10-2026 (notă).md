@@ -7,15 +7,14 @@ domeniu: [energetică, tarife, transport]
 tags: [act-note, analysis, ANRE, tarif, servicii-de-sistem, ITC, țări-perimetrice]
 status: draft
 source_pdf: null
-source_missing: true
-created: 2026-07-27
+source_missing: false
 updated: 2026-08-05
 ---
 
-**Acts:** Ordinul ANRE nr. 60/26.08.2025 · Ordinul ANRE nr. 73/16.12.2025 (SS from 2026) · Ordinul ANRE nr. 10/05.05.2026 · **Hub:** [[MOC — Energetică]] · **Live table:** [[Tarife retea — snapshot 2026]] · **Authority:** [[ANRE]]
+**Acts:** Ordinul ANRE nr. 60/26.08.2025 · Ordinul ANRE nr. 73/16.12.2025 (SS from 2026) · Ordinul ANRE nr. 10/05.05.2026 · **Hub:** [[MOC — Energetică]] · **Live table:** [[Tarife retea — snapshot 2026]] · **Texts (2026 tariffs):** [[ANRE — Ordin 74-2025 Tarife transport EE (text)]] · [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]] · [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]] · **Methodologies:** [[ANRE — Metodologii tarifare EE (notă)]] · **Authority:** [[ANRE]]
 
-> [!warning] Originals missing in this batch
-> Neither Ord. 60/2025 nor Ord. 10/2026 PDF was uploaded with this summary. Analysis only until texts are dropped into `99 Attachments/source-anre/`.
+> [!note] Partial text ingest
+> **TG/TL/TD 2026** Ordine ingested (74/76/77/2025). Ord. **60/2025** and **10/2026** remain analysis-only until PDF/portal ingest; values reflected in [[Tarife retea — snapshot 2026]].
 
 # Memoriu Juridic Consolidat — Ordinele Tarifare ANRE: Ord. 60/2025 și Ord. 10/2026
 
@@ -83,4 +82,4 @@ Variație: **+14,93%** vs. Sep–Dec 2025 rate (Transelectrica investor notice, 
 - SS, ITC perimeter, TG/TL, and DSO TD tariffs are **separate Ordine** — never assume one MO issue covers the full producer stack.
 - SS Ordine (60/2025 → 73/2025) show **intra-year volatility**; transport Ordine (74/2025) typically refresh annually.
 - Pentru due diligence: start from [[Tarife retea — snapshot 2026]] → verify live ANRE before billing advice.
-- Full transport/distribuție Ordine **74/2025, 76/2025, 77/2025** remain Batch B ingestion targets (`99 Attachments/source-anre/`).
+- Full transport/distribuție Ordine **74/2025, 76/2025, 77/2025** ingested — see links above and [[Tarife retea — snapshot 2026]].

@@ -36,7 +36,7 @@ Often the same undertaking discharges both — different triggers, different leg
 
 ## Governing provisions
 - [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]] — FUI / public-service provisions (EE and gas titles)
-- **ANRE Ordin 5/2023** — electricity supply *(Batch B — SOAP `264610`)*
+- **ANRE Ordin 5/2023** — electricity supply → [[ANRE — Regulament furnizare EE 2023 (text)|Regulament furnizare]] · [[ANRE — Regulament furnizare EE 2023 (notă)|notă]]
 - Parallel gas supply Ordine *(to map)*
 - Designation Decizii — individual; **out of ingestion scope** (pull live from ANRE when advising)
 

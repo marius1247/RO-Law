@@ -30,7 +30,7 @@ currency_as_of: 2026-01-01
 | **Distribution DEER** | ANRE Ord. **77/2025** |
 | **Perimeter cross-border** | ANRE Ord. **10/2026** (from 15 May 2026) |
 | **BESS storage exemption** | ANRE Ord. **56/2025** (~Jul 2025) |
-| **Methodologies (not ingested)** | Ord. 68/2024 (transport), 67/2024 (distribution), 116/2022 (SS) |
+| **Methodologies (ingested)** | Ord. 68/2024 (transport), 67/2024 (distribution), 116/2022 (SS) — [[ANRE — Metodologii tarifare EE (notă)]] |
 
 ---
 

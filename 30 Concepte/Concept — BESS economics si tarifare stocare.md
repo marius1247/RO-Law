@@ -12,7 +12,7 @@ updated: 2026-08-05
 
 **RO:** stocarea energiei electrice · **EN:** battery energy storage / BESS economics
 
-Practitioner note on **Romanian BESS tariff treatment** after **OUG 134/2024** and **ANRE Ord. 56/2025** (Norme metodologice privind scutirea de la plata tarifelor reglementate pentru energia electrică stocată). Parent cost map → [[Concept — Cost stack producator energie]].
+Practitioner note on **Romanian BESS tariff treatment** after **[[OUG 134-2024 — stocare energie electrica (notă)|OUG 134/2024]]** and **[[ANRE — Norme stocare BESS 2025 (notă)|ANRE Ord. 56/2025]]** (Norme metodologice privind scutirea de la plata tarifelor reglementate pentru energia electrică stocată). Parent cost map → [[Concept — Cost stack producator energie]].
 
 > [!info] Policy intent
 > Eliminate **double taxation** of energy cycled through storage: previously, grid withdrawal (charge) and re-injection (discharge) each triggered full use-of-system stacks — making standalone BESS uneconomic relative to EU peers.
@@ -20,9 +20,9 @@ Practitioner note on **Romanian BESS tariff treatment** after **OUG 134/2024** a
 ## Legal cascade
 
 ```
-OUG 134/2024 (Nov 2024) — storage definitions & tariff policy in L123
+[[OUG 134-2024 — stocare energie electrica (text)|OUG 134/2024]] (Nov 2024) — storage definitions & tariff policy in L123
     ↓
-ANRE Ord. 56/2025 (MO; aplicabil ~10 iulie 2025)
+[[ANRE — Norme stocare BESS 2025 (text)|ANRE Ord. 56/2025]] (MO; aplicabil ~10 iulie 2025)
     ↓
 Operatori de rețea — aplicare scutiri + raportare cantități stocate
 ```
@@ -113,10 +113,9 @@ Due diligence: confirm **metering architecture** (separate charge/discharge mete
 
 ## Open gaps (vault)
 
-- Full text **Ord. 56/2025** not ingested — summary only in this note
 - **Ord. 6/2025** authorisation procedure — missing
-- **OUG 134/2024** — no dedicated act note (definitions live in L123 consolidare)
-- Network-code provisions on storage prequalification — Batch B
+- Network-code provisions on storage prequalification — Batch B remainder
+- Permanent cost–benefit storage tariff methodology (post-interim Ord. 56/2025) — pending ANRE
 
 ## Related
 

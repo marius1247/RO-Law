@@ -3,7 +3,7 @@ title: "Home — Legislația României"
 type: home
 tags: [home, index]
 created: 2026-07-26
-updated: 2026-07-28
+updated: 2026-08-05
 ---
 
 # Legislația României
@@ -58,6 +58,10 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 - [[Tarife retea — snapshot 2026]] — regulated network tariff snapshot (producers)
 - [[_M&A Regulatory Compliance Checklist]] — competition, tax, HR, sectoral licensing
 - [[_Regulatory Risk & Litigation Matrix]] — forums, appeals, suspension mechanisms
+
+## Batch B — energy normative (ingested 2026-08-05)
+
+Racordare · furnizare · metodologii tarifare · OUG 134/143/163 · BESS norme · 2026 tariff Ordine — see [[MOC — Energetică]] · [[Currency ledger]] · [[SOURCE INDEX]].
 
 ## Sectoral analysis (text pending ingestion)
 | Act | Analysis |

@@ -69,7 +69,7 @@ Practical consequence: storage, aggregation and trading are inside the RO licens
 - **[[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 148|Art. 148]]** — Regulated connection to upstream pipelines, transmission, LNG, distribution. Eligible applicants for upstream/TSO connection include distribution concessionaires, large industrial customers (>100,000 MWh/year), licensed distributors, gas producers, **biomethane producers**, etc. Non-household applicants must keep destination for 5 years or repay connection costs (art. 148(4)–(5)). Refusal grounds → arts. 149–150; financing of extensions → art. 151 (biomethane producers bear injection/connection costs under art. 151(1³)).
 
 ## How it connects
-- Implemented by: ANRE Ordine (Batch B — pending)
+- Implemented by: ANRE Ordine — racordare [[ANRE — Regulament racordare EE 2013 (notă)]], furnizare [[ANRE — Regulament furnizare EE 2023 (notă)]], metodologii [[ANRE — Metodologii tarifare EE (notă)]]; market rules / network codes still pending
 - Cross-vault: `EU Law/`, Moldovan L164/2025 & L108/2016
 
 ### EU instruments (path-style)
