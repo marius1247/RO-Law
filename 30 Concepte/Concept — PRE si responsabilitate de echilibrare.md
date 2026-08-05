@@ -132,14 +132,22 @@ See [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] — steps 2 and 5 in
 | Element | Detail |
 |---|---|
 | **Balancing market operator** | **Transelectrica** (not OPCOM) |
-| **Settlement interval** | **15-minute** (EU harmonisation path) |
-| **Price formation** | Single-price imbalance settlement — beneficial vs. penalising imbalance depending on system direction |
+| **Settlement interval** | **15-minute** ISP — [[Concept — Decontare dezechilibre 15 minute]] |
+| **Price formation** | Single-price imbalance per ISP — marginal PE clearing price (or PZU fallback) |
 | **Schedule horizon** | Day-ahead (OPCOM PZU / bilateral) + intraday adjustments → real-time balance |
-| **Cost driver** | Forecast error, outages, curtailment without schedule update |
+| **Cost driver** | Forecast error, outages, curtailment without schedule update, FCR net energy |
 
 Imbalance is **not a fixed lei/MWh tariff** — it is the difference between contracted/scheduled position and metered quantity, valued at balancing energy prices. Highly volatile; 2025 saw sharp swings from prosumers, hydro, and supplier forecast quality (Transelectrica quarterly reports).
 
-System services tariff (**SS 14,70 lei/MWh** from Jan 2026) funds **collective** system-service costs — separate from individual PRE imbalance cash flows.
+**Three separate cost layers** — do not conflate:
+
+| Layer | Mechanism | Note |
+|---|---|---|
+| SS tariff | Flat **14,70 lei/MWh** (Jan 2026) on extraction | Collective PCE cost recovery — [[Concept — Servicii de sistem si tariful SS]] |
+| PE activations | Variable marginal price per 15-min ISP | aFRR/mFRR energy — [[Concept — PE — piata energiei de echilibrare]] |
+| PRE imbalance | Same marginal price × your deviation | [[Concept — Decontare dezechilibre 15 minute]] |
+
+Full market architecture: [[Piețe de echilibrare — sinteza]] · [[MOC — Piețe de echilibrare]]
 
 ---
 
@@ -172,7 +180,7 @@ System services tariff (**SS 14,70 lei/MWh** from Jan 2026) funds **collective**
 
 ## Related
 
-[[Concept — Cost stack producator energie]] · [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] · [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)]] · [[MOC — Energetică]]
+[[Concept — Cost stack producator energie]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — PE — piata energiei de echilibrare]] · [[MOC — Piețe de echilibrare]] · [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] · [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)]] · [[MOC — Energetică]]
 
 ## Notes / conclusions
 

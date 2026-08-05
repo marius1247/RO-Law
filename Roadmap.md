@@ -142,6 +142,7 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 | [[Concept — BESS economics si tarifare stocare]] | Ord. 56/2025 *(2026-08-05)* |
 | [[Concept — PRE si responsabilitate de echilibrare]] | BRP onboarding *(2026-08-05)* |
 | [[Concept — Curtailment si redispatch RES]] | RES constraint risk *(2026-08-05)* |
+| **Balancing markets cluster** *(2026-08-05)* | [[MOC — Piețe de echilibrare]] · [[Piețe de echilibrare — sinteza]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]] · [[Concept — FCR — operare si constrangeri]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — BESS revenue stacking]] · [[Concept — EMS BESS moduri operationale]] |
 
 ### Authorities (`60 Autorități & Instituții/`)
 
@@ -149,7 +150,7 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 
 ### MOCs (`50 MOCs/`)
 
-- [[MOC — Energetică]] · [[MOC — Fiscalitate]] · [[MOC — Societăți & Guvernanță]] · [[00 - Index general]]
+- [[MOC — Energetică]] · [[MOC — Piețe de echilibrare]] · [[MOC — Fiscalitate]] · [[MOC — Societăți & Guvernanță]] · [[00 - Index general]]
 
 ---
 
@@ -162,6 +163,14 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 - [[Tarife retea — snapshot 2026]] — live 2026 tariff table (verify-before-advice)
 - Updated [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] — Ord. 73/2025 SS **14,70 lei/MWh**
 - Wired into [[MOC — Energetică]] · [[_Energy Investment Due Diligence Index]] · [[Home]]
+
+## Done — Balancing markets knowledge layer (2026-08-05)
+
+- [[Piețe de echilibrare — sinteza]] — PCE/PE/SS/IBS architecture
+- [[MOC — Piețe de echilibrare]] — navigation hub
+- 7 concept notes (SS tariff, PCE, PE, FCR, IBS, BESS stacking, EMS modes)
+- Act stubs: [[ANRE — Ordin 127-2021 Piata echilibrare (notă)]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)]] — **text ingest still pending**
+- Cross-linked PRE, BESS, cost stack, DD index, Ord. 73/2025 analysis
 
 ---
 
@@ -183,7 +192,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 
 | Act | Why | Retrieve from |
 |---|---|---|
-| **Electricity market rules** (current normative Ordin) | Balancing, scheduling, commercial rules post-2014 repeal | ANRE / portal |
+| **Electricity market rules** (current normative Ordin) | Balancing, scheduling, commercial rules post-2014 repeal | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] — analysis stub ✅; **text ingest** pending |
 | **Electricity network code(s)** | Redispatch, curtailment compensation, technical requirements | ANRE |
 | **Ord. 6/2025** — autorizare producție/stocare | BESS licensing procedure | Portal / ANRE |
 | Gas connection / supply / market regulamente | Title II L123 | ANRE / portal |
@@ -201,7 +210,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 | Source | Why |
 |---|---|
 | Transelectrica — **PRE/BRP** registration, Balancing Agreement, collateral procedure | Operationalise [[Concept — PRE si responsabilitate de echilibrare]] |
-| Transelectrica — **balancing market** / redispatch rules | Imbalance pricing; curtailment compensation detail |
+| Transelectrica — **balancing market** / redispatch rules | Imbalance pricing; curtailment compensation detail | Analysis: [[Piețe de echilibrare — sinteza]]; Ord. 127/213 text ingest pending |
 | OPCOM — **PO-PZU Rev.7**, **PI-SIDC**, settlement procedures (full text ingest) | Complement existing notă-only OPCOM set |
 | OPCOM — **trading fee schedules** | Complete producer cost stack |
 | Ministerul Energiei — **Ord. 1290/2024** CfD auction rules | CfD DD |

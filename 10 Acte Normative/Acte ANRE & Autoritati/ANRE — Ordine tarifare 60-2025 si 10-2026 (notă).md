@@ -34,9 +34,13 @@ Ordinul este un act tarifar simplu, cu patru articole operative, care fixează v
 | C.N.T.E.E. Transelectrica S.A. | 12,79 |
 
 ### Semnificație Juridico-Economică
-"Serviciile de sistem" reprezintă costurile suportate de operatorul de transport (Transelectrica) pentru asigurarea echilibrului tehnic al Sistemului Electroenergetic Național (rezerve de reglaj, servicii de echilibrare achiziționate de la producători/agregatori). Acest tarif este unul dintre componentele tarifare reglementate suportate indirect de toți consumatorii finali prin structura tarifului de transport, distinct de tariful pentru serviciul de transport propriu-zis (reglementat separat prin Ordinele ANRE 67/2024 și 68/2024, menționate ca referință în Metodologia indicatorilor de performanță).
+"Serviciile de sistem" reprezintă costurile suportate de operatorul de transport (Transelectrica) pentru asigurarea echilibrului tehnic al SEN — în principal **rezerve de capacitate** (FCR, aFRR, mFRR) achiziționate pe **Piața Capacităților de Echilibrare (PCE)**. Acest tarif este unul dintre componentele tarifare reglementate suportate de participanții la piață (furnizori, utilizatori de rețea), distinct de:
+- tariful de transport propriu-zis (TG/TL — Ord. 74/2025);
+- **energia de echilibrare** activată în timp real — decontată separat prin mecanismul PRE / IBS ([[Concept — Decontare dezechilibre 15 minute]]).
 
-**Observație de practică:** frecvența ridicată a actualizărilor (Ordinul 21/2025 aplicat doar din 1 iunie 2025, înlocuit deja din 1 septembrie 2025) indică o metodologie de recalibrare trimestrială/semestrială a acestui tarif, corelată probabil cu evoluția costurilor de achiziție a serviciilor de echilibrare pe piața angro — un element de volatilitate contractuală pe care furnizorii trebuie să îl repercuteze corect în structura tarifară către consumatorii finali.
+→ Analiză completă: [[Concept — Servicii de sistem si tariful SS]] · [[Piețe de echilibrare — sinteza]]
+
+**Observație de practică:** frecvența ridicată a actualizărilor (Ordinul 21/2025 aplicat doar din 1 iunie 2025, înlocuit deja din 1 septembrie 2025) indică o metodologie de recalibrare trimestrială/semestrială a acestui tarif, corelată cu evoluția costurilor de achiziție a capacităților de echilibrare — un element de volatilitate contractuală pe care furnizorii trebuie să îl repercuteze corect în structura tarifară către consumatorii finali.
 
 > [!info] Superseded for 2026
 > From **1 January 2026**, Ord. 60/2025 SS rate is replaced by **Ord. 73/2025** — see Section I-b below. Practitioner snapshot: [[Tarife retea — snapshot 2026]].

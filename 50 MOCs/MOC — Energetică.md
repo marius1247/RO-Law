@@ -19,6 +19,7 @@ Domain hub for the **energy sector**. Romania is an **EU Member State** (not Ene
 - **[[Energetică — sinteza sectorului]]**
 - Act companions: [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220/2008]] · [[OUG 163-2022 — promovare energie regenerabila (notă)|OUG 163/2022]] · [[OUG 134-2024 — stocare energie electrica (notă)|OUG 134/2024]] · [[OUG 143-2021 — Directiva 2019-944 energie (notă)|OUG 143/2021]]
 - Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
+- **Balancing markets:** [[MOC — Piețe de echilibrare]] · [[Piețe de echilibrare — sinteza]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — BESS revenue stacking]]
 - Currency: [[Currency ledger]]
 
 ## The implementation chain
@@ -58,6 +59,7 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)\|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)\|text]] (portal **264611**) |
 | Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)\|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)\|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |
 | GC quota / methodologies | [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Certificat verde]] | ✅ Ord. **96/2022** methodology · **81/2025** 2026 quota text |
+| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piețe de echilibrare]] · texts pending ingest |
 | Piețe / coduri rețea | Pending | Checklist: [[Download checklist — Batch B ANRE]] |
 
 ## OPCOM market procedures (OPEED)

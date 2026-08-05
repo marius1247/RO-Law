@@ -30,7 +30,7 @@ Injection / withdrawal at metering point
     └── OPCOM / trading — guarantees, fees (if on organised markets)
 ```
 
-Cross-links: [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]] · [[_Energy Investment Due Diligence Index]]
+Cross-links: [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — Curtailment si redispatch RES]] · [[MOC — Piețe de echilibrare]] · [[_Energy Investment Due Diligence Index]]
 
 ---
 
@@ -56,6 +56,8 @@ All rates below **excluding VAT**, **from 1 January 2026** unless noted.
 | **From 1 Jan 2026** | **14,70** | Ord. 73/2025 |
 
 Payable on injected energy (same base as TG for merchant producers). BESS re-injection exempt — see [[Concept — BESS economics si tarifare stocare]].
+
+> **What SS is / is not:** collective pass-through for PCE capacity procurement — **not** the balancing energy price for individual PRE deviations. → [[Concept — Servicii de sistem si tariful SS]]
 
 ### 1.3 Distribution — **TD** (DSO-specific, voltage-specific)
 
@@ -114,7 +116,7 @@ Use for **order-of-magnitude** modelling only — confirm DSO and delimitation v
 |---|---|---|
 | **ANRE licence / authorisation fees** | Producer SPV | [[Concept — Licență în energetică]]; >1 MW generation/storage |
 | **PRE/BRP registration** | Producer or delegated BRP | Collateral to Transelectrica — [[Concept — PRE si responsabilitate de echilibrare]] |
-| **Imbalance settlement** | PRE | Variable; 15-minute settlement; no fixed lei/MWh |
+| **Imbalance settlement** | PRE | Variable; 15-minute ISP; marginal PE price — [[Concept — Decontare dezechilibre 15 minute]] |
 | **OPCOM registration** | Market participant | [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] |
 | **OPCOM SGB (guarantees)** | PZU/PI participant | Bank guarantee — [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]]; amount portfolio-specific |
 | **OPCOM trading / settlement fees** | Participant | Published on OPCOM site per product segment |

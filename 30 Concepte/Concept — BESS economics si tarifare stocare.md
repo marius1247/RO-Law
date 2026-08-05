@@ -89,7 +89,7 @@ Market participation:
 - **OPCOM registration** if using PZU/IDM — [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]]
 - **CfD contribution** — storage operators supplying own/consumers added as plătitori (Ord. 71/2025 amending Ord. 52/2024) — [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]]
 
-Balancing / ancillary revenue: prequalification rules for BESS as BSP still evolving; cross-market optimisation (DA/ID/aFRR/mFRR) is merchant opportunity but **regulatory access to reserve markets** depends on network codes (Batch B remainder).
+Balancing / ancillary revenue: BESS as BSP on PCE/PE — [[Concept — BESS revenue stacking]] · [[Concept — EMS BESS moduri operationale]] · [[MOC — Piețe de echilibrare]]. Ord. 127/2021 text still pending ingest; qualification is Transelectrica technical tests.
 
 ---
 
@@ -119,7 +119,7 @@ Due diligence: confirm **metering architecture** (separate charge/discharge mete
 
 ## Related
 
-[[Concept — Cost stack producator energie]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Tarife retea — snapshot 2026]] · [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] · [[MOC — Energetică]]
+[[Concept — Cost stack producator energie]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — BESS revenue stacking]] · [[Concept — EMS BESS moduri operationale]] · [[Tarife retea — snapshot 2026]] · [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] · [[MOC — Energetică]] · [[MOC — Piețe de echilibrare]]
 
 ## Notes / conclusions
 

@@ -19,6 +19,7 @@ updated: 2026-07-28
 
 ## Domain hubs
 - [[MOC — Energetică]] — [[Energetică — sinteza sectorului]]
+- [[MOC — Piețe de echilibrare]] — [[Piețe de echilibrare — sinteza]]
 - [[MOC — Societăți & Guvernanță]] — [[Societăți & guvernanță — sinteza]]
 - [[MOC — Fiscalitate]] — [[Fiscalitate — sinteza sistemului fiscal]]
 
