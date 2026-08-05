@@ -55,6 +55,7 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 
 ## Cross-disciplinary indexes (RAG hubs)
 - [[_Energy Investment Due Diligence Index]] — RES / conventional energy DD pipeline
+- [[Tarife retea — snapshot 2026]] — regulated network tariff snapshot (producers)
 - [[_M&A Regulatory Compliance Checklist]] — competition, tax, HR, sectoral licensing
 - [[_Regulatory Risk & Litigation Matrix]] — forums, appeals, suspension mechanisms
 

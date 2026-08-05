@@ -89,6 +89,7 @@ Romania is **inside** the EU energy internal market. Electricity has moved with 
 
 ## 8. Open threads
 - Ingest Batch B normative Ordine: racordare, furnizare, piețe, network codes, tariff methodologies, GC → [[Download checklist — Batch B ANRE]]
+- ~~Producer cost stack / BESS / PRE / curtailment synthesis~~ → **done 2026-08-05** — see [[Concept — Cost stack producator energie]], [[Tarife retea — snapshot 2026]]
 - Deepen [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123 notă]] and [[Legea 220-2008 — promovare energie regenerabila (notă)|L220 notă]]
 - Map post-2022 market-design OUGs into the cascade table
 - Cross-link concrete EU instruments in `EU Law/`

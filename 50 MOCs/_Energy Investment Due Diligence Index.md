@@ -3,7 +3,7 @@ title: "_Energy Investment Due Diligence Index"
 type: moc
 tags: [moc, index, due-diligence, energetică, RAG]
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-05
 ---
 
 # Master Index: Energy Investment & Development Due Diligence
@@ -20,7 +20,7 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 | **1. Land & grid permitting** | ATR validity; reinforcement costs; EIA & AIM | [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|L123/2012]] · [[OUG 195-2005 — protectia mediului (notă)\|OUG 195/2005]] |
 | **2. Offtake & subsidies** | CfD strike price; levy & framework contracts; corporate PPAs | [[HG 318-2024 — cadru general CfD (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|L123/2012]] |
 | **3. Corporate & tax** | IMCA; dividend WHT; e-Factura | [[Codul fiscal 227-2015 (notă)]] · [[Legea 21-1996 — concurenta (notă)\|L21/1996]] |
-| **4. Market access** | Wholesale code; OPCOM registration; energy communities | [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)]] · [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] |
+| **4. Market access & operating costs** | PRE/BRP; network tariffs; BESS; curtailment; OPCOM | [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — Curtailment si redispatch RES]] |
 
 ## 1. Grid access & market integration
 
@@ -44,8 +44,21 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 
 - Acquisition of RES SPVs may trigger [[Legea 21-1996 — concurenta (notă)|L21/1996]] notification — see [[_M&A Regulatory Compliance Checklist]].
 
+## 5. Market access & operating costs
+
+- **PRE / BRP:** Confirm Balancing Agreement with Transelectrica or valid delegation — [[Concept — PRE si responsabilitate de echilibrare]].
+- **Network cost stack:** Model TG + SS + TD by delimitation voltage — [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]].
+- **BESS:** Verify Ord. 56/2025 exemption scope on charge/discharge legs — [[Concept — BESS economics si tarifare stocare]].
+- **Curtailment:** PPA + scheme + PRE schedule alignment — [[Concept — Curtailment si redispatch RES]].
+- **OPCOM registration:** [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · energy communities [[ANRE — Ordin 9-2026 Comunitati energie (notă)]].
+
 ## Direct cross-links
 
+- [[Concept — Cost stack producator energie]]
+- [[Tarife retea — snapshot 2026]]
+- [[Concept — BESS economics si tarifare stocare]]
+- [[Concept — PRE si responsabilitate de echilibrare]]
+- [[Concept — Curtailment si redispatch RES]]
 - [[Legea 123-2012 — energia electrica si gazele naturale (notă)]]
 - [[HG 318-2024 — cadru general CfD (notă)]]
 - [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]]

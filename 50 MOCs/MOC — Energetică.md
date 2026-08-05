@@ -17,7 +17,7 @@ Domain hub for the **energy sector**. Romania is an **EU Member State** (not Ene
 ## Analysis layer
 - **[[Energetică — sinteza sectorului]]**
 - Act companions: [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220/2008]]
-- Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]]
+- Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
 - Currency: [[Currency ledger]]
 
 ## The implementation chain
@@ -50,7 +50,7 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | Forward markets | [[ANRE — Ordin 134-2022 Piata termen (notă)\|Ord. 134/2022]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)\|Ord. 12/2023]] ✅ | General rules + OPCOM regulation |
 | Energy communities | [[ANRE — Ordin 9-2026 Comunitati energie (notă)\|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)\|Ord. 50/2026]] ✅ | Wholesale/storage + national register |
 | Gas authorisation | [[ANRE — Ordin 98-2015 Autorizare gaze (notă)\|Ord. 98/2015]] ✅ | |
-| Tariffs (STS / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)\|Ord. 60/2025 + 10/2026]] | *(originals still missing — [[Vault notes]])* |
+| Tariffs (STS / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)\|Ord. 60/2025 + 73/2025 + 10/2026]] · [[Tarife retea — snapshot 2026]] | *(originals still missing — [[Download checklist — Batch B ANRE]])* |
 | Racordare EE | Ordin **59/2013** + amendments | SOAP dump `150711` exists |
 | Furnizare EE | Ordin **5/2023** | SOAP dump `264610` exists |
 | Piețe / coduri / GC | Planned | Checklist: [[Download checklist — Batch B ANRE]] |

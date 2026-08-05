@@ -9,9 +9,10 @@ status: draft
 source_pdf: null
 source_missing: true
 created: 2026-07-27
+updated: 2026-08-05
 ---
 
-**Acts:** Ordinul ANRE nr. 60/26.08.2025 + Ordinul ANRE nr. 10/05.05.2026 · **Hub:** [[MOC — Energetică]] · **Authority:** [[ANRE]]
+**Acts:** Ordinul ANRE nr. 60/26.08.2025 · Ordinul ANRE nr. 73/16.12.2025 (SS from 2026) · Ordinul ANRE nr. 10/05.05.2026 · **Hub:** [[MOC — Energetică]] · **Live table:** [[Tarife retea — snapshot 2026]] · **Authority:** [[ANRE]]
 
 > [!warning] Originals missing in this batch
 > Neither Ord. 60/2025 nor Ord. 10/2026 PDF was uploaded with this summary. Analysis only until texts are dropped into `99 Attachments/source-anre/`.
@@ -38,6 +39,27 @@ Ordinul este un act tarifar simplu, cu patru articole operative, care fixează v
 
 **Observație de practică:** frecvența ridicată a actualizărilor (Ordinul 21/2025 aplicat doar din 1 iunie 2025, înlocuit deja din 1 septembrie 2025) indică o metodologie de recalibrare trimestrială/semestrială a acestui tarif, corelată probabil cu evoluția costurilor de achiziție a serviciilor de echilibrare pe piața angro — un element de volatilitate contractuală pe care furnizorii trebuie să îl repercuteze corect în structura tarifară către consumatorii finali.
 
+> [!info] Superseded for 2026
+> From **1 January 2026**, Ord. 60/2025 SS rate is replaced by **Ord. 73/2025** — see Section I-b below. Practitioner snapshot: [[Tarife retea — snapshot 2026]].
+
+## I-b. Ordinul ANRE nr. 73/2025 — Tariful SS de la 1 ianuarie 2026
+
+### Identificare
+- Emis: 16 decembrie 2025; Publicat: M.Of. nr. 1173/18.12.2025
+- Aplicabil de la: **1 ianuarie 2026**
+- Temei: art. 75, 76, 79 L123/2012; Metodologia SS (Ord. 116/2022)
+- Abrogă: componenta SS aplicabilă din Ord. 60/2025 pentru perioada post-31.12.2025
+
+### Conținut Normativ
+
+| Operator | Tarif SS (lei/MWh, fără TVA) | Prior (Ord. 60/2025) |
+|---|---:|---:|
+| C.N.T.E.E. Transelectrica S.A. | **14,70** | 12,79 (Sep–Dec 2025) |
+
+Variație: **+14,93%** vs. Sep–Dec 2025 rate (Transelectrica investor notice, Dec 2025).
+
+**Notă:** TG/TL/reactive for 2026 are set by sibling Ord. **74/2025** (same MO issue) — not duplicated here; consolidated in [[Tarife retea — snapshot 2026]].
+
 ## II. Ordinul ANRE nr. 10/2026 — Tariful pentru Schimburile de Energie Electrică cu Țările Perimetrice
 
 ### Identificare
@@ -57,7 +79,8 @@ Ordinul este un act tarifar simplu, cu patru articole operative, care fixează v
 
 **Notă tehnică pentru practicieni:** distincția între "țări perimetrice" (tarif ITC specific, ne-cuplat) și țările UE cuplate prin MRC/4M MC (fără tarif explicit de acest tip, capacitatea fiind alocată prin licitații/preț implicit conform metodologiei EUPHEMIA/PCR) este esențială pentru orice trader care structurează fluxuri de import/export la frontierele României. Modificarea anuală a acestui tarif (16/2025 → 10/2026, ambele cu aplicabilitate de la jumătatea lunii mai) sugerează un ciclu de recalibrare anual, coordonat probabil cu revizuirea anuală ITC la nivel ENTSO-E.
 
-## Observații Comune celor Două Ordine
-- Ambele sunt acte tarifare "simple" (4-5 articole operative, fără anexe normative complexe), tipice pentru deciziile de rutină ale ANRE de ajustare periodică a tarifelor reglementate.
-- Ambele urmează un tipar identic de structură: aprobare tarif (art. 1) → domeniu de aplicare (art. 2) → obligația operatorilor economici de a "duce la îndeplinire" + supravegherea ANRE (art. 3) → abrogarea ordinului anterior (art. 3/4) → data intrării în vigoare (art. 4/5).
-- Pentru orice raport de due diligence privind costurile reglementate ale unui producător/furnizor român, aceste tarife trebuie verificate la zi, dat fiind ritmul de revizuire semestrial/anual constatat.
+## Observații Comune
+- SS, ITC perimeter, TG/TL, and DSO TD tariffs are **separate Ordine** — never assume one MO issue covers the full producer stack.
+- SS Ordine (60/2025 → 73/2025) show **intra-year volatility**; transport Ordine (74/2025) typically refresh annually.
+- Pentru due diligence: start from [[Tarife retea — snapshot 2026]] → verify live ANRE before billing advice.
+- Full transport/distribuție Ordine **74/2025, 76/2025, 77/2025** remain Batch B ingestion targets (`99 Attachments/source-anre/`).
