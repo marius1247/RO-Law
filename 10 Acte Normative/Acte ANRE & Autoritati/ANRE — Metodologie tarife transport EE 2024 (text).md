@@ -1,0 +1,946 @@
+---
+title: "ANRE — Metodologie tarife transport EE 2024 (text)"
+type: "act-text"
+act_type: "act-anre"
+issuer: "ANRE"
+nr: "68"
+an: 2024
+domeniu: [energetică, tarife, transport]
+mo_publicare: "MO nr. 946 / 20.09.2024"
+portal_id: "288733"
+portal_url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/288733"
+versiune_text: "2024-09-17"
+consolidare: "Metodologie aprobată prin Ordin ANRE nr. 68/2024"
+continut: "text-integral"
+text_complet: true
+articole_numarate: 160
+source_ingest: "portal-soap"
+tags: [act-text, ANRE, tarife, transport]
+---
+
+# Metodologie din 17 septembrie 2024 de stabilire a tarifelor pentru serviciul de transport al energiei electrice
+
+METODOLOGIE din 17 septembrie 2024 de stabilire a tarifelor pentru serviciul de transport al energiei electrice EMITENT AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI Publicat în
+ MONITORUL OFICIAL nr. 946 din 20 septembrie 2024
+ Notă ...
+ Aprobată prin ORDINUL nr. 68 din 17 septembrie 2024 , publicat în Monitorul Oficial al României, Partea I, nr. 946 din 20 septembrie 2024. 1. Scop
+
+## Articolul 1
+
+(1) Prezenta metodologie stabilește modalitatea de determinare a veniturilor reglementate și de calcul al tarifelor reglementate pentru serviciul de transport al energiei electrice. (2) Veniturile reglementate prevăzute la alin. (1) nu includ costurile de achiziție a serviciilor de sistem.
+
+## Articolul 2
+
+Venitul reglementat pentru serviciul de transport se determină prin utilizarea unei metode de reglementare de tip „venit plafon“.
+
+## Articolul 3
+
+Aplicarea acestui tip de reglementare stimulativă asigură: a) un mediu de reglementare eficient; ... b) o alocare echitabilă a câștigurilor rezultate prin creșterea eficienței în activitatea de transport peste țintele stabilite de Autoritatea Națională de Reglementare în Domeniul Energiei, între operatorul de transport și de sistem și clienții serviciului de transport; ... c) cadrul pentru funcționarea efectivă și eficientă a operatorului de transport și de sistem; ... d) prevenirea obținerii de către operatorul de transport și de sistem a oricăror avantaje posibile cauzate de poziția de monopol; ... e) promovarea investițiilor eficiente în rețeaua electrică de transport; ... f) promovarea unor practici eficiente de mentenanță și exploatare a rețelei de transport al energiei electrice; ... g) folosirea eficientă a infrastructurii existente; ... h) îmbunătățirea continuă a calității serviciului de transport; ... i) recuperarea costurilor justificate economic, care corespund costurilor unui operator de transport și sistem eficient și comparabil din punct de vedere structural; ... j) o abordare transparentă privind procesul de reglementare; ... k) operarea în condiții de siguranță a rețelei de transport. ... ... 2. Domeniu de aplicare
+
+## Articolul 4
+
+Prezenta metodologie este utilizată de către: a) operatorul de transport și de sistem pentru fundamentarea veniturilor reglementate, stabilirea și aplicarea tarifelor de transport din cadrul fiecărei perioade de reglementare; ... b) Autoritatea Națională de Reglementare în Domeniul Energiei, în procesul de analiză a datelor și informațiilor transmise de operatorul de transport și de sistem, în vederea aprobării tarifelor pentru serviciul de transport al energiei electrice. ... ... 3. Definiții și abrevieri
+
+## Articolul 5
+
+În înțelesul prezentei metodologii, termenii și abrevierile utilizate au semnificațiile următoare: a) Definiții Activitate reglementată activitate desfășurată de o persoană fizică/juridică, ce constituie obiectul unor reglementări specifice emise de Autoritatea Națională de Reglementare în Domeniul Energiei Amortizare reglementată amortizare recunoscută de Autoritatea Națională de Reglementare în Domeniul Energiei, aferentă mijloacelor fixe ce contribuie la prestarea serviciului de transport, considerată în calculul tarifelor de transport An de referință al perioadei de reglementare p
+
+1 ultimul an al perioadei de reglementare p Anul t anul t este anul curent, pe parcursul căruia se efectuează analizele pentru stabilirea veniturilor reglementate și aprobarea tarifelor de transport pentru anul t
+
+1 Bază reglementată a activelor valoarea netă a activelor imobilizate, corporale și necorporale, recunoscută de Autoritatea Națională de Reglementare în Domeniul Energiei, ce contribuie la prestarea serviciului de transport Baza reglementată a activelor inițială baza reglementată a activelor la data de 1.01.2005, din care se scade valoarea rămasă neamortizată a mijloacelor fixe existente la data de 1.01.2005 și care au fost scoase din instalații sau nu mai contribuie la prestarea serviciului de transport, calculată cu luarea în considerare a amortizării stabilite prin metoda liniară pentru o durată normală de viață de 25 de ani Catalog Catalogul privind clasificarea și duratele normale de funcționare a mijloacelor fixe, aprobat prin Hotărârea Guvernului nr. 2.139/2004 , cu modificările ulterioare Contribuții financiare aport în numerar al clienților serviciului de transport sau al unei terțe părți (de exemplu, fonduri nerambursabile de la organismele interne sau internaționale, subvenții, tariful de racordare etc.), dat cu titlu gratuit operatorului de transport și sistem Cost reglementat al serviciului de transport totalul costurilor justificate și recunoscute de Autoritatea Națională de Reglementare în Domeniul Energiei, repartizate serviciului de transport al energiei electrice, din totalul costurilor operatorului de transport și de sistem, pe baza cărora se stabilesc tarifele de transport Cost mediu ponderat al capitalului medie ponderată a costurilor capitalurilor utilizate Cost reglementat cu ajutoare de urgență/avarie între operatorii de transport și sistem cost cu ajutoarele de urgență/avarie între operatorii de transport și sistem recunoscut de Autoritatea Națională de Reglementare în Domeniul Energiei la calculul tarifelor de transport Costuri reglementate reprezentând cheltuieli speciale costuri datorate unor evenimente unice sau foarte rare, unor cauze extraordinare sau apariției unor prevederi legislative noi, care au implicații în creșterea costurilor de operare și mentenanță inițial aprobate, precum și costurile ulterioare aferente unei aplicații informatice existente de natura dotărilor, care reprezintă actualizări ale aplicațiilor sau actualizări ale bazelor de date Cost reglementat al congestiilor cost al eliminării congestiilor în rețeaua de transport recunoscut de Autoritatea Națională de Reglementare în Domeniul Energiei la calculul tarifelor de transport Consum propriu tehnologic reglementat consum propriu tehnologic luat în considerare de Autoritatea Națională de Reglementare în Domeniul Energiei la calculul tarifelor de transport, determinat pe baza țintelor de consum propriu tehnologic aprobate Indicatori de performanță pentru serviciul de transport indicatori privind menținerea unui nivel minim al calității serviciului de transport, stabiliți conform standardului de performanță al serviciului de transport, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 12/2016 , privind aprobarea Standardului de performanță pentru serviciul de transport al energiei electrice și pentru serviciul de sistem, cu modificările și completările ulterioare Indicatori de performanță cu privire la dezvoltarea unor rețele de transport inteligente set de indicatori de performanță pentru evaluarea nivelului de creștere a eficienței energetice a rețelelor, a siguranței în alimentare și a integrării armonioase în piață a utilizatorilor rețelelor, ca urmare a dezvoltării unor rețele inteligente, aprobați prin ordin al președintelui Autorității Naționale de Reglementare în Domeniul Energiei Mijloc fix orice imobilizare corporală sau necorporală deținută de operatorul de transport și sistem, utilizată la prestarea serviciului de transport al energiei electrice, care are o durată normală de utilizare mai mare de un an și care se înregistrează în contabilitate cu respectarea legislației specifice în vigoare Perioadă de reglementare perioadă determinată de timp, de 5 ani, în care se aplică metoda de reglementare a veniturilor de tip plafon Procedura privind investițiile procedura privind fundamentarea și aprobarea planurilor de dezvoltare și de investiții ale operatorului de transport și de sistem și ale operatorilor de distribuție a energiei electrice, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 98/2022 , cu modificările și completările ulterioare Rată reglementată a rentabilității randament reglementat al bazei reglementate a activelor, exprimat în procente Rata inflației reglementată rată a inflației, exprimată în procente, rezultată în urma aplicării prezentei metodologii, pe baza indicelui de creștere a prețurilor de consum Rata titlurilor de stat rată a dobânzii titlurilor de stat, în termeni reali, cu scadență la un an, exprimată în procente. Pentru rata dobânzii titlurilor de stat în termeni nominali, referința este media valorilor zilnice din primele nouă luni ale anului t, publicate de Banca Națională a României, sub denumirea „Titluri de stat - rate de referință (fixing) 12 luni“. Regulament (UE) 2019/943 Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 privind piața internă de energie electrică Regulament (UE) 2015/1.222 Regulamentul (UE) 2015/1.222 al Comisiei din 24 iulie 2015 de stabilire a unor linii directoare privind alocarea capacităților și gestionarea congestiilor Regulament (UE) 2010/838 Regulamentul (UE) 2010/838 al Comisiei din 23 septembrie 2010 privind stabilirea orientărilor referitoare la mecanismul compensărilor între operatorii de sisteme de transport și abordarea comună de reglementare în domeniul stabilirii taxelor de transport Regulament (UE) 2017/2.195 Regulamentul (UE) 2017/2.195 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică Regimuri caracteristice de funcționare ale rețelei electrice regimuri de funcționare ale rețelei electrice prognozate pe o perioadă de timp determinată (caracteristică), care sunt utilizate la determinarea costului marginal aferent consumului propriu tehnologic și al congestiilor Reglementare de tip venit plafon metodă de reglementare stimulativă, aplicată pe durata perioadei de reglementare, prin care Autoritatea Națională de Reglementare în Domeniul Energiei stabilește valoarea plafon a venitului necesar desfășurării activității de transport entabilitatea bazei reglementate a activelor valoare recunoscută de Autoritatea Națională de Reglementare în Domeniul Energiei a randamentului reglementat al bazei reglementate a activelor, exprimată în unități monetare Transport de energie electrică între operatorii de transport și de sistem transport în conformitate cu Mecanismul de compensare a efectelor utilizării rețelelor electrice de transport pentru tranzite de energie electrică între operatorii de transport și de sistem, prevăzut de Regulamentul (UE) 2010/838 Ținte de consum propriu tehnologic reglementat valori procentuale corespunzătoare consumului propriu tehnologic stabilite prin programul de reducere a consumului propriu tehnologic aprobat de Autoritatea Națională de Reglementare în Domeniul Energiei Valoare minimă obligatorie pentru investițiile realizate din surse proprii pentru perioada de reglementare valoare egală cu valoarea costului cu amortizarea reglementată totală prognozată aprobată pentru perioada de reglementare Valoare minimă obligatorie pentru investițiile realizate în rețeaua electrică de transport al energiei electrice din surse proprii în anul t valoare egală cu 85% din valoarea planului de investiții aprobată pentru anul t la începutul perioadei de reglementare Venit de referință nonconsum propriu tehnologic venit exprimat în termeni reali, calculat pe baza costurilor reglementate ale serviciului de transport aferente anului de referință, exclusiv costurile cu achiziția energiei electrice pentru acoperirea consumului propriu tehnologic, costurile cu consumul propriu tehnologic aferente tranzitelor suplimentare de energie electrică din rețelele de 110 kV atribuite operatorului de transport și sistem și costurile cu eliminarea congestiilor Venit-țintă inițial venit exprimat în termeni reali, calculat pe baza costurilor prognozate reglementate ale serviciului de transport, aferente fiecărui an al perioadei de reglementare p
+
+1 aprobate de Autoritatea Națională de Reglementare în Domeniul Energiei. În venitul-țintă inițial nu se includ costurile cu achiziția energiei electrice pentru acoperirea consumului propriu tehnologic, costurile cu consumul propriu tehnologic aferent tranzitelor suplimentare de energie electrică din rețelele de 110 kV atribuite operatorului de transport și sistem și costurile cu eliminarea congestiilor Venit liniarizat venit nonconsum propriu tehnologic exprimat în termeni reali, prin care Autoritatea Națională de Reglementare în Domeniul Energiei determină valoarea netă prezentă echivalentă a veniturilor-țintă inițiale, liniarizate prin aplicarea aceluiași factor de liniarizare X(final,liniar) venitului de referință nonconsum propriu tehnologic, pentru fiecare an al perioadei de reglementare. În venitul liniarizat nu se includ costurile cu achiziția energiei electrice pentru acoperirea consumului propriu tehnologic, costurile cu consumul propriu tehnologic aferent tranzitelor suplimentare de energie electrică din rețelele de 110 kV atribuite operatorului de transport și sistem și costurile cu eliminarea congestiilor. Venit reglementat venit luat în considerare de Autoritatea Națională de Reglementare în Domeniul Energiei la stabilirea tarifelor de transport, determinat conform prevederilor prezentei metodologii, care se compune din venitul reglementat nonconsum propriu tehnologic și venitul reglementat consum propriu tehnologic total Venit reglementat nonconsum propriu tehnologic venit necesar acoperirii costurilor de operare și mentenanță, a costurilor cu amortizarea și rentabilitatea bazei reglementate a activelor, a costurilor datorate transportului de energie electrică între operatorii de transport și sistem și a costurilor cu ajutoarele de urgență/avarie între operatorii de transport și sistem, determinate conform prevederilor prezentei metodologii Venit reglementat consum propriu tehnologic total venit necesar acoperirii costurilor pentru achiziția energiei electrice pentru acoperirea consumului propriu tehnologic, a costului cu consumul propriu tehnologic aferent tranzitelor suplimentare de energie electrică din rețelele electrice de 110 kV alocate operatorului de transport și sistem și a costurilor pentru eliminarea congestiilor, determinate conform prevederilor prezentei metodologii. Acesta se compune din venitul reglementat consum propriu tehnologic și venitul reglementat consum propriu tehnologic suplimentar capitalizat. X(inițial eficiență) reducere procentuală de la un an la altul a costurilor de operare și mentenanță controlabile, stabilită pentru creșterea eficienței serviciului de transport al energiei electrice X(final,liniar) factor de liniarizare a veniturilor-țintă inițiale pentru o perioadă de reglementare ... b) Abrevieri ACER Agenția pentru Cooperarea Autorităților de Reglementare în Domeniul Energiei ANRE Autoritatea Națională de Reglementare în Domeniul Energiei BAR bază reglementată a activelor CAPM model de determinare a valorii capitalului (Capital Asset Pricing Model) CC costuri controlabile CNC costuri necontrolabile CNSP Comisia Națională de Strategie și Prognoză CON costuri cu eliminarea congestiilor cpt consum propriu tehnologic, exprimat în procente din cantitatea de energie electrică intrată în rețeaua electrică de transport (%) CPT consum propriu tehnologic, exprimat în MWh CAUA costuri cu ajutoare de urgență/avarie între operatorii de transport și sistem ENTSO-E Rețeaua europeană a operatorilor de transport și de sistem de energie electrică Lege Legea energiei electrice și a gazelor naturale nr. 123/2012 , cu modificările și completările ulterioare MACEE Mecanismul de achiziție centralizată de energie electrică Norme Normele metodologice privind recunoașterea în tarife a costurilor suplimentare cu achiziția de energie electrică pentru acoperirea consumului propriu tehnologic față de costurile incluse în tarifele reglementate, aprobate prin Ordinul președintelui ANRE nr. 129/2022 , cu modificările și completările ulterioare OTS operatorul de transport și de sistem OUG nr. 27/2022 Ordonanța de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei, aprobată cu modificări și completări prin Legea nr. 206/2022 , cu modificările și completările ulterioare PRE parte responsabilă cu echilibrarea RBAR rentabilitatea bazei reglementate a activelor RET rețeaua electrică de transport RRR rată reglementată a rentabilității RI rata inflației RTS rata titlurilor de stat SEN Sistemul electroenergetic național TG tariful de transport pentru introducerea energiei electrice în rețeaua electrică de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice TI transport de energie electrică între operatorii de transport și de sistem TL tariful de transport pentru extragerea energiei electrice din rețele ... ... 4. Reguli și principii
+
+## Articolul 6
+
+(1) OTS are obligația de a transmite ANRE, la termenele și în formatele stabilite, datele și informațiile necesare acesteia pentru stabilirea veniturilor reglementate, respectiv a tarifelor de transport. (2) Veniturile pentru serviciul de transport aferente fiecărui an al unei perioade de reglementare se determină și se aprobă pentru OTS anterior începerii perioadei de reglementare. Acestea se comunică OTS odată cu tarifele aprobate pentru primul an al perioadei de reglementare. (3) Veniturile aprobate se corectează conform prevederilor prezentei metodologii. Valoarea acestor corecții este luată în considerare la stabilirea veniturilor reglementate.
+
+## Articolul 7
+
+(1) Toate datele necesare determinării veniturilor sunt transmise de OTS exprimate în termeni reali, respectiv în valori monetare aferente anului de referință al fiecărei perioade de reglementare. (2) Efectul inflației asupra costurilor este acoperit prin considerarea RI conform prevederilor prezentei metodologii.
+
+## Articolul 8
+
+ANRE analizează fundamentarea costurilor și veniturilor aferente serviciului de transport al energiei electrice solicitate de OTS pentru fiecare an al perioadei de reglementare și stabilește veniturile reglementate.
+
+## Articolul 9
+
+În procesul de analiză și determinare a venitului aprobat, ANRE ia în considerare solicitarea transmisă de OTS pentru perioada de reglementare p
+
+1, ținând seama în principal de: a) standardul de performanță și alte cerințe impuse OTS conform legislației în vigoare; ... b) evoluția cantităților de energie electrică introdusă în rețeaua electrică de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice, extrasă din rețele, introdusă în RET, prognozate și justificate la începutul perioadei de reglementare de OTS; ... c) evoluția consumului propriu tehnologic reglementat în rețeaua electrică de transport, corelat cu cantitatea de energie electrică prognozată a fi introdusă în RET; ... d) planul de investiții și de dezvoltare a rețelei electrice de transport fundamentat de OTS și analizat de ANRE conform reglementărilor specifice; ... e) rata reglementată a rentabilității, aplicată bazei reglementate a activelor rețelei electrice de transport; ... f) stabilitatea tarifelor; ... g) taxele stabilite de autoritățile centrale sau locale; ... h) dezvoltarea unei rețele inteligente care să promoveze creșterea eficienței energetice, a siguranței în alimentare și integrarea armonioasă în piață. ...
+
+## Articolul 10
+
+OTS ține evidența separată a tuturor contribuțiilor financiare încasate, a veniturilor obținute din alocarea capacităților de interconexiune transfrontalieră și a costurilor și veniturilor aferente comercializării excedentului de capacitate de fibră optică. Valoarea acestora este transmisă la ANRE, conform machetelor de monitorizare a activității OTS prevăzute în reglementările în vigoare.
+
+## Articolul 11
+
+(1) OTS este obligat să organizeze: a) evidența contabilă separată pentru fiecare activitate reglementată; ... b) evidența contabilă separată pentru activitățile nereglementate. ... (2) Evidențele contabile prevăzute la alin. (1) trebuie să permită ANRE cunoașterea fiecărui element de venit și cost pentru activitățile reglementate și pentru activitățile nereglementate. (3) ANRE are dreptul să solicite detalierea oricărui element de cost sau venit cuprins în evidențele contabile transmise de OTS.
+
+## Articolul 12
+
+(1) Fiecărei activități desfășurate de OTS i se atribuie costurile directe și i se alocă o cotă-parte aferentă din costurile comune, respectiv costurile indirecte și cele generale ale societății. (2) OTS alocă costurile comune între serviciul de transport reglementat și celelalte servicii reglementate/nereglementate, folosind o metodă de alocare a costurilor care respectă următoarele principii: a) cauzalitatea economică - atribuirea costurilor acelor activități care le determină; ... b) obiectivitatea - atribuirea costurilor fără urmărirea unui interes ori obținerii unui beneficiu nemeritat al societății; ... c) transparența - atribuirea pe bază de reguli definite și care să permită identificarea costurilor atribuite fiecărei activități; ... d) continuitatea - atribuirea pe baza unor reguli care se păstrează în timp; regulile pot fi modificate numai în cazuri necesare și justificate, cu aprobarea prealabilă a ANRE. ... (3) Costurile alocate conform prevederilor alin. (2) se utilizează pentru calculul veniturilor propuse de OTS pentru serviciul de transport.
+
+## Articolul 13
+
+(1) OTS furnizează în cadrul documentațiilor de fundamentare a veniturilor reglementate explicații detaliate și justificări cu privire la identificarea categoriilor de costuri și a activităților și modul de alocare a costurilor conform prevederilor art. 12 . (2) ANRE controlează corectitudinea alocării costurilor în vederea evitării subvențiilor încrucișate între serviciul reglementat de transport și alte servicii prestate de OTS. (3) În cazul în care constată că alocarea costurilor pe activități nu respectă prevederile prezentei metodologii, ANRE solicită OTS și acesta are obligația să efectueze corecțiile necesare în termenul solicitat.
+
+## Articolul 14
+
+La calculul tarifelor de transport, orice cost/venit justificat asociat activității de transport este luat în considerare o singură dată.
+
+## Articolul 15
+
+(1) Pentru a fi considerate costuri justificate economic, costurile efectuate de OTS trebuie să fie necesare, oportune, eficiente și să reflecte condițiile pieței, astfel: a) necesar - să existe nevoia obiectivă a OTS de a realiza acel cost; ... b) oportun - amânarea costului este de natură a produce prejudicii OTS și/sau clientului; ... c) eficient - realizarea costului este de natură a aduce beneficii viitoare OTS și clientului; ... d) să reflecte condițiile pieței - costul realizat de către OTS trebuie să reflecte cele mai bune condiții ale pieței, existente la data realizării și în conformitate cu legislația în vigoare. ... (2) OTS are obligația să transmită, la solicitarea ANRE, în termenul stabilit, documentele care justifică îndeplinirea condițiilor prevăzute la alin. (1) . (3) ANRE are dreptul să refuze motivat recunoașterea integrală sau parțială a unor costuri pentru care nu au fost transmise documentele solicitate conform prevederilor alin. (2) sau a celor pentru care, prin documentele transmise de OTS conform prevederilor alin. (2) , nu se confirmă îndeplinirea condițiilor prevăzute la alin. (1) .
+
+## Articolul 16
+
+La determinarea venitului reglementat nu se includ următoarele costuri: a) cheltuieli de exploatare finanțate din fonduri și împrumuturi nerambursabile, din ajutoare primite, contribuții, subvenții, plusuri la inventar ori alte surse nerambursabile; ... b) cheltuieli aferente activităților corespunzătoare schemei de sprijin de tip bonus pentru promovarea cogenerării de înaltă eficiență; ... c) cheltuieli aferente racordării noilor utilizatori, care se suportă de către terți prin aplicarea tarifelor aferente activității de racordare; ... d) cheltuieli cu despăgubiri plătite utilizatorilor pentru nerespectarea prevederilor standardului de performanță pentru serviciul de transport al energiei electrice; ... e) cheltuieli cu despăgubiri plătite pentru pagubele sau accidentele cauzate persoanelor fizice sau juridice, în situațiile în care instanța de judecată stabilește că au fost produse din vina OTS; ... f) cheltuieli cu pierderi din creanțe și debitori diverși; ... g) cheltuieli cu impozit pe monopolul natural; ... h) cheltuieli financiare; ... i) cheltuieli cu provizioane și ajustări de orice natură; ... j) cheltuieli realizate și capitalizate, care la determinarea venitului-țintă inițial au fost luate în considerare în cadrul costurilor de operare și mentenanță controlabile și necontrolabile; ... k) cheltuieli de exploatare aferente bunurilor pentru care OTS a cedat folosința unui terț, cu excepția cheltuielilor aferente imobilizărilor corporale de natura clădirilor, utilizate ca sedii și puncte de lucru pentru activitatea de transport al energiei electrice, a căror folosință a fost cedată parțial unui terț; ... l) cheltuieli de judecată și alte cheltuieli asociate (taxă timbru, onorariu expert, onorariu avocațial etc.); ... m) cheltuieli privind materialele recuperate; ... n) cheltuieli nedeductibile fiscal, cu excepția celor prevăzute expres de prezenta metodologie drept cheltuieli care se includ în venitul reglementat; ... o) cheltuieli din reevaluarea imobilizărilor corporale și necorporale; ... p) cheltuieli cu amenzi și penalități aplicate OTS; ... q) cheltuieli cu donații, sponsorizări și subvenții acordate de OTS; ... r) cheltuieli privind activele cedate și alte operațiuni de capital; ... s) cheltuieli cu majorări de întârziere; ... t) cheltuieli reprezentând salarii/indemnizații/sume compensatorii acordate cu ocazia încetării contractului individual de muncă, raportului de serviciu sau mandatului angajaților cu funcții de conducere și persoanelor care au calitate de membru în consiliile de administrație/supraveghere/directorate și alte consilii de conducere, cu excepția salariilor/indemnizațiilor/sumelor compensatorii acordate angajaților în baza unui program de restructurare a societății, aprobat conform prevederilor legale în vigoare; ... u) cheltuieli de personal reprezentând sume acordate directorilor generali și membrilor consiliilor de administrație/ supraveghere/directoratelor și altor consilii de conducere ca bonus, prime etc. pentru îndeplinirea indicatorilor de performanță individuală, precum și alte facilități rezultate din derularea contractelor de mandat, care depășesc 20% din valoarea retribuției acestora; ... v) contribuții aferente fondului de salarii, conform obligațiilor și în limita valorilor/procentelor stabilite prin legislația primară în vigoare, aferente cheltuielilor salariale prevăzute la lit. t) și u) ; ... w) cheltuieli de exploatare aferente mijloacelor fixe obținute de OTS prin realizarea unor investiții care nu au fost recunoscute de ANRE ca justificate; ... x) cheltuieli cu amortizarea contabilă; se includ în venitul reglementat costurile cu amortizarea reglementată aferentă activelor; ... y) cheltuieli de exploatare anuale aferente activităților/ serviciilor care sunt internalizate în timpul perioadei de reglementare și care depășesc valoarea cheltuielilor corespunzătoare efectuării acestora cu terții, înregistrată de OTS în anul anterior celui în care a avut loc internalizarea; ... z) cheltuieli de exploatare anuale aferente activităților care sunt externalizate în timpul perioadei de reglementare și care depășesc valoarea cheltuielilor corespunzătoare efectuării acestora în cadrul societății, înregistrată de OTS în anul anterior celui în care a avut loc externalizarea; ... aa) cheltuielile aferente contractelor având ca obiect reprezentarea OTS ori servicii de consultanță sau asistență în domeniul reglementării; ... bb) cheltuieli rezultate dintr-un contract încheiat cu societăți afiliate corespunzătoare profitului acordat societății afiliate pentru partea subcontractată de acesta; ... cc) veniturile/costurile cauzate de investiții financiare în alte activități în afara serviciului de transport. ...
+
+## Articolul 17
+
+Se consideră costuri nejustificate la recunoașterea în tarifele de transport: a) cheltuieli pentru care se constată că nu sunt îndeplinite condițiile prevăzute la art. 15 ; ... b) costurile prevăzute la art. 16 care nu se includ în venitul reglementat; ... c) costurile realizate care nu respectă prevederile reglementărilor în vigoare; ... d) diferențele în plus între cheltuielile raportate în machetele de monitorizare transmise la ANRE și cele din balanța anuală contabilă sau situațiile financiare anuale ale OTS depuse la unitățile teritoriale ale ministerului de resort, cu excepția unor situații obiective justificate. ...
+
+## Articolul 18
+
+Reducerea costurilor aferente lucrărilor de mentenanță față de costurile prognozate nu se consideră câștig de eficiență și nu se include în mecanismul stimulativ de împărțire a câștigului de eficiență între OTS și clienții serviciului de transport al energiei electrice, prevăzut la art. 89 .
+
+## Articolul 19
+
+Costurile de operare și mentenanță controlabile și necontrolabile sunt analizate de ANRE în vederea evitării recunoașterii costurilor nejustificate.
+
+## Articolul 20
+
+Tarifele de transport sunt aprobate anual de ANRE pentru OTS, cu excepția cazurilor în care devin aplicabile prevederile art. 21 alin. (2) .
+
+## Articolul 21
+
+(1) ANRE are dreptul să corecteze datele luate în considerare la fundamentarea tarifelor de transport pentru o perioadă de reglementare sau pentru un an, cu anunțarea prealabilă a OTS asupra motivelor și cu respectarea principiilor prezentei metodologii, în cazul în care constată că: a) stabilirea tarifelor s-a efectuat pe baza unor informații dovedite a fi incorecte sau incomplete, furnizate de OTS; ... b) există greșeli de calcul în stabilirea tarifelor sau erori/omisiuni în stabilirea veniturilor reglementate, inclusiv erori de prognoză în stabilirea veniturilor reglementate; ... c) un cost justificat, asociat serviciului de transport, a fost inclus de mai multe ori; ... d) au intervenit schimbări legislative importante ori schimbări în privința structurii proprietății activelor OTS, care conduc la modificarea semnificativă a costurilor aferente serviciului de transport; ... e) au intervenit variații semnificative ale prețurilor pe piața de energie electrică, care conduc la modificarea importantă a costurilor aferente serviciului de transport. ... (2) Situația prevăzută la alin. (1) necesită ajustarea/ corectarea veniturilor reglementate, recalcularea și aprobarea noilor tarife aplicate de OTS. (3) În situația prevăzută la alin. (1) ANRE poate considera un factor care corectează diferențele de venit înregistrate pentru perioada de întârziere; factorul de corecție este inclus în tarifele aprobate pe o perioadă definită de ANRE. ... 5. Venitul reglementat pentru serviciul de transport al energiei electrice
+
+## Articolul 22
+
+Venitul reglementat pentru serviciul de transport al energiei electrice [VR (t)] pentru fiecare an t din perioada de reglementare p
+
+1 se determină cu formula: unde: t - an din cadrul perioadei de reglementare p
+
+1; VR_nonCPT(t) - venit reglementat nonconsum propriu tehnologic aprobat pentru un an t din cadrul perioadei de reglementare p
+
+1, determinat conform prevederilor capitolului 5.1; VR_CPT_total(t) - venit reglementat consum propriu tehnologic total aprobat pentru un an t din cadrul perioadei de reglementare p
+
+1, determinat conform prevederilor capitolului 5.2. 5.1. Stabilirea venitului reglementat nonCPT 5.1.1. Stabilirea venitului de referință nonconsum propriu tehnologic
+
+## Articolul 23
+
+(1) Venitul de referință nonconsum propriu tehnologic [V (referință nonCPT)] al perioadei de reglementare p
+
+1 reprezintă venitul determinat pentru anul de referință, utilizat la determinarea veniturilor liniarizate în conformitate cu prevederile art. 79 . (2) Venitul de referință nonconsum propriu tehnologic prevăzut la alin. (1) nu include costurile cu achiziția energiei electrice pentru acoperirea CPT, costurile cu CPT aferente tranzitelor suplimentare de energie electrică din rețelele de 110 kV atribuite OTS și costurile cu eliminarea congestiilor. ... 5.1.2. Stabilirea venitului-țintă inițial
+
+## Articolul 24
+
+(1) Venitul-țintă inițial [V (țintă inițial (t)] pentru un an t al perioadei de reglementare p
+
+1 se determină cu formula: unde: CC(t) - valoarea prognozată a costurilor de operare și mentenanță controlabile, altele decât cele legate de personal și cele efectuate în scop de cercetare-dezvoltare, aprobată de ANRE pentru anul t; CPERS(t) - valoarea prognozată a costurilor controlabile cu personalul, aprobată de ANRE pentru anul t; CCD(t) - valoarea prognozată a costurilor efectuate în scop de cercetare-dezvoltare, aprobată de ANRE pentru anul t; CNC(t) - valoarea prognozată a costurile necontrolabile de operare și mentenanță, aprobată de ANRE pentru anul t; TI(t) - valoarea prognozată a costurilor datorate transportului de energie electrică între OTS-uri, aprobată de ANRE pentru anul t; CAUA(t) - valoarea prognozată a costurilor cu ajutoarele de urgență/avarie între OTS-uri, aprobată de ANRE pentru anul t; AM(t) - valoarea prognozată a costurilor cu amortizarea reglementată aferentă activelor existente și noilor investiții prudente, aprobată de ANRE pentru anul t; RBAR(t) - rentabilitatea activelor existente și a noilor investiții prudente, aprobată de ANRE pentru anul t; V(AA)(t) - valoarea prognozată a veniturilor obținute din alte activități care utilizează resursele recunoscute pentru desfășurarea serviciului de transport, aprobată de ANRE pentru anul t; KV(p) - valoarea corecțiilor aferente perioadei de reglementare p ca urmare a diferențelor înregistrate între valorile prognozate și cele realizate, stabilite conform prezentei metodologii. Aceasta se adună algebric la valoarea venitului-țintă inițial aferent primului an al perioadei de reglementare p
+
+1. (2) Valoarea prognozată a costurilor de operare și mentenanță controlabile, altele decât cele legate de personal și cele efectuate în scop de cercetare-dezvoltare, aprobată de ANRE pentru anul t se determină prin aplicarea factorului de eficiență (Xinițial,eficiență) la valoarea costurilor de operare și mentenanță controlabile de referință aprobată de ANRE pentru perioada de reglementare p
+
+1 cu formula: CC(t) = CCreferință x (1-Xinițial,eficiență)^t (lei) (3), unde: CC(t) - valoarea prognozată a costurilor de operare și mentenanță controlabile, altele decât cele legate de personal și cele efectuate în scop de cercetare-dezvoltare, aprobată de ANRE pentru anul t; CCreferință - valoarea de referință a costurilor de operare și mentenanță controlabile, altele decât cele legate de personal și cele efectuate în scop de cercetare-dezvoltare, aprobată de ANRE pentru perioada de reglementare p
+
+1. ... 5.1.3. Costurile de operare și mentenanță
+
+## Articolul 25
+
+Costurile de operare și mentenanță reprezintă costuri fixe, diferențiate în costuri de operare și mentenanță controlabile și costuri de operare și mentenanță necontrolabile. 5.1.3.1. Costurile de operare și mentenanță controlabile
+
+## Articolul 26
+
+Costurile de operare și mentenanță controlabile reprezintă cheltuieli de exploatare deductibile fiscal în limita prevederilor legale în vigoare, ale căror nivel și oportunitate pot fi controlate prin decizii de management sau asupra cărora OTS poate acționa direct pentru creșterea eficienței prestării serviciului de transport al energiei electrice.
+
+## Articolul 27
+
+Costurile de operare și mentenanță cuprind în principal, fără a fi limitate la, următoarele: a) cheltuieli cu materii prime și materiale consumabile; ... b) alte cheltuieli cu materiale; ... c) cheltuieli cu utilitățile - apa, energia electrică (regie), încălzirea, telecomunicațiile etc.; ... d) cheltuieli cu lucrări de întreținere și reparații executate de terți; ... e) cheltuieli cu locații de gestiune și chirii; ... f) cheltuieli cu prime de asigurare; ... g) cheltuieli cu studii și cercetări, prevăzute de legislație sau de reglementările în vigoare; ... h) cheltuieli cu alte servicii executate cu terți (inclusiv cursuri pentru perfecționarea personalului, colaboratori, comisioane și onorarii, publicitate, deplasări, detașări și transferuri, cheltuieli poștale și taxe de telecomunicații); ... i) cheltuieli legate de personal [salarii, diurne, prime, alte drepturi acordate conform prevederilor legale în vigoare, cu respectarea prevederilor art. 16 lit. u) , incluse în fondul de salarii]; ... j) cheltuieli cu despăgubiri plătite de OTS terților pentru efectuarea lucrărilor de mentenanță, stabilite conform prevederilor legale în vigoare; ... k) cheltuieli privind asigurările, protecția socială și alte acțiuni sociale; ... l) salarii/indemnizații/sume compensatorii acordate angajaților la încetarea contractelor individuale de muncă conform unui program de restructurare a societății aprobat conform prevederilor legale în vigoare; ... m) contribuții aferente fondului de salarii, conform obligațiilor și în limita valorilor/procentelor stabilite prin legislația în vigoare; ... n) costuri de operare și mentenanță efectuate în scop de cercetare-dezvoltare, cum ar fi costuri ocazionate de proiecte-pilot pentru domeniul de cybersecurity, servicii de interconectare, servicii de flexibilitate etc. ...
+
+## Articolul 28
+
+Costurile de operare și mentenanță controlabile nu includ cheltuielile care au fost capitalizate, aferente realizării imobilizărilor corporale și necorporale finalizate sau aflate în curs de execuție, și nici valorile care la fundamentarea tarifelor de transport au fost recunoscute în investiții, dar în contabilitatea financiară a OTS au fost înregistrate drept cheltuieli de exploatare.
+
+## Articolul 29
+
+(1) În anul de referință aferent perioadei de reglementare p
+
+1 ANRE analizează nivelul costurilor de operare și mentenanță controlabile realizate în fiecare an al perioadei de reglementare p și stabilește valoarea costurilor de operare și mentenanță controlabile luate în calcul la stabilirea punctului de referință al perioadei p
+
+1. (2) Valoarea costurilor de operare și mentenanță controlabile luate în calcul la stabilirea punctului de referință prevăzută la alin. (1) se stabilește pe baza mediei anuale a valorilor costurilor de operare și mentenanță controlabile estimate/realizate pentru/în perioada de reglementare p, care îndeplinesc condițiile de includere în venitul reglementat conform prevederilor prezentei metodologii, exprimată în termeni reali ai anului de referință, a valorii prognozate aprobată de ANRE pentru ultimul an al perioadei de reglementare p, a valorii estimate/realizate pentru/în anul de referință, precum și a costurilor solicitate și fundamentate de OTS pentru perioada de reglementare p
+
+1 conform prevederilor prezentei metodologii. 5.1.3.1.1. Costurile cu personalul
+
+## Articolul 30
+
+(1) La stabilirea costurilor de operare și mentenanță controlabile prognozate, ANRE are în vedere costurile cu personalul rezultate din analiza evoluției datelor prezentate și fundamentate de OTS conform prevederilor alin. (2) și (3) , precum și din comparația datelor operatorilor de rețea. (2) Valoarea prognozată a costurilor cu personalul solicitată de OTS trebuie fundamentată de acesta pe baza numărului de personal angajat cu contract individual de muncă utilizat de OTS, a nivelului salarial mediu și a celorlalte costuri de personal prevăzute la art. 27 . În cadrul fundamentării valorii costurilor de personal pentru următoarea perioadă de reglementare OTS trebuie să prezinte detaliat, pentru fiecare an al următoarei perioade de reglementare și pentru anul de referință, datele de fundamentare, modalitatea de calcul al elementelor utilizate și justificări privind valorile luate în considerare și evoluția acestora de la an la an. (3) Valoarea costurilor cu personalul solicitată de OTS conform prevederilor alin. (2) nu poate depăși în termeni reali valoarea costurilor cu personalul estimate/realizate pentru/în anul de referință, la care se aplică pentru fiecare an al perioadei de reglementare p
+
+1 un coeficient de creștere raportat la un indicator macroeconomic. (4) Coeficientul prevăzut la alin. (3) se determină de ANRE în anul de referință ca medie fără zecimale a celor mai recente valori disponibile publicate de CNSP privind indicele de creștere a câștigului salarial real. (5) Valoarea costurilor cu personalul aprobată de ANRE trebuie să se încadreze în limita stabilită conform prevederilor alin. (3) și (4) . (6) Pentru perioada a V-a de reglementare, coeficientul prevăzut la alin. (3) este de 5%, în corelare cu valorile publicate în anul de referință de CNSP privind indicele de creștere a câștigului salarial real. ... 5.1.3.1.2. Costurile de operare și mentenanță efectuate în scop de cercetare-dezvoltare
+
+## Articolul 31
+
+(1) Începând cu perioada a V-a de reglementare, OTS poate solicita aprobarea unei valori prognozate pentru costurile de operare și mentenanță efectuate în scop de cercetare-dezvoltare prevăzute la art. 27 lit. n) . (2) Valoarea prognozată prevăzută la alin. (1) pentru fiecare an t al perioadei se stabilește de ANRE pe baza propunerii OTS și nu poate depăși valoarea de 5 milioane RON pentru o perioadă de reglementare, exprimată în termenii anului de referință al perioadei de reglementare p
+
+1. (3) Valoarea costurilor prevăzute la alin. (1) nu include costuri cu personalul propriu, cheltuieli cu amortizarea mijloacelor fixe incluse în BAR și cheltuieli administrative. (4) La realizarea unui proiect-pilot pentru care se înregistrează cheltuieli de cercetare-dezvoltare pot participa mai mulți operatori de rețea. ... 5.1.3.1.3. Costurile de operare și mentenanță controlabile supuse eficienței
+
+## Articolul 32
+
+Valoarea de referință a costurilor de operare și mentenanță controlabile supuse eficienței se stabilește în anul de referință al perioadei de reglementare p
+
+1 și reprezintă costuri cu mentenanța și alte costuri care nu sunt prevăzute la art. 27 lit. i) și k) -n).
+
+## Articolul 33
+
+Valoarea prognozată a costurilor de operare și mentenanță controlabile supuse eficienței prevăzută la art. 32 se stabilește de ANRE având în vedere valoarea medie a costurilor estimate/realizate pentru/în perioada de reglementare p, care îndeplinesc condițiile de includere în venitul reglementat conform prevederilor prezentei metodologii, exprimată în termeni reali ai anului de referință.
+
+## Articolul 34
+
+(1) La solicitarea OTS însoțită de documente justificative, ANRE poate accepta o majorare a valorii prognozate a costurilor de operare și mentenanță controlabile supuse eficienței pentru perioada de reglementare p
+
+1 prevăzută la art. 33 , datorată creșterii complexității sau volumului de lucrări de mentenanță majoră prognozate comparativ cu perioada de reglementare p. (2) În vederea justificării valorii costurilor solicitate conform prevederilor alin. (1) , OTS trebuie să prezinte un document justificativ din care să rezulte lucrările de mentenanță majoră prognozate pentru perioada de reglementare p
+
+1.
+
+## Articolul 35
+
+Până la data de 1 martie a fiecărui an OTS transmite la ANRE prognoza de costuri de operare și mentenanță controlabile supuse eficienței, aprobate la începutul perioadei de reglementare pentru anul respectiv, defalcată pe categoriile „Costuri cu mentenanța“ și „Alte costuri“.
+
+## Articolul 36
+
+(1) Pentru costurile efectuate de OTS în relația cu societățile afiliate, ANRE are dreptul să verifice prin sondaj îndeplinirea condițiilor prevăzute la art. 15 alin. (1) . (2) În vederea efectuării verificărilor prevăzute la alin. (1) , OTS are obligația să transmită la solicitarea ANRE, în termenul stabilit, documentele care justifică îndeplinirea condițiilor prevăzute la art. 15 alin. (1) , precum și date și informații privind costurile și veniturile societăților afiliate care prestează serviciile/lucrările pentru care s-au realizat costurile. (3) ANRE are dreptul să refuze motivat recunoașterea integrală sau parțială a unor costuri pentru care nu au fost transmise documentele solicitate conform prevederilor alin. (2) sau cele pentru care, prin documentele transmise de OTS conform prevederilor alin. (2) , nu se confirmă îndeplinirea condițiilor prevăzute la art. 15 alin. (1) . ... ... 5.1.3.2. Stabilirea factorului de eficiență X(inițial,eficiență)
+
+## Articolul 37
+
+(1) Factorul de eficiență X(inițial,eficiență) stabilit de ANRE este aplicat costurilor de operare și mentenanță controlabile, altele decât cele legate de personal și cele efectuate în scop de cercetare-dezvoltare, față de anul precedent, începând cu primul an al perioadei de reglementare. (2) ANRE impune reducerea treptată a costurilor prevăzute la art. 32 și absorbția constantă a ineficienței prin creșterea anuală a țintelor de eficiență. Factorul X(inițial,eficiență) se stabilește de ANRE la o valoare de minimum 1% și maximum 2%, care este constantă pentru toți anii unei perioade de reglementare. ... 5.1.3.3. Costurile de operare și mentenanță necontrolabile
+
+## Articolul 38
+
+Costurile de operare și mentenanță necontrolabile reprezintă cheltuieli de exploatare deductibile fiscal în limita prevederilor legale în vigoare, ale căror nivel și oportunitate nu pot fi controlate prin decizii de management de OTS și asupra cărora OTS nu poate acționa direct în scopul creșterii eficienței prestării serviciului de transport al energiei electrice.
+
+## Articolul 39
+
+Următoarele costuri de operare și mentenanță sunt considerate necontrolabile: a) costuri rezultate din plata impozitelor, redevențelor, taxelor și vărsămintelor asimilate, stabilite conform reglementărilor legale în vigoare sau de către autoritățile centrale și locale, inclusiv cele rezultate din regularizarea taxelor legale privind mijloacele fixe, înregistrate după punerea în funcțiune a acestora și care nu au fost capitalizate; ... b) costuri reglementate privind cheltuieli speciale; ... c) contribuții aferente fondului de salarii, conform obligațiilor și în limita valorilor/procentelor stabilite prin acte normative intrate în vigoare în timpul perioadei de reglementare, suplimentar față de cele stabilite prin legislația primară, în vigoare la începutul perioadei de reglementare; ... d) costuri extraordinare apărute în cazuri excepționale (de exemplu: război, cutremur, acte teroriste) sau ca urmare a unor condiții meteorologice deosebite; ... e) costuri controlabile incluse în categoria costurilor necontrolabile în scop stimulativ, respectiv costuri de personal din cadrul structurii organizatorice proprii, distincte, cu atribuții privind accesarea de fonduri europene și alte programe de fonduri nerambursabile și costuri financiare justificate ocazionate de accesarea fondurilor pentru realizarea investițiilor cu finanțare/cofinanțare din fonduri nerambursabile prevăzute la art. 41 alin. (5) ; ... f) cheltuieli cu indemnizații plătite de OTS către terți conform prevederilor legale în vigoare sau conform celor stabilite prin hotărâri judecătorești definitive, pentru exercitarea drepturilor de uz și servitute; ... g) cheltuielile aferente implementării regulamentelor europene în condițiile prevăzute de reglementările europene. ...
+
+## Articolul 40
+
+(1) Cheltuielile speciale determinate de cauze extraordinare sau evenimente aleatorii pot fi recuperate eșalonat pe perioada pe care aceste cheltuieli își produc efectele. În astfel de cazuri, perioada de amortizare trebuie să corespundă cu perioada de realizare a beneficiilor. (2) În categoria cheltuielilor speciale se includ și cheltuielile ulterioare aferente unei aplicații informatice existente de natura dotărilor, care reprezintă actualizări ale aplicațiilor sau actualizări ale bazelor de date, indiferent de modalitatea de înregistrare în contabilitatea OTS.
+
+## Articolul 41
+
+(1) În cazul în care OTS deține o structură organizatorică proprie, distinctă, cu atribuții privind accesarea de fonduri europene și alte programe de fonduri nerambursabile, acesta poate solicita ANRE aprobarea unor valori prognozate pentru costurile prevăzute la art. 39 lit. e) . (2) Valoarea prognozată se stabilește pe baza propunerii OTS, luând în considerare valoarea estimată a costurilor de personal aferentă structurii organizatorice prevăzute la alin. (1) . (3) În vederea recunoașterii costurilor prevăzute la alin. (1) , OTS transmite ANRE un memoriu justificativ detaliat privind rezultatele activității de accesare de fonduri europene și alte programe de fonduri nerambursabile, însoțit de documente justificative. (4) Valoarea costurilor necontrolabile prevăzute la art. 39 lit. e) nu include cheltuielile care sunt recuperate în cadrul programelor de finanțare, prevăzute la art. 16 lit. a) . (5) Prin excepție de la prevederile art. 16 lit. h) , la solicitarea justificată a OTS, în categoria cheltuielilor prevăzute la art. 39 lit. e) se recunosc ex post și cheltuieli privind dobânzi aferente creditelor bancare, dacă din memoriul și documentele justificative rezultă că acestea sunt aferente creditelor utilizate în limita valorii eligibile a proiectelor finanțate din fonduri europene și alte programe de fonduri nerambursabile, în cazul depășirii termenelor de plată de către autoritățile de management. Perioada pentru care se recunosc aceste dobânzi este egală cu durata întârzierii privind încasarea cererii de rambursare. (6) Valoarea prognozată/realizată a costurilor de personal prevăzute la art. 39 lit. e) nu se include în valoarea prognozată/realizată a costurilor de personal prevăzute la art. 87 alin. (1) lit. b) .
+
+## Articolul 42
+
+Costurile de operare și mentenanță necontrolabile nu includ cheltuielile care au fost capitalizate, aferente realizării imobilizărilor corporale și necorporale finalizate sau aflate în curs de execuție, și nici orice valoare care la fundamentarea tarifelor de transport a fost inclusă în investiții, dar în contabilitatea financiară a OTS a fost înregistrată drept cheltuială de exploatare.
+
+## Articolul 43
+
+Costurile de operare și mentenanță necontrolabile prognozate aprobate de ANRE pentru perioada de reglementare p
+
+1 se stabilesc luând în considerare nivelul costurilor estimate/realizate pentru/în ultimii doi ani ai perioadei de reglementare p, care îndeplinesc condițiile de includere în venitul reglementat conform prevederilor prezentei metodologii, precum și modificările costurilor din această categorie intervenite ulterior. ... ... 5.1.4. Costurile și veniturile aferente transportului de energie electrică între OTS-uri
+
+## Articolul 44
+
+(1) În anul de referință, odată cu solicitarea de aprobare a tarifelor pentru următoarea perioadă de reglementare, OTS transmite ANRE fundamentarea costurilor și veniturilor aferente transportului de energie electrică între OTS-uri, pentru perioada de reglementare p
+
+1. (2) Pentru perioada de reglementare p
+
+1, costurile și veniturile aferente transportului de energie electrică între OTS-uri se estimează de către OTS la aceeași valoare pentru fiecare an, ținând seama de valoarea estimată/realizată recunoscută pentru anul de referință al perioadei de reglementare p
+
+1.
+
+## Articolul 45
+
+Costurile OTS datorate transportului de energie electrică între OTS-uri se propun de OTS în conformitate cu principiile și regulile de calcul ale Mecanismului de compensare a efectelor utilizării rețelelor electrice de transport pentru tranzite de energie electrică între OTS-uri, prevăzut de Regulamentul (UE) 2019/943 și Regulamentul (UE) 2010/838, și se aprobă de ANRE. ... 5.1.5. Costurile cu amortizarea
+
+## Articolul 46
+
+(1) Costurile cu amortizarea anuală a activelor cuprinse în venitul-țintă inițial determinat conform prevederilor art. 24 trebuie să fie identice cu costurile cu amortizarea anuală luate în considerare la determinarea bazei reglementate a activelor prognozate conform prevederilor art. 52 . (2) Costurile cu amortizarea anuală a activelor existente la începutul primei perioade de reglementare sunt stabilite prin utilizarea metodei liniare de amortizare pe o durată de viață de 25 de ani. (3) Costurile cu amortizarea anuală a activelor noi înregistrate în contabilitate ca mijloace fixe în cadrul unui an se calculează folosind metoda liniară, cu aplicarea duratelor normale de viață reglementate, prevăzute în anexa nr. 1. (4) Pentru alte categorii de mijloace fixe, neincluse în anexa nr. 1, se folosesc duratele maxime de funcționare stabilite prin Catalog sau durate mai mari decât acestea, aprobate prin decizii/hotărâri ale conducerii OTS.
+
+## Articolul 47
+
+(1) Amortizarea aferentă activelor primite cu titlu gratuit, achiziționate din fonduri nerambursabile, inclusiv cele obținute din aplicarea tarifelor de racordare a noilor utilizatori, precum și cea aferentă activelor realizate din veniturile obținute de OTS din alocarea capacității de interconexiune, nu se include în costurile justificate ce stau la baza stabilirii componentei tarifare corespunzătoare venitului reglementat nonCPT. (2) Costul cu amortizarea reglementată prognozată/realizată se determină ca sumă a amortizării BAR inițial și a amortizării mijloacelor fixe înregistrate în contabilitate în fiecare an și recunoscute de ANRE, ulterior datei de 1 ianuarie 2005, care sunt utilizate pentru serviciul de transport, cu formula: unde: AM(t) - amortizarea reglementată aferentă unui an t; AM(BARinițial,t) - amortizarea BAR inițial stabilită prin metoda liniară pentru o durată normală de viață de 25 de ani pentru anul t; AM(existente,t) - amortizarea anuală totală a mijloacelor fixe aferente fiecărui an, înregistrate în lista de mijloace fixe a societății între data de 1 ianuarie 2005 și 31 decembrie a anului t – 1 și recunoscute de ANRE, pentru anul t; AM(inv,t) - amortizarea mijloacelor fixe prognozate a fi puse în funcțiune/puse în funcțiune în anul t. (3) În cadrul costurilor prognozate cu amortizarea reglementată avute în vedere pentru determinarea venitului-țintă inițial aferent unui an t al perioadei de reglementare p
+
+1, pentru mijloacele fixe puse în funcțiune în anul t se consideră, în mod convențional, că luna punerii în funcțiune a mijloacelor fixe este luna decembrie. (4) În cadrul costurilor realizate cu amortizarea reglementată, pentru mijloacele fixe puse în funcțiune în cursul anului t, valoarea amortizării se determină având în vedere luna punerii în funcțiune. ... 5.1.6. Baza reglementată a activelor (BAR)
+
+## Articolul 48
+
+(1) BAR include valoarea netă a activelor corporale și necorporale corespunzătoare patrimoniului privat al OTS și valoarea netă a activelor aparținând domeniului public al statului finanțate integral din surse proprii, rezultate în urma investițiilor eficiente. (2) Activele incluse în BAR trebuie să fie cele utilizate de OTS pentru desfășurarea activităților ale căror costuri se regăsesc în venitul reglementat nonCPT. (3) ANRE controlează volumul activelor incluse în BAR, astfel încât să nu existe costuri determinate de decizii incorecte sau de o structură a activelor care nu mai corespunde condițiilor economice. (4) BAR nu include: valoarea investițiilor financiare în alte activități în afara serviciului de transport, valoarea investițiilor realizate din contribuții financiare, valoarea investițiilor având ca sursă de finanțare veniturile obținute din alocarea capacității de interconexiune și valoarea amortizărilor corespunzătoare acestora. (5) BAR nu include mijloacele fixe a căror folosință este obținută prin contract de închiriere/comodat de la terți sau rezultă din lucrări de investiții care vizează mijloace fixe obținute în acest fel, precum și mijloacele fixe a căror folosință este cedată terților prin contract de închiriere/comodat, fie și parțial. (6) Prin excepție de la prevederile alin. (5) , se mențin în BAR imobilizările corporale de natura clădirilor, utilizate ca sedii și puncte de lucru pentru activitatea de transport al energiei electrice, a căror folosință este cedată parțial terților prin contract de închiriere. (7) BAR nu include terenurile, activele circulante, activele puse în conservare sau stocurile, inclusiv mijloacele fixe aflate în depozit. (8) Nu se includ în BAR cheltuielile efectuate pe parcursul realizării unui mijloc fix recepționat, pus în funcțiune sau dat în folosință, dar care nu au fost incluse de OTS în valoarea mijlocului fix la data recepției. (9) Nu se includ în BAR cheltuielile ulterioare aferente unei aplicații informatice existente de natura dotărilor, care reprezintă actualizări ale aplicațiilor sau actualizări ale bazelor de date.
+
+## Articolul 49
+
+(1) Activele din categoria dotări pentru care costurile au fost recunoscute la fundamentare în cadrul costurilor de operare și mentenanță sunt recunoscute în BAR numai dacă OTS demonstrează prin analiza cost-beneficiu că pentru durata de viață reglementată a activelor respective valoarea costurilor de capital: amortizarea și rentabilitatea este mai mică decât valoarea reducerii de costuri de operare și mentenanță controlabile. (2) În situația în care condiția prevăzută la alin. (1) este îndeplinită, reducerea de costuri de operare și mentenanță controlabile este considerată câștig de eficiență, în fiecare an începând cu data punerii în funcțiune până la sfârșitul perioadei de reglementare.
+
+## Articolul 50
+
+OTS este obligat să transmită anual, odată cu documentația de solicitare de tarife, o situație a imobilizărilor pentru care au fost încheiate contracte de cedare a folosinței, precum și a celor care au intrat în conservare și să le includă în lista mijloacelor fixe scoase din funcțiune anual.
+
+## Articolul 51
+
+(1) Pentru calculul BAR aferente activității de transport existente la începutul perioadei de reglementare p
+
+1, ANRE ia în considerare următoarele: a) valoarea activelor corporale și necorporale amortizabile, corespunzătoare patrimoniului privat al OTS, și valoarea activelor aparținând domeniului public al statului finanțate integral din surse proprii, din registrul mijloacelor fixe acceptate în BAR de la 31 decembrie a anului de referință al perioadei de reglementare p
+
+1; ... b) amortizarea reglementată anuală aferentă activelor prevăzute la lit. a) . ... (2) În primul an al perioadei de reglementare p
+
+1 OTS transmite, până la data de 31 mai, valoarea netă contabilă a mijloacelor fixe incluse în BAR la data de 31 decembrie a anului de referință pentru perioada de reglementare p
+
+1, reevaluate conform legislației specifice, și poate solicita recunoașterea reevaluării acestora. (3) Pentru calculul BAR la data de 31 decembrie a anului de referință al unei perioade de reglementare, reevaluarea prevăzută la alin. (2) este luată în considerare de către ANRE în limita valorii minime dintre BAR actualizat cu rata cumulată a inflației, calculat conform prevederilor art. 53 , și valoarea netă contabilă a mijloacelor fixe incluse în BAR, reevaluate conform legislației specifice. (4) Calculul prevăzut la alin. (3) se efectuează în cursul primului an al perioadei de reglementare p
+
+1, urmând ca rezultatele să fie luate în considerare la reproiectarea tarifelor care intră în vigoare începând cu cel de-al doilea an al perioadei de reglementare.
+
+## Articolul 52
+
+(1) Valoarea prognozată și realizată a bazei reglementate a activelor pentru fiecare an t se stabilește cu formula: unde: BAR_t31dec - baza reglementată a activelor la data de 31 decembrie a anului t; BAR_t1ian - baza reglementată a activelor existente la data de 1 ianuarie a anului t; IA_t - intrările de active puse în funcțiune în cursul anului t și recunoscute de ANRE, pentru care se înregistrează amortizare; EA_t - ieșirile de mijloace fixe în cursul anului t prin operațiuni de vânzare, casare, cedare, conservare etc., inclusiv a celor existente la începutul primei perioade de reglementare. Valoric, sunt egale cu valoarea reglementată rămasă de amortizat a acestora, calculată cu luarea în considerare a valorii recunoscute de ANRE a mijloacelor fixe respective și a duratelor reglementate de funcționare; AM_t - suma algebrică dintre amortizarea anuală aferentă activelor ce compun BAR_t1ian și amortizarea aferentă activelor puse în/scoase din funcțiune în anul t, calculată folosindu-se metoda liniară, cu aplicarea duratelor de amortizare reglementate și cu considerarea datei punerii în funcțiune a următoarelor active: i. în luna decembrie a anului t, pentru valoarea prognozată a BAR; ... ii. în luna anului t în care mijloacele fixe au fost înregistrate/scoase în/din contabilitate, pentru valoarea realizată a BAR. ... (2) Baza reglementată a activelor la data de 31 decembrie a anului t – 1 este egală cu baza reglementată a activelor la data de 1 ianuarie a anului t. (3) Baza reglementată a activelor prognozată pentru perioada de reglementare p
+
+1 se exprimă în termeni reali ai anului de referință.
+
+## Articolul 53
+
+La trecerea de la o perioadă de reglementare la alta, valoarea BARp, estimată/realizată la data de 31 decembrie a ultimului an al perioadei de reglementare p, se stabilește cu formula (unde k reprezintă numărul de ani ai perioadei de reglementare): unde: BAR_p = valoarea BAR realizat la data de 31 decembrie a anului de referință al perioadei p; BAR_p–1 = valoarea BAR realizat la data de 31 decembrie a anului de referință al perioadei p – 1; t = un an generic al perioadei de reglementare; IA_t = intrările de mijloace fixe în cursul anului t, recunoscute de ANRE, pentru care se înregistrează amortizare (ponderate cu luna punerii în funcțiune); EA_t = ieșirile de mijloace fixe în cursul anului t din instalații sau din dotarea operatorului, astfel că acestea nu mai contribuie la prestarea serviciului de transport; valoric, sunt egale cu valoarea reglementată rămasă de amortizat a acestora, calculată cu luarea în considerare a valorii recunoscute de ANRE a mijloacelor fixe respective și a duratelor reglementate de funcționare (ponderate cu luna ieșirii în funcțiune); AM_t = costul cu amortizarea reglementată realizată, calculat conform formulei prevăzute la art. 47 alin. (2) ; IA_k = intrările de mijloace fixe în cursul ultimului an al perioadei de reglementare, recunoscute de ANRE, pentru care se înregistrează amortizare (ponderate cu luna punerii în funcțiune); EA_k = ieșirile de mijloace fixe în cursul ultimului an al perioadei de reglementare din instalații sau din dotarea operatorului, astfel că acestea nu mai contribuie la prestarea serviciului de transport; valoric, sunt egale cu valoarea reglementată rămasă de amortizat a acestora, calculată cu luarea în considerare a valorii recunoscute de ANRE a mijloacelor fixe respective și a duratelor reglementate de funcționare (ponderate cu luna ieșirii în funcțiune); AM_k = costul cu amortizarea reglementată realizată în ultimul an al perioadei de reglementare, calculat conform formulei prevăzute la art. 47 alin. (2) ; RI_i = RI utilizate la determinarea venitului reglementat nonCPT pentru anul t, prevăzute la art. 121 lit. a) ; k = numărul de ani ai perioadei de reglementare.
+
+## Articolul 54
+
+(1) În cadrul formulelor prevăzute la art. 52 alin. (1) și art. 53 se iau în considerare ieșirile de active existente la începutul primei perioade de reglementare, după cum urmează: a) pentru mijloacele fixe scoase din gestiune până la data de 31.12.2019 inclusiv, valoarea luată în considerare pentru ieșirea unui activ este egală cu valoarea rămasă neamortizată a acestuia la data de 31.12.2019, calculată cu luarea în considerare a amortizării stabilite prin metoda liniară pentru o durată normală de viață de 25 de ani, pornind de la valoarea inițială a mijloacelor fixe egală cu valoarea rămasă neamortizată la începutul primei perioade de reglementare, comunicată de OTS; ... b) pentru mijloacele fixe scoase din gestiune începând cu data de 1.01.2020, valoarea luată în considerare pentru ieșirea unui activ este egală cu valoarea rămasă neamortizată aferentă lunii în care are loc ieșirea, calculată conform prevederilor lit. a) . ... (2) OTS este obligat să includă mijloacele fixe existente la începutul primei perioade de reglementare și ieșite din gestiune, în lista ieșirilor de mijloace fixe din BAR care se transmite anual la ANRE, cu valoarea rămasă neamortizată calculată conform prevederilor alin. (1) . ... 5.1.7. Tratarea intrărilor în BAR
+
+## Articolul 55
+
+În calculul venitului-țintă inițial pentru fiecare an al perioadei de reglementare p
+
+1 se includ costurile de capital prevăzute în prezenta metodologie aferente investițiilor planificate a fi realizate în fiecare an din planul de investiții aprobat de ANRE pentru acea perioadă de reglementare, în conformitate cu prevederile reglementărilor în vigoare.
+
+## Articolul 56
+
+(1) ANRE poate limita valoarea planului de investiții, precum și costurile aferente amortizării, astfel încât să nu fie depășită limita de creștere a componentei tarifare corespunzătoare venitului reglementat nonCPT prevăzută la art. 136 alin. (1) . (2) În cazul în care OTS nu transmite planul de investiții sau acesta nu îndeplinește criteriile de aprobare în conformitate cu reglementările în vigoare, ANRE are dreptul să stabilească valoarea planului de investiții pentru fiecare an al perioadei de reglementare, având în vedere planul de dezvoltare a RET pe 10 ani, în vigoare. (3) Investițiile suplimentare realizate de OTS se recunosc în BAR de către ANRE în conformitate cu prevederile procedurii privind investițiile.
+
+## Articolul 57
+
+În accepțiunea prezentei metodologii, prin investiție realizată se înțelege acea investiție finalizată și inclusă în lista de mijloace fixe a OTS, pentru care se înregistrează amortizare.
+
+## Articolul 58
+
+În situația nerealizării investițiilor planificate, ANRE poate reduce veniturile reglementate nonCPT aferente următorilor ani ai perioadei de reglementare cu valoarea costurilor de capital care, conform documentelor puse la dispoziție de OTS la solicitarea ANRE, se dovedesc a fi nerealizabile în cursul respectivilor ani.
+
+## Articolul 59
+
+Dacă anumite active existente sunt utilizate pentru mai multe activități ale OTS, atunci acesta precizează distinct veniturile anuale rezultate din utilizarea acestor active, precum și costurile anuale aferente altor activități în afara celei de transport.
+
+## Articolul 60
+
+(1) Pentru încurajarea investițiilor în RET, în situația în care valoarea investițiilor în rețea realizate în anul t – 1 din surse proprii depășește valoarea minimă obligatorie a acestora pentru anul respectiv, ANRE aplică la valoarea acestei depășiri un stimulent în valoare de un punct procentual peste valoarea RRR aprobată conform prevederilor art. 66 . (2) Valoarea minimă obligatorie pentru totalul investițiilor realizate din surse proprii, precum și valoarea minimă obligatorie pentru investițiile realizate în RET din surse proprii se aprobă pentru fiecare an al perioadei de reglementare p
+
+1 și se comunică OTS. (3) Pentru mijloacele fixe aferente investițiilor în RET realizate din fonduri proprii în cadrul unor proiecte cofinanțate din fonduri europene nerambursabile, puse în funcțiune în perioada a V-a de reglementare, se stabilește un stimulent în valoare de 0,5 puncte procentuale peste rata reglementată a rentabilității aprobată conform prevederilor art. 66 . (4) Prevederile alin. (3) se aplică pentru investițiile care nu beneficiază de stimulente pentru proiecte de interes comun în baza Regulamentului (UE) nr. 347/2013 al Parlamentului European și al Consiliului din 17 aprilie 2013 privind liniile directoare pentru infrastructurile energetice transeuropene, de abrogare a Deciziei nr. 1.364/2006/CE și de modificare a Regulamentelor (CE) nr. 713/2009, (CE) nr. 714/2009 și (CE) 715/2009, cu modificările și completările ulterioare, și a Metodologiei pentru evaluarea investițiilor în proiecte de interes comun privind infrastructura pentru transportul și distribuția energiei electrice, inclusiv a riscurilor aferente acestora, aprobată prin Ordinul președintelui ANRE nr. 139/2015 , cu modificările și completările ulterioare.
+
+## Articolul 61
+
+(1) Pentru clădirile administrative și imobilizările corporale și necorporale definite în Procedura privind investițiile ca fiind dotări, puse în funcțiune începând cu data de 1 ianuarie 2025, se acordă RRR diminuat cu 2 puncte procentuale. (2) Valoarea RRR stabilită conform prevederilor alin. (1) se ia în considerare la stabilirea valorilor RBAR prognozat și RBAR realizat determinate conform art. 64 . (3) Prin excepție de la prevederile alin. (1) , valoarea RRR nu se ajustează în cazul dotărilor utilizate efectiv la lucrările în RET și care conduc la menținerea și/sau îmbunătățirea parametrilor RET.
+
+## Articolul 62
+
+(1) Valoarea RRR aprobată conform prevederilor art. 66 se majorează sau se diminuează cu 0,5 puncte procentuale, în funcție de nivelul de performanță realizat de OTS cu privire la dezvoltarea unei rețele inteligente care să promoveze eficiența energetică și integrarea energiei produse din surse regenerabile, în raport cu valorile setului de indicatori aprobat de ANRE. (2) Evaluarea nivelului de performanță prevăzut la alin. (1) realizat de OTS în anul t – 1 se efectuează în anul t. (3) Prin excepție de la prevederile alin. (2) , evaluarea nivelului de performanță realizat în primul an al perioadei a V-a de reglementare se efectuează în al treilea an al acestei perioade de reglementare.
+
+## Articolul 63
+
+(1) Ajustarea RRR prevăzută la art. 61 se ia în considerare la calcularea corecțiilor anuale prevăzute la art. 93 , precum și a corecțiilor de venit ∆V_p(I_p) calculate conform prevederilor art. 96 . (2) Stimulentul prevăzut la art. 60 și ajustarea RRR ca urmare a nivelului de performanță prevăzută la art. 62 se iau în considerare la stabilirea corecțiilor de venit ∆V_p(I_p) calculate conform prevederilor art. 96 . (3) Prevederile art. 60-62 se aplică pentru perioada a V-a de reglementare, pentru investițiile puse în funcțiune începând cu data de 1 ianuarie 2025. ... 5.1.8. Rentabilitatea bazei reglementate a activelor
+
+## Articolul 64
+
+(1) Pentru determinarea RBAR prognozată se utilizează formula: unde: RBAR_t - rentabilitatea bazei reglementate a activelor pentru anul t; RRR - rata reglementată a rentabilității; BAR_t1ian - BAR la 1 ianuarie în anul t; BAR_t31dec - BAR la 31 decembrie în anul t; t - un an generic al perioadei de reglementare. (2) Pentru determinarea RBAR realizată se ține cont de intrările/ieșirile de mijloace fixe efectiv realizate în anul respectiv conform formulei: unde: RBAR_t - rentabilitatea bazei reglementate a activelor pentru anul t; RRR - rata reglementată a rentabilității; BAR_31decrealizat - baza reglementată a activelor realizată la data de 31 decembrie a anului t, determinată conform art. 52 alin. (1) . 5.1.8.1. Rata reglementată a rentabilității
+
+## Articolul 65
+
+RRR se calculează în termeni reali pe baza costului mediu ponderat al capitalului înainte de impozitare.
+
+## Articolul 66
+
+(1) Valoarea RRR se stabilește și se aprobă prin ordin de către ANRE cu cel puțin 3 luni înainte de începerea unei perioade de reglementare. (2) Pentru evitarea recunoașterii în cadrul structurii tarifelor reglementate de transport a unor costuri de capital excesive, ANRE are dreptul să revizuiască anual, în anul t, valoarea RRR aplicată la stabilirea tarifelor de transport pentru anul t
+
+1, în funcție de evoluția valorilor parametrilor luați în considerare la determinarea acesteia. ... 5.1.8.2. Costul mediu ponderat al capitalului
+
+## Articolul 67
+
+(1) Costul capitalului, în termeni reali, poate fi stabilit pe baza costului mediu ponderat al capitalului înainte de impozitare, conform formulei: unde: CCP - costul capitalului propriu în termeni reali, calculat după impozitare, recunoscut de ANRE (%); CCI - costul capitalului împrumutat în termeni reali, calculat înainte de impozitare, recunoscut de ANRE (%); Kp - ponderea capitalului propriu în total capital, stabilită de ANRE; Ki - ponderea capitalului împrumutat în total capital, stabilită de ANRE. Ki = (1 – Kp); T - rata impozitului pe profit. (2) Structura capitalului este formată din împrumuturi bancare pe termen lung și capitaluri proprii. (3) Costul mediu ponderat al capitalului se calculează ca o însumare ponderată a costurilor capitalurilor utilizate, ținându-se cont de ponderea acestora. ... 5.1.8.3. Model de determinare a valorii capitalului
+
+## Articolul 68
+
+ANRE utilizează CAPM pentru a cuantifica rata rentabilității activelor pentru OTS.
+
+## Articolul 69
+
+(1) Costul capitalului propriu se determină cu formula: unde: CCP - costul capitalului propriu în termeni reali, calculat după impozitare, recunoscut de ANRE (%); Rf_R - rata reală a rentabilității investițiilor fără risc, calculată astfel: unde: Rf - dobânda la titlurile de stat cu o scadență de cel puțin zece ani; RI_P - rata medie a inflației anuale determinată pe baza ratelor anuale ale inflației prognozate și publicate de CNSP pentru perioada de reglementare următoare; Rm - rata rentabilității pe piața acțiunilor (venitul așteptat din portofoliul de piață); (Rm – Rf_R) - prima riscului de piață; β - coeficient care exprimă corelația dintre venitul rezultat din portofoliul de piață și venitul individual al societății reprezentând o comparație a riscului de piață; (Rm – Rf_R) * β - exprimarea primei de risc în valoare procentuală. (2) Costul capitalului propriu reflectă câștigurile nete care vor fi obținute de către acționari după acoperirea tuturor costurilor aferente activității. ANRE poate lua în considerare diferite metode în determinarea unui cost adecvat al capitalului propriu ... 5.1.8.4. Costul capitalului împrumutat
+
+## Articolul 70
+
+Costul capitalului împrumutat se calculează pe baza dobânzii curente la un împrumut eficient și bine gestionat de pe o piață de capital națională sau internațională relevantă, cu caracteristici asemănătoare cu piața financiară internă.
+
+## Articolul 71
+
+În cazul în care costul real al capitalului împrumutat depășește nivelul dobânzii curente pe o piață internă sau externă de capital, ANRE solicită informații suplimentare asupra motivelor apariției acestei diferențe. Dacă OTS furnizează documente incomplete sau insuficiente, ANRE stabilește costul capitalului împrumutat fără consultarea OTS.
+
+## Articolul 72
+
+ANRE poate decide calcularea costului capitalului împrumutat, însumând rata investițiilor fără risc cu prima de risc reprezentând randamentul adițional care remunerează riscul suplimentar asumat de creditori.
+
+## Articolul 73
+
+Pe parcursul anului de referință al unei perioade de reglementare, ANRE poate iniția un proces de consultare pentru stabilirea structurii capitalului ce este luată în calcul la stabilirea RRR. OTS poate să propună și ANRE poate să decidă o structură a capitalului, ținând cont și de structura standard a unor societăți internaționale cu activități similare, precum și de condițiile și riscul pieței interne de electricitate. ... ... 5.1.9. Venituri obținute din alte activități care utilizează resursele recunoscute pentru desfășurarea serviciului de transport
+
+## Articolul 74
+
+(1) Veniturile obținute din alte activități care utilizează resursele recunoscute pentru desfășurarea serviciului de transport aferente unui an t al perioadei de reglementare p
+
+1 [V (t)(AA)] cuprind: venituri din utilizarea SEN pentru schimburile de energie electrică programate cu țările perimetrice, venituri din energie electrică reactivă, venituri din ajutoare de urgență/avarie între OTS-uri, venituri din comercializarea excedentului de capacitate de fibră optică, venituri din alte prestații, alte venituri de exploatare (cu excepția veniturilor obținute din dezmembrări nevalorificate, a celor înregistrate în contabilitate la nivelul cheltuielilor cu amortizarea mijloacelor fixe realizate din contribuții financiare, a celor provenite din valorificarea bunurilor aparținând domeniului public al statului, a celor rezultate din anularea provizioanelor și a deprecierilor și a celor provenite din recuperarea cheltuielilor de judecată și a altor cheltuieli asociate, precum și a veniturilor din despăgubiri, amenzi și penalități rezultate ca urmare a recuperării unor sume plătite anterior autorităților statului român conform sentințelor judecătorești). (2) Veniturile care se realizează din utilizarea SEN pentru schimburile de energie electrică programate cu țările perimetrice se obțin prin aplicarea tarifului reglementat pentru schimburile de energie electrică cu țările perimetrice, potrivit Mecanismului de compensare a efectelor utilizării rețelelor electrice de transport pentru tranzite de energie electrică între OTS-uri, prevăzut la art. 49 din Regulamentul (UE) 2019/943 și în Regulamentul (UE) 2010/838. (3) Tariful reglementat aferent utilizării SEN pentru schimburile de energie electrică programate cu țările perimetrice prevăzut la alin. (2) se stabilește de ENTSO-E.
+
+## Articolul 75
+
+(1) Pentru perioada de reglementare p
+
+1, valoarea veniturilor obținute din alte activități care utilizează resursele recunoscute pentru desfășurarea serviciului de transport se estimează de către OTS la aceeași valoare pentru fiecare an al perioadei de reglementare p
+
+1, ținând seama de media valorilor realizate recunoscute în perioada de reglementare p. (2) Prin excepție de la prevederile alin. (1) , veniturile din comercializarea excedentului de capacitate de fibră optică se recunosc ex post. ... 5.1.10. Stabilirea factorului X(final,liniar) și a veniturilor liniarizate
+
+## Articolul 76
+
+Între anii t ai unei perioade de reglementare p
+
+1 este posibil să apară diferențe mari între valorile venitului-țintă inițial, din cauza unor diferențe mari între valorile planurilor anuale de investiții. Aceste diferențe se diminuează utilizând o metodă de liniarizare a veniturilor reglementate nonCPT prin considerarea unui singur factor X(final,liniar) pe întreaga perioadă de reglementare, aplicabil venitului de referință.
+
+## Articolul 77
+
+La determinarea factorului X(final,liniar), ANRE ia în considerare: a) îmbunătățirea prognozată a productivității OTS [X(inițial, eficiență)]; ... b) prognoza costurilor anuale, exclusiv costurile cu achiziția energiei electrice pentru acoperirea CPT, costurile cu CPT aferente tranzitelor suplimentare de energie electrică din rețelele de 110 kV atribuite OTS și costurile cu eliminarea congestiilor; ... c) planul de investiții (mijloacele fixe aferente) aprobat de ANRE și BAR; ... d) cerința de liniarizare a veniturilor-țintă inițiale. ...
+
+## Articolul 78
+
+(1) Valoarea unică a factorului de liniarizare [X(final,liniar)] se determină astfel încât valoarea netă actualizată a fluxului de venituri liniarizate [V(liniarizat,t)] pe întreaga perioadă de reglementare să fie egală cu valoarea actualizată a venitului-țintă inițial [V(țintă inițial,t)] pe aceeași perioadă de reglementare. (2) Calculul valorii nete actualizate a fluxului de venituri liniarizate utilizează RRR ca factor de actualizare conform formulei: unde: k reprezintă numărul de ani t din perioada de reglementare p
+
+1.
+
+## Articolul 79
+
+(1) Veniturile anuale liniarizate sunt cele care conduc la valoarea netă prezentă echivalentă a veniturilor-țintă inițiale, prin aplicarea factorului de liniarizare X(final,liniar) determinat conform art. 78 asupra venitului de referință nonCPT, conform formulei: (2) În primul an al perioadei de reglementare are loc reproiectarea veniturilor liniarizate pentru perioada de reglementare în curs, ca rezultat al reluării procedurii de liniarizare a acestora, ca urmare a actualizării venitului-țintă inițial cu luarea în considerare a datelor realizate aferente anului de referință. (3) În condițiile prevăzute la alin. (2) , în cadrul venitului-țintă inițial pentru primul an al perioadei de reglementare sunt luate în considerare corecțiile anuale aferente anului de referință și valoarea recalculată a veniturilor ∆V_p(I_p) prevăzute la art. 96 . (4) Diferența de venituri pentru primul an al perioadei de reglementare, rezultată ca urmare a reluării procedurii de liniarizare în condițiile alin. (2) și (3) , reprezintă o corecție care se aplică venitului reglementat nonCPT aferent celui de-al doilea an al perioadei de reglementare, actualizată în termenii nominali ai anului în care se aplică. ... 5.1.11. Calculul venitului reglementat nonCPT. Formula de reglementare de tip venit plafon
+
+## Articolul 80
+
+(1) Venitul reglementat nonCPT al serviciului de transport [VR nonCPT (t)] pentru anul t
+
+1 se calculează cu formula: unde: k - numărul de ani t din cadrul perioadei de reglementare p
+
+1; RI - valorile procentuale ale ratelor inflațiilor prevăzute la art. 121 ; V_liniarizat(t
+
+1) – venitul liniarizat aprobat pentru anul (t
+
+1); KV_nonCPT(t – 1) - suma algebrică a corecțiilor venitului nonCPT din anul t – 1; KV_s(t – 1) - corecție a venitului nonCPT reprezentând premierile/penalizările pentru realizarea/nerealizarea indicatorilor de performanță a serviciului de transport peste/sub cei aprobați de ANRE pentru anul t – 1; la determinarea acestei corecții se au în vedere prevederile art. 127 alin. (2) . (2) La determinarea venitului reglementat nonCPT al anului t
+
+1 prevăzut la alin. (1) se utilizează costurile de capital incluse în venitul-țintă utilizat la obținerea venitului liniarizat exprimate în termenii anului t
+
+1 cu luarea în considerare a valorii ratei inflației prevăzute la art. 121 lit. a) și restul costurilor până la valoarea venitului liniarizat exprimate în termenii anului t
+
+1 cu luarea în considerare a valorii ratei inflației prevăzute la art. 121 lit. b) . ... 5.1.12. Corecții anuale ale venitului reglementat nonCPT
+
+## Articolul 81
+
+(1) Anual, ANRE efectuează corecția veniturilor reglementate nonCPT (KV_nonCPT) datorată următoarelor elemente: a) variației cantității de energie electrică extrasă din rețele, realizată față de cea prognozată; ... b) modificării anuale a costurilor de operare și mentenanță controlabile, altele decât cele prevăzute la lit. c)-e) , realizate și acceptate față de cele prognozate; ... c) modificării anuale a costurilor controlabile cu lucrările de mentenanță, altele decât cele prevăzute la lit. d) , realizate și acceptate față de cele prognozate; ... d) modificării anuale a costurilor controlabile cu personalul prevăzute la art. 27 lit. i) și k-m) realizate și acceptate față de cele prognozate; ... e) modificării anuale a costurilor controlabile efectuate în scop de cercetare-dezvoltare realizate și acceptate față de cele prognozate; ... f) modificării anuale a costurilor de operare și mentenanță necontrolabile realizate și acceptate față de cele prognozate; ... g) modificării anuale a costurilor datorate transportului de energie electrică între OTS-uri realizate și acceptate față de cele prognozate; ... h) modificării anuale a altor venituri obținute prin utilizarea resurselor recunoscute pentru desfășurarea serviciului de transport realizate și acceptate față de cele prognozate; ... i) realizării programului de investiții aprobat; ... j) diferenței dintre valoarea venitului obținută prin aplicarea tarifului de extragere a energiei electrice din rețele aprobat la cantitatea de energie extrasă din rețele realizată și valoarea venitului realizat din tarifarea energiei electrice extrasă din rețele înregistrată în evidențele contabile ale OTS. ... (2) Modificarea valorilor anuale ale veniturilor liniarizate datorită aplicării corecțiilor nu implică recalcularea factorului X(final,liniar).
+
+## Articolul 82
+
+(1) În situația în care ANRE ia cunoștință că, printr-o decizie/hotărâre a unei autorități a statului, care nu a fost contestată în instanță și/sau nu mai poate fi contestată, s-a constatat încălcarea de către OTS a legislației în vigoare de natură a afecta tarifele reglementate, veniturile pe baza cărora se stabilesc tarifele reglementate ale OTS se diminuează corespunzător cu valoarea costurilor anterior recunoscute. (2) Prevederile alin. (1) se aplică, după caz, și în situația în care au fost semnate angajamente sau alte documente între OTS și o autoritate a statului, prin care faptele au fost recunoscute.
+
+## Articolul 83
+
+(1) Corecția aferentă variației cantităților de energie electrică extrasă din rețele în anul t – 1 față de cele prognozate se calculează în anul t prin compararea acestora și determinarea diferențelor cantitative. (2) Diferențele cantitative sunt transformate în diferențe de venituri luând în calcul componenta tarifară corespunzătoare venitului reglementat nonCPT aferentă anului în care s-a extras energia electrică din rețele. (3) În cazul în care cantitatea de energie electrică extrasă din rețele realizată este mai mare decât cantitatea de energie electrică prognozată, se determină o diferență de venituri negativă, ceea ce generează o corecție negativă a venitului reglementat aferent anului t
+
+1. (4) În cazul în care cantitatea de energie electrică extrasă din rețele realizată este mai mică decât cantitatea de energie electrică prognozată, se determină o diferență de venituri pozitivă, ceea ce generează o corecție pozitivă a venitului reglementat aferent anului t
+
+1. (5) În situația prevăzută la alin. (4) și în condițiile realizării unui câștig de eficiență, valoarea corecției de venit reglementat nonCPT datorate variației cantității de energie electrică extrasă din rețele pentru anul t – 1 prevăzute la art. 81 alin. (1) lit. a) se diminuează cu valoarea câștigului de eficiență alocat OTS pentru anul t – 1 determinată conform prevederilor art. 89 .
+
+## Articolul 84
+
+Prevederile art. 83 referitoare la corecția anuală datorată variației cantităților de energie electrică extrasă din rețele față de cele prognozate și prevederile art. 81 alin. (1) lit. j) referitoare la corecția aferentă diferenței dintre valoarea veniturilor obținute prin aplicarea tarifului de extragere a energiei electrice din rețele aprobat la cantitatea de energie extrasă din rețele realizată și valoarea venitului realizat din tarifarea energiei electrice extrasă din rețele înregistrată în evidențele contabile ale OTS se aplică în mod similar pentru fiecare din următoarele categorii de venit: venitul reglementat nonCPT, venitul reglementat CPT și venitul reglementat CPT suplimentar capitalizat.
+
+## Articolul 85
+
+Pentru evitarea înregistrării ulterioare a unui nivel semnificativ al corecțiilor, în cazul în care ANRE constată în anul t o variație mai mare de 1,5% față de cantitatea anuală de energie electrică extrasă din rețele prognozată, se modifică prognoza de cantitate pentru anul t
+
+1 în funcție de nivelul realizat în anul t – 1 și cel estimat pentru anul t.
+
+## Articolul 86
+
+Corecțiile prevăzute la art. 81 alin. (1) lit. b)-i) se calculează ca diferență între valoarea realizată și acceptată de ANRE ca urmare a analizei în raport cu prevederile prezentei metodologii și valoarea prognozată, în termenii nominali ai anului pentru care se calculează.
+
+## Articolul 87
+
+(1) Prin excepție de la prevederile art. 86 , în cazul în care valoarea realizată și acceptată în urma analizei efectuate de ANRE conform prezentei metodologii este mai mare decât valoarea prognozată, valoarea recunoscută este limitată la valoarea prognozată, pentru fiecare din următoarele categoriile de costuri controlabile: a) costuri cu lucrările de mentenanță, altele decât cele de personal; ... b) costuri legate de personal; ... c) costuri de operare și mentenanță efectuate în scop de cercetare-dezvoltare; ... d) alte costuri controlabile decât cele prevăzute la lit. a)-c) . ... (2) În cazul în care valoarea costurilor cu lucrările de mentenanță în rețelele electrice, altele decât cele de personal, realizate în anul t – 1, este mai mică decât valoarea prognozată la începutul perioadei de reglementare, la solicitarea întemeiată a OTS, ANRE amână pentru anul t aplicarea corecției aferente nerealizării costurilor de mentenanță aferente anului t – 1. (3) În situația prevăzută la alin. (2) , OTS are obligația să realizeze în anul t costurile amânate din anul t – 1. (4) Prevederile alin. (2) se aplică numai în situația în care anii respectivi fac parte din aceeași perioadă de reglementare.
+
+## Articolul 88
+
+(1) Costurile de operare și mentenanță controlabile aferente serviciului de transport realizate în anul t – 1 se raportează distinct pe categoriile de costuri prevăzute la art. 87 alin. (1) . (2) Pentru stabilirea corecțiilor aferente costurilor de operare și mentenanță, încadrarea costurilor de operare și mentenanță realizate în timpul perioadei de reglementare în categoriile prevăzute la alin. (1) corespunde încadrării avute în vedere la stabilirea prognozei de costuri pentru perioada respectivă de reglementare.
+
+## Articolul 89
+
+(1) Pentru costurile de operare și mentenanță controlabile, altele decât cele aferente lucrărilor de mentenanță, cele legate de personal și cele efectuate în scop de cercetare-dezvoltare, ANRE determină suma aferentă câștigului de eficiență peste valoarea aprobată pentru fiecare an al perioadei de reglementare p. Până la o limită a câștigului de eficiență egală cu 5%, ANRE alocă 60% din câștigul de eficiență utilizatorilor (mecanism de împărțire a câștigurilor). Câștigul de eficiență realizat peste această limită se alocă integral utilizatorilor. (2) La calculul câștigului de eficiență prevăzut la alin. (1) se iau în considerare valorile costurilor realizate și acceptate de ANRE ca urmare a analizei în raport cu prevederile prezentei metodologii. (3) Pentru calculul prevăzut la alin. (1) , costurile nejustificate, precum și cele rezultate din corecția de inflație a costurilor de operare și mentenanță controlabile nu sunt considerate câștig de eficiență. (4) Valoarea reducerii de costuri luată în calculul analizei cost-beneficiu prevăzută la art. 49 alin. (2) se alocă integral utilizatorilor. (5) În situația prevăzută la art. 83 alin. (4) , valoarea câștigului de eficiență alocat OTS pentru anul t – 1 determinată conform prevederilor alin. (1) se utilizează la diminuarea corecției de venit reglementat nonCPT datorate variației cantităților de energie extrasă din rețele pentru anul t – 1 prevăzute la art. 81 alin. (1) lit. a) .
+
+## Articolul 90
+
+(1) Veniturile care se realizează din alocarea capacității de transport pe liniile de interconexiune se utilizează cu prioritate în conformitate cu prevederile art. 19 alin. (2) din Regulamentul (UE) nr. 943/2019. Aceste venituri constituie sursa de finanțare pentru garantarea disponibilității reale a capacității de transport transfrontalier alocate, pentru menținerea sau creșterea capacităților interzonale prin optimizarea utilizării capacităților de interconexiune existente prin măsuri coordonate de remediere, dacă este cazul, sau acoperirea costurilor generale de investițiile în rețea relevante pentru reducerea congestionării capacităților de interconexiune. (2) Utilizarea veniturilor în conformitate cu alin. (1) face obiectul unei metodologii aprobare de ACER. (3) În situația în care obiectivele legate de prioritățile prevăzute la alin. (1) au fost îndeplinite în mod adecvat de OTS, o parte din diferența între veniturile realizate din alocarea capacității de interconexiune și valoarea utilizată conform alin. (1) în anul t – 1 se constituie corecție la calculul venitului reglementat nonCPT aferent anului t
+
+1. (4) Veniturile rezultate după aplicarea prevederilor alin. (3) sunt plasate de către OTS într-un cont distinct al acestuia, pentru a fi cheltuite în conformitate cu prevederile alin. (1) .
+
+## Articolul 91
+
+Valoarea veniturilor din închirierea mijloacelor fixe de natura clădirilor, utilizate ca sedii și puncte de lucru pentru activitatea de transport al energiei electrice, care fac parte din BAR, inclusiv veniturile pentru acoperirea cheltuielilor operaționale controlabile și necontrolabile aferente respectivelor mijloace fixe, se include în corecția prevăzută la art. 81 alin. (1) lit. h) , astfel încât pentru fiecare mijloc fix nivelul veniturilor care reprezintă corecție trebuie să fie cel puțin egal cu suma costurilor cu amortizarea, rentabilitatea și a cheltuielilor operaționale controlabile și necontrolabile aferente părții închiriate.
+
+## Articolul 92
+
+Prin excepție de la prevederile art. 86 , corecția aferentă veniturilor obținute din alte activități care utilizează resursele recunoscute pentru desfășurarea activității de transport al energiei electrice rezultate din comercializarea excedentului de capacitate de fibră optică este egală cu diferența pozitivă între veniturile și costurile realizate și acceptate de ANRE pentru această activitate.
+
+## Articolul 93
+
+(1) În fiecare an t, ANRE verifică realizarea planului de investiții aprobat anterior pentru anul t – 1. (2) Corecția de venit aferentă anului t – 1 aplicată în venitul reglementat al anului t
+
+1 reprezintă o corecție de amortizare și rentabilitate, stabilită cu formula: unde: ∆V_t
+
+1 (I_t – 1) - corecția de venit datorată investițiilor realizate aferente anului t – 1; I_realizat, t – 1 - valoarea investițiilor realizate în anul t – 1; I_prognozat, t – 1 - valoarea investițiilor prognozate a se realiza în anul t – 1, în termeni nominali ai anului t – 1; AM_realizat, t – 1 - amortizarea investițiilor realizate în anul t – 1, în termeni nominali; AM_prognozat, t – 1 - amortizarea investițiilor prognozate a se realiza în anul t – 1, în termeni nominali ai anului t – 1; RTS_i - rata dobânzii titlurilor de stat, în termeni reali. (3) Prevederile alin. (2) nu se aplică pentru investițiile realizate în ultimii doi ani ai unei perioade de reglementare.
+
+## Articolul 94
+
+Costurile realizate cu ajutoarele de urgență/avarie între OTS-uri sunt luate în considerare în venitul reglementat în conformitate cu prevederile contractelor de ajutor de urgență/avarie încheiate de OTS cu operatorii de transport și sistem din țările vecine și cu reglementările specifice elaborate în baza prevederilor art. 18 din Regulamentul (UE) 2017/2.195 și se recunosc ex post la nivelul rezultat în urma analizei datelor, informațiilor și documentelor justificative transmise. ... 5.1.13. Corecții efectuate la sfârșitul perioadei pentru venitul reglementat nonCPT
+
+## Articolul 95
+
+Corecția de amortizare și rentabilitate a activelor intrate în/ieșite din BAR în perioada de reglementare p și corecția veniturilor din alocarea capacității pe liniile de interconexiune pentru perioada de reglementare p se determină în anul de referință și se includ în venitul-țintă inițial din primul an al perioadei de reglementare p
+
+1.
+
+## Articolul 96
+
+Valoarea corecției de amortizare și rentabilitate a activelor intrate în/ieșite din BAR în perioada de reglementare ∆V_p(I_p) se calculează cu formula: unde: k - numărul de ani ai perioadei de reglementare p; RBAR_realizat,t - rentabilitatea bazei reglementate a activelor realizată într-un an t al perioadei de reglementare p; RBAR_prognozat,t - rentabilitatea bazei reglementate a activelor prognozată pentru un an t din perioada de reglementare p exprimată în termeni nominali ai anului t; AM_realizat,t – AM_prognozat,t - diferența dintre valoarea reglementată a amortizării realizată în anul t al perioadei de reglementare p și amortizarea prognozată la începutul perioadei de reglementare pentru anul t exprimată în termeni nominali ai anului t; RTS_i - rata dobânzii titlurilor de stat considerată pentru anul t, în termeni reali; ΔVI_t - corecția de venit datorată realizării investițiilor aferente anului t, aplicată în timpul perioadei de reglementare, exprimată în termeni nominali ai anului t.
+
+## Articolul 97
+
+Corecția veniturilor din alocarea capacității pe liniile de interconexiune se determină în anul de referință ca diferență dintre veniturile realizate din alocarea capacității de interconexiune cu sistemele vecine în perioada de reglementare p și valoarea cheltuielilor realizate în perioada de reglementare p/ prognozate pentru perioada de reglementare p
+
+1 și a veniturilor utilizate la reducerea tarifului de transport, conform reglementărilor aplicabile, și se aplică la venitul-țintă inițial aferent primului an al perioadei de reglementare p
+
+1. ... ... 5.2. Stabilirea venitului reglementat CPT total (VR_CPT_total)
+
+## Articolul 98
+
+Venitul reglementat CPT total (VR_CPT_total) pentru anul t
+
+1 este compus din următoarele categorii de venit: a) venitul reglementat CPT [VR_CPT(t
+
+1)]; ... b) venitul reglementat CPT suplimentar capitalizat [VR_CPT_S(t
+
+1)] unde: VR_CPT_total - venitul reglementat CPT total determinat pentru anul t
+
+1; VR_CPT(t+1) - venitul reglementat CPT determinat pentru anul t
+
+1 conform prevederilor capitolului 5.2.1; VR_CPT_S(t+1) - venitul reglementat CPT suplimentar capitalizat determinat pentru anul t
+
+1 conform prevederilor capitolului 5.2.2. ... 5.2.1. Venitul reglementat CPT
+
+## Articolul 99
+
+(1) În anul de referință al perioadei de reglementare p
+
+1 ANRE stabilește valoarea prognozată a costului cu achiziția energiei electrice pentru acoperirea CPT pentru fiecare an al perioadei, luând în considerare cantitatea de CPT reglementată prognozată și prețul prognozat stabilit conform art. 104 , costul cu tranzitele suplimentare de energie electrică din rețelele electrice de 110 kV alocate OTS stabilit conform art. 105 și costul cu eliminarea congestiilor stabilit conform art. 106 . (2) În primul an al perioadei de reglementare p
+
+1 valoarea costului cu achiziția energiei electrice pentru acoperirea CPT și a costului cu eliminarea congestiilor prevăzute la alin. (1) se recalculează prin reconsiderarea valorilor-țintă CPT pe baza datelor realizate aferente anului de referință și a costului realizat recunoscut cu eliminarea congestiilor pentru anul de referință. (3) Cantitatea de CPT reglementată prognozată pentru un an t se determină ca produs între cantitatea prognozată de energie electrică introdusă în RET și ținta de CPT reglementat (%) pentru anul respectiv.
+
+## Articolul 100
+
+(1) Venitul reglementat CPT (VR_CPT) este venitul corespunzător acoperirii costului cu achiziția energiei electrice pentru acoperirea CPT, costului cu tranzitele suplimentare de energie electrică din rețelele electrice de 110 kV alocate OTS și costului cu eliminarea congestiilor și se determină în anul t pentru anul t
+
+1 și se determină cu formula: unde: VR_CPT(t+1) - venitul reglementat CPT determinat pentru anul t
+
+1; C_CPT(t+1) - valoarea prognozată a costului cu achiziția energiei electrice pentru acoperirea CPT aprobată de ANRE pentru anul t
+
+1; C_TRANZ(t+1) - valoarea costului cu CPT aferent tranzitului suplimentar de energie electrică din rețelele electrice de 110 kV, aprobat de ANRE, pentru cotele atribuite OTS, pe care operatorii de distribuție le recuperează de la OTS aprobată de ANRE pentru anul t
+
+1; C_CON(t+1) - valoarea prognozată a costului cu eliminarea congestiilor aprobată de ANRE pentru anul t
+
+1; KV_CPT(t-1) - valoarea corecțiilor anuale aferente venitului reglementat CPT pentru anul t – 1, la care se adaugă diferența de venituri rezultată ca urmare a aplicării limitării valorii componentelor tarifare conform art. 140 , dacă este cazul, inclusiv ajustări ale venitului reglementat CPT. (2) Pentru determinarea venitului reglementat CPT în termenii anului t
+
+1 se utilizează valorile ratei inflației prevăzute la art. 121 lit. b) . (3) Venitul reglementat CPT prevăzut la alin. (1) se împarte în două categorii de venit reglementat, utilizate la determinarea componentelor tarifare corespunzătoare venitului reglementat CPT: a) venit reglementat CPT care se recuperează de OTS de la producători (VR_CPT_P), prin tariful pentru energia electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (TG), care se determină cu formula: unde: C_CPT_P(t+1) - valoarea prognozată a costurilor cu achiziția energiei electrice pentru acoperirea CPT care se recuperează de la producători pentru anul t – 1; C_TRANZ(t+1) - valoarea costului cu CPT aferent tranzitului suplimentar de energie electrică din rețelele electrice de 110 kV, aprobat de ANRE, pentru cotele atribuite OTS, pe care operatorii de distribuție le recuperează de la OTS aprobată de ANRE pentru anul t
+
+1; C_CON(t+1) - valoarea prognozată a costului cu eliminarea congestiilor aprobată de ANRE pentru anul t
+
+1; KV_CPT_P(t-1) - valoarea corecțiilor anuale aferente venitului reglementat CPT pentru anul t – 1, la care se adaugă diferența de venituri rezultată ca urmare a aplicării limitării valorii componentelor tarifare conform art. 140 , dacă este cazul, inclusiv ajustări ale venitului reglementat CPT, care se recuperează de la producători; ... b) venit reglementat CPT care se recuperează de OTS de la clienții serviciului de transport al energiei electrice (VR_CPT_C), prin tariful pentru extragerea energiei electrice din rețele (TL), care se determină cu formula: unde: C_CPT_C(t+1) - valoarea prognozată a costurilor cu achiziția energiei electrice pentru acoperirea CPT care se recuperează de la clienții serviciului de transport al energiei electrice aprobată pentru anul t – 1; KV_CPT_C(t-1) - valoarea corecțiilor anuale aferente venitului reglementat CPT pentru anul t – 1, la care se adaugă diferența de venituri rezultată ca urmare a aplicării limitării valorii componentelor tarifare conform art. 140 , dacă este cazul, inclusiv ajustări ale venitului reglementat CPT, care se recuperează de la clienții serviciului de transport al energiei electrice. ... (4) Valoarea costurilor cu achiziția de energie electrică pentru acoperirea CPT incluse în venitul reglementat CPT prevăzut la alin. (3) se determină prin înmulțirea costurilor cu achiziția de energie electrică pentru acoperirea CPT cu un coeficient de alocare (i), conform formulelor: (5) Valoarea coeficientului (i) prevăzut la alin. (4) se determină de OTS și este corespunzătoare producției de energie electrică exportată stabilită pe baza regimurilor de funcționare a SEN. (6) Coeficientul de alocare (i) prevăzut la alin. (5) se utilizează la alocarea costului cu CPT și la alocarea valorii corecției anuale ale venitului reglementat CPT, conform formulelor: (7) Costurile cu tranzitele suplimentare de energie electrică din rețelele electrice de 110 kV alocate OTS, costurile cu eliminarea congestiilor și corecțiile anuale corespunzătoare acestora (KC_CON) și corecțiile de venit datorate modificării cantității de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (KV_Qi) se recuperează de OTS integral de la producători prin tariful TG. 5.2.1.1. Costul cu energia electrică pentru acoperirea CPT
+
+## Articolul 101
+
+(1) În anul de referință, odată cu solicitarea de aprobare a tarifelor pentru următoarea perioadă de reglementare, OTS transmite la ANRE programul de reducere a cpt, care conține procentele de cpt pe care OTS își propune să le atingă pentru fiecare an al perioadei de reglementare p
+
+1, denumite „ținte cpt propuse“. (2) În programul de reducere a cpt, OTS are în vedere că ținta cpt propusă pentru primul an al perioadei de reglementare p
+
+1 trebuie să fie cel mult egală cu media aritmetică a procentelor de cpt în perioada de reglementare anterioară. (3) În programul de reducere a cpt, ținta cpt propusă de OTS pentru fiecare an al perioadei de reglementare p
+
+1, începând cu al doilea an, trebuie să fie mai mică decât cea stabilită pentru anul anterior. (4) În programul de reducere a cpt pentru perioada de reglementare p
+
+1, OTS are în vedere ca ținta cpt propusă pentru ultimul an al perioadei de reglementare să fie cel mult egală cu procentul de cpt minim realizat în oricare an tarifar al perioadei de reglementare anterioare. (5) OTS are dreptul să propună ținte de cpt corespunzătoare unei pante de reducere a cpt mai mici decât cea prevăzută la alin. (4) în situația în care în perioada de reglementare anterioară au fost puse în funcțiune capacități noi de producere a energiei electrice din surse regenerabile amplasate în zone excedentare, care au impact semnificativ asupra pierderilor de energie în rețeaua de transport.
+
+## Articolul 102
+
+(1) La stabilirea țintelor cpt reglementat, ANRE are în vedere următoarele: a) programul de reducere a cpt prevăzut la art. 101 , întocmit conform prevederilor prezentei metodologii; ... b) valorile cpt realizate și țintele anterior stabilite, precum și evoluția acestora în timp; ... c) valorile cpt și gradul de reducere al acestuia, comparativ cu nivelul mediu din țările membre UE; ... d) nivelul investițiilor realizate de OTS; ... e) alte date relevante. ... (2) Țintele cpt stabilite se utilizează atât la prognoza costurilor cu CPT reglementat, cât și la efectuarea corecțiilor anuale ale veniturilor reglementate CPT datorate modificării cantităților de energie electrică aferente CPT reglementat.
+
+## Articolul 103
+
+Prețul mediu de achiziție a energiei electrice pentru asigurarea CPT reglementat prognozat pentru perioada de reglementare p
+
+1 se determină ca minim între: i) media prețurilor de achiziție realizate de toți operatorii de distribuție concesionari într-o perioadă de 12 luni care include ultimele două semestre încheiate, recalculate prin limitarea dezechilibrelor pozitive și negative la 5% din cantitatea de energie electrică pentru acoperirea CPT; și ... ii) prețul mediu de achiziție realizat de OTS pentru aceeași perioadă recalculat prin limitarea dezechilibrelor pozitive și negative la 5% din cantitatea de energie electrică pentru acoperirea CPT. ...
+
+## Articolul 104
+
+La stabilirea costului prognozat al energiei electrice pentru acoperirea CPT reglementat aferent sistemului de transport pentru perioada p
+
+1 se utilizează prețul mediu de achiziție a energiei electrice determinat conform art. 103 , la care se adaugă costurile de administrare piață ale operatorului desemnat al pieței de energie electrică (OPEED), costurile de administrare PRE și costurile de redistribuire, realizate în aceeași perioadă. ... 5.2.1.2. Costul cu CPT aferent tranzitelor suplimentare din rețelele de 110 kV
+
+## Articolul 105
+
+(1) Costurile cu CPT aferente tranzitelor suplimentare din rețelele de 110 kV atribuite OTS se prognozează în mod egal pentru fiecare an t al perioadei de reglementare p
+
+1 la nivelul aprobat de ANRE pentru primul an al perioadei de reglementare p
+
+1. (2) Costurile prevăzute la alin. (1) se ajustează anual la nivelul aprobat de ANRE pentru anul respectiv. ... 5.2.1.3. Costul cu eliminarea congestiilor
+
+## Articolul 106
+
+(1) În anul de referință, odată cu solicitarea de aprobare a veniturilor reglementate CPT pentru următoarea perioadă de reglementare, OTS transmite ANRE fundamentarea costurilor reglementate necesare eliminării congestiilor prin redispecerizare apărute ca o consecință a funcționării pieței de energie electrică, pentru perioada de reglementare p
+
+1. (2) Pentru perioada de reglementare p
+
+1, costurile reglementate necesare eliminării congestiilor prin redispecerizare apărute ca o consecință a funcționării pieței de energie electrică se estimează de către OTS la aceeași valoare pentru fiecare an t, ținând seama de media costurilor recunoscute de ANRE în perioada de reglementare anterioară, medie obținută după eliminarea valorilor extreme aferente congestiilor cu costuri foarte mari în raport cu media anuală. ... 5.2.1.4. Corecții anuale ale venitului reglementat CPT
+
+## Articolul 107
+
+Anual, ANRE efectuează corecția veniturilor reglementate CPT (KV_CPT) aferentă: a) modificării cantităților și prețului de achiziție pentru CPT reglementat față de cele prognozate (KC_CPT_P și KC_CPT_C); ... b) modificării anuale a costurilor cu eliminarea congestiilor realizate față de cele prognozate (KC_CON); ... c) variației cantităților anuale de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice de producători față de cele prognozate (KV_Qi); ... d) variației cantităților anuale de energie electrică extrasă din rețele față de cele prognozate (KV_QE); ... e) diferenței dintre valoarea veniturilor obținute prin aplicarea componentelor tarifare aferente venitului CPT la cantitatea de energie electrică introdusă în rețeaua de transport al energiei electrice, respectiv, după caz, în rețelele de distribuție a energiei electrice, care se recuperează de la producători, și valoarea veniturilor realizate din tarifarea energiei electrice introduse în rețele înregistrate în evidențele contabile ale OTS; ... f) diferenței dintre valoarea venitului obținută prin aplicarea tarifului de extragere a energiei electrice din rețele aprobat la cantitatea de energie extrasă din rețele realizată și valoarea venitului realizat din tarifarea energiei electrice extrasă din rețele înregistrată în evidențele contabile ale OTS. ...
+
+## Articolul 108
+
+(1) În cadrul corecției anuale aferente CPT reglementat prevăzute la art. 107 lit. a) se au în vedere: a) diferențele de cantități de CPT realizate datorită modificării cantităților de energie electrică introdusă în RET, în limita cpt reglementat, față de cele aprobate la începutul perioadei de reglementare; ... b) diferențele dintre prețul mediu al CPT realizat recunoscut și cel prognozat. ... (2) Cantitatea de CPT (MWh) realizată recunoscută de ANRE pentru anul t – 1 este egală cu minimul dintre: a) cantitatea de CPT reglementat realizat, determinată ca produs între cantitatea de energie electrică introdusă în RET realizată și ținta de cpt reglementat (%) pentru anul t – 1; ... b) produsul dintre cantitatea de energie electrică introdusă în RET realizată și procentul de cpt realizat (%) în anul t – 1. ... (3) Prețul mediu al energiei electrice pentru asigurarea CPT reglementat recunoscut de ANRE pentru anul t – 1 este egal cu minimul dintre prețul realizat de OTS și un preț de referință determinat ca medie a prețurilor operatorilor de distribuție concesionari majorat cu 5%. (4) Prețurile operatorilor de distribuție concesionari luate în considerare la stabilirea mediei prevăzute la alin. (3) se calculează prin însumarea, la prețul de achiziție realizat de operator și recalculat prin limitarea dezechilibrelor pozitive și negative la 5% din cantitatea de energie electrică pentru acoperirea CPT, a unei componente determinate prin împărțirea cheltuielilor realizate de operatorul respectiv cu serviciile de administrare piață, administrare PRE și redistribuire la cantitatea totală achiziționată ce include dezechilibrele realizate. (5) În situația în care prețul mediu al energiei electrice pentru asigurarea CPT calculat conform prevederilor alin. (3) pentru primul semestru al anului t variază cu mai mult de 10% față de prețul prognozat la începutul perioadei de reglementare, ajustat conform prevederilor alin. (6) , ANRE aplică o corecție parțială a costului cu CPT reglementat pentru anul t, pe care o include în venitul reglementat al anului t
+
+1. La calculul corecției este luat în considerare prețul mediu al energiei electrice pentru acoperirea CPT recunoscut determinat conform prevederilor alin. (3) , pentru primul semestru al anului t. Cantitatea de CPT luată în considerare pentru calculul corecției pentru cel de-al doilea semestru al anului t este egală cu jumătate din cantitatea prognozată aferentă anului t. (6) În funcție de evoluția prețurilor pe piața de energie electrică, în venitul reglementat al anului t
+
+1 se poate include o valoare corespunzătoare ajustării costului cu CPT reglementat prognozat pentru anul t
+
+1, prin modificarea prețului mediu al energiei electrice pentru asigurarea CPT stabilit conform prevederilor art. 104 . (7) Prin excepție de la prevederile alin. (3) , în situația în care anul t – 1 face parte dintr-o perioadă pentru care a fost declarată criză pe piața de energie prin acte normative emise de Parlamentul sau Guvernul României, prețul mediu al energiei electrice pentru acoperirea CPT reglementat recunoscut de ANRE pentru anul t – 1 este prețul realizat de OTS.
+
+## Articolul 109
+
+Corecția costurilor cu eliminarea congestiilor se calculează ca diferență între valoarea realizată și acceptată de ANRE ca urmare a analizei în raport cu prevederile prezentei metodologii și valoarea prognozată, în termenii nominali ai anului pentru care se calculează corecția.
+
+## Articolul 110
+
+(1) La recunoașterea costurilor necesare eliminării congestiilor prin redispecerizare nu se iau în considerare costurile aferente congestiilor apărute ca urmare a retragerilor din exploatare a elementelor rețelelor electrice de transport. OTS ia măsurile necesare, astfel încât să evite apariția congestiilor de rețea pe durata retehnologizărilor sau a operării și mentenanței. Stabilirea programului anual de retrageri din exploatare și a perioadelor pentru care se iau în considerare retragerile respective ale rețelelor electrice de transport ține seama de programul de opriri ale grupurilor generatoare și ale rețelelor electrice de distribuție, convenite cu producătorii și operatorii de distribuție. (2) Costurile necesare eliminării congestiilor apărute ca urmare a acțiunii unui terț se iau în considerare la stabilirea costurilor reglementate numai în situațiile în care OTS are obligația legală de a suporta costurile respective. (3) Costurile necesare eliminării congestiilor apărute ca urmare a retragerilor accidentale ale elementelor rețelei electrice de transport provocate de evenimente excepționale (de exemplu: război, cutremur, acte teroriste) sau de condiții meteorologice deosebite se iau în considerare la stabilirea costurilor reglementate.
+
+## Articolul 111
+
+Pentru recunoașterea costurilor aferente unei congestii, OTS are obligația de a transmite la ANRE, în termenul de depunere a monitorizării lunare aferente perioadei în care s-a produs congestia, o informare detaliată în care să se regăsească cel puțin următoarele: a) condițiile care au condus la apariția congestiei; ... b) costurile cu eliminarea congestiei și justificarea acestora. ...
+
+## Articolul 112
+
+(1) Corecția aferentă variației cantităților de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice în rețele în anul t – 1 față de cele prognozate se calculează în anul t prin compararea acestora și determinarea diferențelor cantitative. (2) Diferențele cantitative sunt transformate în diferențe de venituri luând în calcul componentele tarifare CPT care se recuperează de la producători corespunzătoare anului în care s-a introdus energia electrică în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice. (3) În cazul în care cantitatea de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice realizată este mai mare decât cantitatea de energie electrică prognozată, se determină o diferență de venituri negativă, ceea ce generează o corecție negativă a venitului reglementat CPT care se recuperează de la producători aferent anului t
+
+1. (4) În cazul în care cantitatea de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice realizată este mai mică decât cantitatea de energie electrică prognozată, se determină o diferență de venituri pozitivă, ceea ce generează o corecție pozitivă a venitului reglementat CPT aferent anului t
+
+1 care se recuperează de la producători.
+
+## Articolul 113
+
+Prevederile art. 107 lit. c) referitoare la corecția anuală datorată variației cantităților de energie electrică introduse față de cele prognozate și prevederile art. 107 lit. e) referitoare la corecția aferentă diferenței dintre valoarea veniturilor obținute de la producători prin aplicarea componentelor tarifare aferente venitului CPT la cantitatea de energie electrică introdusă în rețeaua de transport al energiei electrice, respectiv, după caz, în rețelele de distribuție a energiei electrice și valoarea veniturilor realizate din tarifarea energiei electrice introdusă în rețele înregistrată în evidențele contabile ale OTS se aplică în mod similar pentru fiecare din următoarele categorii de venit: venitul reglementat CPT și venitul reglementat CPT suplimentar capitalizat.
+
+## Articolul 114
+
+Pentru evitarea înregistrării ulterioare a unui nivel semnificativ al corecțiilor, în cazul în care ANRE constată în anul t o variație mai mare de 1,5% față de cantitatea anuală de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice prognozate, se modifică prognoza de cantitate pentru anul t
+
+1 în funcție de nivelul realizat în anul t – 1 și cel estimat pentru anul t. ... 5.2.1.5. Corecții efectuate la sfârșitul perioadei de reglementare p aferente venitului reglementat CPT
+
+## Articolul 115
+
+(1) Câștigul de eficiență obținut de OTS din realizarea unui CPT reglementat mai mic decât ținta aprobată pentru fiecare an t al perioadei de reglementare p este lăsat la dispoziția acestuia la sfârșitul perioadei de reglementare. (2) Valoarea câștigului de eficiență prevăzută la alin. (1) se determină în primul an al perioadei de reglementare p
+
+1 și se include în venitul reglementat CPT aferent celui de-al doilea an al perioadei de reglementare p
+
+1. ... ... 5.2.2. Venitul reglementat CPT suplimentar capitalizat
+
+## Articolul 116
+
+(1) Începând cu perioada a V-a de reglementare, pentru determinarea venitului reglementat CPT suplimentar capitalizat al anului t
+
+1 [VR_CPT_S(t+1)] se utilizează valoarea costurilor de capital aferente activelor CPT stabilite pentru anul t
+
+1, prevăzute la art. 117 , și corecțiile anuale aferente venitului reglementat CPT suplimentar capitalizat pentru anul t – 1. unde: C_CPT_S(t+1) - valoarea prognozată a costurilor cu achiziția de energie electrică pentru acoperirea CPT suplimentar aprobată pentru anul t
+
+1; KV_CPT_S(t-1) - valoarea corecției anuale a venitului reglementat CPT suplimentar capitalizat pentru anul t – 1. (2) Venitul reglementat CPT suplimentar capitalizat prevăzut la alin. (1) se recuperează de către OTS de la clienții serviciului de transport al energiei electrice și de la producători: unde: VR_CPT_S_C(t+1) - valoarea prognozată a venitului reglementat CPT suplimentar capitalizat care se recuperează de către OTS de la clienții serviciului de transport al energiei electrice, aprobată pentru anul t
+
+1; VR_CPT_S_P(t+1) - valoarea prognozată a venitului reglementat CPT suplimentar capitalizat care se recuperează de către OTS de la producători, aprobată pentru anul t
+
+1; (3) Venitul reglementat CPT suplimentar capitalizat care se recuperează de către OTS de la clienții serviciului de transport al energiei electrice (VR_CPT_S_C) printr-o componentă tarifară stabilită conform prevederilor art. 138 (CT_CPT_S_C), aplicată la energia electrică extrasă din rețele, se determină cu formula: unde: C_CPT_S_C(t+1) - valoarea prognozată a costurilor cu achiziția de energie electrică pentru acoperirea CPT suplimentar care se recuperează de către OTS de la clienții serviciului de transport al energiei electrice aprobată pentru anul t
+
+1; KV_CPT_S_C(t-1) - valoarea corecției anuale a venitului reglementat CPT suplimentar capitalizat care se recuperează de către OTS de la clienții serviciului de transport al energiei electrice pentru anul t – 1. (4) Venitul reglementat CPT suplimentar capitalizat care se recuperează de OTS de la producători (VR_CPT_S_P), printr-o componentă tarifară stabilită conform prevederilor art. 132 (CT_CPT_S_P), aplicat la cantitatea de energie electrică introdusă în rețele, se determină cu formula: unde: C_CPT_S_P(t+1) - valoarea prognozată a costurilor cu achiziția de energie electrică pentru acoperirea CPT suplimentar care se recuperează de către OTS de la producători, aprobată pentru anul t
+
+1; KV_CPT_S_P(t-1) - valoarea corecției anuale a venitului reglementat CPT suplimentar capitalizat care se recuperează de către OTS de la producători pentru anul t – 1. (5) Valoarea costurilor cu achiziția de energie electrică pentru acoperirea CPT suplimentar incluse în venitul reglementat CPT suplimentar capitalizat prevăzut la alin. (4) se determină prin înmulțirea valorii costurilor cu achiziția de energie electrică pentru acoperirea CPT suplimentar cu un coeficient de alocare (i), conform formulelor: (6) Valoarea coeficientului (i) prevăzut la alin. (5) se determină conform prevederilor art. 100 alin. (5) . (7) Coeficientul de alocare (i) prevăzut la alin. (6) se utilizează atât la alocarea costului cu CPT suplimentar capitalizat, cât și la alocarea valorii corecției anuale a venitului reglementat CPT suplimentar capitalizat, conform formulelor: (8) Începând cu perioada a V-a de reglementare, pentru determinarea venitului reglementat CPT suplimentar capitalizat în termenii anului t
+
+1 se utilizează valorile ratei inflației prevăzute la art. 121 lit. b) .
+
+## Articolul 117
+
+Anual, ANRE stabilește valoarea costurilor de capital aferente CPT suplimentare capitalizate pentru anul t
+
+1, în conformitate cu prevederile din Norme, care se include în venitul reglementat CPT suplimentar capitalizat al anului t
+
+1, exprimată în termenii anului t
+
+1, cu luarea în considerare a valorii ratei inflației prevăzute la art. 121 lit. b) . 5.2.2.1. Corecții anuale ale venitului reglementat CPT suplimentar capitalizat
+
+## Articolul 118
+
+Anual, ANRE efectuează corecția venitului reglementat CPT suplimentar capitalizat pentru anul t – 1 aferentă: a) modificării cantităților de energie electrică extrasă din rețele față de cele prognozate; ... b) modificării cantităților de energie electrică introduse în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice de producători față de cele prognozate; ... c) diferenței dintre valoarea veniturilor obținute prin aplicarea componentelor tarifare aferente venitului CPT la cantitatea de energie electrică introdusă în rețeaua de transport al energiei electrice, respectiv, după caz în rețelele de distribuție a energiei electrice, care se recuperează de la producători, și valoarea veniturilor realizate din tarifarea energiei electrice introduse în rețele înregistrate în evidențele contabile ale OTS; ... d) diferenței dintre valoarea venitului obținute prin aplicarea tarifului de extragere a energiei electrice din rețele aprobat la cantitatea de energie extrasă din rețele realizată și valoarea venitului realizat din tarifarea energiei electrice extrase din rețele înregistrate în evidențele contabile ale OTS. ...
+
+## Articolul 119
+
+Corecțiile anuale ale venitului reglementat aferent costurilor CPT suplimentare capitalizate se realizează în conformitate cu prevederile art. 84 , 113 , ale art. 121 lit. b) și ale art. 122 și cu prevederile din Norme. ... ... ... ... 6. Rata inflației
+
+## Articolul 120
+
+Pentru aprobarea tarifelor de transport, ANRE utilizează RI stabilită pe baza datelor publicate de instituțiile abilitate, respectiv CNSP și Institutul Național de Statistică.
+
+## Articolul 121
+
+La stabilirea venitului reglementat pentru anul t
+
+1 se utilizează RI astfel: a) pentru costurile de capital incluse în venitul reglementat nonCPT, respectiv amortizare și RBAR, se utilizează valoarea RI prognozată pentru anul t
+
+1 luată în considerare la stabilirea valorii RRR în vigoare pentru anul respectiv; ... b) pentru restul costurilor incluse în venitul reglementat nonCPT și pentru costurile incluse în venitul reglementat CPT total se utilizează valoarea RI prognozată pentru anul t
+
+1, publicată în anul t. ...
+
+## Articolul 122
+
+(1) În cazul în care valoarea RI realizată pentru anul t – 1 prevăzută la art. 121 lit. b) variază față de valoarea RI prognozată pentru anul t – 1, valoarea RI prevăzută la art. 121 lit. b) pentru anul t
+
+1 se corectează conform prevederilor alin. (2) . (2) Valoarea RI prognozată corectată pentru anul t
+
+1 se determină pe baza valorii RI prognozate în anul t pentru anul t
+
+1, la care se adună algebric diferența dintre valoarea RI realizată pentru anul t – 1 și valoarea RI prognozată în anul t – 2 pentru anul t – 1. (3) Prevederile alin. (1) și (2) sunt aplicabile numai în situația în care anii respectivi fac parte din aceeași perioadă de reglementare.
+
+## Articolul 123
+
+(1) La calculul corecțiilor aferente anului t – 1 exprimate în termenii anului t – 1 se utilizează aceleași valori ale RI utilizate la stabilirea venitului reglementat pentru anul respectiv, determinate conform prevederilor art. 121 și 122 . (2) Începând cu perioada a V-a de reglementare, se efectuează corecții de inflație numai pentru costurile care compun venitul reglementat nonCPT, conform prevederilor art. 124-126 . (3) La stabilirea venitului reglementat pentru anul t
+
+1, valorile corecțiilor aferente anului t – 1 sunt actualizate cu RTS și cu RI, în termenii nominali ai anului de efectuare a corecțiilor.
+
+## Articolul 124
+
+(1) ANRE determină și aplică anual o corecție de inflație pentru costurile de operare și mentenanță controlabile, altele decât cele cu personalul aferente anului t – 1. (2) Corecția de inflație prevăzută la alin. (1) aferentă anului t – 1 se determină ca sumă algebrică între: i) diferența dintre valoarea costurilor prognozate reglementate de operare și mentenanță controlabile, altele decât cele cu personalul, exprimate în termenii anului t – 1 prin aplicarea RI realizate cumulate și valoarea costurilor prognozate reglementate din această categorie utilizate în calculul de tarife; și ... ii) diferența dintre valoarea corecției aferente costurilor de operare și mentenanță controlabile, altele decât cele cu personalul, determinată cu luarea în considerare a valorii RI realizate cumulate și valoarea corecției aferente acestor costuri, determinată cu luarea în considerare a valorii RI utilizate la stabilirea venitului reglementat nonCPT al anului t – 1. ...
+
+## Articolul 125
+
+(1) Anual, în cazul în care RI realizată cumulată este mai mare decât valoarea RI cumulată utilizată la stabilirea venitului reglementat nonCPT al anului t – 1, ANRE determină și aplică o corecție de inflație pentru costurile cu personalul aferente anului t – 1. (2) Corecția de inflație prevăzută la alin. (1) aferentă anului t – 1 se determină ca sumă algebrică între: i) diferența dintre valoarea costurilor prognozate reglementate cu personalul exprimate în termenii anului t – 1 prin aplicarea RI realizate cumulate și valoarea costurilor prognozate reglementate din această categorie utilizate în calculul de tarife; și ... ii) diferența dintre valoarea corecției aferente costurilor cu personalul, determinată cu luarea în considerare a valorii RI realizate, și valoarea corecției aferente acestor costuri, determinată cu luarea în considerare a valorii RI utilizate la stabilirea venitului reglementat nonCPT al anului t – 1. ... (3) În condițiile alin. (1) , valoarea recunoscută a costurilor cu personalul nu poate depăși valoarea realizată a acestora. (4) Prin excepție de la prevederile art. 87 alin. (1) , în cazul în care RI realizată cumulată este mai mică decât valoarea RI cumulată utilizată la stabilirea venitului reglementat nonCPT al anului t – 1, pentru costurile prevăzute la art. 87 alin. (1) lit. b) nu se efectuează corecție de inflație.
+
+## Articolul 126
+
+La calculul BAR realizat conform prevederilor art. 53 și la calculul corecțiilor de venit datorate realizării investițiilor, începând cu cea de-a V-a perioadă de reglementare, inclusiv pentru anii aferenți acesteia, se utilizează valorile RI prognozate prevăzute la art. 121 lit. a) . ... 7. Calitatea serviciului de transport al energiei electrice
+
+## Articolul 127
+
+(1) Indicatorii de performanță ai serviciului de transport sunt stabiliți și monitorizați conform standardului de performanță. (2) În cadrul unei perioade de reglementare ANRE poate introduce în formula de evaluare a veniturilor anuale un factor de corecție kv(t,s) privind respectarea nivelului minim de calitate impus; ANRE va defini un mecanism de stimulare în ceea ce privește calitatea activității de transport și de determinare a factorului KV(s). Nivelul anual al volumului de venituri, respectiv premierile/penalizările asociate depășirii/nerespectării indicatorilor de performanță și de calitate ai serviciului de transport nu va depăși/nu vor depăși 2,5% din valoarea venitului reglementat, inclusiv corecțiile de venit, corespunzătoare unei perioade tarifare. (3) ANRE analizează și decide oportunitatea modificării structurii tarifului de transport și a modului de alocare pe componente a costului serviciului de transport. ... 8. Tarifele reglementate pentru serviciul de transport al energiei electrice
+
+## Articolul 128
+
+ANRE aprobă tarife reglementate pentru serviciul de transport al energiei electrice determinate prin însumarea componentelor tarifare calculate pe baza veniturilor reglementate prevăzute la art. 80 , 100 și 116.
+
+## Articolul 129
+
+Tarifele aplicate pentru serviciul de transport al energiei electrice sunt tariful de transport pentru introducerea energiei electrice în rețele (TG) și tariful de transport pentru extragerea energiei electrice din rețele (TL). 8.1. Tariful de introducere a energiei electrice în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (TG)
+
+## Articolul 130
+
+Tariful de transport pentru introducerea energiei electrice în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice pentru anul t
+
+1 se calculează cu formula: unde: CT_CPT_P(t+1) - componenta tarifară corespunzătoare venitului reglementat CPT care se recuperează de la producători pentru anul t
+
+1 (lei/MWh); CT_CPT_S_P(t+1) - componenta tarifară corespunzătoare venitului reglementat CPT suplimentar capitalizat care se recuperează de la producători pentru anul t
+
+1 (lei/MWh).
+
+## Articolul 131
+
+Componenta tarifară corespunzătoare venitului reglementat CPT (CT_CPT_P) pentru anul t
+
+1 care se recuperează de la producători se calculează cu formula: unde: VR_CPT_P(t+1) - venitul reglementat CPT aprobat pentru anul t
+
+1 care se recuperează de la producători (lei); Qi(t+1) - cantitatea de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice prognozată pentru anul t
+
+1 (MWh).
+
+## Articolul 132
+
+Componenta tarifară corespunzătoare venitului reglementat CPT suplimentar capitalizat (CT_CPT_S_P) pentru anul t
+
+1, care se recuperează de la producători, se calculează cu formula: unde: VR_CPT_S_P(t+1) - venitul reglementat CPT suplimentar capitalizat aprobat pentru anul t
+
+1 care se recuperează de la producători (lei); Qi(t+1) - cantitatea de energie electrică introdusă în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice prognozată pentru anul t
+
+1 (MWh).
+
+## Articolul 133
+
+Tariful de transport pentru introducerea energiei electrice în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (TG) se aplică producătorilor în conformitate cu prevederile contractului-cadru pentru prestarea serviciului de transport al energiei electrice și a serviciului de sistem, aprobat prin Ordinul președintelui ANRE nr. 132/2022 . ... 8.2. Tariful de extragere a energiei electrice din rețele (TL)
+
+## Articolul 134
+
+Tariful de transport pentru extragerea energiei electrice din rețele (TL) pentru anul t
+
+1 se calculează cu formula: unde: CT_nonCPT(t+1) - componenta tarifară corespunzătoare venitului non CPT, stabilită pentru anul t
+
+1 (lei/MWh); CT_CPT_C(t+1) - componenta tarifară aferentă venitului CPT care se recuperează de la clienții serviciului de transport al energiei electrice, stabilită pentru anul t
+
+1 (lei/MWh); CT_CPT_S_C(t+1) - componenta tarifară corespunzătoare venitului reglementat CPT suplimentar capitalizat care se recuperează de la clienții serviciului de transport al energiei electrice pentru anul t
+
+1 (lei/MWh).
+
+## Articolul 135
+
+Componenta tarifară corespunzătoare venitului reglementat nonCPT (CT_nonCPT) pentru anul t
+
+1 se calculează cu formula: unde: VR_nonCPT(t+1) - venitul reglementat nonCPT stabilit pentru anul t
+
+1; QE(t+1) - cantitatea de energie electrică extrasă din rețele, prognozată pentru anul t
+
+1.
+
+## Articolul 136
+
+(1) Prin aplicarea prevederilor prezentei metodologii, creșterea componentei tarifare corespunzătoare venitului reglementat nonCPT de la un an la altul este limitată, în termeni reali, la 10%. (2) În cazul în care limitarea creșterii componentei tarifare corespunzătoare venitului reglementat nonCPT conform prevederilor alin. (1) nu permite OTS obținerea integrală a veniturilor reglementate, diferența se recuperează în anii următori, în limita plafonului stabilit de creștere a veniturilor.
+
+## Articolul 137
+
+Componenta tarifară corespunzătoare venitului reglementat CPT (CT_CPT_C) pentru anul t
+
+1, care se recuperează de la clienții serviciului de transport al energiei electrice, se calculează cu formula: unde: VR_CPT_C(t+1) - venitul reglementat CPT aprobat pentru anul t
+
+1 care se recuperează de la clienții serviciului de transport (lei); QE(t+1) - cantitatea de energie electrică extrasă din rețele prognozată pentru anul t
+
+1 (MWh).
+
+## Articolul 138
+
+Componenta tarifară corespunzătoare venitului reglementat CPT suplimentar capitalizat (CT_CPT_S_C) pentru anul t
+
+1, care se recuperează de la clienții serviciului de transport al energiei electrice, se calculează cu formula: unde: VR_CPT_S_C(t+1) - venitul reglementat CPT suplimentar aprobat pentru anul t
+
+1 care se recuperează de la clienții serviciului de transport al energiei electrice (lei); QE(t+1) - cantitatea de energie electrică extrasă din rețele prognozată pentru anul t
+
+1 (MWh).
+
+## Articolul 139
+
+Tariful de transport pentru extragerea energiei electrice din rețea (TL) se aplică clienților serviciului de transport al energiei electrice în conformitate cu prevederile contractului-cadru pentru prestarea serviciului de transport al energiei electrice și a serviciului de sistem, aprobat prin Ordinul președintelui ANRE nr. 132/2022 .
+
+## Articolul 140
+
+(1) ANRE poate impune plafonări suplimentare asupra valorilor tarifelor reglementate sau ale componentelor tarifare ce compun tarifele reglementate aferente serviciului de transport al energiei electrice în condiții justificate, cu anunțarea prealabilă a OTS. (2) În cazul limitării conform prevederilor alin. (1) , diferența de venituri se regularizează în anii următori, în limita plafonului stabilit de creștere.
+
+## Articolul 141
+
+OTS este obligat să publice pe pagina proprie de internet și să ofere, la cererea clienților finali racordați la RET sau a furnizorilor acestora, tarife de transport dinamice.
+
+## Articolul 142
+
+ANRE are responsabilitatea controlului alocării costurilor și al calculului tarifelor de transport, în conformitate cu prevederile prezentei metodologii. ... ... 9. Transmiterea datelor și informațiilor la ANRE pentru aprobarea tarifelor pentru serviciul de transport al energiei electrice
+
+## Articolul 143
+
+(1) Informațiile transmise de OTS la ANRE se bazează pe proceduri interne pentru înregistrarea și păstrarea datelor și sunt însoțite de explicitarea ipotezelor ce stau la baza obținerii datelor transmise. (2) Aceste informații sunt conforme cu: a) legislația contabilă în vigoare în România; ... b) reglementările emise de ANRE. ... (3) Datele transmise de OTS pentru stabilirea/ fundamentarea tarifelor aferente unui an t sau pentru stabilirea/fundamentarea veniturilor reglementate ale unei perioade de reglementare care nu respectă prevederile prezentei metodologii nu sunt luate în considerare de ANRE.
+
+## Articolul 144
+
+OTS transmite la ANRE, până la data de 1 iulie a anului de referință al unei perioade de reglementare p
+
+1 (dată de înregistrare la ANRE), informații, date și documente de fundamentare pentru anul de referință și perioada de reglementare p
+
+1: a) solicitarea de aprobare a tarifelor, cu specificare exactă a valorilor solicitate, cu respectarea limitărilor impuse de prezenta metodologie; ... b) date generale, conform modelului prevăzut în anexa nr. 2; ... c) prognoza costurilor și veniturilor, conform modelului prevăzut în anexa nr. 3; ... d) programul de investiții, cu detalierea costului estimat, a surselor de finanțare și amortizării aferente noilor investiții, conform modelului prevăzut în anexa nr. 4; ... e) prognoza de BAR, amortizare și rentabilitate - anexa nr. 5; ... f) bilanțul de energie - anexa nr. 6; ... g) considerentele care au stat la baza fundamentării prognozei de energie electrică introdusă/extrasă în/din rețele și metoda de prognoză utilizată; ... h) alte date (date tehnice etc.) - anexa nr. 7; ... i) descrierea și justificarea metodei de alocare a costurilor între activitățile reglementate și între activitățile reglementate și cele nereglementate; ... j) structura organizatorică a OTS; ... k) structura și numărul de personal ale OTS; ... l) politicile contabile; ... m) contractul colectiv de muncă; ... n) informații și date privind costurile de cercetare-dezvoltare prognozate solicitate pentru perioada p
+
+1; ... o) informații și date privind costurile de personal prognozate solicitate corespunzătoare structurii organizatorice distincte, cu atribuții privind accesarea de fonduri nerambursabile; ... p) o scrisoare de consimțământ semnată de conducătorul societății privind posibila publicare a datelor transmise, cu specificarea, după caz, a acelor date care au caracter confidențial sau de secret de serviciu, conform legislației în vigoare. ...
+
+## Articolul 145
+
+(1) Pentru aprobarea anuală a tarifelor, OTS transmite la ANRE, până cel mai târziu la data de 1 iulie (dată de înregistrare la ANRE) a anului t, solicitarea de tarife corespunzătoare anului t
+
+1 însoțită de datele aferente valorilor realizate în anul t – 1, necesare corecției venitului reglementat al anului t – 1. (2) Documentația prevăzută la alin. (1) include cel puțin următoarele: a) calculul detaliat al tuturor corecțiilor anuale care au stat la baza tarifelor propuse spre aprobare; ... b) calculul tarifelor propuse spre aprobare; ... c) documentele prevăzute la art. 144 lit. h)-l) , dacă acestea au suferit modificări; ... d) dosarul prețurilor de transfer întocmit cu privire la tranzacțiile derulate cu societățile afiliate în anul t – 1; ... e) situațiile financiare depuse de operatorul de transport și sistem la ministerul de resort privind activitatea desfășurată în anul t – 1; ... f) balanța contabilă întocmită la data de 31 decembrie pentru anul t – 1; ... g) raportul/rapoartele auditorului cu privire la activitatea OTS în anul t – 1; ... h) toate rapoartele întocmite de orice organ de control în decurs de 12 luni anterioare; ... i) raportul cu privire la tranzacțiile efectuate între OTS și societățile afiliate, care cuprinde: contractele în derulare, obiectul acestora, justificarea încheierii contractelor cu persoane afiliate, proceduri de achiziție utilizate pentru fiecare contract, modul de stabilire a prețului de contract, prețul de contract, alte costuri suplimentare prețului de contract. ... (3) Scrisoarea conținând solicitarea de tarife, însoțită de anexe, va fi transmisă atât în format hârtie, cât și în format .pdf, iar fișierele de calcul privind corecțiile și tarifele propuse vor fi transmise în format .xls.
+
+## Articolul 146
+
+ANRE verifică datele și documentele transmise de OTS pentru justificarea corecțiilor solicitate.
+
+## Articolul 147
+
+ANRE poate solicita sau efectua independent verificări și/sau auditare pentru oricare din informațiile pe care le-a solicitat sau care i-au fost furnizate conform prevederilor prezentei metodologii.
+
+## Articolul 148
+
+(1) Documentația aferentă solicitărilor de tarife transmisă de OTS anual sau pentru o perioadă de reglementare se consideră acceptată în cazul în care ANRE nu solicită în scris, inclusiv prin e-mail, completări sau modificări în termen de 60 de zile de la data înregistrării acesteia la ANRE. (2) La solicitarea ANRE, formulată în scris ori prin e-mail, OTS are obligația să transmită toate informațiile și documentele suplimentare pe care ANRE le consideră necesare pentru aprobarea tarifelor de transport sau pentru monitorizarea activității. (3) Termenele stabilite de ANRE pentru transmiterea datelor și informațiilor sunt obligatorii; orice informații sau documente transmise ulterior termenului comunicat de ANRE, fără aprobarea expresă a autorității pentru prelungirea termenului de răspuns, nu sunt luate în considerare. (4) ANRE monitorizează costurile și veniturile OTS conform reglementărilor în vigoare. (5) OTS are obligația de a asigura păstrarea datelor, informațiilor și documentelor ce au stat la baza fundamentării/aprobării anuale a tarifelor de transport pe durata a două perioade de reglementare anterioare perioadei de reglementare curente, dar nu mai puțin decât durata de amortizare a mijloacelor fixe ce fac parte din BAR inițial. (6) ANRE, în calitate de operator de date cu caracter personal, respectă prevederile Regulamentului (UE) nr. 679/2016 și reglementările interne în vigoare în materia protecției datelor cu caracter personal. Activitatea de prelucrare a datelor cu caracter personal este necesară în vederea îndeplinirii obligațiilor legale care revin ANRE conform Legii și pentru îndeplinirea unei sarcini care servește unui interes public sau care rezultă din exercitarea autorității publice cu care ANRE este învestită. Informațiile cu privire la colectarea, prelucrarea, păstrarea, ștergerea datelor cu caracter personal și drepturile persoanelor vizate, sunt disponibile pe pagina proprie de internet la adresa https://www.anre.ro/gdpr. ... 10. Procesul de consultare în stabilirea tarifelor pentru serviciul de transport al energiei electrice
+
+## Articolul 149
+
+În anul de referință al perioadei de reglementare p
+
+1 ANRE inițiază un proces de consultare cu OTS privind nivelul costurilor și veniturilor realizate în perioada de reglementare p, precum și propunerile pentru perioada următoare.
+
+## Articolul 150
+
+(1) În fiecare an ANRE informează în scris OTS asupra rezultatelor analizei efectuate pentru stabilirea venitului reglementat și a tarifelor de transport pentru anul t
+
+1. (2) OTS transmite în scris ANRE punctul de vedere asupra rezultatelor prevăzute la alin. (1) în termen de 10 zile de la data comunicării acestora. (3) Punctul de vedere al OTS este prezentat Comitetului de reglementare al ANRE în cadrul referatului de aprobare a tarifelor.
+
+## Articolul 151
+
+Proiectele de ordine pentru aprobarea tarifelor pentru serviciul de transport al energiei electrice pentru anul t
+
+1 se publică spre informare pe pagina proprie de internet a ANRE și se supun dezbaterii Consiliului consultativ, înaintea prezentării acestora spre aprobare Comitetului de reglementare al ANRE.
+
+## Articolul 152
+
+În anul de referință al perioadei de reglementare p
+
+1, ANRE publică pe pagina proprie de internet, spre informare, elementele care intră în calculul veniturilor aprobate pentru perioada de reglementare p
+
+1. ... 11. Dispoziții tranzitorii și finale
+
+## Articolul 153
+
+(1) Corecțiile veniturilor reglementate aferente ultimilor doi ani din perioada a IV-a de reglementare se efectuează conform metodologiei aplicabile la data aprobării acestora. (2) Corecțiile prevăzute la alin. (1) aferente venitului nonCPT se iau în considerare la stabilirea venitului nonCPT și se includ în venitul-țintă al primului an al perioadei de reglementare p
+
+1. (3) Corecțiile prevăzute la alin. (1) corespunzătoare costurilor cu achiziția de energie electrică pentru acoperirea CPT, costului cu eliminarea congestiilor și modificării cantității de energie electrică introdusă în rețele se includ în venitul reglementat CPT. (4) Prin excepție de la prevederile alin. (3) , în condițiile în care în ultimii doi ai perioadei a IV-a de reglementare au fost constituite active conform prevederilor din Norme, valoarea corecției aferente costurilor cu achiziția energiei electrice pentru acoperirea CPT se utilizează la recalcularea valorii activelor corespunzătoare costurilor cu CPT suplimentar capitalizat.
+
+## Articolul 154
+
+(1) Pentru investițiile în rețeaua electrică de transport puse în funcțiune în perioada a IV-a de reglementare se stabilește un stimulent în valoare de 1 punct procentual peste RRR a capitalului investit aprobată. (2) Prin excepție de la prevederile alin. (1) , pentru mijloacele fixe aferente investițiilor din rețeaua electrică de transport realizate din fonduri proprii în cadrul unor proiecte cofinanțate din fonduri europene nerambursabile și incluse în BAR, puse în funcțiune începând cu data de 1 februarie 2021, se stabilește un stimulent în valoare de 2 puncte procentuale peste RRR aprobată, dacă aceste investiții nu beneficiază de stimulente pentru proiecte de interes comun în baza Regulamentului (UE) nr. 347/2013 al Parlamentului European și al Consiliului din 17 aprilie 2013 privind liniile directoare pentru infrastructurile energetice transeuropene, de abrogare a Deciziei nr. 1.364/2006/CE și de modificare a Regulamentelor (CE) nr. 713/2009, (CE) nr. 714/2009 și (CE) 715/2009, cu modificările și completările ulterioare, și a Metodologiei pentru evaluarea investițiilor în proiecte de interes comun privind infrastructura pentru transportul și distribuția energiei electrice, inclusiv a riscurilor aferente acestora, aprobată prin Ordinul președintelui ANRE nr. 139/2015 , cu modificările și completările ulterioare. (3) Stimulentele prevăzute la alin. (1) sau (2) se iau în considerare în perioada a IV-a de reglementare la calcularea corecțiilor anuale, precum și a corecțiilor de venit ∆V_I efectuate la sfârșitul perioadei a IV-a de reglementare.
+
+## Articolul 155
+
+(1) Pentru perioada a IV-a de reglementare OTS poate solicita ANRE recunoașterea reevaluării activelor pe baza studiilor de reevaluare efectuate conform prevederilor legale în vigoare în ultimul an al perioadei. (2) Pentru calculul BAR la data de 31 decembrie 2024, reevaluarea prevăzută la alin. (1) este luată în considerare de către ANRE în limita valorii minime dintre BAR actualizat cu rata cumulată a inflației, calculat conform prevederilor art. 53 , și valoarea netă contabilă a mijloacelor fixe incluse în BAR, reevaluate conform legislației specifice. (3) Pentru calculul valorii BAR estimate/realizate la 31 decembrie 2024 actualizat conform prevederilor art. 53 , RI este egală cu valoarea procentuală realizată a ratei inflației pentru anii tarifari închiși din punct de vedere contabil, respectiv prognozată/realizată pentru anul 2024. (4) Calculul prevăzut la alin. (2) efectuat în anul 2024 se reia în cursul primului an al perioadei a V-a de reglementare cu luarea în considerare a datelor realizate recunoscute aferente anului 2024, urmând ca rezultatele să fie luate în considerare la reproiectarea componentei tarifare aferente venitului reglementat nonCPT care intră în vigoare începând cu cel de-al doilea an al perioadei a V-a de reglementare.
+
+## Articolul 156
+
+Pentru perioada a IV-a de reglementare, valoarea câștigului de eficiență prevăzută la art. 115 alin. (1) se determină în anul de referință și se include în venitul reglementat CPT aferent primului an al celei de-a V-a perioade de reglementare.
+
+## Articolul 157
+
+Prin excepție de la prevederile art. 144 și 145 , documentele și informațiile privind fundamentarea veniturilor aferente perioadei a V-a de reglementare și solicitarea de tarife pentru primul an al perioadei a V-a de reglementare se transmit la ANRE în termen de 30 de zile calendaristice de la data intrării în vigoare a ordinului de aprobare a prezentei metodologii.
+
+## Articolul 158
+
+Până la data de 1 iulie 2025, operatorii de rețea trebuie să transmită la ANRE rezultatele unor analize privind costurile și beneficiile generate de instalațiile de stocare asupra rețelelor și propuneri privind modul de tarifare a acestor instalații pentru energia electrică extrasă din rețele în vederea stocării și ulterior injectată în rețele.
+
+## Articolul 159
+
+Pentru perioada a V-a de reglementare, prețul de referință prevăzut la art. 103 se determină ca minim între: a) media prețurilor de achiziție realizate de toți OD într-o perioadă de 12 luni care include ultimele două semestre încheiate, recalculate cu eliminarea cantităților și prețurilor corespunzătoare tranzacțiilor privind achiziția de energie electrică pentru acoperirea CPT încheiate prin MACEE; și ... b) prețul mediu de achiziție realizat de OTS pentru aceeași perioadă recalculat cu eliminarea tranzacțiilor privind achiziția de energie electrică pentru acoperirea CPT încheiate prin MACEE. ...
+
+## Articolul 160
+
+Anexele nr. 1-7*) fac parte integrantă din prezenta metodologie. *) Anexele nu se pot publica în Monitorul Oficial al României, Partea I, din motive tehnico-redacționale și se vor publica pe pagina proprie de internet a ANRE, www.anre.ro, la data intrării în vigoare a prezentei metodologii. ... -----

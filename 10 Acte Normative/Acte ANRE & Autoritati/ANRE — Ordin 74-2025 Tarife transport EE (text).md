@@ -1,0 +1,76 @@
+---
+title: "ANRE — Ordin 74-2025 Tarife transport EE (text)"
+type: "act-text"
+act_type: "act-anre"
+issuer: "ANRE"
+nr: "74"
+an: 2025
+domeniu: [energetică, tarife, transport]
+mo_publicare: "MO nr. 1265 / 16.12.2025"
+portal_id: "305628"
+portal_url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305628"
+versiune_text: "2025-12-16"
+consolidare: "Tarife Transelectrica 2026 — text SOAP Portal Legislativ"
+continut: "text-integral"
+text_complet: true
+articole_numarate: 11
+source_ingest: "portal-soap"
+tags: [act-text, ANRE, tarife, transport]
+---
+
+# Ordin nr. 74/2025 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice
+
+ORDIN nr. 74 din 16 decembrie 2025 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice și a prețului energiei electrice reactive, valabile de la 1 ianuarie 2026, pentru Compania Națională de Transport al Energiei Electrice "Transelectrica" - S.A. și pentru modificarea și completarea Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 99/2024 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice și a prețului energiei electrice reactive pentru Compania Națională de Transport al Energiei Electrice "Transelectrica" - S.A., valabile de la 1 ianuarie 2025, precum și a valorilor planurilor de investiții pentru perioada a V-a de reglementare EMITENT AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI Publicat în
+ MONITORUL OFICIAL nr. 1173 din 18 decembrie 2025 Având în vedere prevederile art. 75 alin. (1) lit. a) , art. 76 alin. (1) și art. 79 alin. (1 ), ( 4) și (5) din Legea energiei electrice și a gazelor naturale nr. 123/2012 , cu modificările și completările ulterioare, ale art. 3 alin. (3) din anexa nr. 11 la Ordonanța de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei, aprobată cu modificări și completări prin Legea nr. 206/2022 , cu modificările și completările ulterioare, ale art. III din Ordonanța de urgență a Guvernului nr. 119/2022 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 27/2022 privind măsurile aplicabile clienților finali din piața de energie electrică și gaze naturale în perioada 1 aprilie 2022-31 martie 2023, precum și pentru modificarea și completarea unor acte normative din domeniul energiei, aprobată cu modificări și completări prin Legea nr. 357/2022 , cu modificările ulterioare, ale Metodologiei de stabilire a tarifelor pentru serviciul de transport al energiei electrice, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 68/2024 , ale Metodologiei privind stabilirea obligațiilor de plată a energiei electrice reactive și a prețului reglementat pentru energia electrică reactivă, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 33/2014 , cu modificările și completările ulterioare, ale Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 55/2024 privind stabilirea ratei reglementate a rentabilității capitalului investit, aplicată la stabilirea tarifelor pentru serviciile de transport și distribuție ale energiei electrice și gazelor naturale, pentru a cincea perioadă de reglementare, ale Normelor metodologice privind recunoașterea în tarife a costurilor suplimentare cu achiziția de energie electrică pentru acoperirea consumului propriu tehnologic față de costurile incluse în tarifele reglementate, aprobate prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 129/2022 , cu modificările și completările ulterioare, ale Procedurii privind fundamentarea și aprobarea planurilor de dezvoltare și de investiții ale operatorului de transport și de sistem și ale operatorilor de distribuție a energiei electrice, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 98/2022 , cu modificările și completările ulterioare, ale Ordinului președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 75/2020 privind stabilirea ratei reglementate a rentabilității capitalului investit aplicate la stabilirea tarifelor pentru serviciile de distribuție, de transport și de sistem a energiei electrice și gazelor naturale până la sfârșitul perioadei a patra de reglementare și de modificare a unor acte normative emise de Autoritatea Națională de Reglementare în Domeniul Energiei și ale Deciziei Autorității Naționale de Reglementare în Domeniul Energiei nr. 1.007/2021 pentru aprobarea machetelor de monitorizare a cheltuielilor și veniturilor operatorului de transport și sistem și a ghidului de completare a acestora, în temeiul prevederilor art. 5 alin. (1) lit. b) și alin. (5) , precum și ale art. 9 alin. (1) lit. c) și lit. ab) din Ordonanța de urgență a Guvernului nr. 33/2007 privind organizarea și funcționarea Autorității Naționale de Reglementare în Domeniul Energiei, aprobată cu modificări și completări prin Legea nr. 160/2012 , cu modificările și completările ulterioare, președintele Autorității Naționale de Reglementare în Domeniul Energiei emite următorul ordin:
+
+## Articolul 1
+
+Se aprobă tariful pentru serviciul de transport de introducere a energiei electrice în rețeaua electrică de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (TG) și tariful de extragere a energiei electrice din rețele (TL), practicate de Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A., prevăzute în anexa nr. 1 care face parte integrantă din prezentul ordin.
+
+## Articolul 2
+
+(1) Se aprobă prețul pentru energia electrică reactivă de 0,1821 lei/kVARh, practicat de Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A. (2) Prețul pentru energia electrică reactivă prevăzut la alin. (1) nu include acciza și taxa pe valoarea adăugată (TVA). (3) Energia electrică reactivă se facturează și se plătește conform Metodologiei privind stabilirea obligațiilor de plată a energiei electrice reactive și a prețului reglementat pentru energia electrică reactivă, aprobată prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 33/2014 , cu modificările și completările ulterioare. (4) Prețul pentru energia electrică reactivă are la bază prețul mediu estimat al energiei electrice active pentru acoperirea consumului propriu tehnologic în rețeaua electrică de transport, de 607,03 lei/MWh, aprobat de Autoritatea Națională de Reglementare în Domeniul Energiei pentru anul 2025 pentru Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A.
+
+## Articolul 3
+
+(1) Până la data de 1 martie 2026, Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A. are obligația de a transmite Autorității Naționale de Reglementare în Domeniul Energiei, pentru anul 2026, defalcarea costurilor de operare și mentenanță controlabile supuse eficienței care stau la baza fundamentării tarifelor aprobate prin prezentul ordin, pe categoriile „Costuri cu mentenanța“ și „Alte costuri“. (2) Costurile din categoria „Costuri cu mentenanța“ se vor defalca pe categoriile „Mentenanță minoră“ și „Mentenanță majoră“.
+
+## Articolul 4
+
+Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 99/2024 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice și a prețului energiei electrice reactive pentru Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A., valabile de la 1 ianuarie 2025, precum și a valorilor planurilor de investiții pentru perioada a V-a de reglementare, publicat în Monitorul Oficial al României, Partea I, nr. 1301 din 21 decembrie 2024, se modifică și se completează după cum urmează: 1. 
+
+## Titlul s
+
+e modifică și va avea următorul cuprins: ORDIN privind aprobarea valorilor planurilor de investiții și mentenanță pentru perioada a V-a de reglementare pentru Compania Națională de Transport al Energiei Electrice «Transelectrica» - S.A. ... 2. Articolele 1 și 2 se abrogă. ... 3. 
+
+## Articolul 3
+
+se modifică și va avea următorul cuprins:
+
+## Articolul 3
+
+Rata reglementată a rentabilității capitalului investit, exprimată în termeni reali, înainte de impozitare, pentru perioada 30 aprilie-12 mai 2020, utilizată la stabilirea corecției de venituri rezultate din nerealizarea/depășirea planurilor de investiții din perioada a IV-a de reglementare, este de 6,23%. ... 4. După 
+
+## Articolul 4
+
+se introduce un nou articol, 
+
+## Articolul 4^1
+
+, cu următorul cuprins:
+
+## Articolul 4^1
+
+Se aprobă valorile planurilor de mentenanță anuale ale Companiei Naționale de Transport al Energiei Electrice «Transelectrica» - S.A. corespunzătoare perioadei a V-a de reglementare, prevăzute în anexa nr. 4 care face parte integrantă din prezentul ordin. ... 5. Anexa nr. 1 se abrogă. ... 6. După anexa nr. 3 se introduce o nouă anexă, anexa nr. 4, având cuprinsul prevăzut în anexa nr. 2 care face parte integrantă din prezentul ordin.“ ...
+
+## Articolul 5
+
+Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A. și operatorii economici din sectorul energiei electrice duc la îndeplinire prevederile prezentului ordin, iar entitățile organizatorice din cadrul Autorității Naționale de Reglementare în Domeniul Energiei urmăresc respectarea acestora.
+
+## Articolul 6
+
+Prezentul ordin se publică în Monitorul Oficial al României, Partea I, și intră în vigoare la data de 1 ianuarie 2026. Președintele Autorității Naționale de Reglementare în Domeniul Energiei, George-Sergiu Niculescu București, 16 decembrie 2025. Nr. 74.
+
+Anexa nr. 1 Tabelul nr. 1 - Tariful pentru serviciul de transport de introducere a energiei electrice în rețeaua electrică de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (TG), practicat de Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A., aplicabil de la 1 ianuarie 2026 Operator Tarif/Componentă tarifară U.M. Valoare Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A. Tarif de introducere a energiei electrice în rețeaua de transport, respectiv, după caz, în rețelele de distribuție a energiei electrice (TG), din care: Lei/MWh 3,63 - componenta tarifară corespunzătoare venitului reglementat CPT care se recuperează de la producători (C_CPT_P) Lei/MWh 3,18 - componenta tarifară corespunzătoare venitului reglementat CPT suplimentar capitalizat care se recuperează de la producători (C_CPT_S_P) Lei/MWh 0,45 NOTĂ: Tarifele nu conțin taxa pe valoarea adăugată (TVA). Tabelul nr. 2 - Tariful pentru serviciul de transport pentru extragerea energiei electrice din rețele (TL), practicat de Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A., aplicabil de la 1 ianuarie 2026 Operator Tarif/Componentă tarifară U.M. Valoare Compania Națională de Transport al Energiei Electrice „Transelectrica“ - S.A. Tarif de extragere a energiei electrice din rețele (TL), din care: Lei/MWh 36,45 - componenta tarifară corespunzătoare venitului reglementat nonCPT (CT_nonCPT) Lei/MWh 25,60 - componenta tarifară corespunzătoare venitului reglementat CPT care se recuperează de la clienții finali (C_CPT_C) Lei/MWh 9,14 - componenta tarifară corespunzătoare venitului reglementat CPT suplimentar capitalizat care se recuperează de la clienții finali (C_CPT_S_C) Lei/MWh 1,71 NOTĂ: Tarifele nu conțin taxa pe valoarea adăugată (TVA).
+
+Anexa nr. 2 (Anexa nr. 4 la Ordinul nr. 99/2024 ) Valorile planurilor de mentenanță anuale ale Companiei Naționale de Transport al Energiei Electrice „Transelectrica“ - S.A. corespunzătoare perioadei a V-a de reglementare 2025 2026 2027 2028 2029 Lei (termeni reali 2024) 164.248.986 196.860.631 202.172.804 188.729.523 180.194.101 ------
