@@ -4,7 +4,7 @@ type: moc
 domeniu: energetică
 tags: [moc, index, energetică, echilibrare, PCE, PE, FCR, aFRR, mFRR, PRE]
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 status: draft
 ---
 
@@ -59,8 +59,8 @@ Parent: [[MOC — Energetică]] · Sector: [[Energetică — synthesis]]
 
 | Act | Status | Note |
 |---|---|---|
-| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | Stub | PCE + PE market rules (EBGL) |
-| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | Stub | 15-min IBS for PREs |
+| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | ✅ text | [[ANRE — Ordin 127-2021 Piata echilibrare (text)|BSP/FSE]] · [[ANRE — Regulament PRE 2021 (text)|PRE]] |
+| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | ✅ partial | [[ANRE — Ordin 213-2020 Decontare dezechilibre (text)|IBS]] — Ord. 61 base; single-price anexă truncated |
 | [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022]] | Ingested | SS methodology |
 | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)|Ord. 73/2025]] | Analysis | SS = 14,70 lei/MWh from Jan 2026 |
 | [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]] | Ingested | PRE responsibility |
@@ -82,7 +82,7 @@ Parent: [[MOC — Energetică]] · Sector: [[Energetică — synthesis]]
 
 ## Open threads
 
-- Ingest Ord. 127/2021 (+ amendments) and Ord. 213/2020
-- Link `#Articolul N` anchors once texts are in vault
+- Forma printabilă consolidare Ord. 213 single-price + later amending Ordine (60/2024 etc.)
+- Deepen `#Articolul N` anchors in PCE/PE/IBS concepts against ingested texts
 - BESS revenue worked example with 2026 market prices
 - PICASSO / MARI integration note (EU platform layer)

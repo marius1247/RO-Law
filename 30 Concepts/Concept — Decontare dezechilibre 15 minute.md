@@ -113,7 +113,7 @@ Transelectrica operates **fără profit și fără pierdere** on balancing. Resi
 
 ## Governing provisions
 
-- [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] — IBS rules (*stub; text pending*)
+- [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] — IBS rules · [[ANRE — Ordin 213-2020 Decontare dezechilibre (text)|text]] *(SOAP base = Ord. 61/2020; single-price anexă partial)*
 - [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]] — PRE financial responsibility
 - EBGL Art. 53 — 15-minute settlement
 

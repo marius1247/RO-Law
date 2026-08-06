@@ -3,12 +3,37 @@ title: "SOURCE INDEX"
 type: reference
 tags: [reference, meta, source-portal]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # SOURCE INDEX — portal dumps → working texts
 
 Maps **raw dumps** in `99 Attachments/source-portal/` (and legacy `99 Attachments/` root) to **working `— text` notes** in `10 Legislation/`. Do not edit raw dumps; re-ingest via `scripts/ingest_ro_portal.py`. Currency: [[Currency ledger]].
+
+## Batch C — missing texts (2026-08-06)
+
+| portal_id | Raw dump (`source-portal/`) | Working text | Analysis |
+|---|---|---|---|
+| **249313** | `249313_regulament-bsp-fse-echilibrare-2021_soap.md` | [[ANRE — Ordin 127-2021 Piata echilibrare (text)]] | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)]] |
+| **249314** | `249314_regulament-pre-echilibrare-2021_soap.md` | [[ANRE — Regulament PRE 2021 (text)]] | companion PRE (Ord. 127) |
+| **249312** | `249312_ordin-127-2021-aprobare-regulamente-echilibrare_soap.md` | [[ANRE — Ordin 127-2021 Aprobare regulamente echilibrare (text)]] | Ord. shell |
+| **224753** | `224753_regulament-decontare-dezechilibre-mar2020_soap.md` | [[ANRE — Ordin 213-2020 Decontare dezechilibre (text)]] | [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)]] *(SOAP base = Ord. 61/2020; **partial**)* |
+| **234462** | `234462_ordin-213-2020-decontare-dezechilibre_soap.md` | [[ANRE — Ordin 213-2020 Aprobare regulament decontare (text)]] | Ord. shell; anexă truncated in SOAP |
+| **281631** | `281631_hg-318-2024-cadru-cfd_soap.md` | [[HG 318-2024 — cadru general CfD (text)]] | [[HG 318-2024 — cadru general CfD (notă)]] · Anexa = [[HG 318-2024 — Anexa CfD eolian solar (notă)]] (MO 333 bis PDF) |
+| **176165** | `176165_lege-21-1996-concurenta-republicata_soap.md` | [[Legea 21-1996 — concurenta (text)]] | [[Legea 21-1996 — concurenta (notă)]] |
+| **128646** | `128646_lege-53-2003-codul-muncii-republicata_soap.md` | [[Legea 53-2003 — codul muncii (text)]] | [[Legea 53-2003 — codul muncii (notă)]] |
+| **178667** | `178667_lege-98-2016-achizitii-publice_soap.md` | [[Legea 98-2016 — achizitii publice (text)]] | [[Legea 98-2016 — achizitii publice (notă)]] |
+| **178680** | `178680_lege-101-2016-remedii-achizitii_soap.md` | [[Legea 101-2016 — remedii achizitii publice (text)]] | [[Legea 101-2016 — remedii achizitii publice (notă)]] |
+| **67634** | `67634_oug-195-2005-protectia-mediului_soap.md` | [[OUG 195-2005 — protectia mediului (text)]] | [[OUG 195-2005 — protectia mediului (notă)]] |
+| **208590** | `208590_lege-292-2018-eia_soap.md` | [[Legea 292-2018 — evaluare impact mediu (text)]] | [[Legea 292-2018 — evaluare impact mediu (notă)]] |
+| **245244** | `245244_lege-24-2017-emitenti_soap.md` | [[Legea 24-2017 — emitenti instrumente financiare (text)]] | [[Legea 24-2017 — emitenti instrumente financiare (notă)]] · cluster [[Legea 208-2015 — piete de capital (notă)]] |
+| **201860** | `201860_lege-126-2018-piete-instrumente-financiare_soap.md` | [[Legea 126-2018 — piete instrumente financiare (text)]] | [[Legea 126-2018 — piete instrumente financiare (notă)]] |
+
+Manifest: `scripts/batch_c_ingest_manifest.json`.
+
+> [!warning] Known SOAP gaps
+> - **Ord. 213/2020** full single-price anexă truncated in portal SOAP (`234462`); working text is Ord. 61/2020 base (`224753`) — mark **partial**.
+> - **HG 318/2024 Anexa** (MO 333 bis) is not in SOAP — use PDF under `99 Attachments/source-hg/`.
 
 ## Batch A — keystone legislation
 
@@ -57,8 +82,9 @@ Maps **raw dumps** in `99 Attachments/source-portal/` (and legacy `99 Attachment
 
 ## Still pending (Batch B remainder)
 
-- Electricity / gas **market rules** (normative Ordin post-2014 repeal)
+- Electricity / gas **market rules** beyond Ord. 127/213 (post-2014 commercial-code successors, gas markets)
 - **Network codes** (EE / gaz)
 - Gas connection / supply regulamente
 - **Ord. 6/2025** — autorizare producție/stocare
 - **Ord. 60/2025**, **Ord. 10/2026** — SS / perimeter tariff Ordine (analysis notă exists; text not yet ingested)
+- Ord. **213** Forma printabilă consolidare (single-price) · HG 318 Anexa PDF→`(text)`

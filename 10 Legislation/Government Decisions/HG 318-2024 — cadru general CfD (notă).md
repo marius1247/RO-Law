@@ -1,6 +1,7 @@
 ---
 title: "HG 318-2024 — cadru general CfD (notă)"
 type: act-note
+act: "[[HG 318-2024 — cadru general CfD (text)]]"
 act_type: hotărâre-guvern
 nr: 318
 an: 2024
@@ -13,7 +14,7 @@ source_pdf: "[[99 Attachments/source-hg/HG_318-2024.pdf]]"
 created: 2026-07-27
 ---
 
-**Act:** HG nr. 318/04.04.2024 — cadru general CfD · **Hub:** [[MOC — Energetică]] · **Annex model:** [[HG 318-2024 — Anexa CfD eolian solar (notă)]] · **Downstream:** [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · **Raw PDF:** `99 Attachments/source-hg/HG_318-2024.pdf`
+**Raw text:** [[HG 318-2024 — cadru general CfD (text)]] · **Act:** HG nr. 318/04.04.2024 — cadru general CfD · **Hub:** [[MOC — Energetică]] · **Annex model:** [[HG 318-2024 — Anexa CfD eolian solar (notă)]] · **Downstream:** [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · **Raw PDF:** `99 Attachments/source-hg/HG_318-2024.pdf`
 
 # Memoriu Juridic — HG nr. 318/2024 privind Cadrul General CfD
 

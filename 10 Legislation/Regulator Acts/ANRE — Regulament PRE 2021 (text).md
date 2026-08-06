@@ -1,0 +1,1691 @@
+---
+title: "ANRE — Regulament PRE 2021 (text)"
+type: "act-text"
+act_type: "act-anre"
+issuer: "ANRE"
+nr: "127"
+an: 2021
+domeniu: [energetică, piețe, echilibrare, PRE]
+portal_id: "249314"
+portal_url: "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249314"
+versiune_text: "2021-12-08"
+consolidare: "Regulament PRE aprobat prin Ord. ANRE 127/2021 — SOAP base text"
+continut: "text-integral"
+text_complet: true
+articole_numarate: 392
+source_ingest: "portal-soap"
+tags: [act-text, ANRE, PRE, echilibrare]
+---
+
+# Regulament din 8 decembrie 2021 privind clauzele și condițiile pentru părțile responsabile cu echilibrarea (aprobat prin Ord. ANRE 127/2021)
+
+REGULAMENT din 8 decembrie 2021 privind clauzele și condițiile pentru părțile responsabile cu echilibrarea EMITENT AUTORITATEA NAȚIONALĂ DE REGLEMENTARE ÎN DOMENIUL ENERGIEI Publicat în
+ MONITORUL OFICIAL nr. 1196 din 17 decembrie 2021
+ Notă ...
+ Aprobat prin ORDINUL nr. 127 din 8 decembrie 2021 , publicat în Monitorul Oficial al României, Partea I, nr. 1196 din 17 decembrie 2021.
+
+## Capitolul I
+
+Scop și domeniu de aplicare
+
+## Articolul 1
+
+Prezentul regulament se aplică tuturor participanților la piață, în scopul stabilirii regulilor pentru: a) înregistrarea ca părți responsabile cu echilibrarea, retragerea/revocarea înregistrării ca parte responsabilă cu echilibrarea, transferarea responsabilității echilibrării către alte părți responsabile cu echilibrarea, precum și stabilirea consecințelor în cazul nerespectării clauzelor și condițiilor aplicabile părților responsabile cu echilibrarea; ... b) transmiterea datelor și informațiilor care urmează să fie livrate către operatorul de decontare a dezechilibrelor părților responsabile cu echilibrarea în vederea calculării dezechilibrului pe fiecare interval de decontare a dezechilibrelor; ... c) determinarea dezechilibrului generat de către o parte responsabilă cu echilibrarea în sistemul electroenergetic național în fiecare interval de decontare a dezechilibrelor; ... d) decontarea dezechilibrelor părților responsabile cu echilibrarea într-un mod care să reflecte costurile cu echilibrarea sistemului electroenergetic național, astfel încât părțile responsabile cu echilibrarea să fie încurajate să se echilibreze înainte de momentul livrării și să nu agraveze dezechilibrul sistemului. ...
+
+## Capitolul I
+
+I Abrevieri și definiții
+
+## Articolul 2
+
+În înțelesul prezentului regulament, abrevierile de mai jos au următoarele semnificații: a) ACE - eroarea reglajului din zonă; ... b) ANRE - Autoritatea Națională de Reglementare în Domeniul Energiei; ... c) Clauze și condiții pentru furnizorii de servicii de sistem și pentru furnizorii de rezervă de stabilizare a frecvenței - Regulamentul privind clauzele și condițiile pentru furnizorii de servicii de echilibrare și pentru furnizorii de rezervă de stabilizare a frecvenței, aprobat prin ordin al președintelui ANRE; ... d) CPT - consum propriu tehnologic; ... e) DD - declarație de disponibilitate; ... f) EIC - Codul de identificare a Rețelei europene a operatorilor de sisteme de transport de energie electrică (European network of transmission system operators for electricity Identification Code); ... g) EMS - SCADA - Sistemul SCADA al operatorului de transport și de sistem (Energy Management System - Supervisory Control and Data Acquisition); ... h) ENTSO-E - Rețeaua europeană a operatorilor de sisteme de transport de energie electrică; ... i) FSE - furnizor de servicii de echilibrare; ... j) FSKAR - platforma europeană dedicată pentru decontarea volumului schimburilor planificate de energie pentru stabilizarea frecvenței în aria sincronă Europa Continentală, ACE și a perioadei corespunzătoare rampelor; ... k) FUI - furnizor de ultimă instanță; ... l) GFR - grup de furnizare a rezervelor; ... m) ID - interval de decontare; ... n) NP - notificare de program; ... o) ODDPRE - operatorul de decontare a dezechilibrelor părților responsabile cu echilibrarea; ... p) OPEED - operatorul pieței de energie electrică desemnat; ... q) OM - operator de măsurare; ... r) OMEPA - operatorul de măsurare a energiei pe piața angro, structură organizatorică internă din cadrul operatorului de transport și de sistem; ... s) OR - operator de rețea; ... t) OTS - operatorul de transport și de sistem; ... u) PE - piața de echilibrare; ... v) PI - piața intrazilnică; ... w) PRE - parte responsabilă cu echilibrarea; ... x) PRE - PI - partea responsabilă cu echilibrarea constituită de OPEED în calitate de contraparte pentru tranzacțiile încheiate pe PI; ... y) PRE - PZU - partea responsabilă cu echilibrarea constituită de OPEED în calitate de contraparte pentru tranzacțiile încheiate pe piața pentru ziua următoare; ... z) PZU - piața pentru ziua următoare; ... aa) Regulament de furnizare - Regulamentul de furnizare a energiei electrice la clienții finali, aprobat prin ordin al președintelui ANRE; ... bb) Reguli de măsurare - Regulile comerciale privind colectarea, prelucrarea și transmiterea valorilor măsurate de energie electrică, aprobate prin ordin al președintelui ANRE; ... cc) Regulament de preluare - Regulamentul de preluare de către furnizorii de ultimă instanță a clienților finali care nu au asigurată furnizarea energiei electrice din nicio altă sursă, aprobat prin ordin al președintelui ANRE; ... dd) Regulamentul (UE) 2017/2.195 - Regulamentul (UE) 2017/2.195 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică; ... ee) Regulamentul (UE) 2017/1.485 - Regulamentul (UE) 2017/1.485 al Comisiei din 2 august 2017 de stabilire a unei linii directoare privind operarea sistemului de transport al energiei electrice; ... ff) ROPEX_DAM_Base - indice de preț determinat pentru fiecare zi a anului ca medie aritmetică a prețurilor de închidere a PZU corespunzătoare celor 24 de intervale orare; ... gg) RSF - rezerve pentru stabilizarea frecvenței; ... hh) SB - schimb bloc; ... ii) SEN - sistemul electroenergetic național; ... jj) SN - schimburi neintenționate; ... kk) UE - Uniunea Europeană; ... ll) UFR - unitate de furnizare a rezervelor. ...
+
+## Articolul 3
+
+În înțelesul prezentului regulament, termenii și expresiile folosite au semnificațiile definite în: a) 
+
+## Articolul 2
+
+din Directiva (UE) 2019/944 a Parlamentului European și a Consiliului din 5 iunie 2019 privind normele comune pentru piața internă de energie electrică și de modificare a Directivei 2012/27/UE; ... b) 
+
+## Articolul 2
+
+din Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 privind piața internă de energie electrică; ... c) 
+
+## Articolul 3
+
+din Regulamentul (UE) 2017/2.195 al Comisiei din 23 noiembrie 2017 de stabilire a unei linii directoare privind echilibrarea sistemului de energie electrică; ... d) 
+
+## Articolul 2
+
+din Regulamentul (UE) 2016/631 al Comisiei din 14 aprilie 2016 de instituire a unui cod de rețea privind cerințele pentru racordarea la rețea a instalațiilor de generare; ... e) 
+
+## Articolul 3
+
+din Legea energiei electrice și a gazelor naturale nr. 123/2012 , cu modificările și completările ulterioare. ...
+
+## Articolul 4
+
+În înțelesul specific prezentului regulament, termenii și expresiile de mai jos au următoarele semnificații: 1. agregator - participant la piață implicat în agregare, așa cum este definit la 
+
+## Articolul 2
+
+pct. 43 din Regulamentul (UE) 2019/943 al Parlamentului European și al Consiliului din 5 iunie 2019 privind piața internă de energie electrică; ... 2. bancă de decontare - bancă la care o PRE/OTS și-a deschis contul bancar din/în care se achită/încasează obligațiile de plată/drepturile de încasare înscrise în notele de informare pentru decontare emise de ODDPRE, prevăzute în facturi; ... 3. consum net - energia pe care un consumator de energie electrică o preia din rețelele electrice de transport/distribuție ale SEN; ... 4. consum propriu tehnologic al rețelelor - diferența dintre energia electrică măsurată la intrarea în rețeaua electrică și energia electrică măsurată la ieșirea din rețeaua electrică respectivă, reprezentând pierderile de energie electrică aferente rețelei, precum și energia electrică preluată din rețea, dar nefacturată, din cauza neînregistrării de către grupurile de măsurare; ... 5. convenția de asumare a responsabilității echilibrării - convenție standardizată elaborată de OTS în urma unui proces de consultare publică, în conformitate cu prevederile prezentului regulament, care prevede drepturile și responsabilitățile reciproce dintre OTS și o PRE; aceasta se semnează de OTS și de participantul care solicită să fie înregistrat ca PRE; ... 6. echipament de contorizare pe interval - echipament de măsurare capabil să măsoare, precum și să stocheze și să transmită valorile măsurate ale cantităților de energie activă și reactivă transportate, livrate într-un punct de măsurare, în fiecare ID; ... 7. livrare contractuală - cantitatea de energie electrică ce se consideră ca fiind livrată de la sau către o PRE în baza obligațiilor contractuale încheiate de către participanții la piață din cadrul PRE conform prevederilor legale, inclusiv importurile și exporturile, tranzacțiile încheiate pe PZU și pe PI notificate și tranzacțiile încheiate pe PE, într-un ID; ... 8. livrare măsurată - livrările de energie electrică ce sunt măsurate într-un punct de măsurare dintre SEN și un producător sau un consumator, după caz, sau într-un punct de schimb între rețeaua electrică a unui OR și rețeaua electrică a altui OR, precum și CPT al unei rețele electrice, într-un ID; ... 9. luna de livrare - luna în care are loc livrarea efectivă/consumul energiei electrice; ... 10. operator de decontare a dezechilibrelor PRE - entitate organizatorică desemnată potrivit legii și/sau reglementărilor în vigoare pentru stabilirea dezechilibrelor cantitative și valorice ale PRE; ... 11. operator de rețea - orice persoană fizică sau juridică ce deține, sub orice titlu, o rețea electrică de distribuție/transport și care răspunde de exploatarea, de întreținerea și, dacă este necesar, de dezvoltarea rețelei de distribuție/transport într-o anumită zonă și, după caz, a interconexiunilor acesteia cu alte sisteme, precum și de asigurarea capacității pe termen lung a rețelei de distribuție/transport de a satisface un nivel rezonabil al cererii de distribuție/transport de energie electrică; ... 12. poziția netă contractuală - diferența dintre obligațiile de livrare contractuale ale unei PRE și obligațiile de achiziție contractuale ale respectivei PRE într-un interval de decontare; ... 13. poziția netă măsurată - diferența dintre producția netă însumată pentru toți producătorii de energie electrică pentru care respectiva PRE și-a asumat responsabilitatea echilibrării și consumul net însumat pentru toți consumatorii de energie electrică pentru care respectiva PRE și-a asumat responsabilitatea echilibrării, inclusiv CPT al rețelei electrice a unui OR, dacă acesta și-a transferat responsabilitatea echilibrării CPT către acea PRE, într-un ID; ... 14. proces de compensare a dezechilibrelor - proces convenit între OTS, care permite evitarea activării simultane a rezervelor de restabilire a frecvenței în direcții opuse, luând în considerare abaterile respective de reglaj la restabilirea frecvenței, precum și rezervele de restabilire a frecvenței activate, și corectând în mod corespunzător contribuția proceselor de restabilire a frecvenței implicate; ... 15. producția netă - energia electrică ce este livrată de o unitate de producție în rețelele electrice de transport/distribuție ale SEN, egală cu diferența dintre energia produsă, măsurată la bornele generatoarelor, și CPT asigurat din producția proprie; ... 16. punct de schimb - punctul fizic în care rețeaua electrică a unui OR este racordată la rețeaua electrică a altui OR sau în care s-a convenit formal delimitarea sa, printr-un punct de măsurare; ... 17. punct de măsurare - locul de racordare la care este conectată aparatura și ansamblul instalațiilor care servesc la măsurarea puterii și energiei electrice; ... 18. registru PRE - registru public întocmit și actualizat de OTS care conține informații specifice despre PRE înregistrate; ... 19. registru de serviciu pe sistem - registru întocmit și actualizat de fiecare OR care conține informații specifice despre utilizatorii de rețea electrică înregistrați; ... 20. responsabilitatea echilibrării - responsabilitatea fiecărui participant la piață față de OTS pentru menținerea echilibrului între valorile realizate și contractate ale producției, consumului și schimburilor de energie electrică proprii, după caz, și pentru suportarea financiară a eventualelor dezechilibre; ... 21. schimb neintenționat - cantitatea de energie electrică schimbată neintenționat de SEN cu sistemele electroenergetice vecine din zona sincronă Europa Continentală calculată de o platformă informatică europeană dedicată aferentă acestor schimburi neintenționate; ... 22. tranzacție - convenție încheiată între două părți pentru transferul comercial de energie electrică, conform dispozițiilor prezentului regulament; ... 23. tranzacție angajată pe PE - tranzacție stabilită pe PE între OTS și un FSE, respectiv un alt OTS conector, pentru furnizarea energiei de echilibrare; ... 24. zi de livrare - ziua în care are loc livrarea efectivă/consumul energiei de echilibrare. ...
+
+## Capitolul I
+
+II Responsabilitatea echilibrării pentru PRE
+
+Secţiunea 3.1 Principii generale
+
+## Articolul 5
+
+Conceptul de responsabilitate a echilibrării și stabilirea PRE asigură: a) închiderea pozițiilor aferente tranzacțiilor cu energie electrică pe piața de energie electrică într-un mod ordonat și just; ... b) stabilirea înainte de ID a balanței de energie electrică în SEN; ... c) separarea tranzacțiilor financiare de cele fizice; ... d) decontarea corectă a tranzacțiilor cu energie electrică pe piață. ...
+
+## Articolul 6
+
+Participanții la piață care devin activi pe piața de energie electrică își asumă responsabilitatea financiară pentru dezechilibrele pe care le cauzează în sistem; aceștia depun eforturi pentru a fi echilibrați și/sau contribuie la echilibrarea SEN.
+
+## Articolul 7
+
+Aplicarea conceptului responsabilității echilibrării în prezentul regulament are ca obiectiv stimularea participanților de a se echilibra înainte de ID, prin modul de stabilire a responsabilității financiare pentru dezechilibrele dintre producția netă și consumul realizat și schimburile de energie electrică notificate conform contractelor, permițând totodată diminuarea aplicării măsurilor penalizatoare asupra participanților la piață, în limitele prevăzute de prezentul regulament.
+
+## Articolul 8
+
+Prezentul capitol stabilește regulile și condițiile referitoare la: a) înregistrarea PRE, transferarea responsabilității către altă PRE, retragerea/revocarea PRE; ... b) alocarea responsabilității echilibrării către participanții la piață înregistrați ca PRE; ... c) drepturile și obligațiile PRE; ... d) alocarea locurilor de producere/locurilor de consum, inclusiv CPT al unei rețele, către PRE; ... e) înființarea și completarea registrului pentru PRE de către OTS. ...
+
+Secţiunea 3.2 Obligația asumării responsabilității echilibrării, drepturi și limitări
+
+## Articolul 9
+
+Responsabilitatea echilibrării revine participanților la piață pentru: a) asigurarea echilibrului între producția măsurată în punctele de măsurare aferente locurilor de producere, achizițiile contractate notificate/energia de echilibrare activată pe PE și importurile contractate de energie electrică notificate, pe de o parte, și consumul măsurat în punctele de măsurare aferente locurilor de consum/CPT determinat aflate în responsabilitatea sa, vânzările contractate notificate/energia de echilibrare activată pe PE și exporturile contractate de energie electrică notificate, pe de altă parte; ... b) asumarea responsabilității financiare față de OTS pentru toate dezechilibrele fizice care apar datorită lipsei egalității între producția netă măsurată în punctele de măsurare aferente locurilor de producere, achiziția contractată notificată/energia de echilibrare activată pe PE, importul contractat notificat, pe de o parte, și consumul măsurat în punctele de măsurare aferente locurilor de consum, inclusiv CPT, aflate în responsabilitatea sa, vânzările contractate notificate/energia de echilibrare activată pe PE și exportul contractat notificat de energie electrică, pe de altă parte. ...
+
+## Articolul 10
+
+Participantul la piață își asumă contractual responsabilitatea financiară a echilibrării față de OTS prin înregistrarea ca PRE sau, în cazul clienților finali care nu participă la piața angro în nume propriu, prin transferul implicit al acestei responsabilități către PRE înregistrată de către furnizorul/unul din furnizorii săi.
+
+## Articolul 11
+
+Furnizorii de energie electrică care achiziționează energia electrică produsă și livrată în rețeaua electrică de către prosumatorii care dețin centrale electrice de producere a energiei electrice din surse regenerabile cu puterea instalată de cel mult 100 kW pe loc de consum și încheie contracte de vânzare-cumpărare a energiei electrice în temeiul Ordinului președintelui ANRE nr. 90/2015 privind aprobarea contractelor-cadru pentru serviciul de distribuție a energiei electrice, cu modificările ulterioare, și pentru modificarea Contractului-cadru de vânzare-cumpărare a energiei electrice produse de prosumatorii care dețin centrale electrice de producere a energiei electrice din surse regenerabile cu puterea instalată de cel mult 100 kW pe loc de consum, aprobat prin Ordinul președintelui Autorității Naționale de Reglementare în Domeniul Energiei nr. 227/2018 , cu modificările ulterioare, sunt obligați să își asume responsabilitatea financiară pentru plata dezechilibrelor generate pe piața de energie electrică de către prosumatorii respectivi.
+
+## Articolul 12
+
+În vederea facilitării funcționării pieței de energie electrică, participanților la piață li se permite să își transfere integral responsabilitatea echilibrării unei PRE care a fost înregistrată la OTS doar în situația în care, după transfer, aceasta se încadrează în dimensiunea maximă a PRE stabilită conform prevederilor prezentului regulament. PRE care preia responsabilitatea echilibrării altui/altor participant/participanți la piață înregistrați ca PRE are obligația să utilizeze metoda unică de repartizare între PRE membre a costurilor/veniturilor care îi revin conform prezentului regulament și să transmită la OTS situația dezechilibrelor înregistrate de fiecare participant la piață pentru care și-a asumat responsabilitatea echilibrării, separat pentru fiecare ID din luna de livrare.
+
+## Articolul 13
+
+Pe perioada transferului responsabilității echilibrării de la un participant înregistrat ca PRE către alt participant înregistrat ca PRE, prevederile din prezentul regulament se aplică PRE celei din urmă, conform dimensiunii și structurii acesteia rezultate în urma transferului.
+
+## Articolul 14
+
+Dacă un participant la piață este revocat ca PRE se va considera că acesta are toate responsabilitățile unei PRE înregistrate, fiind răspunzător pentru toate cheltuielile aferente restante, fără a avea dreptul de a participa la piața de energie electrică și considerând SB cu alte PRE egale cu zero.
+
+## Articolul 15
+
+Un participant la piață își poate asuma responsabilitatea echilibrării prin intermediul unei singure PRE pentru toate activitățile din sectorul energiei electrice pe care le desfășoară sau își poate transfera responsabilitatea echilibrării unei singure PRE.
+
+## Articolul 16
+
+Fac excepție de la aplicarea prevederilor 
+
+## Articolul 15
+
+situațiile prevăzute la art. 25-28 și 
+
+## Articolul 138
+
+pentru OTS, OD concesionar, OPEED, FSE, participantul la piață având în gestiune locuri de producere sau instalații de stocare aflate în perioada de probe, care nu vor face parte din UFR/GFR.
+
+## Articolul 17
+
+Fiecare loc de producere și fiecare loc de consum, inclusiv CPT al unui OR, se află în responsabilitatea unei PRE.
+
+## Articolul 18
+
+În cazul unui loc de consum și de producere, a unei capacități de stocare sau a unui loc de producere/consum cu capacități de stocare, acesta este considerat loc de producere în ID în care valoarea măsurată în punctul de delimitare indică o injecție de energie electrică în rețele și loc de consum în ID în care valoarea măsurată indică o extragere de energie electrică din rețele.
+
+## Articolul 19
+
+Fiecare punct de schimb între rețelele a doi OR este luat în considerare la determinarea CPT al fiecăruia din cei doi OR, în cadrul fiecărei PRE care deține responsabilitatea echilibrării pentru fiecare dintre aceștia.
+
+## Articolul 20
+
+În cazul consumatorului deservit simultan de mai mulți furnizori la un loc de consum, doar unul dintre aceștia își asumă responsabilitatea echilibrării respectivului loc de consum, denumit în prezentul regulament furnizor principal.
+
+## Articolul 21
+
+În cazul consumatorului care participă activ la piață prin intermediul unui agregator independent, furnizorul principal își asumă responsabilitatea echilibrării respectivului loc de consum, responsabilitatea echilibrării agregatorului realizându-se prin intermediul transferului de energie dintre PRE în care este înregistrat și PRE în care este înregistrat furnizorul principal, stabilit la un nivel care depinde de consumul măsurat al acestuia și de consumul de referință aferent pieței pe care a participat; în situațiile în care consumatorul participă frecvent la piață, astfel încât nu este posibilă realizarea curbei de referință a consumului pentru piețele anterioare PE, consumul de referință pentru aceste piețe se consideră la nivelul valorii de consum prestabilite prevăzute în contractul de furnizare al consumatorului.
+
+## Articolul 22
+
+Transferul responsabilității echilibrării unui participant la piață înregistrat ca PRE către altă PRE este permis cu respectarea prevederilor 
+
+## Articolul 55
+
+.
+
+## Articolul 23
+
+În cazul în care în perioada care urmează transferului responsabilității echilibrării se constată că PRE rezultată nu mai respectă prevederile 
+
+## Articolul 55
+
+, nerespectare constatată în baza analizei valorilor actualizate lunar ale dimensiunii PRE conform informațiilor prevăzute în cadrul secțiunii pentru calculul dimensiunii PRE din prezentul regulament, OTS are dreptul să limiteze respectiva PRE în a-și asuma responsabilitatea echilibrării pentru alți participanți la piață și să ceară acesteia revenirea la încadrarea în limitele specificate într-o perioadă de maximum 6 luni. Această solicitare se face transparent, pe baza unei analize descrise în procedura operațională pentru constituirea, actualizarea și utilizarea garanțiilor financiare pe piața de echilibrare elaborată de OTS în urma unui proces de consultare publică.
+
+## Articolul 24
+
+Exportul și importul sunt alocate PRE în conformitate cu notificările de program ale respectivelor PRE, transmise și aprobate conform prevederilor prezentului regulament.
+
+## Articolul 25
+
+OPEED își asumă responsabilitatea echilibrării pentru toate tranzacțiile comerciale în care se angajează în calitate de contraparte, separat pentru tranzacțiile pe PZU și pentru cele pe PI.
+
+## Articolul 26
+
+OPEED nu are dreptul să își asume responsabilitatea echilibrării pentru: a) niciun loc de producere/loc de consum, inclusiv CPT al unei rețele; sau ... b) nicio altă PRE. ...
+
+## Articolul 27
+
+OTS înființează PRE separate pentru: a) administrarea diferențelor dintre cantitatea de energie electrică achiziționată pentru acoperirea CPT al rețelei electrice de transport și CPT realizat în fiecare ID; ... b) operațiunile comerciale realizate ca agent de transfer pentru PZU în funcționare cuplată; ... c) operațiunile comerciale realizate ca agent de transfer pentru PI în funcționare cuplată; ... d) operațiunile comerciale realizate pe piață în vederea alimentării propriilor locuri de consum, altele decât CPT. ...
+
+## Articolul 28
+
+Fiecare OD concesionar înființează o PRE distinctă pentru administrarea diferențelor dintre cantitatea de energie electrică achiziționată pentru acoperirea CPT al rețelei sale electrice și CPT al rețelei respective realizat în fiecare ID.
+
+## Articolul 29
+
+Fiecare PRE transmite notificări de program conform prevederilor secțiunii referitoare la notificările de program din prezentul regulament.
+
+## Articolul 30
+
+Fiecare PRE își asumă responsabilitatea financiară față de OTS pentru suma dezechilibrelor între producție, achiziție, import, consum, vânzări și export pentru participanții la piață, pentru care are responsabilitatea echilibrării. Dezechilibrele cantitative și financiare sunt determinate și decontate conform prevederilor din prezentul regulament.
+
+## Articolul 31
+
+Fiecare PRE menține pe cheltuiala sa toate sistemele de comunicație necesare pentru transmiterea NP, precum și pentru recepționarea notificărilor de la OTS conform prevederilor prezentului regulament.
+
+## Articolul 32
+
+Fiecare PRE împuternicește cel puțin o persoană de contact care să acționeze în numele său și care să țină legătura cu OTS pe tot parcursul fiecărei zile calendaristice.
+
+## Articolul 33
+
+Fiecare PRE furnizează OTS garanții financiare pentru acoperirea riscurilor de neplată către acesta a obligațiilor rezultate din dezechilibrele înregistrate, conform unei proceduri elaborate de OTS după un proces de consultare publică.
+
+## Articolul 34
+
+Suplimentar condițiilor prevăzute în prezentul regulament, fiecare PRE are drepturile și trebuie să îndeplinească obligațiile corelative prevăzute în convenția de asumare a responsabilității echilibrării, încheiată cu OTS.
+
+## Articolul 35
+
+Drepturile și obligațiile unei PRE prevăzute în convenția de asumare a responsabilității echilibrării sunt transferabile numai în condițiile prevăzute în prezentul regulament și cu acceptul OTS.
+
+Secţiunea 3.3 Înregistrarea participanților la piață ca PRE
+
+## Articolul 36
+
+Participantul la piață trebuie să solicite în scris către OTS înregistrarea ca PRE. Cererea de înregistrare a PRE se completează conform unei proceduri elaborate de OTS în urma unui proces de consultare publică și publicată de OTS pe pagina proprie de internet.
+
+## Articolul 37
+
+Fiecare cerere de înregistrare a PRE conține cel puțin următoarele informații: a) numele complet, sediul și datele de contact ale solicitantului, codul EIC; ... b) numărul licenței/deciziei de confirmare a dreptului de furnizare/trading a solicitantului, după caz, pentru activitățile care potrivit legii necesită deținerea unei licențe; ... c) numele și datele de contact ale persoanelor împuternicite să acționeze în numele solicitantului; ... d) capacitatea instalată a fiecărei unități de producție pe care solicitantul o exploatează și a fiecăreia din cele pentru care își asumă responsabilitatea echilibrării; ... e) lista locurilor de consum pentru care solicitantul își asumă responsabilitatea echilibrării și capacitatea agregată a acestora. ...
+
+## Articolul 38
+
+În termen de două zile lucrătoare de la primirea unei solicitări de înregistrare a unei PRE, OTS: a) verifică corectitudinea informațiilor furnizate de solicitant; ... b) transmite solicitantului convenția de asumare a responsabilității echilibrării; ... c) stabilește garanția financiară inițială care trebuie asigurată de solicitant și îl informează pe acesta asupra cuantumului garanției financiare inițiale. ...
+
+## Articolul 39
+
+În situația în care nu sunt transmise toate informațiile prevăzute la 
+
+## Articolul 37
+
+, OTS solicită completări, iar termenul prevăzut la 
+
+## Articolul 38
+
+se suspendă până la îndeplinirea solicitării OTS.
+
+## Articolul 40
+
+OTS aprobă o cerere de înregistrare a unei PRE în cel mult 5 zile lucrătoare, dacă se îndeplinesc următoarele condiții: a) informațiile transmise de solicitant nu conțin, după cunoștința OTS, nicio informație falsă; ... b) solicitantul deține, în cazurile prevăzute de lege, o licență/decizie de confirmare a dreptului de furnizare/trading valabilă; ... c) solicitantul a completat și a semnat convenția de asumare a responsabilității echilibrării; ... d) solicitantul a constituit garanția financiară inițială. ...
+
+## Articolul 41
+
+În situația în care OTS a decis că nu poate aproba o solicitare, informează de îndată solicitantul, motivându-și decizia. Dacă solicitarea a fost respinsă motivat din lipsa informațiilor sau pentru neconstituirea garanției financiare, termenul prevăzut la 
+
+## Articolul 40
+
+va fi prelungit cu cel mult două zile lucrătoare de la primirea de către OTS a informațiilor lipsă sau până la constituirea garanției financiare solicitate, dar nu mai mult de 10 zile lucrătoare de la primirea solicitării.
+
+## Articolul 42
+
+Îndată ce a aprobat solicitarea, OTS: a) semnează convenția de asumare a responsabilității echilibrării și transmite o copie către noua PRE; ... b) înscrie noua PRE în registrul pentru PRE; ... c) informează ODDPRE și pe toți OD în calitate de OM asupra înregistrării noii PRE, precum și asupra datei de la care noii PRE i se permite să funcționeze. ...
+
+## Articolul 43
+
+Noua PRE își poate exercita drepturile și obligațiile ulterior aprobării de către OTS a cererii de înființare a PRE și înregistrării sale în registrul pentru PRE.
+
+## Articolul 44
+
+OTS actualizează permanent informațiile înscrise în registrul pentru PRE și le publică pe pagina proprie de internet.
+
+Secţiunea 3.4 Garanții de plată a obligațiilor PRE
+
+## Articolul 45
+
+OTS are dreptul sǎ solicite participanților la piață depunerea unei garanții înainte ca respectivul participant la piață să fie înregistrat ca PRE; în cazul în care o PRE este înregistrată de către un participant la piață care este înregistrat ca FSE în conformitate cu Clauzele și condițiile pentru FSE și furnizorii de RSF, iar această PRE nu a preluat responsabilitatea echilibrării altor participanți la piață, OTS poate accepta o garanție comună pentru obligațiile de plată ale participantului la piață atât în calitate de PRE, cât și de FSE.
+
+## Articolul 46
+
+(1) Garanția furnizată de un participant la piață înregistrat ca PRE poate limita dimensiunea maximă a acelei PRE, determinată conform prevederilor 
+
+## Articolul 55
+
+, și/sau volumul corespunzător al schimburilor bloc, exporturilor și importurilor. (2) Modul de aplicare a prevederilor alin. (1) trebuie prevăzut în detaliu de către OTS în procedura menționată la 
+
+## Articolul 47
+
+și are drept scop corelarea la nivelul garanției depuse a sumei dintre vânzările nete, consumul și exportul respectivei PRE pe perioada de risc, evaluate în baza informațiilor privind cantitățile de energie electrică tranzacționate conform contractelor de vânzare-cumpărare încheiate și cu considerarea prețului mediu de dezechilibru pe ultimele 3 luni. (3) Limitarea prevăzută la alin. (2) este solicitată în cazul constatării unor potențiale dezechilibre semnificative și/sau înregistrării de întârzieri la plată urmate de utilizarea garanțiilor, fără ca acestea să fie reconstituite ulterior la nivelul necesar.
+
+## Articolul 47
+
+(1) OTS elaborează, în urma unui proces de consultare publică, procedura pentru determinarea necesarului și a tipurilor de garanții solicitate, pentru realizarea și verificarea constituirii garanțiilor și suplimentării acestora, dacă este cazul, precum și de utilizare a disponibilului rămas din garanția depusă de către PRE. (2) Nivelul garanției solicitate ține seama de probabilitatea ca diferența dintre obligațiile de plată și drepturile de încasare ale PRE la nivel lunar către OTS să fie pozitivă și este adaptat în concordanță cu eventualele întârzieri la plată înregistrate în perioade anterioare. (3) OTS publică pe pagina proprie de internet procedura prevăzută la alin. (1) .
+
+Secţiunea 3.5 Dimensiunea PRE
+
+## Articolul 48
+
+Fiecare OR trebuie să transmită lunar OTS informații privind dimensiunea fiecărei PRE din zona de activitate proprie.
+
+## Articolul 49
+
+Nu mai târziu de a 5-a zi lucrătoare a fiecărei luni calendaristice, fiecare OR transmite OTS și fiecărei PRE următoarele informații din zona de licență proprie: a) valoarea însumată a producției anuale estimate pentru unitățile de producție, pentru care respectiva PRE și-a asumat responsabilitatea echilibrării; ... b) valoarea însumată a consumului anual estimat pentru consumatorii de energie electrică, pentru care respectiva PRE și-a asumat responsabilitatea echilibrării. ...
+
+## Articolul 50
+
+Producțiile și consumurile anuale estimate pentru următoarele 12 luni, transmise conform prevederilor 
+
+## Articolul 49
+
+, pot avea la bază următoarele informații, fără a se limita la acestea: a) cantitățile anuale estimate pentru CPT, utilizate de respectivul OR pentru determinarea tarifelor de rețea; ... b) producția sau consumul anual, după cum este cazul, înregistrate în ultimele 12 luni pentru respectivul loc de producere/loc de consum; sau ... c) în cazul unui loc de producere/loc de consum pentru care nu sunt disponibile date, o estimare cât mai realistă a cantităților anuale, așa cum au fost convenite de furnizorul locului de consum și/sau de OR cu respectivul utilizator de rețea electrică și/sau PRE. ...
+
+## Articolul 51
+
+În situația în care datele transmise de un OR conform prevederilor 
+
+## Articolul 49
+
+sunt incorecte, respectiva PRE le poate contesta la OR într-un interval de 5 zile lucrătoare de la data la care au fost transmise. Dacă o PRE nu a transmis nicio contestație în acest interval, atunci datele transmise conform prevederilor 
+
+## Articolul 49
+
+se consideră ca fiind confirmate de respectiva PRE.
+
+## Articolul 52
+
+Un OR verifică orice contestație primită în legătură cu datele transmise conform prevederilor 
+
+## Articolul 49
+
+în termen de 5 zile lucrătoare după primirea contestației și trebuie să comunice respectivei PRE rezultatul analizei. Dacă datele au fost incorecte, OR transmite datele corectate către OTS și respectiva PRE.
+
+## Articolul 53
+
+OTS și orice OR pot conveni să limiteze schimbul lunar de informații dintre ei, necesar conform prezentei secțiuni, numai la datele care s-au modificat față de luna anterioară.
+
+## Articolul 54
+
+În fiecare lună calendaristică, după transmiterea de către OR a informațiilor prevăzute la 
+
+## Articolul 49
+
+, OTS determină dimensiunea totală a fiecărei PRE prin agregarea informațiilor și le comunică PRE.
+
+## Articolul 55
+
+Dimensiunea unei PRE nu poate depăși 30% din producția netă totală injectată în SEN în anul precedent și/sau 30% din consumul net total din SEN în anul precedent.
+
+Secţiunea 3.6 Retragerea și revocarea înregistrării ca PRE
+
+## Articolul 56
+
+În situația încetării activității pe piața de energie electrică a unui participant la piață, acesta informează OTS în scris referitor la retragerea sa ca PRE. OTS stabilește și publică condițiile și formatul-cadru pentru o astfel de solicitare de retragere, în procedura prevăzută la 
+
+## Articolul 36
+
+.
+
+## Articolul 57
+
+Participanții la piață înregistrați ca PRE care nu mai pot respecta obligațiile ce decurg din prezentul regulament trebuie să informeze fără întârziere OTS.
+
+## Articolul 58
+
+OTS poate decide din proprie inițiativă să revoce înregistrarea ca PRE a unui participant la piață, pentru oricare dintre următoarele cauze: a) OTS constată că: (i) garanțiile financiare furnizate de PRE sunt mai mici decât suma necesară pentru această PRE; și ... (ii) PRE nu a reușit să crească nivelul garanțiilor la valoarea solicitată, în termen de 9 zile lucrătoare de la data la care OTS i-a cerut; și/sau ... (iii) PRE nu a redus dimensiunea PRE în termenul prevăzut la pct. (ii), astfel încât garanțiile financiare constituite să fie suficiente sau pentru a se încadra în prevederile procedurii prevăzute la 
+
+## Articolul 47
+
+; și/sau ... (iv) PRE nu și-a transferat în termen de 9 zile lucrătoare responsabilitatea echilibrării către altă PRE, care să își fi majorat în acest interval garanțiile financiare până la suma care acoperă nivelul solicitat de OTS; sau ... ... b) OTS i se aduce la cunoștință falimentul sau lichidarea participantului la piață; sau ... c) ANRE a informat OTS cu privire la expirarea/ retragerea/suspendarea licenței/dreptului de tranzacționare a/al respectivului participant la piață. ...
+
+## Articolul 59
+
+OTS poate, de asemenea, revoca înregistrarea unei PRE dacă participantul la piață respectiv nu și-a îndeplinit în mod repetat sau pentru o perioadă prelungită de timp celelalte obligații care decurg din prezentul regulament, în cazul unor abateri semnificative și/sau frecvente. În acest caz, OTS are dreptul să revoce PRE numai după notificarea participantului la piață și a celorlalte părți prevăzute la 
+
+## Articolul 61
+
+și numai dacă acesta nu și-a îndeplinit obligațiile respective în termen de 10 zile lucrătoare de la notificarea prevăzută la 
+
+## Articolul 60
+
+.
+
+## Articolul 60
+
+Cu 10 zile lucrătoare înainte de a decide dacă revocă înregistrarea ca PRE a unui participant la piață conform prevederilor 
+
+## Articolul 58
+
+lit. a) sau 
+
+## Articolul 59
+
+, precum și în cazurile de retragere la cererea expresă a acestuia, OTS trebuie să îl notifice pe participantul la piață cu privire la declanșarea și termenele procedurii de revocare.
+
+## Articolul 61
+
+În situația în care motivele revocării subzistă, după două zile lucrătoare de la notificarea prevăzută la 
+
+## Articolul 60
+
+OTS: a) notifică ODDPRE, toți distribuitorii în rețelele cărora PRE avea puncte de măsurare, precum și participanții la piață înregistrați ca PRE, care aveau responsabilitatea echilibrării transferată acestei PRE, precum si alte PRE-uri cu care a avut schimburi bloc în ultimele 6 luni, cu privire la posibilitatea și termenul de revocare; ... b) publică pe pagina proprie de internet o atenționare referitoare la posibilitatea revocării PRE, adresată participanților la piața de energie electrică și PRE cu care această PRE avea contracte/notifica schimburi bloc. ...
+
+## Articolul 62
+
+În situația în care motivele revocării au fost eliminate până la împlinirea termenelor de conformare prevăzute la 
+
+## Articolul 58
+
+lit. a) sau la 
+
+## Articolul 59
+
+, OTS publică în termen de o zi pe pagina proprie de internet o informare cu privire la menținerea ca PRE a participantului la piață.
+
+## Articolul 63
+
+Dacă la împlinirea termenelor prevăzute la 
+
+## Articolul 58
+
+lit. a) sau la 
+
+## Articolul 59
+
+motivele revocării PRE subzistă, în ziua următoare OTS revocă PRE și: a) nu mai târziu de ora 9,00, anunță pe pagina proprie de internet revocarea participantului la piață ca PRE și transmite o notificare în acest sens tuturor OD concesionari; ... b) radiază respectiva PRE din registrul pentru PRE și publică versiunea actualizată a registrului PRE; ... c) transmite ANRE informațiile prevăzute în Regulamentul de preluare; ... d) solicită ANRE retragerea/suspendarea licenței participantului respectiv, dacă revocarea nu s-a realizat din acest motiv, prezentând toată motivația pentru revocare. ...
+
+## Articolul 64
+
+În situația în care înregistrarea ca PRE a unui participant la piață este revocată în temeiul prevederilor 
+
+## Articolul 58
+
+lit. a) sau 
+
+## Articolul 59
+
+, revocarea produce efecte pentru ziua următoare publicării versiunii actualizate a registrului PRE.
+
+## Articolul 65
+
+Dacă motivul revocării este cel prevăzut la 
+
+## Articolul 58
+
+lit. b) sau c), revocarea produce efecte de la data de la care participantului la piață i se retrage/suspendă/îi expiră licența sau la care intră în faliment, dacă aceasta este ulterioară datei la care OTS a luat cunoștință de această situație, sau în caz contrar, la data luării la cunoștință; la aceeași dată, OTS publică versiunea actualizată a registrului PRE.
+
+## Articolul 66
+
+În cazul retragerii PRE la cerere, înregistrarea ca PRE își va pierde valabilitatea după 9 zile lucrătoare de la solicitarea participantului la piață; în ziua următoare celei în care a primit solicitarea, OTS anunță pe pagina proprie de internet data începând cu care retragerea participantului la piață ca PRE produce efecte.
+
+## Articolul 67
+
+Participanților la piață care își transferaseră responsabilitatea echilibrării către o PRE revocată li se aplică prevederile secțiunii referitoare la excluderea din PRE, termenele aferente începând să curgă de la data notificării prevăzute la 
+
+## Articolul 61
+
+.
+
+Secţiunea 3.7 Transferul responsabilității echilibrării
+
+## Articolul 68
+
+O PRE solicitantă împreună cu PRE primitoare trebuie să ceară OTS aprobarea transferului responsabilității de echilibrare și să comunice data de la care se intenționează transferul.
+
+## Articolul 69
+
+PRE solicitantă trebuie să îi informeze cu privire la această cerere pe toți participanții la piață cu care are schimburi contractuale de energie electrică, precum și pe OR la rețelele cărora sunt conectate locurile de producere/locurile de consum aflate în responsabilitatea sa, precizând identitatea PRE primitoare și data de la care dorește efectuarea transferului, precum și orice alte informații necesare.
+
+## Articolul 70
+
+În termen de două zile lucrătoare de la data primirii de către OTS a solicitărilor de transfer al responsabilității echilibrării atât de la PRE solicitantă, cât și de la PRE primitoare, OTS: a) informează PRE abandonată, dacă există, că PRE solicitantă dorește să își transfere responsabilitatea echilibrării către PRE primitoare; ... b) stabilește noile garanții financiare care trebuie asigurate de PRE primitoare și informează PRE primitoare asupra cuantumului noii garanții financiare; ... c) stabilește nivelul garanțiilor financiare care trebuie asigurate de PRE abandonată, dacă există, și o informează pe aceasta cu privire la modificările apărute. ...
+
+## Articolul 71
+
+OTS aprobă transferul responsabilității echilibrării în termen de maximum două zile lucrătoare, dacă se îndeplinesc următoarele condiții: a) la data la care se aplică transferul responsabilității echilibrării, PRE primitoare este înregistrată în registrul pentru PRE prevăzut la 
+
+## Articolul 93
+
+, ca PRE cu convenția de asumare a responsabilității echilibrării nesuspendată; ... b) PRE primitoare prezintă garanțiile financiare necesare pentru a i se transfera responsabilitatea echilibrării pentru PRE solicitantă, comunicate de OTS; ... c) PRE abandonată, dacă există, confirmă primirea tuturor informațiilor referitoare la transfer; ... d) fiecare OR la rețelele cărora PRE solicitantă are racordate locuri de consum/locuri de producere pentru care își asumă responsabilitatea echilibrării verifică și comunică OTS respectarea condițiilor prevăzute la 
+
+## Articolul 103
+
+și 104 ; ... e) PRE solicitantă, PRE primitoare și, dacă există, PRE abandonată au furnizat către OR în zonele cărora PRE solicitantă are locuri de consum/locuri de producere toate informațiile solicitate de aceștia, necesare alocării pe PRE și agregării valorilor măsurate referitoare la punctele de măsurare aferente fiecăreia. ...
+
+## Articolul 72
+
+Modificarea componenței unei/unor PRE la solicitarea participanților la piață implicați este consemnată, la data aprobării solicitării, ȋn registrul pentru PRE publicat de OTS.
+
+## Articolul 73
+
+Modificarea modului de agregare a valorilor măsurate de consum/producție ȋn cadrul unei/unor PRE se realizează după aprobarea de către OTS, conform prevederilor 
+
+## Articolul 71
+
+, a solicitării de modificare a componenței respectivelor PRE și se aplică de către OR începând cu ziua următoare celei în care a fost publicată versiunea actualizată a registrului pentru PRE în care figurează aceste modificări.
+
+## Articolul 74
+
+Toți OR colaborează și elaborează, în urma unui proces de consultare publică, o procedură unică privind modul de stabilire, verificare, confirmare de către părțile implicate și de implementare a modului de agregare a valorilor măsurate aferente unei PRE, pe care fiecare OR o publică apoi pe pagina proprie de internet în termen de 3 luni de la publicarea în Monitorul Oficial al României, Partea I, a prezentului regulament.
+
+## Articolul 75
+
+Dacă OTS nu aprobă transferul responsabilității echilibrării, acesta informează fără întârziere atât pe PRE solicitantă și pe PRE primitoare, cât și pe PRE abandonată și își motivează decizia. În situația în care refuzul este motivat de lipsa informațiilor sau de neconstituirea garanțiilor la nivelul necesar de către PRE primitoare, termenul de aprobare prevăzut la 
+
+## Articolul 71
+
+va fi extins cu până la două zile lucrătoare de la primirea de către OTS a informațiilor lipsă sau până la constituirea garanției financiare solicitate; termenele rezultate din aplicarea prevederilor art. 68-71 nu poate fi extins la mai mult de 9 zile lucrătoare.
+
+## Articolul 76
+
+Imediat ce OTS a aprobat transferul responsabilității echilibrării, acesta: a) informează PRE solicitantă și PRE primitoare, ODDPRE, precum și, dacă există, pe PRE abandonată; ... b) îi informează pe toți OR implicați, pentru ca aceștia să își actualizeze propriile registre de serviciu pe sistem cu informațiile rezultate din transferul responsabilității echilibrării, publicate pe pagina proprie de internet; și ... c) înscrie transferul responsabilității echilibrării în registrul pentru PRE și publică versiunea actualizată a acestuia pe pagina proprie de internet. ...
+
+## Articolul 77
+
+Transferul responsabilității echilibrării produce efecte începând cu ziua calendaristică următoare celei în care OTS a publicat versiunea actualizată a registrului PRE prevăzută la 
+
+## Articolul 76
+
+lit. c) .
+
+## Articolul 78
+
+Condițiile și termenele prevăzute la art. 68-77 se aplică și în situația în care PRE solicitantă dorește să își asume responsabilitatea echilibrării în nume propriu, caz în care PRE primitoare este aceeași cu PRE solicitantă, respectiv în situația în care PRE solicitantă este PRE în nume propriu și dorește să își transfere responsabilitatea echilibrării către altă PRE, caz în care PRE abandonată este aceeași cu PRE solicitantă.
+
+## Articolul 79
+
+În situația în care OTS nu a aprobat în perioada de 9 zile lucrătoare transferul responsabilității echilibrării pentru PRE solicitantă către PRE primitoare sau nu a aprobat asumarea responsabilității echilibrării de către PRE solicitantă în nume propriu, OTS revocă PRE solicitantă în ziua ulterioară expirării acestei perioade și solicită ANRE activarea FUI, dacă este cazul, și ridicarea licenței PRE solicitante, cu toate motivările corespunzătoare.
+
+## Articolul 80
+
+Până la data aprobării transferului, dar nu mai mult de 10 zile lucrătoare, responsabilitatea echilibrării pentru PRE solicitantă rămâne în sarcina PRE abandonată.
+
+Secţiunea 3.8 Excluderea din PRE
+
+## Articolul 81
+
+O PRE poate renunța unilateral la asumarea responsabilității echilibrării pentru un participant la piață înregistrat ca PRE pentru care își asumase anterior această responsabilitate, în următoarele condiții: a) PRE îl anunță pe participantul la piață cu privire la decizia sa, cu cel puțin 10 zile lucrătoare înainte de data de la care intenționează să nu își mai asume responsabilitatea echilibrării pentru acesta; ... b) PRE anunță OTS la aceeași dată despre intenția sa, comunicând toate informațiile referitoare la consumul de la locurile de consum ale participantului la piață, achizițiile și vânzările contractuale ale acestuia în ultima lună, nivelul datoriilor participantului la piață față de PRE, dacă este cazul, precum și data de la care nu își mai asumă responsabilitatea echilibrării pentru acesta; ... c) PRE anunță OR la care participantul la piață are puncte de măsurare corespunzătoare locurilor de consum/locurilor de producere aflate în responsabilitatea sa, ANRE, dacă participantul la piață are clienți finali, precum și PRE cu care acesta avea schimburi comerciale notificate drept schimburi bloc în ultimele 6 luni. ...
+
+## Articolul 82
+
+În perioada dintre data notificării și data anunțată a excluderii din PRE a participantului la piață, care nu poate fi mai mică de 10 zile lucrătoare, PRE continuă să fie responsabilă financiar pentru toate dezechilibrele acestuia.
+
+## Articolul 83
+
+În situația în care, în maximum 9 zile lucrătoare de la data notificării referitoare la excludere, participantul la piață care face obiectul excluderii nu depune o garanție, conform prevederilor secțiunii referitoare la dimensiunea PRE pentru a rămâne înregistrat ca propriul PRE, sau nu își transferă responsabilitatea echilibrării în calitate de PRE solicitantă către altă PRE, cu respectarea condițiilor prevăzute la art. 68-77 , OTS îl revocă pe participantul la piață ca PRE, realizând în ziua ulterioară expirării acestei perioade acțiunile prevăzute la 
+
+## Articolul 63
+
+.
+
+Secţiunea 3.9 Modificarea configurației PRE
+
+## Articolul 84
+
+Un participant la piață înregistrat ca PRE își poate modifica configurația în ceea ce privește locurile de producere/locurile de consum proprii sau ale consumatorilor pentru care își asumă responsabilitatea echilibrării, față de cea anterioară, în următoarele condiții: a) furnizează informațiile corespunzătoare OTS, precum și OR la care sunt racordate noile locuri de producere și/sau de consum pentru care își asumă responsabilitatea echilibrării și/sau cele pentru care nu își mai asumă responsabilitatea echilibrării, cu minimum două zile lucrătoare înainte de ziua începând cu care dorește să i se ia în considerare noua configurație; ... b) informațiile sunt confirmate de către PRE în configurația căreia se reflectă modificările respective, fiind verificată condiția prevăzută la 
+
+## Articolul 103
+
+, sau, în caz contrar, modificarea este motivată corespunzător la OR de către PRE care a solicitat-o, pe baza reglementărilor aplicabile. ...
+
+## Articolul 85
+
+OR implicați aplică modul de agregare a valorilor măsurate corespunzător modificării efectuate, conform procedurii prevăzute la 
+
+## Articolul 74
+
+începând cu data solicitată.
+
+## Articolul 86
+
+OTS elaborează, în urma unui proces de consultare publică, procedurile aplicabile pentru transferul responsabilității echilibrării, excluderea din PRE, modificarea configurației PRE și revocarea unei PRE. Acestea pot include acțiuni prealabile sau concomitente, care să permită participanților conformarea în termenele prevăzute în prezentul regulament și diminuarea riscurilor asupra funcționării pieței.
+
+## Articolul 87
+
+OTS publică procedurile elaborate conform prevederilor 
+
+## Articolul 86
+
+pe pagina proprie de internet.
+
+Secţiunea 3.10 Convenția de asumare a responsabilității echilibrării
+
+## Articolul 88
+
+Convenția de asumare a responsabilității echilibrării este acordul încheiat între OTS și un participant la piață, care stabilește drepturile și obligațiile reciproce ale OTS și, respectiv, ale participantului la piață în calitatea acestuia de PRE.
+
+## Articolul 89
+
+OTS încheie câte o convenție de asumare a responsabilității echilibrării cu fiecare dintre participanții la piață care au solicitat înregistrarea unei PRE pentru a putea activa pe piața de energie electrică și care îndeplinesc cerințele prevăzute în prezentul regulament.
+
+## Articolul 90
+
+Existența unei convenții de asumare a responsabilității echilibrării valabil încheiată este o condiție pentru înregistrarea participantului la piață în calitate de PRE.
+
+## Articolul 91
+
+Odată cu transferul integral al responsabilității echilibrării către altă PRE se suspendă convenția de asumare a responsabilității echilibrării semnată de către participantul la piață înregistrat ca PRE, urmând ca suspendarea convenției să înceteze automat la data aprobată de către OTS pentru reluarea asumării responsabilității echilibrării în nume propriu, în conformitate cu prevederile prezentului regulament.
+
+## Articolul 92
+
+Convențiile de asumare a responsabilității echilibrării se încheie conform convenției-cadru, care este elaborată în urma unui proces de consultare publică de către OTS și publicată pe pagina proprie de internet.
+
+Secţiunea 3.11 Registrul PRE
+
+## Articolul 93
+
+OTS înființează și completează registrul pentru înregistrarea PRE.
+
+## Articolul 94
+
+PRE care au fost înregistrate de OTS sunt înscrise în registrul pentru PRE. Registrul pentru PRE conține, pentru fiecare PRE, cel puțin următoarele informații: a) numele complet, codul EIC, adresa sediului și datele de contact ale participantului la piață care a înființat PRE; ... b) data și numărul de înregistrare a convenției de asumare a responsabilității echilibrării; ... c) codul de identificare al PRE; ... d) numele și datele de contact ale tuturor persoanelor împuternicite să acționeze în numele participantului la piață respectiv; ... e) datele de identificare ale PRE către care și-a transferat responsabilitatea echilibrării, dacă este cazul, și data transferului; ... f) datele de identificare ale PRE-urilor pentru care și-a asumat responsabilitatea echilibrării, dacă este cazul, și data fiecăruia din aceste transferuri; ... g) denumirea OR în zona cărora PRE are locuri de consum/locuri de producere pentru care își asumă responsabilitatea echilibrării și lista acestora. ...
+
+## Articolul 95
+
+Fiecare PRE are dreptul să consulte registrul pentru PRE și să ceară corectarea oricărei inexactități care o privește.
+
+## Articolul 96
+
+OTS pune la dispoziția ODDPRE și a tuturor OR informațiile conținute în registrul pentru PRE.
+
+## Articolul 97
+
+OTS informează imediat prin poșta electronică pe ODDPRE și OR asupra oricăror modificări efectuate în registrul pentru PRE.
+
+## Articolul 98
+
+OTS păstrează istoricul modificărilor realizate în registrul pentru PRE timp de cel puțin 12 luni.
+
+## Articolul 99
+
+OTS informează imediat toate PRE despre înscrierea în registru a unei PRE noi sau despre transferul, excluderea sau radierea uneia existente, prin publicarea pe pagina proprie de internet a unui anunț și a listei cu toate PRE, inclusiv componența actualizată la zi a fiecărei PRE.
+
+Secţiunea 3.12 Registrul de serviciu pe sistem
+
+## Articolul 100
+
+Fiecare OR înființează și completează un registru de serviciu pe sistem, integrat cu baza de date creată conform Regulamentului de furnizare și Regulilor de măsurare.
+
+## Articolul 101
+
+În plus față de informațiile prevăzute de Regulamentul de furnizare și Regulile de măsurare, registrul de serviciu pe sistem al fiecărui OR conține cel puțin următoarele informații pentru fiecare loc de producere al unui producător de energie electrică racordat la rețelele sale: a) desemnarea unică a locului de producere/locului de consum și de producere; ... b) capacitatea instalată a locului de producere; ... c) codul de identificare a PRE care deține responsabilitatea echilibrării pentru acel loc de producere; doar în cazul unui loc de consum și de producere, acestuia îi poate fi atașată o PRE pentru ID în care acesta are caracter de loc de producere și altă PRE pentru ID în care acesta are caracter de loc de consum. ...
+
+## Articolul 102
+
+Fiecare utilizator de rețea are dreptul să consulte informațiile care îl privesc din registrul de serviciu pe sistem și obligația să solicite corectarea oricărei inexactități care îl privește.
+
+## Articolul 103
+
+OTS solicită informațiile necesare cuprinse în registrele de serviciu pe sistem ale OR și verifică împreună cu aceștia îndeplinirea condiției ca fiecare punct de măsurare să fie corespunzător unui loc de producere, unui loc de consum, unui loc de consum și de producere sau unui punct de schimb, iar pentru fiecare loc de consum, inclusiv pentru CPT al unei rețele, respectiv loc de producere, să existe o PRE și doar una, care și-a asumat responsabilitatea echilibrării pentru acesta.
+
+## Articolul 104
+
+În cazul revocării unei PRE cu declanșarea procesului de preluare la FUI a unor consumatori, condiția prevăzută la 
+
+## Articolul 103
+
+se prezumă îndeplinită pentru locurile de consum în cauză, pe perioada cuprinsă între data începând cu care furnizorul actual nu mai îndeplinește condiția de asumare a responsabilității financiare pentru plata dezechilibrelor, rezultată din informarea transmisă ANRE de către OTS conform prevederilor Regulamentului de preluare, și data notificării de preluare a locurilor respective de consum la FUI transmisă de ANRE la OR, responsabilitatea echilibrării fiind atribuită la PRE înregistrată de FUI desemnat sau, dacă este cazul, la PRE către care aceasta și-a transferat responsabilitatea echilibrării.
+
+## Capitolul I
+
+V Reguli pentru NP
+
+Secţiunea 4.1 Principii generale
+
+## Articolul 105
+
+Obiectivul regulilor pentru NP din prezenta secțiune este crearea cadrului pentru furnizarea informațiilor despre volumele nete de energie electrică tranzacționate pe piețele anterioare pieței de echilibrare, importuri/exporturi, pregătirea programului de producție și consum și determinarea disponibilității rezervelor de energie de echilibrare necesare pentru a permite OTS să asigure: a) integritatea SEN; ... b) siguranța și calitatea alimentării cu energie electrică; ... c) suficientă capacitate disponibilă pentru a asigura în orice moment cererea din SEN și o rezervă corespunzătoare; ... d) gestionarea restricțiilor de rețea; ... e) determinarea dezechilibrelor după ziua de livrare. ...
+
+## Articolul 106
+
+Realizarea fizică a obligațiilor contractuale necesită transmiterea la ODDPRE, prin intermediul OTS, a notificărilor privind toate schimburile contractuale între PRE, acestea fiind considerate realizate conform valorilor notificate, în termen de 10 zile lucrătoare de la sfârșitul lunii de livrare.
+
+## Articolul 107
+
+Schimburile contractuale de energie electrică realizate de către o PRE cu altă PRE sunt cuprinse în NP sub denumirea de schimburi bloc.
+
+## Articolul 108
+
+Fiecare PRE are obligația să transmită la OTS NP ale respectivei PRE pentru fiecare ID din fiecare zi de livrare. OPEED transmite de asemenea la OTS câte o NP de același tip în calitate de PRE pentru tranzacțiile încheiate drept contraparte pe PZU și în calitate de PRE pentru tranzacțiile încheiate drept contraparte pe PI.
+
+## Articolul 109
+
+NP a unei PRE conține pentru fiecare ID toate informațiile prevăzute în cadrul secțiunii referitoare la conținutul și formatul NP, precum și schimbul de energie electricǎ între PRE – PZU/PRE-PI și PRE Agent de transfer aferent.
+
+## Articolul 110
+
+NP pentru schimburile de energie electrică între PRE - PZU/PRE-PI și PRE Agent de transfer aferent sunt transmise de OPEED și trebuie să fie limitate la capacitățile interzonale alocate implicit prin mecanismul de cuplare a PZU și PI interzonale conform prevederilor legislației naționale și europene în vigoare.
+
+## Articolul 111
+
+Structura și modul de transmitere a declarațiilor de disponibilitate și a NP fac obiectul prevederilor prezentului regulament și ale Clauzelor și condițiilor pentru FSE și RSF.
+
+## Articolul 112
+
+OTS elaborează în urma unui proces de consultare publică și afișează pe pagina proprie de internet procedurile necesare pentru aplicarea prevederilor prezentului capitol.
+
+Secţiunea 4.2 Conținutul și formatul NP
+
+## Articolul 113
+
+NP conțin cel puțin următoarele informații: I. codul de identificare al PRE care a transmis respectiva NP; ... II. ziua de livrare și date separate pentru fiecare ID din respectiva zi de livrare, și anume: A. producția/consumul planificat pentru fiecare UFR/GFR; suplimentar, OTS poate solicita programul de producție/consum planificat pentru fiecare unitate din cadrul UFR/GFR; ... B. producția planificatǎ, pentru fiecare unitate de producție cu o putere instalată mai mare de 4 MW, care nu este calificată tehnic sau pentru fiecare unitate de producție mai mare de 1,5 MW calificată pentru rezerva de stabilizare a frecvenței; ... C. producția planificatǎ însumată pentru toate unitǎțile de producție, altele decât cele de la lit. A) și B); ... D. prognoza însumată de consum pentru toți consumatorii de energie electrică care nu au calificare tehnică; ... E. schimburile bloc cu alte PRE în zona naționalǎ de tranzacționare, separat pentru fiecare PRE cu care s-au stabilit SB, inclusiv: 1. SB dintre PRE în care este înregistrat un agregator pentru producători înregistrați în alte PRE-uri care participă pe alte piețe înaintea PE și PRE respective; ... 2. SB dintre PRE a unui FSE care a realizat tranzacții pe PE cu unități de producție sau instalații de stocare a energiei electrice, iar punctele de măsură ale unor elemente componente ale unui GFR nu se află în PRE respectivă și PRE în care se află respectivele puncte de măsură. SB sunt egale cu energia măsurată la creștere, respectiv la reducere defalcată de către FSE după primirea valorilor măsurate, pe care acesta le primește de la OM, conform Regulamentului de măsurare; ... 3. SB dintre PRE ale furnizorilor aceluiași consumator și cele aferente transferului de energie între PRE a furnizorului unui consumator și PRE a agregatorului acestuia, dacă aceste PRE sunt diferite, iar agregatorul a realizat tranzacții de vânzare sau de cumpărare pe piețele anterioare PE pe seama consumului acestuia sau agregatorul activ ca FSE a realizat tranzacții pe PE pe seama consumului acestuia, după cum urmează: (i) cantitatea de energie electrică corespunzătoare consumului asigurat de către furnizorul care nu își asumă responsabilitatea echilibrării pentru un loc de consum aflat în portofoliul mai multor furnizori se consideră și se notifică drept schimb bloc între PRE din care face parte acesta și PRE a furnizorului principal; ... (ii) în cazul în care agregatorul a realizat tranzacții pe piețele anterioare PE, SB corespunzătoare transferului de energie sunt egale cu diferența dintre consumul măsurat al consumatorului și consumul său de referință aferent piețelor anterioare PE și au sensul dinspre PRE a furnizorului către PRE a agregatorului, dacă diferența este negativă, și dinspre PRE a agregatorului către PRE a furnizorului, dacă diferența este pozitivă; agregatorul notifică furnizorul fiecărui consumator pe baza consumului căruia a realizat tranzacțiile în fiecare ID privind datele de identificare ale consumatorului, precum și pe OM și OR, cel târziu în ziua lucrătoare următoare celei de primire a valorilor măsurate ale consumului, prevăzută în Regulile de măsurare; ... (iii) în cazul în care un agregator activ ca FSE pentru consumuri din cadrul agregării a realizat tranzacții pe PE, iar punctele de măsură ale UFR și/sau ale elementelor componente ale unui GFR nu se află toate în PRE agregator, SB cu PRE a furnizorului sunt egale cu energia măsurată la creștere, respectiv la reducere defalcată de către FSE după primirea valorilor măsurate pe care acesta le primește de la OM, conform prevederilor Regulilor de măsurare, astfel: a) având sens de ieșire din PRE a furnizorului și de intrare în PRE a agregatorului în cazul tranzacțiilor la creștere de putere pe PE; și ... b) sens de intrare în PRE a furnizorului și de ieșire din PRE a agregatorului în cazul tranzacțiilor la reducere de putere pe PE; ... ... ... ... F. exporturile și importurile stabilite cu alte țǎri, separat pentru fiecare zonǎ de tranzacționare de frontierǎ. ... ...
+
+## Articolul 114
+
+Suplimentar față de informațiile prevăzute la 
+
+## Articolul 113
+
+, NP ale OPEED conțin SB cu fiecare PRE în zona naționalǎ de tranzacționare corespunzătoare tranzacțiilor de vânzare/cumpărare pe PZU și separat pe PI, respectiv cu fiecare PRE Agent de Transfer înființat de OTS, pentru administrarea tranzacțiilor transfrontaliere pe aceste piețe.
+
+Secţiunea 4.3 Transmiterea și anularea NP
+
+## Articolul 115
+
+Fiecare PRE, precum și OPEED transmit OTS NP ale producțiilor, consumurilor și SB pentru un ID al zilei de livrare până la ora 16,30 în ziua D-1; acestea pot fi modificate de către emitent pentru ziua D, astfel: a) cel târziu cu 50 minute înaintea ID de livrare, pentru SB privind producția/consumul, ținând seama inclusiv de tranzacțiile pe PI; ... b) în orice moment înaintea ID de livrare, pentru SB ale PRE, altele decât cele prevăzute la 
+
+## Articolul 113
+
+pct. II lit. E. pct. 2 și pct. 3 subpct. (ii) și (iii). ...
+
+## Articolul 116
+
+Transmiterea NP se poate efectua cel mai devreme cu 30 de zile înaintea zilei de livrare.
+
+## Articolul 117
+
+Modul de transmitere a NP către OTS se realizează conform procedurilor prevăzute la 
+
+## Articolul 112
+
+.
+
+## Articolul 118
+
+Responsabilitatea corectitudinii NP privind producția, respectiv consumul programate pentru fiecare UFR/GFR din contur aparține fiecărui FSE conform prevederilor din Clauzele și condițiile pentru FSE și furnizorii de RSF.
+
+## Articolul 119
+
+NP se transmit în format electronic, prin canalele de comunicație stabilite de OTS.
+
+## Articolul 120
+
+NP este considerată transmisă în momentul intrării în sistemul informatic al pieței de echilibrare. Imediat ce o nouă NP intră în sistemul informatic al pieței de echilibrare, PRE care a transmis-o va primi electronic confirmarea de primire.
+
+## Articolul 121
+
+Sistemul informatic al pieței de echilibrare verifică îndeplinirea condițiilor de respectare a formatului NP, prevăzute în procedura elaborată de OTS și publicată pe pagina proprie de internet.
+
+## Articolul 122
+
+Daca sistemul informatic al pieței de echilibrare nu acceptă o NP, PRE care a transmis-o primește imediat un mesaj de eroare cu specificarea neconformității constatate, iar NP respectivă este considerată anulată.
+
+Secţiunea 4.4 Validarea NP
+
+## Articolul 123
+
+Sistemul informatic al pieței de echilibrare verifică automat toate NP din punctul de vedere al corectitudinii conținutului. Eroarea este transmisă automat emitentului.
+
+## Articolul 124
+
+Modul de validare a NP în conformitate cu prevederile 
+
+## Articolul 126
+
+este procedurat de către OTS conform prevederilor 
+
+## Articolul 112
+
+.
+
+## Articolul 125
+
+NP ale unei PRE sunt disponibile pentru vizualizarea de către PRE respectivă prin intermediul sistemului informatic al pieței de echilibrare.
+
+## Articolul 126
+
+Sistemul informatic al pieței de echilibrare analizează completitudinea, corectitudinea, coerența și fezabilitatea fiecărei NP și a ansamblului acestora, verificând dacă: a) există egalitatea SB reciproce între PRE pe fiecare ID; ... b) producția/consumul programat pe fiecare UFR/GFR se încadrează în DD a UFR/GFR pentru aceeași zi de livrare și același ID; ... c) sunt respectate limitele definite de caracteristicile tehnice ale UFR/GFR; ... d) schimburile de energie cu alte sisteme (exportul și importul) se încadrează în capacitatea de schimb agregată alocată PRE respective pe fiecare graniță și direcție. ...
+
+## Articolul 127
+
+Fiecare PRE depune toate eforturile în vederea adaptării producției și/sau a încheierii de tranzacții de vânzare și/sau cumpărare de energie electrică, astfel încât suma dintre producție, import și achiziție să fie egală cu suma dintre consum, export și vânzare la nivelul fiecărui ID. O NP este considerată ca fiind în dezechilibru dacă suma producției, importurilor și SB primite nu este egală cu suma consumului, exporturilor și SB livrate, separat pentru fiecare zonă de tranzacționare și ID, ținând seama de completarea SB cu cele aferente tranzacțiilor pe PI, transmise până la ID-15 minute.
+
+## Articolul 128
+
+În cazul unor nepotriviri între SB reciproce ale PRE constatate în ultimele NP transmise conform termenelor prevăzute în cadrul secțiunii referitoare la transmiterea și anularea notificărilor de program, PRE în cauză sunt atenționate automat, iar dacă în intervalul destinat corecțiilor, definit în procedurile realizate conform 
+
+## Articolul 112
+
+, PRE nu reușesc să corecteze NP, OTS ia următoarele măsuri: a) în cazul unui SB între OPEED și o PRE, este acceptată cantitatea transmisă prin NP de către OPEED; ... b) dacă sensul prevăzut în NP de către fiecare din cele două PRE al SB dintre ele este același, cantitatea corespunzătoare SB între cele două PRE este considerată egală cu cea mai mică dintre cele două valori; ... c) dacă NP ale celor două PRE prevăd SB dintre ele în sensuri diferite sau numai una dintre PRE a prevăzut în NP un SB cu cealaltă, cantitatea corespunzătoare SB între cele două PRE este considerată zero. ...
+
+## Articolul 129
+
+OTS nu este responsabilă pentru consecințele economice ale corecțiilor NP realizate conform prevederilor 
+
+## Articolul 128
+
+.
+
+## Articolul 130
+
+Orice NP acceptată în sistemul informatic al pieței de echilibrare, inclusiv cea modificată de OTS conform regulilor din prezentul capitol, devine NP aprobată.
+
+## Articolul 131
+
+NP aprobate reprezintă obligații ferme pentru PRE respective, ele putând fi modificate doar în cazurile prevăzute în cadrul secțiunii referitoare la transmiterea și anularea notificărilor de program.
+
+## Articolul 132
+
+În cazul în care în urma modificărilor realizate conform prevederilor secțiunii referitoare la transmiterea și anularea notificărilor de program se constată nepotriviri ale SB reciproce ale PRE, platforma informatică a PE aduce SB la valorile din NP aprobate și anunță PRE respective cu privire la această acțiune.
+
+## Articolul 133
+
+Dacă o PRE nu a reușit să transmită SB înainte de termenul prevăzut la 
+
+## Articolul 115
+
+lit. b) , sistemul informatic al pieței de echilibrare transmite automat un mesaj în acest sens către PRE respectivă și către PRE care au notificat SB cu aceasta și sistemul informatic al pieței de echilibrare generează automat o NP implicită pentru aceasta în acel ID, cu toate valorile egale cu zero, aceasta fiind disponibilă pentru vizualizare în sistemul informatic al pieței de echilibrare pentru PRE partenere.
+
+Secţiunea 4.5 Modificarea NP
+
+## Articolul 134
+
+Modificarea notificărilor de program este permisă numai în următoarele cazuri: a) în cazul selectării de cǎtre OTS pe PE a unei perechi preț-cantitate (emiterii unei dispoziții de dispecer); ... b) cel târziu în a 10-a zi lucrătoare a lunii care urmează lunii de livrare, pentru SB corespunzătoare transferului de energie dintre un FSE aflat în altă PRE, în cazul participării UFR/GFR de producție pe PE prin intermediul acestuia, prevăzute la 
+
+## Articolul 113
+
+pct. II lit. E pct. 2; ... c) cel târziu în a 10-a zi lucrătoare a lunii care urmează lunii de livrare, pentru SB corespunzătoare transferului de energie dintre furnizor/furnizori și agregatorul activ ca FSE aflat în altă PRE, în cazul participării UFR/GFR consumator pe PE prin intermediul acestuia, prevăzute la 
+
+## Articolul 113
+
+pct. II lit. E pct. 3 subpct. (ii); ... d) cel târziu în a 10-a zi lucrătoare a lunii care urmează lunii de livrare, pentru SB corespunzătoare transferului de energie dintre furnizor/furnizori și agregatorul aflat în altă PRE, în cazul participării unui consumator pe piețele anterioare PE prin intermediul acestuia, prevăzute la 
+
+## Articolul 113
+
+pct. II lit. E pct. 3 subpct. (iii); ... e) în cazul reducerilor de putere accidentale ale UFR/GFR, parțiale sau totale, anunțate la OTS; ... f) în cazul constatării și corectării unor erori ale SB, conform prevederilor 
+
+## Articolul 128
+
+. ...
+
+## Articolul 135
+
+Notificările de program care au fost modificate conform prevederilor prezentei secțiuni înlocuiesc notificările de program aprobate anterior conform prevederilor 
+
+## Articolul 130
+
+, se aplică pentru ziua de livrare în ID corespunzătoare și constituie obligații ferme pentru respectiva PRE.
+
+## Capitolul V
+
+Reguli privind preluarea energiei electrice livrate în rețelele electrice, produsă în perioada de probe a capacităților de producere/instalațiilor de stocare a energiei electrice
+
+## Articolul 136
+
+Perioada de timp necesară efectuării probelor pentru punerea în funcțiune a unei capacități de producere/ instalații de stocare a energiei electrice, denumită în continuare perioada de probe, este intervalul de timp cuprins între momentul punerii sub tensiune pentru perioada de probe și data obținerii licenței, dar nu mai mult de 24 de luni de la data primei puneri sub tensiune.
+
+## Articolul 137
+
+Persoana fizică/juridică care pune în funcțiune o capacitate nouă de producere/instalație de stocare a energiei electrice sau care a fost retehnologizată efectuează probele de funcționare pentru capacitatea respectivă, cu respectarea prevederilor din Regulamentul privind racordarea utilizatorilor la rețelele electrice de interes public, aprobat prin ordin al președintelui ANRE, și a cadrului de reglementare aferent echilibrării SEN.
+
+## Articolul 138
+
+Pentru punerea în funcțiune a capacităților prevăzute la 
+
+## Articolul 137
+
+se aplică următoarele prevederi: a) pentru punerea în funcțiune a capacității de producere/instalației de stocare, persoana fizică/juridică întreprinde demersurile necesare conform cadrului de reglementare în vigoare pentru înscrierea la OTS ca PRE provizorie pe perioada de probe, în conformitate cu autorizația de înființare și avizul de racordare deținute; ... b) pe perioada de probe, persoana fizică/juridică nu transmite oferte pe PE aferente acestei capacități de producere/instalații de stocare a energiei electrice. ...
+
+## Articolul 139
+
+PRE prevăzute la 
+
+## Articolul 138
+
+notifică zilnic OTS producția planificată a capacității de producere/instalației de stocare a energiei electrice aflate în perioada de probe, în conformitate cu programul de probe aprobat de OTS; prin derogare de la prevederile cap. III, PRE din care face parte capacitatea de producere/instalația de stocare prevăzută la 
+
+## Articolul 138
+
+realizează notificări de program în dezechilibru, corespunzător programului de probe al respectivei capacități.
+
+## Articolul 140
+
+Pentru energia electrică produsă în perioada de probe și livrată în SEN, persoana fizică/juridică care pune în funcțiune capacitățile noi de producere/instalații de stocare a energiei electrice prevăzute la 
+
+## Articolul 137
+
+sau care au fost retehnologizate primește de la OTS un preț egal cu media aritmetică a indicilor ROPEX_DAM_Base, calculată pentru o perioadă de 90 de zile calendaristice anterioare zilei de livrare; prețul este același pentru fiecare ID al unei zile de livrare.
+
+## Articolul 141
+
+Calculul drepturilor de încasat ale PRE provizorie pe perioada de probe, pentru energia electrică produsă și livrată în SEN, este efectuat de către ODDPRE, care publică rezultatele pe platforma informatică la același termen la care se finalizează și se publică notele de informare pentru decontarea lunară a dezechilibrelor.
+
+## Articolul 142
+
+În procesul de programare și de selectare a energiei de echilibrare pe PE, OTS ține cont de programele de probe notificate conform 
+
+## Articolul 139
+
+.
+
+## Capitolul V
+
+I Reguli de calcul al dezechilibrelor PRE
+
+Secţiunea 6.1 Prevederi generale
+
+## Articolul 143
+
+Obiectivul regulilor de calcul al dezechilibrelor din prezenta secțiune este acela de a stabili modul de determinare a diferențelor dintre: a) valorile măsurate ale producției plus valorile notificate conform contractelor ale achizițiilor, inclusiv ale importurilor; și ... b) valorile măsurate ale consumului plus valorile notificate conform contractelor aferente vânzărilor, inclusiv ale exporturilor, luând în considerare, în cazul PRE care și-au asumat responsabilitatea echilibrării pentru CPT al unei rețele, și schimburile fizice între rețele. ...
+
+## Articolul 144
+
+Valorile notificate trebuie să corespundă angajamentelor contractuale pe care participanții la piață și le-au asumat înainte de ID sau ca urmare a încheierii tranzacțiilor pe PE și/sau a celor în afara PE cu compensație în scopul managementului congestiilor sau al transferului de energie aferent tranzacțiilor realizate pe fiecare piață pe seama consumului, iar valori măsurate sunt considerate producția, consumul și schimburile ce au avut loc fizic în timpul ID.
+
+## Articolul 145
+
+Dezechilibrele se determină agregat la nivelul PRE, pentru a permite compensarea financiară a dezechilibrelor individuale între membrii PRE, limitate la erorile de prognoză/evenimentele neașteptate, a abaterilor rezonabile dintre valorile măsurate și cele notificate, fără a afecta obligația ca participanții la piață să prognozeze cât mai bine consumul și producția și să depună eforturi pentru a asigura acoperirea consumului/livrarea producției prin contractare.
+
+## Articolul 146
+
+Dezechilibrul unei PRE se determină pe baza poziției nete măsurate și a poziției nete contractuale ale respectivei PRE.
+
+## Articolul 147
+
+Determinarea poziției nete contractuale notificate a fiecărei PRE se face pe baza tuturor schimburilor contractuale de energie electrică notificate ca SB stabilite cu alte PRE, inclusiv tranzacțiile derulate prin PZU și prin PI, a celor de import și/sau export, precum și în urma tranzacțiilor FSE pe PE și/sau pentru ofertele selectate pe PE pentru managementul congestiilor, respectiv tranzacțiile cu compensație încheiate de OTS în afara PE pentru managementul congestiilor.
+
+## Articolul 148
+
+Transferul de energie între furnizorul unui consumator și agregatorul care tranzacționează energie pe orice piață pe seama consumatorului respectiv este notificat ca SB între PRE corespunzătoare acestora conform prevederilor cap. IV și are la bază un contract negociat bilateral sau, în cazul în care nu se ajunge la o înțelegere între părți, ca mecanism de soluționare a litigiilor, se încheie obligatoriu un contract la prețul pentru energia electrică corespunzător ID respectiv, prevăzut în contractul de furnizare, și anume cel care nu conține contravaloarea tarifelor de rețea și de sistem, a contribuțiilor/bonusurilor de orice tip, a certificatelor verzi și a oricăror taxe și accize aplicate de furnizor.
+
+## Articolul 149
+
+Transferul de energie rezultat din activarea pe PE dintre un FSE cu GFR format din unități de producție sau instalații de stocare a energiei electrice și producătorii/proprietarii acestora care au unitățile/instalațiile în componența acestui GFR, dar sunt înregistrați în alte PRE este notificat ca SB între PRE corespunzătoare acestora conform prevederilor cap. IV referitoare la conținutul și formatul notificărilor de program din prezentul regulament.
+
+## Articolul 150
+
+Determinarea poziției nete măsurate a fiecărei PRE se face pe baza tuturor livrărilor măsurate de energie electrică, din sau către SEN, sau între diferite părți ale SEN în conformitate cu valorile măsurate aprobate în punctele de măsurare corespunzătoare.
+
+## Articolul 151
+
+Calculele dezechilibrelor PRE prevăzute în cadrul prezentului capitol sunt efectuate de ODDPRE.
+
+Secţiunea 6.2 Poziția netă contractuală a unei PRE
+
+## Articolul 152
+
+Următoarele schimburi de energie electrică sunt definite ca schimburi contractuale: a) SB cu alte PRE, cuprinse în notificările de program aprobate; ... b) importurile aferente contractelor, conform graficelor de schimb notificate la OTS și cuprinse în notificările de program ale PRE, importurile rezultate din mecanismul de cuplare a PZU și a PI notificate de PRE Agent de transfer; ... c) exporturile aferente contractelor, conform graficelor de schimb notificate la OTS și cuprinse în notificările de program ale PRE, exporturile rezultate din mecanismul de cuplare a PZU și a PI notificate de PRE Agent de transfer; ... d) cantitățile totale din tranzacțiile angajate pentru creștere de putere în PE de către un FSE; ... e) cantitățile totale din tranzacțiile angajate pentru reducere de putere în PE de către un FSE; ... f) cantitățile totale din tranzacțiile angajate pentru creștere de putere, pentru managementul congestiilor de către un FSE/participant la piață care a primit activări ale unităților de producție pentru managementul congestiilor; ... g) cantitățile totale din tranzacțiile angajate pentru reducere de putere, pentru managementul congestiilor de către un FSE/participant la piață care a primit activări ale unităților de producție pentru managementul congestiilor; ... h) cantitățile totale de energie de echilibrare realizată în procesul de stabilizare a frecvenței pentru creștere de putere în PE de către un FSE; ... i) cantitățile totale de energie de echilibrare realizată în procesul de stabilizare a frecvenței pentru reducere de putere în PE de către un FSE. ...
+
+## Articolul 153
+
+Pentru fiecare PRE, ODDPRE determină separat pentru fiecare ID: a) poziția netă contractuală PN_contr a unei PRE, alta decât PRE provizorie pe perioada de probe, cu formula: unde: – PN_contr reprezintă poziția netă contractuală a PRE; ... – SB_livr reprezintă schimburile bloc pe care PRE le-a notificat ca vânzări către o altă PRE; ... – SB_prim reprezintă schimburile bloc pe care PRE le-a notificat ca achiziții de la o altă PRE; ... – ΣE^cres_ech/Σredech reprezintă cantitățile totale de energie de echilibrare angajată la creștere/la reducere de putere în PE de către FSE pentru care PRE și-a asumat responsabilitatea echilibrării; ... – ΣE^cres_RSF/ΣredRSF reprezintă cantitățile totale de energie activată în procesul de stabilizare a frecvenței, calculate conform cap. IX din Clauzele și condițiile pentru FSE și furnizorii de RSF; ... – ΣE^cres_Con/ΣEredCon reprezintă cantitățile totale de energie activată pentru managementul congestiilor, rezultate din activarea unor oferte din PE la care se adaugă cantitățile totale de energie activată, rezultate din activarea unor oferte pe bază de compensații financiare în afara PE, conform prevederilor 
+
+## Articolul 95
+
+și 96 din Regulamentul privind clauzele și condițiile pentru furnizorii de servicii de echilibrare și furnizorii de rezervă de stabilizare a frecvenței, aprobate prin Ordinul președintelui ANRE nr. 127/2021 ; ... – EX reprezintă exporturile cuprinse în NP ale PRE; ... – IM reprezintă importurile cuprinse în NP ale PRE; ... ... b) PN_contr a PRE provizorie pe perioada de probe ca fiind egală cu cantitatea de energie electrică produsă în perioada de probe și livrată în SEN de capacitatea de producere/instalația de stocare a energiei electrice aflată în perioada de probe către OTS conform prevederilor 
+
+## Articolul 140
+
+. ...
+
+## Articolul 154
+
+Pentru calculul poziției nete contractuale notificate, energia totală vândută sau achiziționată într-un ID este considerată ca fiind livrată la putere constantă pe parcursul întregului ID.
+
+## Articolul 155
+
+Cantitățile contractate aferente fiecărui ID sunt exprimate în MWh, cu 3 zecimale.
+
+Secţiunea 6.3 Poziția netă măsurată a unei PRE
+
+## Articolul 156
+
+Livrările măsurate sunt definite ca fiind livrările de energie electrică ce au fost măsurate într-un punct de măsurare între SEN și un producător sau consumator, după cum este cazul, într-un punct de schimb între o rețea electrică a unui OR și rețeaua electrică a unui alt OR sau între SEN și rețeaua unui OR/un consumator/un producător din alt stat.
+
+## Articolul 157
+
+Următoarele schimburi de energie electrică sunt definite ca livrări măsurate: a) producția netă, reprezentând energia electrică ce este livrată în rețelele electrice de transport/distribuție ale SEN la un loc de producere; ... b) consumul net, reprezentând energia electrică pe care un consumator o preia din rețelele electrice de transport/distribuție ale SEN la un loc de consum; ... c) schimburile dintre rețelele electrice aparținând de doi operatori de rețea diferiți, utilizate pentru determinarea CPT al rețelelor electrice de transport/distribuție; ... d) exporturile realizate din SEN către alte țări; ... e) importurile realizate din alte țări către SEN. ...
+
+## Articolul 158
+
+Poziția netă măsurată a unei PRE, alta decât PRE a unui OR sau PRE care și-a asumat responsabilitatea echilibrării pentru un OR, este determinatǎ dupǎ cum urmeazǎ: a) producția netă însumată la locurile de producere ale producătorilor pentru care respectiva PRE și-a asumat responsabilitatea echilibrării minus ... b) consumul net însumat la locurile de consum ale consumatorilor pentru care respectiva PRE și-a asumat responsabilitatea echilibrării; în situația în care consumul la un loc de consum este asigurat de mai mulți furnizori, incluși în PRE diferite, pentru PRE care nu și-a asumat responsabilitatea echilibrării se consideră valoarea zero pentru consumul măsurat. ...
+
+## Articolul 159
+
+Consumul net se determină pe baza livrărilor măsurate, considerate distinct în conformitate cu prevederile 
+
+## Articolul 157
+
+lit. b) , pentru fiecare PRE din care face parte participantul la piață.
+
+## Articolul 160
+
+Pentru calculul pozițiilor nete măsurate, energia totală livrată sau primită într-un ID este considerată ca fiind livrată la o putere constantă pe parcursul întregului ID.
+
+## Articolul 161
+
+Livrările măsurate aferente fiecărui ID sunt exprimate în MWh, cu 3 zecimale.
+
+## Articolul 162
+
+Poziția netă măsurată a unei PRE înregistrată de un OR pentru administrarea diferențelor dintre cantitatea de energie electrică achiziționată pentru acoperirea CPT al rețelei electrice și CPT realizat se va considera drept consum net, și anume la nivelul CPT al rețelei electrice din zona de licență a OR, determinat ca fiind diferența dintre cantitatea totală de energie electrică intrată în rețeaua din zona de licență în punctele de măsurare și cantitatea totală de energie electrică livrată din rețeaua din zona de licență în punctele de măsurare, pe baza valorilor măsurate aprobate corespunzătoare următoarelor cantități de energie electrică: a) energia electrică primită fizic de la alți operatori de rețea, aceasta incluzând, dacă este cazul, și importurile, plus ... b) producția netă a tuturor unităților de producție care sunt conectate la rețeaua electrică a OR respectiv, minus ... c) energia electrică livrată fizic către alți OR, aceasta incluzând, dacă este cazul, și exporturile, minus ... d) consumul net al tuturor consumatorilor care sunt conectați la rețeaua electrică a OR respectiv. ...
+
+## Articolul 163
+
+În situația în care nu toate punctele de măsurare dintr-o zonă de licență sunt dotate cu echipamente de contorizare cu rezoluție la nivel de ID, pentru determinarea CPT în rețelele electrice în zona de licență corespunzătoare și repartizarea acestuia în fiecare ID, precum și pentru determinarea consumului net al consumatorilor care nu sunt dotați cu echipamente de contorizare cu rezoluție la nivel de ID, OR în cauză, în calitate de OM, utilizează: a) Procedura pentru determinarea valorilor măsurate pe interval de decontare ale consumului propriu tehnologic în rețelele electrice de distribuție, aprobată prin Ordinul președintelui ANRE nr. 233/2020 ; ... b) profilurile specifice de consum ale fiecărei categorii de consumatori, determinate pe baza unei proceduri elaborate de operatorul de rețea și aprobate de ANRE; și ... c) Procedura pentru determinarea și utilizarea profilului rezidual de consum, aprobată prin Ordinul președintelui ANRE nr. 232/2020 . ...
+
+## Articolul 164
+
+CPT al rețelei electrice, precum și consumurile nete ale consumatorilor care nu sunt dotați cu echipamente de contorizare cu rezoluție la nivel de ID, determinate conform prevederilor 
+
+## Articolul 162
+
+, respectiv prevederilor 
+
+## Articolul 163
+
+, sunt considerate valori măsurate aprobate.
+
+## Articolul 165
+
+Poziția netă măsurată a unei PRE care a preluat responsabilitatea echilibrării pentru administrarea CPT al unui OR se determină conform 
+
+## Articolul 158
+
+, în care consumul include și consumul net aferent CPT al rețelei, determinat conform 
+
+## Articolul 162
+
+sau 163, după caz.
+
+Secţiunea 6.4 Dezechilibrul unei PRE
+
+## Articolul 166
+
+Dezechilibrul unei PRE este dezechilibrul respectivei PRE în fiecare ID și reprezintă soldul dezechilibrelor individuale ale participanților la piață înregistrați ca PRE și ale participanților pentru care respectiva PRE și-a asumat responsabilitatea echilibrării.
+
+## Articolul 167
+
+Dezechilibrul unei PRE se determină separat pentru fiecare PRE și pentru fiecare ID, ca diferență între poziția netă măsurată a unei PRE și poziția netă contractuală a respectivei PRE.
+
+Secţiunea 6.5 Dezechilibrul SEN
+
+## Articolul 168
+
+Dezechilibrul SEN pe fiecare ID_i în vederea realizării decontării dezechilibrelor PRE se determină de ODDPRE cu următoarea formulă: unde: – Dez_SENi reprezintă dezechilibrul SEN, dacă Dez_SENi &amp;gt; 0 înseamnă că SEN de află în excedent, iar dacă Dez_SENi &amp;lt; 0 înseamnă că SEN se află în deficit; ... – SN_i reprezintă volumul schimburilor neintenționate cu sistemul electroenergetic Europa Continentală interconectat, determinat conform prevederilor 
+
+## Articolul 176
+
+; pentru export valoarea schimburilor se consideră pozitivă, iar pentru import valoarea schimburilor se consideră negativă; ... – R_Ai/E_Ai reprezintă rezervele activate în zona proprie de control a energiei de reglaj; dacă R_Ai/E_Ai &amp;gt; 0, atunci reprezintă reglaj net la creștere, iar dacă R_Ai/E_Ai &amp;lt; 0, reprezintă reglaj net la reducere; ... – SE reprezintă schimburile OTS-OTS efectuate de OTS rezultate din platformele europene dedicate conform legislației europene și naționale în vigoare pentru procesul de echilibrare, inclusiv schimburile rezultate din contractele bilaterale cu părțile externe interconectate în caz de avarie; pentru export valoarea schimburilor se consideră pozitivă, iar pentru import valoarea schimburilor se consideră negativă. ...
+
+## Articolul 169
+
+Rezervele activate în zona proprie de control a energiei de reglaj se determină pentru fiecare ID_i cu următoarea formulă: unde: – q_i^Livrat reprezintă volumul net de energie livrat din produsele standard: RI, RRFm și RRFa pentru echilibrare sistem și managementul congestiilor, precum și în afara PE cu compensație, în zona proprie de control a energiei de reglaj; ... – MCD_i reprezintă volumul schimburilor planificate de energie ca urmare a procesului de compensare a dezechilibrelor stabilit pe platforma europeană dedicată; pentru export valoarea schimburilor se consideră pozitivă, iar pentru import valoarea schimburilor se consideră negativă; ... – kΔft_i reprezintă volumul schimburilor planificate de energie pentru stabilizarea frecvenței în aria sincronă Europa Continentală; pentru export valoarea schimburilor se consideră pozitivă, iar pentru import valoarea schimburilor se consideră negativă, în ID respectiv. ...
+
+## Articolul 170
+
+Volumul net de energie livrat în zona proprie de control a energiei de reglaj se determină pentru fiecare ID_i, de OTS, cu următoarea formulă: unde: – Σ q_i,j^Livrat reprezintă suma algebrică a volumelor nete livrate de fiecare UFR/GFR, unitate de producție (j), activate pe PE sau în afara PE cu compensație, în zona proprie de control a energiei, în ID_i; volumul net de energie livrată la creștere de putere în zona proprie de control a energiei de reglaj se consideră cu semn pozitiv și volumul net de energie livrată la reducere de putere în zona proprie de control a energiei de reglaj se consideră cu semn negativ. ...
+
+## Articolul 171
+
+Volumul net de energie livrat de o/un UFR/GFR, unitate de producție activată pe PE, sau în afara PE cu compensație, în zona proprie de control a energiei de reglaj se determină de OTS pentru fiecare ID_i astfel: a) pentru fiecare ID_i se calculează suma tuturor volumelor contractate pentru respectiva UFR/GFR, unitate de producție (j), pentru furnizarea creșterii, respectiv reducerii de putere în zona proprie de control a energiei de reglaj, notată cu Σ VC_i,j, ... b) dacă Σ VC_i,j &amp;gt; 0, și (i) Min (Σ VC_i,j, M_i,j – Np_i,j) &amp;gt; 0, atunci q_i,j^Livrat = Min (Σ VC_i,j, M_i,j – Np_i,j) dacă ... (ii) Min (Σ VC_i,j, M_i,j – Np_i,j) ≤ 0, atunci q_i,j^Livrat = 0; ... unde: – M_i,j reprezintă valoarea măsurată pentru fiecare UFR/GFR, unitate de producție (j), pentru care FSE/participant la piață care a primit activări ale unităților de producție pentru managementul congestiilor a încheiat una sau mai multe tranzacții angajate în ID_i; ... – Np_i,j reprezintă volumul programat (notificarea de producție programată) a fiecărui UFR/GFR, unitate de producție (j), pentru care FSE/participant la piață care a primit activări ale unităților de producție pentru managementul congestiilor a încheiat una sau mai multe tranzacții angajate în ID_i, respectiv: ... ... c) dacă Σ VC_i,j &amp;lt; 0, și (i) Max (Σ VC_i,j, M_i,j – Np_i,j) &amp;lt; 0, atunci q_i,j^Livrat = Max (Σ VC_i,j, M_i,j – Np_i,j) dacă ... (ii) Max (Σ VC_i, M_i,j – Np_i,j) ≥ 0, atunci q_i,j^Livrat = 0. ... ...
+
+## Articolul 172
+
+Dezechilibrul SEN în vederea publicării de către OTS, cel târziu la 30 de minute după încheierea ID_i, se estimează pe baza volumelor de energie de echilibrare contractate în ID_i, cu considerarea valorii estimate a volumului schimburilor planificate de energie pentru stabilizarea frecvenței și a schimburilor neintenționate.
+
+## Articolul 173
+
+OTS determină dezechilibrul SEN conform prevederilor 
+
+## Articolul 168
+
+și 172 și publică, cel târziu la 30 de minute după încheierea ID_i, valoarea și semnul dezechilibrului estimat al SEN. Obligația de publicare poate fi îndeplinită prin indicarea explicită pe pagina proprie de internet a unei legături la o pagină de internet unde aceste informații sunt publicate.
+
+## Articolul 174
+
+OTS transmite către ODDPRE toate valorile cantităților de energie prevăzute la 
+
+## Articolul 170
+
+, în termen de 3 zile de la primirea de la OMEPA a valorilor măsurate. ODDPRE determină și publică valoarea finală a dezechilibrului SEN pentru fiecare ID al unei luni de livrare în termen de 3 zile lucrătoare de la primirea de la OMEPA a valorilor măsurate/însumate ale producției și consumului de energie electrică aferente fiecărei PRE.
+
+## Articolul 175
+
+În cazul în care valorile măsurate aprobate, stabilite conform prevederilor cuprinse în regulile de măsurare, diferă de valorile măsurate, determinate conform prevederilor acelorași reguli de măsurare, OTS reface calculul de determinare a cantităților de energie livrate prevăzute la 
+
+## Articolul 170
+
+, pe fiecare ID pe baza valorilor măsurate aprobate și transmite către ODDPRE aceste valori ale cantităților de energie livrată. ODDPRE recalculează și publică valoarea dezechilibrului SEN pentru fiecare ID al lunii de livrare în baza datelor transmise de OTS.
+
+Secţiunea 6.6 Schimburi neintenționate
+
+## Articolul 176
+
+Volumul schimburilor neintenționate cu sistemul electroenergetic Europa Continentală interconectat este determinat a doua zi lucrătoare după ziua de livrare, pentru fiecare ID ale acestei zile, de către platforma europeană dedicată acestui tip de schimburi - FSKAR, cu următoarea formulă: unde: – SN_i reprezintă volumul schimburilor neintenționate cu sistemul electroenergetic Europa Continentală interconectat pentru ID_i; ... – SN_real,i reprezintă soldul stabilit conform convențiilor bilaterale de decontare cu OTS vecini, în fiecare ID_i al zilei de livrare; ... – SN_plan,i reprezintă soldul planificat și este egal cu suma algebrică dintre: (i) volumul schimburilor planificate de energie din rezerve pentru restabilirea frecvenței cu activare manuală, volum rezultat din tranzacționarea produsului RRFm pe platforma europeană dedicată și raportat în datele contabile dintre OTS și celelalte OTS din alte țări; ... (ii) volumul schimburilor planificate de energie din rezerve pentru restabilirea frecvenței cu activare automată, volum rezultat din tranzacționarea produsului RRFa pe platforma europeană dedicată și raportat în datele contabile dintre OTS și celelalte OTS din alte țări; ... (iii) volumul schimburilor planificate de energie ca urmare a compensării dezechilibrelor stabilit pe platforma europeană dedicată și raportat în datele contabile dintre OTS și celelalte OTS din alte țări; ... (iv) volumul schimburilor planificate de energie ca urmare a stabilizării frecvenței; ... (v) volumul schimburilor planificate de energie ca urmare a perioadei de variație a soldului conform 
+
+## Articolul 50
+
+alin. (3) lit. b) din Regulamentul (UE) 2017/2.195 și 
+
+## Articolul 136
+
+din Regulamentul (UE) 2017/1.485; ... (vi) volumul schimburilor planificate de energie ca urmare a acordurilor bilaterale sau multilaterale care nu sunt acoperite de punctele anterioare. ... ...
+
+## Articolul 177
+
+OTS publică pe pagina proprie de internet volumul de energie aferent schimburilor neintenționate și prețul rezultat pentru acesta în fiecare ID al lunii de livrare.
+
+## Articolul 178
+
+OTS transmite ODDPRE, în termen de 10 zile lucrătoare de la sfârșitul lunii de livrare, datele privind volumul de energie aferent schimburilor neintenționate și costul/venitul aferent acestora, rezultate în fiecare ID al lunii de livrare, în moneda națională a României la cursul de schimb publicat de Banca Națională a României în ziua de transmitere, în lei cu două zecimale.
+
+## Articolul 179
+
+OTS transmite ODDPRE datele privind volumul de energie și costul/venitul aferent volumelor schimburilor planificate prevăzute la 
+
+## Articolul 176
+
+pct. (iii) și (iv), volumul de energie aferent schimburilor planificate prevăzut la 
+
+## Articolul 176
+
+pct. (v), precum și ale schimburilor OTS-OTS prevăzute la 
+
+## Articolul 168
+
+pentru fiecare ID al lunii de livrare, în termen de 10 zile lucrătoare de la sfârșitul lunii de livrare, în moneda națională a României la cursul de schimb publicat de Banca Națională a României, pentru ziua de transmitere, în lei cu două zecimale.
+
+## Articolul 180
+
+OTS transmite ODDPRE, imediat ce primește factura aferentă unei luni de livrare de la entitatea europeană responsabilă de calculele de decontare, datele privind volumul de energie aferent schimburilor neintenționate/volumul de energie aferent schimburilor planificate prevăzute la 
+
+## Articolul 176
+
+pct. (iii), (iv) și (v), precum și costurile/veniturile aferente schimburilor neintenționate/schimburilor planificate prevăzute la 
+
+## Articolul 176
+
+pct. (iii) și (iv), rezultate în fiecare ID al lunii de livrare, în moneda națională a României la cursul de schimb publicat de Banca Națională a României, valabil pentru ziua de facturare, valori exprimate în lei cu două zecimale.
+
+Secţiunea 6.7 Determinarea costurilor, respectiv a veniturilor rezultate din echilibrarea SEN
+
+## Articolul 181
+
+ODDPRE determină costurile, respectiv veniturile din energia electrică activată pe PE pentru echilibrarea SEN, din rezervele pentru restabilirea frecvenței și din rezervele de înlocuire.
+
+## Articolul 182
+
+ODDPRE determină costurile pentru echilibrarea SEN, separat pentru fiecare ID_i din luna de livrare, cu următoarea formulă: unde: – C_EchSist,i reprezintă costurile pentru echilibrarea SEN în ID_i, utilizate sub această denumire și în cazurile în care au valoare negativă; ... – q_i,j^Cres reprezintă cantitatea de energie de echilibrare corespunzătoare tranzacției angajate j pentru furnizarea creșterii de putere în ID_i, pentru echilibrarea SEN din rezervele pentru restabilirea frecvenței și din rezervele de înlocuire; q_i,j^Cres va fi considerată ca valoare pozitivă exprimată în MWh, cu 3 zecimale; ... – p_i,j^Cres reprezintă prețul aferent tranzacției angajate j pentru furnizarea creșterii de putere în ID_i; ... – C^imp_MCD,i reprezintă costurile rezultate conform procesului de compensare a dezechilibrelor în ID_i, transmise de OTS în lei cu două zecimale; ... – C_SN,i reprezintă costurile cu schimburile neintenționate în ID_i, transmise de OTS în lei cu două zecimale; ... – C_SPF,i reprezintă costurile pentru schimburile planificate de energie ca urmare a stabilizării frecvenței în ID_i, transmise de OTS în lei cu două zecimale; ... – C_probe,i reprezintă suma costurilor înregistrate în timpul perioadei de probe a capacităților de producere/instalațiilor de stocare a energiei electrice prevăzute la 
+
+## Articolul 140
+
+, pentru fiecare ID_i. ...
+
+## Articolul 183
+
+ODDPRE determină veniturile rezultate din echilibrarea SEN, separat pentru fiecare IDi din luna de livrare, cu următoarea formulă: unde: – V_EchSist,i reprezintă veniturile rezultate din echilibrarea SEN în ID_i, utilizate sub această denumire și în cazurile în care au valoare negativă; ... – q_i,x^Red reprezintă cantitatea de energie de echilibrare corespunzătoare tranzacției angajate x pentru furnizarea reducerii de putere în ID_i, pentru echilibrarea SEN din rezervele pentru restabilirea frecvenței și din rezervele de înlocuire; ... – p_i,x^Red reprezintă prețul aferent tranzacției angajate x pentru furnizarea reducerii de putere în ID_i; ... – V^exp_MCD,i reprezintă veniturile rezultate conform procesului de compensare a dezechilibrelor în ID_i, transmise de OTS în lei cu două zecimale; ... – V_SN,i reprezintă veniturile cu schimburile neintenționate, în ID_i, transmise de OTS în lei cu două zecimale; ... – V_SPF reprezintă veniturile rezultate din schimburile planificate de energie ca urmare a stabilizării frecvenței în ID_i. ...
+
+## Articolul 184
+
+După determinarea costurilor și a veniturilor rezultate din echilibrarea SEN, ODDPRE determină costurile efective pentru echilibrarea SEN, separat pentru fiecare IDi din luna de livrare, cu următoarea formulă: unde: – CE_EchSist,i reprezintă costurile efective pentru echilibrarea SEN în ID_i. ...
+
+## Articolul 185
+
+După determinarea costurilor/veniturilor rezultate din echilibrarea SEN, ODDPRE emite o notă lunară de regularizare, cuprinzând următoarele informații: a) costurile pentru echilibrarea SEN, determinate conform prevederilor 
+
+## Articolul 182
+
+, separat pentru fiecare ID din luna de livrare; ... b) veniturile rezultate din echilibrarea SEN, determinate conform prevederilor 
+
+## Articolul 183
+
+, separat pentru fiecare ID din luna de livrare; ... c) costurile efective pentru echilibrarea SEN în luna de livrare, rezultate prin însumarea costurilor pentru echilibrarea SEN minus veniturile pentru echilibrarea SEN determinate pentru fiecare ID conform prevederilor 
+
+## Articolul 184
+
+. ...
+
+## Articolul 186
+
+(1) ODDPRE publică pe pagina proprie de internet nota lunară de regularizare determinată conform prevederilor 
+
+## Articolul 185
+
+pe baza valorilor măsurate, nu mai târziu de 3 zile lucrătoare de la primirea valorilor măsurate/însumate ale producției și consumului de energie electrică aferente fiecărei PRE stabilite conform Regulilor de măsurare, și transmite electronic către OTS o atenționare privind publicarea. (2) Platforma informatică dedicată consemnează și reține data la care orice notă elaborată de ODDPRE conform prevederilor prezentului regulament a fost pusă la dispoziția părților implicate.
+
+Secţiunea 6.8 Determinarea operativă a prețului estimat unic de dezechilibru
+
+## Articolul 187
+
+(1) OTS determină operativ prețul estimat unic de dezechilibru pentru toate dezechilibrele PRE în fiecare ID_i, cu următoarea formulă: unde: – q_i,j^cres, p_i,j^Cres reprezintă cantitatea, respectiv prețul energiei activate pentru echilibrarea SEN, corespunzătoare tranzacției angajate j pentru furnizarea creșterii de putere în ID_i; ... – q_i,x^red, p_i,x^Cres reprezintă cantitatea, respectiv prețul energiei activate pentru echilibrarea SEN, corespunzătoare tranzacției angajate x pentru furnizarea reducerii de putere în ID_i, participanților la piață, în ID_i. ... (2) Pentru fiecare ID_i în care există activări ale energiei de echilibrare atât la creștere cât și la reducere de putere și |Dez_SENi| &amp;lt; 0,1% * C_SENi, sau 4*|Dez_SENi|&amp;lt; ∑│q_i,j^cres│+∑│q_i,x^red│
+
+│kΔft_i│
+
+│SN_i│, unde: – C_SEN,i reprezintă consumul estimat la nivel SEN determinat de OTS pe baza măsurătorilor din EMS - SCADA; ... – Dez_SENi reprezintă dezechilibrul SEN estimat conform prevederilor 
+
+## Articolul 172
+
+pentru fiecare ID_i; ... – kΔft_i reprezintă volumul estimat al schimburilor planificate de energie pentru stabilizarea frecvenței în aria sincronă Europa Continentală; ... – SN_i reprezintă volumul estimat al schimburilor neintenționate determinat pe baza măsurătorilor din EMS - SCADA. OTS determină operativ prețul estimat de deficit, P^def_estim,i, și prețul estimat de excedent, P^exc_estim,i, cu formulele următoare: unde: – P^Cres_med,i reprezintă media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru creștere de putere în IDi; ... – P^Red_med,i reprezintă media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru reducere de putere în IDi. ... ... (3) Condițiile prevăzute la alin. (2) se estimează pe baza volumelor de energie de echilibrare contractate în ID_i, cu considerarea valorii estimate a volumului schimburilor planificate de energie pentru stabilizarea frecvenței și a schimburilor neintenționate și a valorii estimate a consumului în IDi. (4) Pentru fiecare ID în care nu a fost selectată energie de echilibrare nici pentru creștere de putere, nici pentru reducere de putere, OTS determină operativ prețul estimat unic de dezechilibru pentru toate dezechilibrele PRE ca fiind egal cu media aritmetică dintre cel mai mic preț al ofertelor din ordinea de merit pentru creștere de putere și cel mai mare preț, în modul, al ofertelor din ordinea de merit pentru reducere de putere corespunzătoare ID respectiv.
+
+## Articolul 188
+
+OTS publică pe pagina proprie de internet, cel târziu la 30 de minute după încheierea fiecărui ID, valoarea prețului estimat unic de dezechilibru estimată pe baza cantităților de energie de echilibrare din tranzacțiile angajate pe PE pentru ID respectiv. Obligația de publicare poate fi îndeplinită prin indicarea explicită pe pagina proprie de internet a unei legături la o pagină de internet unde aceste informații sunt publicate.
+
+Secţiunea 6.9 Determinarea prețului unic de dezechilibru
+
+## Articolul 189
+
+În luna următoare lunii de livrare, ODDPRE determină prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE în fiecare ID, după cum urmează: a) dacă într-un ID a fost activată numai energie de echilibrare pentru creștere de putere, atunci prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE din ID respectiv va fi egal cu media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru creștere de putere și a cantităților de energie corespunzătoare tranzacțiilor angajate; ... b) dacă într-un ID a fost activată numai energie de echilibrare pentru reducere de putere, atunci prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE din ID respectiv va fi egal cu media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru reducere de putere și a cantităților de energie corespunzătoare tranzacțiilor angajate; ... c) dacă într-un ID a fost activată energie de echilibrare și pentru creștere de putere și pentru reducere de putere, prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE se va stabili în funcție de direcția dezechilibrului SEN astfel: (i) în cazul în care sistemul a fost în deficit, prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE va fi egal cu media ponderată a prețurilor marginale ale fiecărui tip de energie de echilibrare activată pentru creștere de putere și a cantităților corespunzătoare; ... (ii) în cazul în care sistemul a fost în excedent, prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE va fi egal cu media ponderată a prețurilor marginale ale fiecărui tip de energie de echilibrare activată pentru reducere de putere și a cantităților corespunzătoare; ... ... d) în cazul în care într-un ID nu a fost activată energie de echilibrare nici pentru creștere de putere, nici pentru reducere de putere, prețul inițial unic de dezechilibru pentru toate dezechilibrele PRE va fi egal cu media aritmetică dintre cel mai mic preț al ofertelor din ordinea de merit pentru creștere de putere și cel mai mare preț, în modul, al ofertelor din ordinea de merit pentru reducere de putere corespunzătoare ID respectiv. ...
+
+## Articolul 190
+
+OTS transmite la ODDPRE ofertele validate pentru fiecare ID în care nu a fost activată energie de echilibrare nici pentru creștere de putere, nici pentru reducere de putere în termen de 10 zile de la sfârșitul lunii de livrare.
+
+## Articolul 191
+
+Pentru fiecare ID al lunii de livrare și pentru fiecare PRE, ODDPRE determină dezechilibrul respectivei PRE conform prevederilor 
+
+## Articolul 167
+
+.
+
+## Articolul 192
+
+Pentru fiecare ID al lunii de livrare și pentru fiecare PRE, ODDPRE determină valoarea obligațiilor de plată/a drepturilor de încasat inițiale corespunzătoare dezechilibrelor înregistrate de fiecare PRE în fiecare ID, cu următoarea formulă: unde: – DI sau OP reprezintă valoarea drepturilor de încasat sau a obligațiilor de plată; ... – DezPRE_i reprezintă dezechilibrul unei PRE calculat pentru fiecare PRE în fiecare ID_i al lunii de livrare conform prevederilor art. 
+
+## Articolul 167
+
+; ... – P^in_dez,i reprezintă prețul inițial unic de dezechilibru calculat conform prevederilor de la 
+
+## Articolul 189
+
+. ...
+
+## Articolul 193
+
+La calcularea valorii obligațiilor de plată/a drepturilor de încasat se va ține cont de prevederile 
+
+## Articolul 55
+
+alin. (1) din Regulamentul (UE) 2017/2.195, după cum urmează: a) dacă prețul inițial unic de dezechilibru este pozitiv și dezechilibrul unei PRE este pozitiv (indicând un excedent al respectivei PRE), atunci respectiva PRE primește prețul inițial unic de dezechilibru; ... b) dacă prețul inițial unic de dezechilibru este pozitiv și dezechilibrul unei PRE este negativ (indicând un deficit al respectivei PRE), atunci respectiva PRE plătește prețul inițial unic de dezechilibru; ... c) dacă prețul inițial unic de dezechilibru este negativ și dezechilibrul unei PRE este pozitiv (indicând un excedent al respectivei PRE), atunci respectiva PRE plătește prețul inițial unic de dezechilibru; ... d) dacă prețul inițial unic de dezechilibru este negativ și dezechilibrul unei PRE este negativ (indicând un deficit al respectivei PRE), atunci respectiva PRE primește prețul inițial unic de dezechilibru. ...
+
+## Articolul 194
+
+Pentru fiecare ID_i din luna de livrare, ODDPRE determină componenta de neutralitate financiară a OTS cu următoarea formulă: unde: – CE_EchSist,i reprezintă costurile efective pentru echilibrarea SEN în ID_i, calculate conform prevederilor 
+
+## Articolul 184
+
+; ... – Σ DI_i reprezintă suma drepturilor de încasat inițiale ale tuturor PRE calculate în ID_i; ... – Σ OP_i reprezintă suma obligațiilor de plată inițiale ale tuturor PRE calculate în ID_i; ... – Σ DezPRE_i reprezintă suma algebrică a dezechilibrelor PRE cu semn schimbat în fiecare ID_i al lunii de livrare. ...
+
+## Articolul 195
+
+(1) În fiecare ID_i al lunii de livrare, în care se verifică una dintre următoarele condiții, ODDPRE stabilește un preț final unic de dezechilibru: a) energia de echilibrare s-a activat în ambele sensuri, la creștere și la reducere de putere, și unde: – CSEN_i reprezintă consumul total al SEN, stabilit de ODDPRE pe baza valorilor măsurate; ... – │DezSEN_i│ reprezintă dezechilibrul SEN calculat conform prevederilor 
+
+## Articolul 168
+
+; ... – q_i,j^cres și q_i,x^red reprezintă cantitatea energiei activate pentru echilibrarea SEN, corespunzătoare tranzacției angajate j/x pentru furnizarea creșterii/reducerii de putere în ID_i; ... – kΔft_i reprezintă volumul schimburilor planificate de energie pentru stabilizarea frecvenței în aria sincronă Europa Continentală; ... – SN_i reprezintă volumul schimburilor neintenționate determinat conform 
+
+## Articolul 176
+
+; ... – Σ ׀DezPRE_i׀ reprezintă suma algebrică a dezechilibrelor PRE în IDi; se consideră dezechilibrul PRE pozitiv cu semnul plus și dezechilibrul PRE negativ cu semnul minus; ... ... b) energia de echilibrare s-a activat într-un singur sens la creștere sau la reducere de putere. ... (2) În situația prevăzută la alin. (1) , ODDPRE stabilește în intervalul ID_i prețul final unic de dezechilibru cu următoarea formulă: unde: – P^in_dez,i reprezintă prețul inițial unic de dezechilibru în ID_i, determinat conform prevederilor de la 
+
+## Articolul 189
+
+; ... – C^fin_neutr,i reprezintă componenta de neutralitate financiară a OTS, determinată conform procesului descris la 
+
+## Articolul 194
+
+. ... (3) Dacă într-un ID_i SEN se află în deficit și P^fin_dez,i &amp;lt; P^Cres_med,i, unde PCres_med,i reprezintă media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru creștere de putere și a cantităților de energie corespunzătoare în ID_i, atunci prețul final unic de dezechilibru va fi egal cu PCres_med,i, conform prevederilor 
+
+## Articolul 55
+
+alin. (4) din Regulamentul (UE) 2017/2.195. Costurile/Veniturile rezultate în urma aplicării acestei prevederi se vor regulariza conform prevederilor secțiunii 7.3 Repartizarea costurilor sau veniturilor suplimentare provenite din echilibrarea sistemului. (4) Dacă într-un ID_i SEN se află în excedent și P^fin_dez,i &amp;gt; P^Red_med,i,_ unde P^Red_med,i reprezintă media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru reducere de putere și a cantităților de energie corespunzătoare în ID_i, atunci prețul final unic de dezechilibru va fi egal cu P^Red_med,i, conform prevederilor 
+
+## Articolul 55
+
+alin. (5) din Regulamentul (UE) 2017/2.195. Costurile/Veniturile rezultate în urma aplicării acestei prevederi se vor recupera conform prevederilor secțiunii 7.3 Repartizarea costurilor sau veniturilor suplimentare provenite din echilibrarea sistemului. (5) În fiecare ID_i al lunii de livrare în care energia de echilibrare s-a activat în ambele sensuri și nu se verifică condițiile de la alin. (1) lit. a) , ODDPRE aplică metoda celor două prețuri de dezechilibru, respectiv calculează prețul final de deficit, P^def_fin,i, și prețul final de excedent, P^exc_fin,i după cum urmează: a) se determină prețurile de deficit și de excedent inițiale în ID_i cu următoarele formule: unde: – P^Cres_med,i reprezintă media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru creștere de putere în ID_i; ... – P^Red_med,i reprezintă media ponderată a prețurilor marginale pentru fiecare tip de energie de echilibrare activată pentru reducere de putere în ID_i; ... ... b) pentru fiecare ID se calculează drepturile de încasare inițiale ale PRE, (DI_PRE) și obligațiile de plată inițiale ale acestora, (OP_PRE) prin înmulțirea dezechilibrelor negative ale PRE cu prețul de deficit inițial și a dezechilibrelor pozitive cu prețul de excedent inițial; ... c) dacă (OP_PRE – DI_PRE) &amp;gt; CE_EchSist,i, atunci: (i) dacă într-un ID SEN se află în deficit, se calculează componenta de neutralitate financiară a OTS cu următoarea formulă: unde: – OP_PRE reprezintă obligațiile de plată ale PRE; ... – DI_PRE reprezintă drepturile de încasare ale PRE; ... – CE_EchSist,i reprezintă costurile efective pentru echilibrarea SEN în ID_i, calculate conform prevederilor 
+
+## Articolul 184
+
+; ... – Σ DezPRE_poz,i reprezintă suma dezechilibrelor pozitive ale tuturor PRE. ... Prețurile finale de deficit și excedent se calculează cu următoarele formule: ... (ii) dacă într-un ID SEN se află în excedent, se calculează componenta de neutralitate financiară a OTS cu următoarea formulă: unde: – OP_PRE reprezintă obligațiile de plată ale PRE; ... – DI_PRE reprezintă drepturile de încasare ale PRE; ... – CE_EchSist,i reprezintă costurile efective pentru echilibrarea SEN în ID_i, calculate conform prevederilor 
+
+## Articolul 184
+
+; ... – Σ DezPRE_neg,i reprezintă suma dezechilibrelor negative ale tuturor PRE. ... Prețurile finale de deficit și excedent se calculează cu următoarele formule: ... ... d) dacă (OP_PRE – DI_PRE) &amp;lt; CE_EchSist,i, atunci se calculează componenta de neutralitate financiară a OTS cu următoarea formulă: unde: – OP_PRE reprezintă obligațiile de plată ale PRE; ... – DI_PRE reprezintă drepturile de încasare ale PRE; ... – CE_EchSist,i reprezintă costurile efective pentru echilibrarea SEN în ID_i, calculate conform prevederilor 
+
+## Articolul 184
+
+; ... – Σ DezPRE_poz,i reprezintă suma dezechilibrelor pozitive ale tuturor PRE; ... – Σ DezPRE_neg,i reprezintă suma dezechilibrelor negative ale tuturor PRE. ... Prețurile finale de deficit și excedent se calculează cu următoarele formule: Dacă C3^fin_neutr,i &amp;lt; 0, prețurile finale de deficit și excedent se calculează cu următoarele formule: Dacă C3^fin_neutr,i &amp;gt; 0, prețurile finale de deficit și excedent se calculează cu următoarele formule: ...
+
+## Articolul 196
+
+ODDPRE transmite la ANRE, în prima zi lucrătoare din luna după ce s-au finalizat calculele de decontare pe baza VM/VMA, valoarea costurilor/veniturilor determinate conform prevederilor 
+
+## Articolul 195
+
+alin. (3) și (4) , care vor fi regularizate conform prevederilor secțiunii 7.3 Repartizarea costurilor sau veniturilor suplimentare provenite din echilibrarea sistemului.
+
+## Articolul 197
+
+ODDPRE publică pe pagina proprie de internet o notă lunară de regularizare, cuprinzând următoarele informații: a) costurile efective pentru echilibrarea sistemului în luna de livrare, cuprinse în nota lunară de regularizare corespunzătoare, prevăzute la 
+
+## Articolul 184
+
+; ... b) suma valorilor decontării lunare corespunzătoare tuturor PRE pentru luna de livrare, rezultate prin însumarea algebrică a obligațiilor de plată finale și a drepturilor de încasat finale determinate conform prevederilor 
+
+## Articolul 216
+
+; ... c) costurile sau veniturile suplimentare provenite din echilibrarea sistemului în luna de livrare, determinate conform prevederilor 
+
+## Articolul 221
+
+. ...
+
+## Capitolul V
+
+II Reguli pentru decontarea dezechilibrelor PRE
+
+Secţiunea 7.1 Principii generale
+
+## Articolul 198
+
+Regulile pentru decontarea dezechilibrelor PRE din prezentul capitol asigură un cadru pentru decontarea dezechilibrelor PRE și stabilirea obligațiilor de plată și a drepturilor de încasare rezultate conform prevederilor prezentului regulament, între o PRE și OTS.
+
+## Articolul 199
+
+Pentru a facilita un proces de decontare ordonat, transparent și nediscriminatoriu, prezentul capitol creează în plus cadrul pentru: a) stabilirea unui program de determinare, de punere la dispoziția părților și de confirmare/contestare a informațiilor necesare în vederea facturării și decontării dezechilibrelor PRE; ... b) efectuarea calculelor pentru stabilirea drepturilor de încasare și a obligațiilor de plată aferente dezechilibrelor PRE; ... c) punerea la dispoziția părților a informațiilor privind obligațiile acestora de plată, respectiv drepturile acestora de încasare; ... d) facturarea și efectuarea plăților; ... e) stabilirea și utilizarea garanțiilor; ... f) măsuri în cazuri de neîndeplinire a obligațiilor. ...
+
+## Articolul 200
+
+ODDPRE și OTS elaborează procedurile pentru realizarea funcțiilor specifice decontării aflate în responsabilitatea fiecăruia conform prezentului capitol în urma unui proces de consultare publică și le publică pe paginile de internet proprii.
+
+## Articolul 201
+
+ODDPRE stabilește, în urma unui proces de consultare publică, formatul standard pentru toate notele de informare pentru decontarea lunară a dezechilibrelor și pentru notele lunare de regularizare și le publică pe pagina de internet proprie.
+
+## Articolul 202
+
+ODDPRE este responsabil pentru calculul de decontare și emiterea notelor de informare pentru decontarea lunară pentru PRE.
+
+## Articolul 203
+
+OTS și PRE achită în termenele prevăzute în prezentul regulament obligațiile de plată reciproce prevăzute în notele de informare pentru decontarea lunară, în baza facturilor corespunzătoare acestora.
+
+## Articolul 204
+
+OTS urmărește separat fiecare categorie de obligații de plată/drepturi de încasare în relația OTS cu PRE, prin înființarea fișei pentru decontarea dezechilibrelor PRE, întocmită pentru fiecare PRE.
+
+## Articolul 205
+
+Fiecare PRE este titularul fișei de decontare corespunzătoare, întocmită de OTS conform prevederilor 
+
+## Articolul 204
+
+.
+
+## Articolul 206
+
+OTS stabilește fișa de decontare prevăzută la 
+
+## Articolul 204
+
+pentru titularul de fișă corespunzător, după înregistrarea acestuia ca PRE, dar nu mai târziu de data la care înregistrarea devine efectivă.
+
+## Articolul 207
+
+Obligațiile de plată și drepturile de încasare înregistrate de OTS în fișa de decontare pentru PRE se bazează pe relația contractuală dintre OTS, pe de o parte, și titularul de fișă, pe de altă parte, formalizată prin semnarea convenției de asumare a responsabilității echilibrării, ale cărei prevederi reflectă prevederile legii și ale prezentului regulament.
+
+## Articolul 208
+
+Fiecare participant la piață care este înregistrat în calitate de PRE deschide un cont la o bancă de decontare.
+
+## Articolul 209
+
+(1) În scopul îndeplinirii obligațiilor sale conform prezentului capitol, OTS deschide un cont de echilibrare la o bancă de decontare de pe teritoriul României, utilizat pentru plățile aferente dezechilibrelor. (2) Contul de echilibrare prevăzut la alin. (1) este același cu cel deschis de OTS conform prevederilor clauzelor și condițiilor pentru FSE și furnizorii de RSF drept cont bancar pentru echilibrare pentru încasările și plățile aferente tranzacțiilor încheiate pe PE.
+
+## Articolul 210
+
+Titularii de cont trebuie să asigure solvabilitatea conturilor bancare proprii la datele scadente ale facturilor, prevăzute în prezentul capitol.
+
+## Articolul 211
+
+Conturile bancare sunt deschise în moneda națională a României.
+
+Secţiunea 7.2 Decontarea dezechilibrelor PRE
+
+## Articolul 212
+
+ODDPRE efectuează calculele pentru decontarea dezechilibrelor PRE în fiecare lună calendaristică, după primirea valorilor măsurate/însumate ale producției și consumului de energie electrică în conformitate cu prevederile Regulilor de măsurare.
+
+## Articolul 213
+
+(1) Odată cu efectuarea calculelor prevăzute la 
+
+## Articolul 212
+
+, ODDPRE verifică corectitudinea decontării prin verificarea închiderii bilanțului energiei electrice, corespunzătoare volumelor contractate pentru echilibrarea SEN și a volumelor contractate pentru echilibrarea altor sisteme europene transmise de OTS către ODDPRE conform prevederilor 
+
+## Articolul 103
+
+din Regulamentul privind clauzele și condițiile pentru furnizorii de servicii cu echilibrarea și furnizorii de rezervă de stabilizare a frecvenței aprobate prin Ordinul președintelui ANRE nr. 127/2021 , cu dezechilibrele PRE, cu volumul schimburilor neintenționate, cu volumul schimburilor planificate de energie transmise de OTS către ODDPRE conform prevederilor 
+
+## Articolul 179
+
+și, respectiv, 
+
+## Articolul 180
+
+, ținând seama inclusiv de cantitățile de energie electrică livrată de capacitățile de producere/instalațiile de stocare a energiei electrice aflate în perioada de probe. În situația în care ODDPRE constată o neînchidere a bilanțului mai mare decât o valoarelimită, publică pe pagina proprie de internet existența acesteia și solicită tuturor părților implicate verificarea datelor astfel încât eroarea să fie eliminată în cadrul procesului de decontare ce utilizează valorile măsurate aprobate, volumul de energie al schimburilor neintenționate și volumul de energie al schimburilor planificate transmise de OTS către ODDPRE. Valoarea-limită va fi stabilită printr-o procedură elaborată de ODDPRE și supusă consultării publice. (2) În cazul în care valorile măsurate aprobate, stabilite conform prevederilor cuprinse în Regulile de măsurare, diferă de valorile măsurate, determinate conform prevederilor acelorași reguli de măsurare, verificarea închiderii bilanțului energiei electrice se reia pe baza valorilor măsurate aprobate, cu respectarea acelorași termene care curg de la data primirii de către ODDPRE a valorilor măsurate aprobate.
+
+## Articolul 214
+
+Pentru fiecare ID al lunii de livrare și pentru fiecare PRE, ODDPRE determină: a) pentru fiecare IDi în care a fost stabilit prețul final unic de dezechilibru conform prevederilor 
+
+## Articolul 195
+
+alin. (1) , valoarea obligațiilor de plată finale/a drepturilor de încasat finale corespunzătoare dezechilibrelor înregistrate de fiecare PRE cu următoarea formulă: unde: – DI_i^fin sau OP_i^fin reprezintă valoarea drepturilor de încasat finale sau a obligațiilor de plată finale rezultate pentru fiecare PRE și pentru fiecare IDi din luna de livrare; ... – DezPRE_i reprezintă dezechilibrul unei PRE calculat pentru fiecare PRE în fiecare IDi al lunii de livrare conform prevederilor 
+
+## Articolul 167
+
+; ... – P^fin_dez,i reprezintă prețul final unic de dezechilibru calculat conform prevederilor 
+
+## Articolul 195
+
+alin. (1) pentru fiecare IDi al lunii de livrare; ... ... b) pentru fiecare IDi în care au fost stabilite prețurile finale de deficit și de excedent conform prevederilor 
+
+## Articolul 195
+
+alin. (5) , valoarea obligațiilor de plată finale/a drepturilor de încasat finale corespunzătoare dezechilibrelor înregistrate de fiecare PRE, cu următoarele formule: unde: – DI^fin_i sau OP^fin_i reprezintă valoarea drepturilor de încasat finale sau a obligațiilor de plată finale rezultate pentru fiecare PRE și pentru fiecare IDi din luna de livrare; ... – DezPRE_poz,i, DezPre_neg,i reprezintă dezechilibrul unei PRE calculat pentru fiecare PRE în fiecare IDi al lunii de livrare conform prevederilor 
+
+## Articolul 167
+
+; ... – P^exc_fin,i, Pdef_fin,i reprezintă prețurile finale de deficit și de excedent calculate conform prevederilor 
+
+## Articolul 195
+
+alin. (5) pentru fiecare IDi al lunii de livrare. ... ...
+
+## Articolul 215
+
+Pentru calcularea valorii obligațiilor de plată finale/a drepturilor de încasat finale prevăzute la 
+
+## Articolul 214
+
+se va ține cont de prevederile 
+
+## Articolul 55
+
+alin. (1) din Regulamentul (UE) 2017/2.195.
+
+## Articolul 216
+
+Separat, pentru fiecare lună de livrare și pentru fiecare PRE, ODDPRE determină valoarea sumelor drepturilor lunare de încasat sau a obligațiilor lunare de plată corespunzătoare dezechilibrelor înregistrate de fiecare PRE, cu următoarele formule: unde: – DLI_d reprezintă valoarea drepturilor lunare de încasare finale pentru dezechilibrele unei PRE constatate în numărul total n de ID-uri din luna de livrare L; ... – Dl_i^fin reprezintă drepturile de încasare finale ale fiecărei PRE în fiecare IDi, determinate conform prevederilor de la 
+
+## Articolul 214
+
+; ... – OLP_d reprezintă valoarea obligațiilor lunare de plată pentru dezechilibrele unei PRE constatate în numărul total n de ID-uri din luna de livrare L; ... – OP_j^fin reprezintă obligațiile de plată ale fiecărei PRE în fiecare IDi, determinate conform prevederilor de la 
+
+## Articolul 214
+
+. ...
+
+## Articolul 217
+
+ODDPRE întocmește pentru fiecare PRE o notă de informare pentru decontarea lunară a dezechilibrelor, care conține următoarele informații: a) dezechilibrul pozitiv sau negativ al respectivei PRE, pentru fiecare ID din luna de livrare rezultat conform prevederilor 
+
+## Articolul 167
+
+; ... b) prețul final unic de dezechilibru rezultat pentru fiecare ID din luna de livrare conform prevederilor 
+
+## Articolul 195
+
+alin. (1)-(4) ; ... c) prețul final de deficit, respectiv prețul final de excedent, rezultate pentru fiecare ID din luna de livrare conform prevederilor 
+
+## Articolul 195
+
+alin. (5) ; ... d) obligațiile de plată finale sau drepturile de încasare finale ale respectivei PRE, pentru fiecare ID din luna de livrare, determinate conform prevederilor 
+
+## Articolul 216
+
+; ... e) valoarea drepturilor lunare de încasare și valoarea obligațiilor lunare de plată, calculate conform prevederilor 
+
+## Articolul 216
+
+. ...
+
+## Articolul 218
+
+ODDPRE pune la dispoziția PRE corespunzătoare și a OTS notele de informare pentru decontarea lunară a dezechilibrelor stabilite conform prevederilor 
+
+## Articolul 217
+
+pe baza valorilor măsurate, prin publicarea lor pe platforma informatică dedicată, în maximum 3 zile lucrătoare de la primirea valorilor măsurate/agregate ale producției și consumului de energie electrică aferente fiecărei PRE, stabilite conform Regulilor de măsurare.
+
+## Articolul 219
+
+O notă de informare pentru decontarea lunară a dezechilibrelor, emisă în luna calendaristică n, conține informațiile înscrise în fișa pentru decontare aparținând respectivei PRE, pentru luna calendaristică n–1.
+
+## Articolul 220
+
+Facturile sunt emise de OTS, respectiv PRE, în prima zi lucrătoare care urmează publicării pe platforma informatică a notelor de informare pentru decontarea lunară a dezechilibrelor, în baza acestora, și trebuie achitate într-un interval de 5 zile lucrătoare de la data emiterii. Plățile se consideră efectuate la data la care valorile corespunzătoare au fost debitate sau creditate în contul bancar de echilibrare deschis de OTS.
+
+Secţiunea 7.3 Repartizarea costurilor sau veniturilor suplimentare provenite din echilibrarea sistemului
+
+## Articolul 221
+
+Costul sau venitul suplimentar lunar provenit din echilibrarea sistemului se determină de ODDPRE și este egal cu costurile efective pentru echilibrarea sistemului, calculate ca sumă a costurilor pentru echilibrarea sistemului determinată conform 
+
+## Articolul 184
+
+, pe toate ID ale lunii respective, plus suma valorilor drepturilor lunare de încasare finale corespunzătoare dezechilibrelor înregistrate de fiecare PRE determinate conform 
+
+## Articolul 216
+
+, minus suma obligațiilor lunare de plată corespunzătoare dezechilibrelor înregistrate de fiecare PRE determinate conform 
+
+## Articolul 216
+
+. ODDPRE calculează sumele corespunzătoare repartizării integrale către PRE a costurilor sau veniturilor suplimentare provenite din echilibrarea sistemului, în luna care urmează după luna de livrare.
+
+## Articolul 222
+
+Venitul suplimentar, respectiv costul suplimentar provenit din echilibrarea sistemului care revine fiecărei PRE, cu excepția PRE Agent de transfer, se determină pe baza aportului acesteia în fiecare ID la reducerea dezechilibrului SEN, respectiv la agravarea dezechilibrului SEN. Valoarea repartizată fiecărei PRE se determină astfel: unde: – S_i reprezintă valoarea repartizată către PRE_i, cu excepția PRE Agent de transfer, din venitul/costul suplimentar provenit din echilibrarea sistemului; ... – S_res reprezintă venitul suplimentar sau costul suplimentar rezultat în luna respectivă din echilibrarea sistemului; iar ... – C_tot,i reprezintă contribuția la dezechilibrul SEN a PRE_i, cu excepția PRE Agent de transfer, în luna de livrare, determinată, după caz, astfel: a) pentru luna de livrare pentru care se înregistrează venit suplimentar din echilibrarea sistemului: unde: – DezPRE_neg,ieste dezechilibrul negativ (în valoare absolută) al PRE_i în ID_t în care Dez_SENi&amp;gt;0, determinat conform 
+
+## Articolul 168
+
+, și 0 (zero) în IDt în care Dez_SENi&amp;lt;0; ... – DezPRE^t_poz,i este dezechilibrul pozitiv al PRE_i în IDt în care Dez_SENi &amp;lt;0, determinat conform 
+
+## Articolul 168
+
+și 0 (zero) în IDt în care Dez_SENi &amp;gt;0; ... – Ol reprezintă numărul de ID al lunii de livrare. ... ... b) pentru luna de livrare pentru care se înregistrează cost suplimentar din echilibrarea sistemului: unde: – DezPRE_neg,i este dezechilibrul negativ (în valoare absolută) al PRE_i în IDt în care Dez_SENi &amp;lt;0 determinat conform 
+
+## Articolul 168
+
+și 0 (zero) în IDt în care Dez_SENi &amp;gt;0; ... – DezPRE^t_poz,i este dezechilibrul pozitiv al PREi în IDt în care Dez_SENi &amp;gt;0 determinat conform 
+
+## Articolul 168
+
+și 0 (zero) în IDt în care Dez_SENi &amp;lt;0; ... – Ol reprezintă numărul de ID al lunii de livrare; ... – n reprezintă numărul total de PRE, exclusiv PRE Agent de transfer. ... ... ...
+
+## Articolul 223
+
+OTS creditează, în cazul unei valori pozitive, sau debitează, în cazul unei valori negative, valoarea suplimentară repartizată unei PRE la nivel lunar, determinată prin însumarea contribuțiilor determinate conform prevederilor 
+
+## Articolul 222
+
+, în fișa pentru decontarea veniturilor/costurilor suplimentare aparținând respectivei PRE.
+
+## Articolul 224
+
+ODDPRE pune la dispoziția PRE corespunzătoare și a OTS nota de informare pentru decontarea redistribuirii costurilor/veniturilor suplimentare provenite din echilibrarea sistemului pentru luna n, care cuprinde valoarea suplimentară distribuită respectivei PRE, determinată conform prevederilor 
+
+## Articolul 222
+
+, prin postarea ei pe platforma informatică dedicată, în aceeași zi în care a postat nota lunară de informare conform 
+
+## Articolul 218
+
+.
+
+## Articolul 225
+
+O notă de informare pentru decontarea redistribuirii veniturilor/costurilor suplimentare emisă în luna calendaristică n va cuprinde: a) valoarea totală a drepturilor de încasare sau a obligațiilor de plată, după caz, rezultate din redistribuirea costurilor sau veniturilor suplimentare provenite din echilibrarea sistemului, pentru luna calendaristică n – 1; precum și ... b) suma dezechilibrelor negative ale respectivei PRE constatate în toate ID în care dezechilibrul sistemului a fost pozitiv, în situația în care în luna respectivă s-a înregistrat venit suplimentar; ... c) suma dezechilibrelor pozitive ale respectivei PRE constatate în toate ID în care dezechilibrul sistemului a fost negativ, în situația în care în luna respectivă s-a înregistrat venit suplimentar; ... d) suma dezechilibrelor negative ale respectivei PRE constatate în toate ID în care dezechilibrul sistemului a fost negativ, în situația în care în luna respectivă s-a înregistrat cost suplimentar; și ... e) suma dezechilibrelor pozitive ale respectivei PRE constatate în toate ID în care dezechilibrul sistemului a fost pozitiv, în situația în care în luna respectivă s-a înregistrat cost suplimentar. ...
+
+## Articolul 226
+
+Facturile sunt emise în prima zi lucrătoare care urmează postării notei de informare pentru decontarea redistribuirii veniturilor/costurilor suplimentare pe baza acesteia și trebuie achitate în maximum 5 zile lucrătoare de la data emiterii. Plățile se consideră efectuate la data la care valorile corespunzătoare au fost debitate sau creditate în contul bancar de echilibrare deschis de OTS.
+
+## Articolul 227
+
+(1) În cazul în care valorile măsurate aprobate, stabilite conform prevederilor cuprinse în Regulile de măsurare, diferă de valorile măsurate, determinate conform prevederilor acelorași reguli, procesul de determinare și punere la dispoziție a notelor lunare de informare, regularizare și decontare și de verificare/contestare a obligațiilor de plată/drepturilor de încasare aferente dezechilibrelor PRE și redistribuirii costurilor sau veniturilor suplimentare pe PE se reia pe baza valorilor măsurate aprobate, cu respectarea acelorași termene care curg de la data primirii de ODDPRE a valorilor măsurate aprobate. (2) Diferențele dintre obligațiile de plată/drepturile de încasare care rezultă din aplicarea prevederilor prezentelor reguli de decontare la valorile măsurate aprobate, față de aplicarea acestora la valorile măsurate, se evidențiază în facturi de regularizare sub formă de sume de plată/de încasat.
+
+Secţiunea 7.4 Efectuarea plăților pentru dezechilibrele PRE, utilizarea garanțiilor și penalități de întârziere
+
+## Articolul 228
+
+OTS elaborează, în urma unui proces de consultare publică, procedurile pentru efectuarea plăților conform prevederilor prezentei secțiuni și le publică pe pagina proprie de internet.
+
+## Articolul 229
+
+Procedurile elaborate conform prevederilor de la 
+
+## Articolul 228
+
+vor include modalități de confirmare a plăților și mențiuni privind utilizarea garanțiilor în cazul plăților întârziate.
+
+## Articolul 230
+
+Fiecare parte care primește o factură trebuie să o plătească până la data scadentă, indiferent dacă există sau nu o dispută în legătură cu sumele corespunzătoare.
+
+## Articolul 231
+
+Orice participant la piață înregistrat ca PRE, precum și OTS plătesc o penalizare celeilalte părți în oricare dintre următoarele cazuri: a) dacă participantul la piață sau OTS nu a achitat sumele datorate până la data-limită de plată; ... b) dacă participantul la piață sau OTS trebuie să efectueze o plată corespunzătoare soluționării unei dispute din care au rezultat plăți întârziate; ... c) dacă participantul la piață sau OTS trebuie să efectueze o plată corespunzătoare soluționării unei dispute pentru care sumele care fac obiectul disputei au fost achitate la timp de cealaltă parte, dar au fost contestate în mod justificat de aceasta. ...
+
+## Articolul 232
+
+Rata dobânzii care se aplică în toate cazurile prevăzute la 
+
+## Articolul 231
+
+, pentru fiecare zi de întârziere începând cu prima zi după termenul-limită de plată, este egală cu nivelul penalității de întârziere percepute pentru neplata la termen a obligațiilor către bugetul de stat, cu condiția ca valoarea totală a penalităților să nu depășească valoarea sumei datorate.
+
+Secţiunea 7.5 Contestații la notele de regularizare și/sau la notele de informare pentru decontarea lunară
+
+## Articolul 233
+
+Fiecare titular de fișă înregistrat ca PRE este îndreptățit să solicite oricând la OTS informații în legătură cu situația oricăreia dintre fișele pentru decontare proprii înființate de OTS. După primirea unei astfel de solicitări, OTS transmite titularului de fișă informațiile solicitate în maximum 3 zile lucrătoare, informații care pot include soldul rezultat din fișa/fișele respectivă(e) pentru ultimele 3 luni, precum și orice sume debitate sau creditate într-o fișă, împreună cu datele și motivele acestor operațiuni.
+
+## Articolul 234
+
+OTS poate de asemenea să își îndeplinească obligațiile prevăzute la 
+
+## Articolul 233
+
+prin adoptarea măsurilor de ordin tehnic necesare pentru ca fiecare titular de fișă să poată avea acces direct la toate informațiile relevante în legătură cu oricare dintre fișele proprii.
+
+## Articolul 235
+
+Dacă o notă de informare pentru decontare sau o notă de regularizare pusă la dispoziție de ODDPRE conform prevederilor prezentului capitol este incorectă, oricare dintre părțile implicate o poate contesta la ODDPRE și poate pune în discuție orice element sau calcul cuprins în respectiva notă.
+
+## Articolul 236
+
+Orice contestație va fi transmisă de partea interesată printr-o notificare scrisă. Notificarea trebuie să precizeze în mod clar perioada de timp vizată, cum ar fi ziua de livrare, ID, data emiterii respectivei note, elementul contestat, motivul contestării, valoarea contestată și va fi însoțită de orice probă disponibilă care poate să vină în susținerea contestației.
+
+## Articolul 237
+
+(1) Orice parte implicată poate contesta o notă de informare pentru decontare sau o notă de regularizare emisă conform prezentului regulament într-un termen de maximum 5 zile lucrătoare de la data la care nota contestată a fost publicată de ODDPRE pe platforma informatică dedicată. (2) Dacă o parte interesată a făcut o contestație la nota elaborată în baza valorilor măsurate, care nu s-a modificat în ceea ce o privește după stabilirea valorilor măsurate aprobate, aceasta nu poate depune o nouă contestație având același obiect.
+
+## Articolul 238
+
+Dacă o parte implicată nu a transmis nicio contestație în legătură cu o notă de informare pentru decontare sau o notă de regularizare emisă conform prezentului regulament în termenul prevăzut la 
+
+## Articolul 237
+
+, se consideră că nota respectivă a fost acceptată.
+
+## Articolul 239
+
+ODDPRE analizează orice contestație primită, nu mai târziu de 5 zile lucrătoare de la data primirii acesteia.
+
+## Articolul 240
+
+Atunci când verifică o notă de informare pentru decontare sau o notă de regularizare contestată, ODDPRE poate solicita părților implicate informații suplimentare. Dacă informațiile suplimentare solicitate nu sunt furnizate de partea implicată, ODDPRE este îndreptățit să respingă contestația respectivă.
+
+## Articolul 241
+
+ODDPRE informează părțile implicate în legătură cu rezultatul verificărilor efectuate. Dacă o notă contestată a fost incorectă, ODDPRE reface calculele și pune la dispoziția tuturor părților implicate o notă corectată.
+
+## Articolul 242
+
+Dacă ODDPRE constată existența unei informații eronate într-o notă de informare pentru decontare sau într-o notă de regularizare pusă la dispoziție conform prezentului regulament, acesta reface calculele și pune la dispoziția tuturor părților implicate în cel mai scurt timp posibil o notă corectată, dar nu mai târziu de 10 zile lucrătoare de la data la care nota respectivă a fost publicată de ODDPRE pe platforma informatică dedicată.
+
+## Articolul 243
+
+În cazul constatării de către un participant, ulterior termenelor prevăzute la 
+
+## Articolul 237
+
+sau 242, a unor erori în procesul de decontare, determinate de greșeli de agregare a datelor, întreruperi în funcționarea sistemelor informatice ale operatorilor implicați, erori de măsurare a schimburilor între rețele sau a notificării unor SB neconforme cu tranzacțiile încheiate anterior orei de închidere a porților pe PE, acesta poate solicita corectarea decontării în termen de 6 luni de la publicarea pe platforma informatică dedicată a notei de informare pentru decontare. În acest scop, participantul trebuie să solicite în scris OTS corectarea, prezentând argumentele și dovezile necesare.
+
+## Articolul 244
+
+(1) În termen de 3 zile lucrătoare, OTS informează ODDPRE și părțile implicate în mod direct în procesarea informației eronate, OR, OM, PRE, OTS, după caz, solicitând acestora transmiterea unui punct de vedere în termen de 10 zile lucrătoare, și publică solicitarea pe pagina proprie de internet, împreună cu argumentația aferentă. (2) În termen de 5 zile lucrătoare de la primirea punctelor de vedere ale părților implicate, OTS, împreună cu ODDPRE, analizează documentele primite și decide asupra acceptării sau respingerii solicitării de corectare, publicând pe pagina de internet a OTS decizia, argumentele și documentele primite. (3) În termen de 5 zile lucrătoare de la publicarea deciziei pe pagina de internet, orice participant sau operator din piață poate transmite OTS o contestație argumentată, care va fi publicată pe pagina de internet a OTS în maximum o zi de la primire. (4) În termen de 3 zile lucrătoare de la data primirii, OTS și ODDPRE analizează contestațiile primite și publică pe pagina de internet a OTS decizia finală, împreună cu motivarea acesteia. (5) În cazul apariției unei situații atipice, OTS poate solicita punctul de vedere al ANRE, care va fi publicat pe pagina de internet a OTS. (6) Corectarea decontărilor se realizează în lunile ianuarie, mai și septembrie ale oricărui an calendaristic, luând în considerare toate deciziile favorabile luate anterior lunilor respective.
+
+## Articolul 245
+
+OTS și ODDPRE au obligația să actualizeze și să publice pe paginile proprii de internet o evaluare privind valoarea costurilor proprii determinate de corectarea decontării.
+
+## Articolul 246
+
+În cazul nerespectării termenelor de emitere, contestare, verificare, corectare și postare și/sau publicare a notelor de regularizare sau a notelor de informare pentru decontare prevăzute în prezentul regulament, operatorii sunt obligați să sesizeze în scris ANRE în termen de 3 zile lucrătoare de la data constatării acestor abateri.
+
+## Capitolul V
+
+III Dispoziții finale
+
+## Articolul 247
+
+OTS publică prezentul regulament pe pagina proprie de internet în termen de două zile după publicarea acestuia în Monitorul Oficial al României, Partea I.
+
+## Articolul 248
+
+ODDPRE va dezvolta și implementa o aplicație informatică care va realiza decontarea dezechilibrelor PRE conform prevederilor prezentului regulament în termen de 9 luni de la publicarea prezentului regulament în Monitorul Oficial al României, Partea I.
+
+## Articolul 249
+
+Regulile privind decontarea dezechilibrelor PRE în cazul de suspendare a activităților de piață și modul de acțiune al OTS în acest caz sunt incluse în regulile privind suspendarea și restabilirea activităților de piață.
+
+## Articolul 250
+
+OTS elaborează, consultă public și publică pe pagina proprie de internet procedurile prevăzute în prezentul regulament în termen de 6 luni de la publicarea acestuia în Monitorul Oficial al României, Partea I. -----

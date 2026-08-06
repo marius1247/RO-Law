@@ -1,6 +1,7 @@
 ---
 title: "ANRE — Ordin 213-2020 Decontare dezechilibre (notă)"
 type: act-note
+act: "[[ANRE — Ordin 213-2020 Decontare dezechilibre (text)]]"
 act_type: act-anre
 issuer: ANRE
 nr: 213
@@ -8,24 +9,24 @@ an: 2020
 domain: [energetică, piețe, echilibrare, PRE]
 domeniu: [energetică, piețe, echilibrare, PRE]
 tags: [act-note, analysis, ANRE, dezechilibru, PRE, IBS]
-status: stub
-source_missing: true
+status: reviewed
+source_missing: false
 depth: expert
 updated: 2026-08-06
 ---
 
 # ANRE Ordin 213/2020 — Imbalance settlement — Analysis
 
-**Act:** Ordinul ANRE nr. **213/2020** — decontarea dezechilibrelor în SEN · **Hub:** [[MOC — Piete de echilibrare]] · **Concept:** [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — PRE si responsabilitate de echilibrare]] · **PE parent:** [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]]
+**Raw text:** [[ANRE — Ordin 213-2020 Decontare dezechilibre (text)|decontare regulament (SOAP base)]] · [[ANRE — Ordin 213-2020 Aprobare regulament decontare (text)|Ord. 213 shell]] · **Hub:** [[MOC — Piete de echilibrare]] · **Concept:** [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — PRE si responsabilitate de echilibrare]] · **PE parent:** [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]]
 
-> [!warning] Text not ingested
-> No working `(text)` yet. Mechanics below follow EBGL Art. 53 alignment, Transelectrica practice, and the concept note — **verify against live consolidare**.
+> [!warning] Partial SOAP currency
+> Full article-anchored text is the **Ord. 61/2020** regulament (portal `224753`). Ord. **213/2020** introduced **single imbalance price** but its anexă is **truncated in SOAP** (dump `234462`). Later amendments: Ord. 33/2021, 96/2021, 92/2022. Prefer Forma printabilă consolidare before pinning price formulas.
 
 ## Thesis
 
 Settlement engine for **balance responsible parties (PRE)**: 15-minute imbalance settlement periods, physical notifications, single imbalance price linked to PE, and TSO neutrality. Determines the imbalance cost line in every producer / supplier / storage commercial model.
 
-## Architecture (expected)
+## Architecture
 
 | Element | Role |
 |---|---|
@@ -74,9 +75,9 @@ Full practitioner math → [[Concept — Decontare dezechilibre 15 minute]].
 
 ## Ingest checklist
 
-- [ ] Portal consolidare → `99 Attachments/source-portal/`
-- [ ] Companion `(text)` + [[Currency ledger]] row
-- [ ] Replace this stub’s reconstructed map with `#Articolul N` anchors inside the concept note
+- [x] Portal SOAP dump in `source-portal/`
+- [x] Companion `(text)` · currency row pending verify
+- [ ] Deepen `#Articolul N` anchors in concept notes against ingested text
 
 ## Related
 

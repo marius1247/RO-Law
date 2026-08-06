@@ -1,6 +1,7 @@
 ---
 title: "ANRE — Ordin 127-2021 Piata echilibrare (notă)"
 type: act-note
+act: "[[ANRE — Ordin 127-2021 Piata echilibrare (text)]]"
 act_type: act-anre
 issuer: ANRE
 nr: 127
@@ -8,24 +9,24 @@ an: 2021
 domain: [energetică, piețe, echilibrare]
 domeniu: [energetică, piețe, echilibrare]
 tags: [act-note, analysis, ANRE, echilibrare, PCE, PE, EBGL]
-status: stub
-source_missing: true
+status: reviewed
+source_missing: false
 depth: expert
 updated: 2026-08-06
 ---
 
 # ANRE Ordin 127/2021 — Balancing market rules — Analysis
 
-**Act:** Ordinul ANRE nr. **127/2021** (balancing capacity + balancing energy markets) · **Hub:** [[MOC — Piete de echilibrare]] · **Synthesis:** [[Piete de echilibrare — synthesis]] · **Settlement twin:** [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]]
+**Raw text:** [[ANRE — Ordin 127-2021 Piata echilibrare (text)|BSP/FSE]] · [[ANRE — Regulament PRE 2021 (text)|PRE]] · [[ANRE — Ordin 127-2021 Aprobare regulamente echilibrare (text)|Ord. shell]] · **Hub:** [[MOC — Piete de echilibrare]] · **Synthesis:** [[Piete de echilibrare — synthesis]] · **Settlement twin:** [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]]
 
-> [!warning] Text not ingested
-> No working `(text)` in the vault yet. Architecture below is reconstructed from EBGL (Reg. EU 2017/2195), Transelectrica operational publications, and the vault’s concept layer — **verify every product parameter against the live consolidare before transactional use**.
+> [!info] Currency
+> Working texts are SOAP **base** regulamente approved by Ord. 127/2021 (portal `249313` BSP/FSE · `249314` PRE). Later amendments (e.g. Ord. 60/2024, Ord. 9/2025 PRE) are **not folded** — verify consolidare before transactional use.
 
 ## Thesis
 
 Core secondary act for Romania’s **balancing stack**: daily capacity auctions on **PCE** (FCR / aFRR / mFRR) and real-time activation on **PE**, operated by Transelectrica, with EBGL alignment toward PICASSO (aFRR) and MARI (mFRR). Together with Ord. 213/2020 it determines BSP revenue and PRE imbalance cost.
 
-## Architecture (expected)
+## Architecture
 
 | Layer | Function |
 |---|---|
@@ -72,9 +73,9 @@ Core secondary act for Romania’s **balancing stack**: daily capacity auctions 
 
 ## Ingest checklist
 
-- [ ] Portal consolidare → `99 Attachments/source-portal/`
-- [ ] `python3 scripts/ingest_ro_portal.py --convert` → companion `(text)`
-- [ ] Replace reconstructed parameters with `#Articolul N` anchors
+- [x] Portal SOAP dump in `source-portal/`
+- [x] Companion `(text)` generated
+- [ ] Deepen `#Articolul N` anchors against ingested regulamente
 - [ ] Update [[Currency ledger]] · concept notes with article pins
 - [ ] Map full amendment chain
 

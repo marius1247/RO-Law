@@ -90,7 +90,7 @@ L123 investigation / offence chapters continue to apply. Infringement context ma
 ## Interactions
 
 - Implements: `EU Law/.../Dir 2019-944 — electricity market` · Reg. 2019/943
-- Implemented by: [[ANRE — Regulament furnizare EE 2023 (notă)]] · [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · market rules (Ord. 127/2021 stack — text pending)
+- Implemented by: [[ANRE — Regulament furnizare EE 2023 (notă)]] · [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · market rules ([[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] stack)
 - Related: [[OUG 134-2024 — stocare energie electrica (notă)]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Participant PEE OPCOM]]
 - Authorities: [[ANRE]]
 

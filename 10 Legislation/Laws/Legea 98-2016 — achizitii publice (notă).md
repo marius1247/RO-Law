@@ -1,6 +1,7 @@
 ---
 title: "Legea 98-2016 — achizitii publice (notă)"
 type: act-note
+act: "[[Legea 98-2016 — achizitii publice (text)]]"
 act_type: lege
 nr: 98
 an: 2016
@@ -9,17 +10,14 @@ domeniu: [achiziții-publice, contencios-administrativ]
 tags: [act-note, analysis, SEAP, CNSC, achiziții]
 status: reviewed
 depth: expert
-text_pending: true
+text_pending: false
 created: 2026-07-28
 updated: 2026-08-06
 ---
 
 # Legea 98/2016 — achiziții publice — Analysis
 
-**Text:** *pending ingestion* · **Hub:** [[_Regulatory Risk & Litigation Matrix]] · **M&A:** [[_M&A Regulatory Compliance Checklist]] · **EU:** Dir. 2014/24/EU · **Remedies twin:** Legea 101/2016 *(not yet in vault)*
-
-> [!warning] Working text not yet in vault
-> Orientation analysis only. Challenge deadlines and threshold figures must be confirmed against L98 + **L101/2016** consolidări.
+**Raw text:** [[Legea 98-2016 — achizitii publice (text)]] · [[Legea 101-2016 — remedii achizitii publice (text)|L101/2016 remedies]]
 
 ## Thesis
 
@@ -99,7 +97,7 @@ CNSC decisions; CA București; ANAP oversight; exclusion/debarment; criminal bid
 
 ## File checklist
 
-- [ ] Ingest L98 + L101 consolidări
+- [x] L98 + L101 `(text)` ingested
 - [ ] Confirm live challenge deadlines and *cauțiune* rates
 - [ ] Add L99 utilities note if DSO/TSO procurement work expands
 - [x] Wired into litigation / M&A hubs

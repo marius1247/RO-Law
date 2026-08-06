@@ -1,6 +1,7 @@
 ---
 title: "Legea 53-2003 — codul muncii (notă)"
 type: act-note
+act: "[[Legea 53-2003 — codul muncii (text)]]"
 act_type: lege
 nr: 53
 an: 2003
@@ -9,17 +10,14 @@ domeniu: [muncă, HR, employment]
 tags: [act-note, analysis, muncă, REGES, HR]
 status: reviewed
 depth: expert
-text_pending: true
+text_pending: false
 created: 2026-07-28
 updated: 2026-08-06
 ---
 
 # Codul muncii — Legea 53/2003 — Analysis
 
-**Text:** *pending ingestion* · **Hub:** [[_M&A Regulatory Compliance Checklist]] · **Litigation:** [[_Regulatory Risk & Litigation Matrix]] · **Related:** [[Legea 21-1996 — concurenta (notă)|L21 no-poach]] · [[Legea 31-1990 — societatile (notă)|L31]]
-
-> [!warning] Working text not yet in vault
-> Article numbers below are orientation aids from standard consolidări — **re-verify on ingest** before formal advice.
+**Raw text:** [[Legea 53-2003 — codul muncii (text)]]
 
 ## Thesis
 
@@ -100,7 +98,7 @@ ITM inspections/fines; tribunal reinstatement + inflation-adjusted back wages + 
 
 ## File checklist
 
-- [ ] Ingest L53 consolidare + REGES-ONLINE implementing rules
+- [x] `(text)` ingested (SOAP republicare)
 - [ ] Confirm live collective-redundancy thresholds
 - [x] Wired into M&A / litigation hubs
 

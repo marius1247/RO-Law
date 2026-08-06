@@ -23,7 +23,7 @@ The environmental permit spine for industrial / energy projects in Romania:
 | Stage | Instrument |
 |---|---|
 | Umbrella principles / liability | [[OUG 195-2005 — protectia mediului (notă)]] |
-| EIA procedure | Legea 292/2018 (text pending ingest) |
+| EIA procedure | [[Legea 292-2018 — evaluare impact mediu (notă)|L292/2018]] · [[Legea 292-2018 — evaluare impact mediu (text)|text]] |
 | Acceleration / derogation overlays | [[OUG 163-2022 — promovare energie regenerabila (notă)|OUG 163/2022]] dedicated zones |
 | Grid parallel path | [[Concept — Racordare la rețea]] · [[ANRE — Regulament racordare EE 2013 (notă)]] |
 

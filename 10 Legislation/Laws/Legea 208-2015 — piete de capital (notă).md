@@ -1,6 +1,7 @@
 ---
 title: "Legea 208-2015 — piete de capital (notă)"
 type: act-note
+act: "[[Legea 24-2017 — emitenti instrumente financiare (text)]]"
 act_type: lege
 nr: 208
 an: 2015
@@ -9,7 +10,7 @@ domeniu: [piețe-financiare, banking, capital-markets]
 tags: [act-note, analysis, ASF, BNR, MAR, takeover]
 status: reviewed
 depth: expert
-text_pending: true
+text_pending: false
 created: 2026-07-28
 updated: 2026-08-06
 ---
@@ -20,8 +21,11 @@ updated: 2026-08-06
 
 **Hubs:** [[_M&A Regulatory Compliance Checklist]] · [[MOC — Societăți & Guvernanță]] · **Related:** [[Legea 31-1990 — societatile (notă)|L31]] · [[Legea 21-1996 — concurenta (notă)|L21]]
 
-> [!warning] Identity & text pending
-> Primary working texts to ingest for this cluster: **L24/2017** (issuers / takeover), **L126/2018** (MiFID II), **OUG 93/2012** (ASF), **OUG 99/2006** (credit institutions), **L129/2019** (AML). Rename/split this note when those texts land.
+> [!tip] Working texts (ingested)
+> - [[Legea 24-2017 — emitenti instrumente financiare (text)|L24/2017]] — issuers / transparency / takeover
+> - [[Legea 126-2018 — piete instrumente financiare (text)|L126/2018]] — MiFID II markets / investment firms
+>
+> Still optional for this cluster: **OUG 93/2012** (ASF), **OUG 99/2006** (credit institutions), **L129/2019** (AML).
 
 ## Thesis
 
@@ -102,13 +106,15 @@ ASF/BNR administrative sanctions; MAR admin/criminal tracks; court review. Paral
 
 ## File checklist
 
-- [ ] Rename/split note when L24/L126 texts ingested
-- [ ] Ingest L24/2017 · L126/2018 · OUG 93/2012 · OUG 99/2006 · L129/2019 as needed
+- [x] Ingest L24/2017 · L126/2018
+- [ ] Optional: ingest OUG 93/2012 · OUG 99/2006
+- [ ] Optional: rename/split this cluster hub filename
 - [x] Identity warning documented
 - [x] Wired into M&A + Societăți MOC
 
 ## Sources
 
-- Legea 24/2017 · Legea 126/2018 · OUG 93/2012 · OUG 99/2006 · Legea 129/2019 *(to ingest)*
+- [[Legea 24-2017 — emitenti instrumente financiare (text)|L24/2017]] · [[Legea 126-2018 — piete instrumente financiare (text)|L126/2018]]
+- OUG 93/2012 · OUG 99/2006 · Legea 129/2019 *(organic / AML layer — optional next)*
 - ASF / BNR regulations · EU MAR / MiFID II / CRD/CRR
 - **Not a source:** Legea 208/2015 (electoral)

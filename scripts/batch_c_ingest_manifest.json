@@ -1,0 +1,280 @@
+[
+  {
+    "portal_id": "249313",
+    "dump": "249313_regulament-bsp-fse-echilibrare-2021_soap.md",
+    "subdir": "Regulator Acts",
+    "filename": "ANRE — Ordin 127-2021 Piata echilibrare (text).md",
+    "h1": "Regulament din 8 decembrie 2021 privind clauzele și condițiile pentru furnizorii de servicii de echilibrare (aprobat prin Ord. ANRE 127/2021)",
+    "meta": {
+      "title": "ANRE — Ordin 127-2021 Piata echilibrare (text)",
+      "act_type": "act-anre",
+      "issuer": "ANRE",
+      "nr": "127",
+      "an": 2021,
+      "domeniu": ["energetică", "piețe", "echilibrare"],
+      "mo_publicare": "MO / 08.12.2021",
+      "portal_id": "249313",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249313",
+      "versiune_text": "2021-12-08",
+      "consolidare": "Regulament BSP/FSE aprobat prin Ord. ANRE 127/2021 — SOAP base text (amendments not folded)",
+      "tags": ["act-text", "ANRE", "echilibrare", "PCE", "PE", "BSP"]
+    }
+  },
+  {
+    "portal_id": "249314",
+    "dump": "249314_regulament-pre-echilibrare-2021_soap.md",
+    "subdir": "Regulator Acts",
+    "filename": "ANRE — Regulament PRE 2021 (text).md",
+    "h1": "Regulament din 8 decembrie 2021 privind clauzele și condițiile pentru părțile responsabile cu echilibrarea (aprobat prin Ord. ANRE 127/2021)",
+    "meta": {
+      "title": "ANRE — Regulament PRE 2021 (text)",
+      "act_type": "act-anre",
+      "issuer": "ANRE",
+      "nr": "127",
+      "an": 2021,
+      "domeniu": ["energetică", "piețe", "echilibrare", "PRE"],
+      "portal_id": "249314",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249314",
+      "versiune_text": "2021-12-08",
+      "consolidare": "Regulament PRE aprobat prin Ord. ANRE 127/2021 — SOAP base text",
+      "tags": ["act-text", "ANRE", "PRE", "echilibrare"]
+    }
+  },
+  {
+    "portal_id": "249312",
+    "dump": "249312_ordin-127-2021-aprobare-regulamente-echilibrare_soap.md",
+    "subdir": "Regulator Acts",
+    "filename": "ANRE — Ordin 127-2021 Aprobare regulamente echilibrare (text).md",
+    "h1": "Ordin ANRE nr. 127/2021 pentru aprobarea regulamentelor privind BSP/FSE și PRE",
+    "meta": {
+      "title": "ANRE — Ordin 127-2021 Aprobare regulamente echilibrare (text)",
+      "act_type": "act-anre",
+      "issuer": "ANRE",
+      "nr": "127",
+      "an": 2021,
+      "domeniu": ["energetică", "piețe", "echilibrare"],
+      "portal_id": "249312",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/249312",
+      "versiune_text": "2021-12-08",
+      "consolidare": "Ordin shell approving BSP + PRE regulamente",
+      "text_complet": true,
+      "tags": ["act-text", "ANRE", "echilibrare"]
+    }
+  },
+  {
+    "portal_id": "224753",
+    "dump": "224753_regulament-decontare-dezechilibre-mar2020_soap.md",
+    "subdir": "Regulator Acts",
+    "filename": "ANRE — Ordin 213-2020 Decontare dezechilibre (text).md",
+    "h1": "Regulament de calcul și de decontare a dezechilibrelor părților responsabile cu echilibrarea (linia Ord. 61/2020 → Ord. 213/2020)",
+    "meta": {
+      "title": "ANRE — Ordin 213-2020 Decontare dezechilibre (text)",
+      "act_type": "act-anre",
+      "issuer": "ANRE",
+      "nr": "213",
+      "an": 2020,
+      "domeniu": ["energetică", "piețe", "echilibrare", "PRE"],
+      "mo_publicare": "MO nr. 287 bis / 06.04.2020 (base) · Ord. 213/2020 MO 1201/09.12.2020",
+      "portal_id": "224753",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/224753",
+      "versiune_text": "2020-03-31",
+      "consolidare": "SOAP full text = Regulament aprobat Ord. 61/2020. Ord. 213/2020 replaced dual-price with single imbalance price — full Ord. 213 anexă truncated in SOAP (see companion shell dump 234462). Later amendments: Ord. 33/2021, 96/2021, 92/2022.",
+      "text_complet": false,
+      "tags": ["act-text", "ANRE", "dezechilibru", "PRE", "IBS", "currency-partial"]
+    }
+  },
+  {
+    "portal_id": "234462",
+    "dump": "234462_ordin-213-2020-decontare-dezechilibre_soap.md",
+    "subdir": "Regulator Acts",
+    "filename": "ANRE — Ordin 213-2020 Aprobare regulament decontare (text).md",
+    "h1": "Ordin ANRE nr. 213/2020 — aprobare Regulament decontare dezechilibre (preț unic)",
+    "meta": {
+      "title": "ANRE — Ordin 213-2020 Aprobare regulament decontare (text)",
+      "act_type": "act-anre",
+      "issuer": "ANRE",
+      "nr": "213",
+      "an": 2020,
+      "domeniu": ["energetică", "piețe", "echilibrare"],
+      "mo_publicare": "MO nr. 1201 / 09.12.2020",
+      "portal_id": "234462",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/234462",
+      "versiune_text": "2020-11-25",
+      "consolidare": "Ordin shell + truncated ANEXĂ header in SOAP — full regulament anexă not returned by API",
+      "text_complet": false,
+      "tags": ["act-text", "ANRE", "dezechilibru", "incomplete-soap"]
+    }
+  },
+  {
+    "portal_id": "281631",
+    "dump": "281631_hg-318-2024-cadru-cfd_soap.md",
+    "subdir": "Government Decisions",
+    "filename": "HG 318-2024 — cadru general CfD (text).md",
+    "h1": "Hotărârea Guvernului nr. 318/2024 privind cadrul general pentru mecanismul de contracte pentru diferență",
+    "meta": {
+      "title": "HG 318-2024 — cadru general CfD (text)",
+      "act_type": "hotărâre-guvern",
+      "nr": "318",
+      "an": 2024,
+      "domeniu": ["energetică", "regenerabile", "CfD"],
+      "portal_id": "281631",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/281631",
+      "versiune_text": "2024-04-04",
+      "consolidare": "HG frame text via SOAP; Anexa contract CfD eolian/solar published in MO 333 bis — not in SOAP (PDF path source-hg)",
+      "text_complet": false,
+      "tags": ["act-text", "HG", "CfD"]
+    }
+  },
+  {
+    "portal_id": "176165",
+    "dump": "176165_lege-21-1996-concurenta-republicata_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 21-1996 — concurenta (text).md",
+    "h1": "Legea concurenței nr. 21/1996 (republicată)",
+    "meta": {
+      "title": "Legea 21-1996 — concurenta (text)",
+      "act_type": "lege",
+      "nr": "21",
+      "an": 1996,
+      "domeniu": ["concurență", "antitrust", "M&A"],
+      "portal_id": "176165",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/176165",
+      "versiune_text": "republicată-SOAP",
+      "consolidare": "Republicare SOAP Portal Legislativ — verify against latest consolidare before citing thresholds",
+      "tags": ["act-text", "concurență"]
+    }
+  },
+  {
+    "portal_id": "128646",
+    "dump": "128646_lege-53-2003-codul-muncii-republicata_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 53-2003 — codul muncii (text).md",
+    "h1": "Legea nr. 53/2003 — Codul muncii (republicată)",
+    "meta": {
+      "title": "Legea 53-2003 — codul muncii (text)",
+      "act_type": "lege",
+      "nr": "53",
+      "an": 2003,
+      "domeniu": ["muncă", "HR"],
+      "portal_id": "128646",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/128646",
+      "versiune_text": "republicată-SOAP",
+      "consolidare": "Republicare SOAP — REGES-ONLINE and later amendments may lag",
+      "tags": ["act-text", "muncă", "Codul-muncii"]
+    }
+  },
+  {
+    "portal_id": "178667",
+    "dump": "178667_lege-98-2016-achizitii-publice_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 98-2016 — achizitii publice (text).md",
+    "h1": "Legea nr. 98/2016 privind achizițiile publice",
+    "meta": {
+      "title": "Legea 98-2016 — achizitii publice (text)",
+      "act_type": "lege",
+      "nr": "98",
+      "an": 2016,
+      "domeniu": ["achiziții-publice"],
+      "portal_id": "178667",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178667",
+      "versiune_text": "SOAP-portal",
+      "consolidare": "SOAP Portal Legislativ — confirm latest consolidare for challenge deadlines",
+      "tags": ["act-text", "achiziții", "SEAP"]
+    }
+  },
+  {
+    "portal_id": "178680",
+    "dump": "178680_lege-101-2016-remedii-achizitii_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 101-2016 — remedii achizitii publice (text).md",
+    "h1": "Legea nr. 101/2016 privind remediile și căile de atac în materia achizițiilor publice",
+    "meta": {
+      "title": "Legea 101-2016 — remedii achizitii publice (text)",
+      "act_type": "lege",
+      "nr": "101",
+      "an": 2016,
+      "domeniu": ["achiziții-publice", "contencios-administrativ"],
+      "portal_id": "178680",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/178680",
+      "versiune_text": "SOAP-portal",
+      "consolidare": "Remedies twin to L98 — SOAP text",
+      "tags": ["act-text", "achiziții", "CNSC"]
+    }
+  },
+  {
+    "portal_id": "67634",
+    "dump": "67634_oug-195-2005-protectia-mediului_soap.md",
+    "subdir": "Ordinances",
+    "filename": "OUG 195-2005 — protectia mediului (text).md",
+    "h1": "Ordonanța de urgență a Guvernului nr. 195/2005 privind protecția mediului",
+    "meta": {
+      "title": "OUG 195-2005 — protectia mediului (text)",
+      "act_type": "ordonanță-urgență",
+      "nr": "195",
+      "an": 2005,
+      "domeniu": ["mediu", "ESG"],
+      "portal_id": "67634",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/67634",
+      "versiune_text": "SOAP-portal",
+      "consolidare": "SOAP base — verify latest consolidare",
+      "tags": ["act-text", "OUG", "mediu"]
+    }
+  },
+  {
+    "portal_id": "208590",
+    "dump": "208590_lege-292-2018-eia_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 292-2018 — evaluare impact mediu (text).md",
+    "h1": "Legea nr. 292/2018 privind evaluarea impactului anumitor proiecte publice și private asupra mediului",
+    "meta": {
+      "title": "Legea 292-2018 — evaluare impact mediu (text)",
+      "act_type": "lege",
+      "nr": "292",
+      "an": 2018,
+      "domeniu": ["mediu", "EIA"],
+      "portal_id": "208590",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/208590",
+      "versiune_text": "2018-12-03",
+      "consolidare": "EIA statute — SOAP text",
+      "tags": ["act-text", "mediu", "EIA"]
+    }
+  },
+  {
+    "portal_id": "245244",
+    "dump": "245244_lege-24-2017-emitenti_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 24-2017 — emitenti instrumente financiare (text).md",
+    "h1": "Legea nr. 24/2017 privind emitenții de instrumente financiare și operațiuni de piață",
+    "meta": {
+      "title": "Legea 24-2017 — emitenti instrumente financiare (text)",
+      "act_type": "lege",
+      "nr": "24",
+      "an": 2017,
+      "domeniu": ["piețe-financiare", "capital-markets"],
+      "portal_id": "245244",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/245244",
+      "versiune_text": "SOAP-portal",
+      "consolidare": "Issuers / takeover statute — SOAP text (prefer over misnamed L208 cluster)",
+      "tags": ["act-text", "ASF", "emitenti", "takeover"]
+    }
+  },
+  {
+    "portal_id": "201860",
+    "dump": "201860_lege-126-2018-piete-instrumente-financiare_soap.md",
+    "subdir": "Laws",
+    "filename": "Legea 126-2018 — piete instrumente financiare (text).md",
+    "h1": "Legea nr. 126/2018 privind piețele de instrumente financiare",
+    "meta": {
+      "title": "Legea 126-2018 — piete instrumente financiare (text)",
+      "act_type": "lege",
+      "nr": "126",
+      "an": 2018,
+      "domeniu": ["piețe-financiare", "capital-markets", "MiFID"],
+      "portal_id": "201860",
+      "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/201860",
+      "versiune_text": "2018-06-11",
+      "consolidare": "MiFID II RO transposition — SOAP text",
+      "tags": ["act-text", "ASF", "MiFID", "SSIF"]
+    }
+  }
+]

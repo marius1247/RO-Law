@@ -13,7 +13,10 @@ source_pdf: "[[99 Attachments/source-hg/HG_318-2024_Anexa_CfD_eolian_solar.pdf]]
 created: 2026-07-27
 ---
 
-**Act:** Anexă la HG nr. 318/04.04.2024 · **Hub:** [[MOC — Energetică]] · **Related markets:** [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] · **EU parallel:** [[Reg 2024-1747 — market design reform (notă)]] *(two-way CfDs)* · **Raw PDF:** `99 Attachments/source-hg/HG_318-2024_Anexa_CfD_eolian_solar.pdf`
+**Act:** Anexă la HG nr. 318/04.04.2024 · **Frame text:** [[HG 318-2024 — cadru general CfD (text)]] · **Hub:** [[MOC — Energetică]] · **Related markets:** [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] · **EU parallel:** [[Reg 2024-1747 — market design reform (notă)]] *(two-way CfDs)* · **Raw PDF:** `99 Attachments/source-hg/HG_318-2024_Anexa_CfD_eolian_solar.pdf`
+
+> [!note] No article-anchored `(text)` yet
+> Anexa is **MO nr. 333 bis** — not returned by portal SOAP. Cite this analysis note + PDF until a PDF→markdown ingest is done. Do not treat [[HG 318-2024 — cadru general CfD (text)|frame text]] as the full scheme.
 
 # ANEXA 04.04.2024 — Contract pentru Diferență (CfD) pentru Tehnologiile Eoliene Onshore și Solare Fotovoltaice
 
