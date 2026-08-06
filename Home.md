@@ -72,12 +72,13 @@ Racordare · furnizare · metodologii tarifare · OUG 134/143/163 · BESS norme 
 
 Deep `(notă)` + concepts for transport / distribution / SS methodologies and Ord. **74/2025** — [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]].
 
-## Batches C2–C5 — CV / CfD / communities / wholesale / keystones (2026-08-06)
+## Batches C2–C6 — analysis integration (2026-08-06) ✅
 
 - **C2:** [[ANRE — Metodologie quota certificate verzi 2022 (notă)|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] · [[ANRE — Metodologie contributie CfD 2024 (notă)|Ord. 51/2024]] · [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Contributie CfD]]
 - **C3:** [[Concept — Comunitate de energie]] wired into Ord. 9/50 notes
 - **C4:** [[Concept — Participant PEE OPCOM]] wired into Cod comercial + OPCOM registration
-- **C5 (partial):** concept graphs on [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220]]
+- **C5:** concept graphs on L123/L220 · L31 · Cod fiscal/CPF · Constituție · OUG 33/163 · HG 318 · OPCOM PZU · [[Concept — Contract pentru diferență (CfD)]]
+- **C6:** deepened sectoral notes · [[Concept — Controlul concentrarilor]] · [[Concept — Acord de mediu si AIM]]
 
 Backlog: [[Analysis backlog — texts without notă-concepts]].
 
@@ -85,15 +86,15 @@ Backlog: [[Analysis backlog — texts without notă-concepts]].
 
 Corrected Ord. **76/77** Delgaz/DEER text filenames · fixed broken `\|` wikilinks · deepened OUG 134/143 · Ord. 56 BESS · furnizare · racordare notes.
 
-## Sectoral analysis (text pending ingestion)
+## Sectoral analysis (Batch C6 — text pending)
 
 | Act | Analysis |
 |---|---|
-| [[Legea 21-1996 — concurenta (notă)|L21/1996 — concurență]] | Antitrust, merger control, dawn raids |
+| [[Legea 21-1996 — concurenta (notă)|L21/1996 — concurență]] | Antitrust, merger control · [[Concept — Controlul concentrarilor]] |
 | [[Legea 53-2003 — codul muncii (notă)|L53/2003 — Codul muncii]] | Employment, REGES, termination |
 | [[Legea 98-2016 — achizitii publice (notă)|L98/2016 — achiziții publice]] | SEAP, CNSC, tender disputes |
-| [[Legea 208-2015 — piete de capital (notă)|L208/2015 — piețe financiare]] | BNR/ASF, mandatory takeover bids |
-| [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005 — mediu]] | EIA, AIM, ESG / contamination liability |
+| [[Legea 208-2015 — piete de capital (notă)|capital-markets cluster]] | BNR/ASF / takeover (*filename ≠ electoral L208*) |
+| [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005 — mediu]] | EIA, AIM · [[Concept — Acord de mediu si AIM]] |
 
 ## Sibling vaults
 
