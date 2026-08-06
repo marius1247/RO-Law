@@ -3,7 +3,7 @@ title: "Roadmap"
 type: project
 tags: [project, roadmap]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Roadmap — Romanian Law
@@ -13,7 +13,10 @@ Master build plan. **Done** = in vault today. **Next** = gaps, split by whether 
 > [!success] Integration round complete (2026-08-05)
 > **Done this round:** Batch B text ingest (16 acts) · analysis wiring · producer cost / tariff synthesis pass. **Next round:** market rules · network codes · Ord. **6/2025** · optional SS/perimeter text ingest.
 
-Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download checklist — Batch B ANRE]]
+> [!tip] Operator queues (2026-08-06 audit)
+> Full **manual download list with links** + **analysis-topic backlog** (clusters like balancing): [[Audit & Roadmap — downloads and analysis backlog]].
+
+Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download checklist — Batch B ANRE]] · [[Audit & Roadmap — downloads and analysis backlog]]
 
 ---
 
