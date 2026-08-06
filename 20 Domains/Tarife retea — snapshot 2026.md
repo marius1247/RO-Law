@@ -5,7 +5,7 @@ domeniu: [energetică, tarife]
 tags: [domain, tarife, snapshot, practică, ANRE, Transelectrica]
 status: draft
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 currency_as_of: 2026-01-01
 ---
 
@@ -16,7 +16,7 @@ currency_as_of: 2026-01-01
 > [!warning] Verify before client advice
 > Tariffs change **intra-year** (especially **SS**). This table reflects values **from 1 January 2026** sourced from published ANRE Ordine and TSO notices. Pull the current Ordin from [ANRE](https://www.anre.ro) or operator tariff pages when advising a named project. Update this note when new Ordine publish.
 
-**Companion synthesis:** [[Concept — Cost stack producator energie]] · [[Concept — BESS economics si tarifare stocare]]
+**Companion synthesis:** [[Concept — Cost stack producator energie]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — BESS economics si tarifare stocare]] · [[ANRE — Metodologii tarifare EE (notă)]]
 
 ---
 
@@ -30,7 +30,8 @@ currency_as_of: 2026-01-01
 | **Distribution DEER** | ANRE Ord. **77/2025** |
 | **Perimeter cross-border** | ANRE Ord. **10/2026** (from 15 May 2026) |
 | **BESS storage exemption** | ANRE Ord. **56/2025** (~Jul 2025) |
-| **Methodologies (ingested)** | Ord. 68/2024 (transport), 67/2024 (distribution), 116/2022 (SS) — [[ANRE — Metodologii tarifare EE (notă)]] |
+| **Methodologies (ingested)** | [[ANRE — Metodologie tarife transport EE 2024 (notă)\|Ord. 68/2024]] · [[ANRE — Metodologie tarife distributie EE 2024 (notă)\|Ord. 67/2024]] · [[ANRE — Metodologie tarife servicii sistem 2022 (notă)\|Ord. 116/2022]] — hub [[ANRE — Metodologii tarifare EE (notă)]] |
+| **2026 transport rate Ordin** | [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|Ord. 74/2025]] |
 
 ---
 

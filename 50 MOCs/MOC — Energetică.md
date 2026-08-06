@@ -4,7 +4,7 @@ type: moc
 domeniu: energetică
 tags: [moc, index, energetică]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 status: draft
 ---
 
@@ -18,8 +18,9 @@ Domain hub for the **energy sector**. Romania is an **EU Member State** (not Ene
 ## Analysis layer
 - **[[Energetică — synthesis]]**
 - Act companions: [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220/2008]] · [[OUG 163-2022 — promovare energie regenerabila (notă)|OUG 163/2022]] · [[OUG 134-2024 — stocare energie electrica (notă)|OUG 134/2024]] · [[OUG 143-2021 — Directiva 2019-944 energie (notă)|OUG 143/2021]]
-- Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
+- Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
 - **Balancing markets:** [[MOC — Piete de echilibrare]] · [[Piete de echilibrare — synthesis]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — BESS revenue stacking]]
+- **Network tariffs (Batch C1):** [[ANRE — Metodologii tarifare EE (notă)]] · [[ANRE — Metodologie tarife transport EE 2024 (notă)|Ord. 68/2024]] · [[ANRE — Metodologie tarife distributie EE 2024 (notă)|Ord. 67/2024]] · [[ANRE — Metodologie tarife servicii sistem 2022 (notă)|Ord. 116/2022]] · [[ANRE — Ordin 74-2025 Tarife transport EE (notă)|Ord. 74/2025]]
 - Currency: [[Currency ledger]]
 
 ## The implementation chain
@@ -54,7 +55,7 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | Forward markets | [[ANRE — Ordin 134-2022 Piata termen (notă)\|Ord. 134/2022]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)\|Ord. 12/2023]] ✅ | General rules + OPCOM regulation |
 | Energy communities | [[ANRE — Ordin 9-2026 Comunitati energie (notă)\|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)\|Ord. 50/2026]] ✅ | Wholesale/storage + national register |
 | Gas authorisation | [[ANRE — Ordin 98-2015 Autorizare gaze (notă)\|Ord. 98/2015]] ✅ | |
-| Tariffs (TG/TL/SS/TD / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] · [[Tarife retea — snapshot 2026]] | ✅ Ord. **74/76/77/2025** texts · [[ANRE — Metodologii tarifare EE (notă)]] |
+| Tariffs (TG/TL/SS/TD / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] · [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|Ord. 74/2025]] · [[Tarife retea — snapshot 2026]] | ✅ Deep methodology notes (Batch C1) · [[ANRE — Metodologii tarifare EE (notă)]] |
 | Racordare EE | [[ANRE — Regulament racordare EE 2013 (notă)\|Ord. 59/2013 regulament]] ✅ | [[ANRE — Regulament racordare EE 2013 (text)\|text]] (portal **160289**) |
 | Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)\|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)\|text]] (portal **264611**) |
 | Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)\|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)\|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |

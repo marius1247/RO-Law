@@ -5,7 +5,7 @@ domeniu: [energetică, tarife, servicii-de-sistem]
 tags: [concept, energetică, SS, servicii-de-sistem, Ord-73-2025, Transelectrica]
 status: draft
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Concept — Servicii de sistem și tariful SS
@@ -14,7 +14,7 @@ updated: 2026-08-05
 
 Clarifies what **ANRE Ord. 73/2025** actually sets — and what it does **not** set — in Romania's balancing cost stack.
 
-Parent: [[Piete de echilibrare — synthesis]] · Cost map: [[Concept — Cost stack producator energie]] · Methodology: [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022]]
+Parent: [[Piete de echilibrare — synthesis]] · Cost map: [[Concept — Cost stack producator energie]] · Methodology: [[ANRE — Metodologie tarife servicii sistem 2022 (notă)|Ord. 116/2022 analysis]] · [[ANRE — Metodologie tarife servicii sistem 2022 (text)|text]]
 
 ---
 

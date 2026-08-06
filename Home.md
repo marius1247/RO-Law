@@ -68,6 +68,10 @@ See [[Conventions]] for naming, frontmatter, and ingestion.
 
 Racordare · furnizare · metodologii tarifare · OUG 134/143/163 · BESS norme · 2026 tariff Ordine — see [[MOC — Energetică]] · [[Currency ledger]] · [[SOURCE INDEX]].
 
+## Batch C1 — network tariff deep analysis (2026-08-06)
+
+Deep `(notă)` + concepts for transport / distribution / SS methodologies and Ord. **74/2025** — [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]]. Backlog: [[Analysis backlog — texts without notă-concepts]].
+
 ## Sectoral analysis (text pending ingestion)
 
 | Act | Analysis |

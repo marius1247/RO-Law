@@ -5,7 +5,7 @@ domeniu: [energetică, tarife, piețe, producție]
 tags: [concept, energetică, tarife, producător, cost-stack, due-diligence]
 status: draft
 created: 2026-08-05
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Concept — Cost stack producător energie
@@ -30,7 +30,7 @@ Injection / withdrawal at metering point
     └── OPCOM / trading — guarantees, fees (if on organised markets)
 ```
 
-Cross-links: [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — Curtailment si redispatch RES]] · [[MOC — Piete de echilibrare]] · [[_Energy Investment Due Diligence Index]]
+Cross-links: [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — Curtailment si redispatch RES]] · [[MOC — Piete de echilibrare]] · [[_Energy Investment Due Diligence Index]] · [[ANRE — Metodologii tarifare EE (notă)]]
 
 ---
 
