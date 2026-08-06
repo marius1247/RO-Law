@@ -4,7 +4,7 @@ type: reference
 domeniu: [sistemul-juridic]
 tags: [reference, currency, meta]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Currency ledger — per-act version tracking
@@ -17,7 +17,7 @@ Single table for **keystone acts** in this vault. Status meanings:
 | **lagging** | Full working text exists but is older than the portal’s latest consolidare |
 | **partial** | Dump incomplete / truncated / SOAP-only annex gaps — do not treat as complete consolidare |
 
-Last checked: **2026-08-05**. Re-check before advising. Source map: [[SOURCE INDEX]] · download queues: [[Download checklist — Batch A currency]] · [[Download checklist — Batch B ANRE]].
+Last checked: **2026-08-06**. Re-check before advising. Source map: [[SOURCE INDEX]] · download queues: [[Download checklist — Batch A currency]] · [[Download checklist — Batch B ANRE]].
 
 ## Primary & Batch A
 
@@ -52,6 +52,23 @@ Last checked: **2026-08-05**. Re-check before advising. Source map: [[SOURCE IND
 | [[ANRE — Ordin 76-2025 Tarife distributie Delgaz (text)|Ord. 76/2025 Delgaz TD]] | 305630 | 2025-12-16 | Tarife 2026 | 2026-08-05 | **current** |
 | [[ANRE — Ordin 77-2025 Tarife distributie DEER (text)|Ord. 77/2025 DEER TD]] | 305631 | 2025-12-16 | Tarife 2026 | 2026-08-05 | **current** |
 | [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)|Ord. 81/2025 cotă CV 2026]] | 305642 | 2025-12-16 | Quota 2026 | 2026-08-05 | **current** |
+
+## Batch C — missing texts (ingested 2026-08-06)
+
+| Act | portal_id | versiune_text | consolidare (note) | Last checked | Status |
+|---|---|---|---|---|---|
+| [[ANRE — Ordin 127-2021 Piata echilibrare (text)|Ord. 127/2021 BSP/FSE]] | 249313 | 2021-12-08 | SOAP base regulament; later ANRE amending orders not folded | 2026-08-06 | **current** *(base)* |
+| [[ANRE — Regulament PRE 2021 (text)|Ord. 127/2021 PRE]] | 249314 | 2021-12-08 | Companion PRE regulament | 2026-08-06 | **current** *(base)* |
+| [[ANRE — Ordin 213-2020 Decontare dezechilibre (text)|Ord. 213/2020 IBS]] | 224753 | 2020-03-31 | Working = Ord. 61/2020 base; Ord. 213 single-price anexă truncated in SOAP | 2026-08-06 | **partial** |
+| [[HG 318-2024 — cadru general CfD (text)|HG 318/2024 frame]] | 281631 | 2024-04-04 | Frame Art. via SOAP; Anexa MO 333 bis = PDF only | 2026-08-06 | **partial** |
+| [[Legea 21-1996 — concurenta (text)|L21/1996]] | 176165 | republicată-SOAP | Republicare SOAP; verify thresholds vs latest consolidare | 2026-08-06 | **current** *(republicată)* |
+| [[Legea 53-2003 — codul muncii (text)|L53/2003]] | 128646 | republicată-SOAP | Republicare SOAP; REGES-ONLINE amendments may lag | 2026-08-06 | **current** *(republicată)* |
+| [[Legea 98-2016 — achizitii publice (text)|L98/2016]] | 178667 | SOAP-portal | SOAP base; challenge deadlines may need Forma printabilă | 2026-08-06 | **current** *(base)* |
+| [[Legea 101-2016 — remedii achizitii publice (text)|L101/2016]] | 178680 | SOAP-portal | Remedies / CNSC companion to L98 | 2026-08-06 | **current** *(base)* |
+| [[OUG 195-2005 — protectia mediului (text)|OUG 195/2005]] | 67634 | SOAP-portal | SOAP base; later amendments may lag | 2026-08-06 | **current** *(base)* |
+| [[Legea 292-2018 — evaluare impact mediu (text)|L292/2018]] | 208590 | SOAP-portal | EIA procedure | 2026-08-06 | **current** *(base)* |
+| [[Legea 24-2017 — emitenti instrumente financiare (text)|L24/2017]] | 245244 | SOAP-portal | Issuers / takeover (republicată SOAP) — real CM statute | 2026-08-06 | **current** *(base)* |
+| [[Legea 126-2018 — piete instrumente financiare (text)|L126/2018]] | 201860 | 2018-06-11 | MiFID II markets / investment firms | 2026-08-06 | **current** *(base)* |
 
 ## Batch B — still pending
 

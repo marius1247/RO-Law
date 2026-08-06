@@ -1,7 +1,7 @@
 ---
 title: "OUG 195-2005 — protectia mediului (notă)"
 type: act-note
-act: null
+act: "[[OUG 195-2005 — protectia mediului (text)]]"
 act_type: ordonanță-urgență
 nr: 195
 an: 2005
@@ -10,17 +10,14 @@ domeniu: [mediu, ESG, permitting]
 tags: [act-note, analysis, OUG, mediu, EIA, AIM, ESG]
 status: reviewed
 depth: expert
-text_pending: true
+text_pending: false
 created: 2026-07-28
 updated: 2026-08-06
 ---
 
 # OUG 195/2005 — protecția mediului — Analysis
 
-**Text:** *pending ingestion* · **Enforcement:** Garda Națională de Mediu (GNM) · **Hub:** [[_Energy Investment Due Diligence Index]] · **Concept:** [[Concept — Acord de mediu si AIM]]
-
-> [!warning] Working text not yet in vault
-> Umbrella analysis. EIA detail lives largely in **Legea 292/2018** — ingest both before citing article numbers.
+**Raw text:** [[OUG 195-2005 — protectia mediului (text)]] · [[Legea 292-2018 — evaluare impact mediu (text)|L292/2018 EIA]]
 
 ## Thesis
 
@@ -101,7 +98,7 @@ GNM fines, suspension, shut-down; APM refusal/withdrawal; criminal environmental
 
 ## File checklist
 
-- [ ] Ingest OUG 195 + Legea 292/2018 consolidări
+- [x] OUG 195 + L292 `(text)` ingested
 - [ ] Map AIM secondary HG/orders used in practice
 - [x] Concept — Acord de mediu si AIM created
 - [x] Wired into Energy DD index

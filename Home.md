@@ -86,15 +86,19 @@ Backlog: [[Analysis backlog — texts without notă-concepts]].
 
 Corrected Ord. **76/77** Delgaz/DEER text filenames · fixed broken `\|` wikilinks · deepened OUG 134/143 · Ord. 56 BESS · furnizare · racordare notes.
 
-## Sectoral analysis (Batch C6 — text pending)
+## Batch C ingest — missing texts (2026-08-06) ✅
 
-| Act | Analysis |
-|---|---|
-| [[Legea 21-1996 — concurenta (notă)|L21/1996 — concurență]] | Antitrust, merger control · [[Concept — Controlul concentrarilor]] |
-| [[Legea 53-2003 — codul muncii (notă)|L53/2003 — Codul muncii]] | Employment, REGES, termination |
-| [[Legea 98-2016 — achizitii publice (notă)|L98/2016 — achiziții publice]] | SEAP, CNSC, tender disputes |
-| [[Legea 208-2015 — piete de capital (notă)|capital-markets cluster]] | BNR/ASF / takeover (*filename ≠ electoral L208*) |
-| [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005 — mediu]] | EIA, AIM · [[Concept — Acord de mediu si AIM]] |
+Ord. **127/2021** (BSP/FSE + PRE) · Ord. **213/2020** IBS *(partial)* · HG **318/2024** frame *(Anexa = MO bis PDF)* · L21 · L53 · L98/L101 · OUG 195 · L292 · **L24/2017** · **L126/2018**. See [[SOURCE INDEX]] · [[Currency ledger]].
+
+## Sectoral analysis (Batch C6) — texts now ingested
+
+| Act | Analysis | Text |
+|---|---|---|
+| [[Legea 21-1996 — concurenta (notă)|L21/1996 — concurență]] | Antitrust, merger control · [[Concept — Controlul concentrarilor]] | [[Legea 21-1996 — concurenta (text)|text]] |
+| [[Legea 53-2003 — codul muncii (notă)|L53/2003 — Codul muncii]] | Employment, REGES, termination | [[Legea 53-2003 — codul muncii (text)|text]] |
+| [[Legea 98-2016 — achizitii publice (notă)|L98/2016 — achiziții]] | SEAP, CNSC · [[Legea 101-2016 — remedii achizitii publice (notă)|L101]] | [[Legea 98-2016 — achizitii publice (text)|text]] |
+| [[Legea 208-2015 — piete de capital (notă)|capital-markets cluster]] | BNR/ASF hub (*≠ electoral L208*) | [[Legea 24-2017 — emitenti instrumente financiare (text)|L24]] · [[Legea 126-2018 — piete instrumente financiare (text)|L126]] |
+| [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005 — mediu]] | EIA, AIM · [[Concept — Acord de mediu si AIM]] | [[OUG 195-2005 — protectia mediului (text)|text]] · [[Legea 292-2018 — evaluare impact mediu (text)|L292]] |
 
 ## Sibling vaults
 

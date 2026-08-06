@@ -1,6 +1,7 @@
 ---
 title: "Legea 21-1996 — concurenta (notă)"
 type: act-note
+act: "[[Legea 21-1996 — concurenta (text)]]"
 act_type: lege
 nr: 21
 an: 1996
@@ -9,17 +10,14 @@ domeniu: [concurență, antitrust, M&A]
 tags: [act-note, analysis, concurență, merger-control]
 status: reviewed
 depth: expert
-text_pending: true
+text_pending: false
 created: 2026-07-28
 updated: 2026-08-06
 ---
 
 # Legea Concurenței nr. 21/1996 — Analysis
 
-**Text:** *pending ingestion* — Portal Legislativ · **Authority:** Consiliul Concurenței (RCC) · **Hub:** [[_M&A Regulatory Compliance Checklist]] · **DD:** [[_Energy Investment Due Diligence Index]] · **Concept:** [[Concept — Controlul concentrarilor]]
-
-> [!warning] Working text not yet in vault
-> Analysis-only companion. Article numbers and threshold figures below follow current RCC practice / prior consolidări — **re-verify against the ingested `(text)` before formal advice**.
+**Raw text:** [[Legea 21-1996 — concurenta (text)]]
 
 ## Thesis
 
@@ -99,7 +97,7 @@ RCC fines (≤10% worldwide TO — verify); periodic penalty payments; structura
 
 ## File checklist
 
-- [ ] Ingest L21 consolidare → `(text)`
+- [x] `(text)` ingested (SOAP republicare)
 - [ ] Pin live threshold / fine articles
 - [x] Wired into M&A / Energy DD hubs
 - [x] Concept — Controlul concentrarilor created

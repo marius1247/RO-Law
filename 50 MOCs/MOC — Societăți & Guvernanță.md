@@ -18,12 +18,13 @@ Domain hub for **company law and corporate governance**: how a company comes int
 - **[[Societăți & guvernanță — synthesis]]**
 - Concepts: [[Concept — Capital social]] · [[Concept — Societate cu raspundere limitata]] · [[Concept — Societate pe actiuni]] · [[Concept — Controlul concentrarilor]]
 - Act companion: [[Legea 31-1990 — societatile (notă)|L31/1990]]
-- Overlay: [[Legea 208-2015 — piete de capital (notă)|BNR/ASF / takeover cluster]] · [[Legea 21-1996 — concurenta (notă)|L21 merger control]]
+- Overlay: [[Legea 208-2015 — piete de capital (notă)|BNR/ASF cluster]] · [[Legea 24-2017 — emitenti instrumente financiare (notă)|L24/2017]] · [[Legea 126-2018 — piete instrumente financiare (notă)|L126/2018]] · [[Legea 21-1996 — concurenta (notă)|L21 merger control]]
 
 ## The layers of the law
 | Layer | Act | Role |
 |---|---|---|
 | **Special — forms** | [[Legea 31-1990 — societatile (text)|Legea 31/1990]] | SRL, SA, other forms |
+| **Issuers / markets** | [[Legea 24-2017 — emitenti instrumente financiare (text)|L24/2017]] · [[Legea 126-2018 — piete instrumente financiare (text)|L126/2018]] | Takeover / disclosure · MiFID II |
 | **Register** | **Legea 265/2022** *(to ingest)* | ONRC — constitutive registration & publicity |
 | **Background** | Codul civil (L287/2009) | Legal persons, obligations |
 | **Failure** | Legea insolvenței 85/2014 *(to deepen)* | Collective procedures |

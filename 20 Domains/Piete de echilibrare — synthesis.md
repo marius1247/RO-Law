@@ -103,8 +103,8 @@ Standalone and hybrid BESS assets can **stack revenues** across PCE capacity, PE
 
 | Act | Subject | Vault |
 |---|---|---|
-| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | Balancing market rules (PCE + PE) | Stub — **text not ingested** |
-| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | Imbalance settlement mechanism | Stub — **text not ingested** |
+| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | Balancing market rules (PCE + PE) | ✅ [[ANRE — Ordin 127-2021 Piata echilibrare (text)|BSP/FSE]] · [[ANRE — Regulament PRE 2021 (text)|PRE]] |
+| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | Imbalance settlement mechanism | ✅ [[ANRE — Ordin 213-2020 Decontare dezechilibre (text)|text]] *(partial — Ord. 61 base)* |
 | [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022]] | SS tariff methodology | Ingested |
 | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)|Ord. 73/2025]] | SS tariff value 14,70 lei/MWh (2026) | Analysis only |
 | [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]] | PRE balancing responsibility | Ingested |
@@ -114,7 +114,7 @@ Standalone and hybrid BESS assets can **stack revenues** across PCE capacity, PE
 
 ## 7. Open gaps
 
-- Full text ingest: Ord. **127/2021** (as amended by Ord. **60/2024**), Ord. **213/2020**
+- Consolidare Ord. **127/2021** amendments (e.g. Ord. **60/2024**) and Ord. **213** single-price anexă (SOAP truncated)
 - Transelectrica BSP qualification / DAMAS auction procedures (operator-site)
 - PICASSO / MARI platform integration details for aFRR/mFRR
 - Worked revenue example for 100 MW / 200 MWh BESS with live price inputs

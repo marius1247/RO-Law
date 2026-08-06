@@ -62,7 +62,7 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)|text]] (portal **264611**) |
 | Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |
 | GC quota / methodologies | [[ANRE — Metodologie quota certificate verzi 2022 (notă)|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] | ✅ [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Certificat verde]] |
-| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piete de echilibrare]] · texts pending ingest |
+| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] ✅ · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] ⚠️ partial | [[MOC — Piete de echilibrare]] · texts ingested (Ord. 213 SOAP gap) |
 | Piețe / coduri rețea | Pending | Checklist: [[Download checklist — Batch B ANRE]] |
 
 ## OPCOM market procedures (OPEED)
@@ -91,7 +91,7 @@ Cross-vault: `EU Law/` · Moldovan Law `[[Energetică — synthesis]]`.
 ## Open threads
 - Batch B **remainder:** electricity/gas market rules · network codes · Ord. **6/2025** authorisation
 - Deepen `#Articolul N` links in concept notes against ingested regulamente/metodologii
-- Ingest primary texts for Batch 4–5 sectoral acts (L21, L53, L98, L208, OUG 195)
+- Ord. 213 consolidare (single-price anexă) + HG 318 Anexa `(text)` from PDF — residual SOAP gaps
 - Unbundling ↔ company law → [[Societăți & guvernanță — synthesis]]
 
 ## Cross-disciplinary indexes

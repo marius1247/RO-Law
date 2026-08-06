@@ -26,9 +26,19 @@ def clean_raw(text: str) -> str:
 
 
 def add_article_headings(text: str) -> str:
+    # Portal SOAP sometimes emits HTML entities / CR markers
+    text = text.replace("&#xD;", "\n")
+    text = re.sub(r"(?i)&nbsp;", " ", text)
+
     # Normalize common portal markers before article detection
     text = re.sub(
         r"(?i)\bArticolul\s+(\d+(?:\^\d+)?)\.?\s*",
+        r"\n\n## Articolul \1\n\n",
+        text,
+    )
+    # Older ANRE regulamente often use "Art. N" instead of "Articolul N"
+    text = re.sub(
+        r"(?m)(?i)(?<!\#\# )(?<!Articolul )\bArt\.\s*(\d+(?:\^\d+)?)\s+",
         r"\n\n## Articolul \1\n\n",
         text,
     )
