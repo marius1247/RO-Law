@@ -30,8 +30,8 @@ currency_as_of: 2026-01-01
 | **Distribution DEER** | ANRE Ord. **77/2025** |
 | **Perimeter cross-border** | ANRE Ord. **10/2026** (from 15 May 2026) |
 | **BESS storage exemption** | ANRE Ord. **56/2025** (~Jul 2025) |
-| **Methodologies (ingested)** | [[ANRE — Metodologie tarife transport EE 2024 (notă)\|Ord. 68/2024]] · [[ANRE — Metodologie tarife distributie EE 2024 (notă)\|Ord. 67/2024]] · [[ANRE — Metodologie tarife servicii sistem 2022 (notă)\|Ord. 116/2022]] — hub [[ANRE — Metodologii tarifare EE (notă)]] |
-| **2026 transport rate Ordin** | [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|Ord. 74/2025]] |
+| **Methodologies (ingested)** | [[ANRE — Metodologie tarife transport EE 2024 (notă)|Ord. 68/2024]] · [[ANRE — Metodologie tarife distributie EE 2024 (notă)|Ord. 67/2024]] · [[ANRE — Metodologie tarife servicii sistem 2022 (notă)|Ord. 116/2022]] — hub [[ANRE — Metodologii tarifare EE (notă)]] |
+| **2026 transport rate Ordin** | [[ANRE — Ordin 74-2025 Tarife transport EE (notă)|Ord. 74/2025]] |
 
 ---
 

@@ -25,8 +25,8 @@ Domain hub for **taxation** — Cod fiscal (substance) + CPF (procedure) + [[ANA
 ## Primary legislation
 | Act | Role | Vault status |
 |---|---|---|
-| [[Codul fiscal 227-2015 (text) — Index\|Cod fiscal L227/2015]] | Substance by Titlu | ✅ full SOAP — **lagging** |
-| [[Codul de procedura fiscala 207-2015 (text) — Index\|CPF L207/2015]] | Procedure, control, contestation | ✅ full SOAP — **lagging** |
+| [[Codul fiscal 227-2015 (text) — Index|Cod fiscal L227/2015]] | Substance by Titlu | ✅ full SOAP — **lagging** |
+| [[Codul de procedura fiscala 207-2015 (text) — Index|CPF L207/2015]] | Procedure, control, contestation | ✅ full SOAP — **lagging** |
 
 ### Cod fiscal Titluri (quick index)
 I General · **II Profit** · III Micro · IV Personal income · V Social contributions · VI Non-residents · **VII TVA** · VIII Excise · IX Local · X Constructions · XI Final

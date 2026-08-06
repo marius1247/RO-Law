@@ -42,17 +42,17 @@ For energy and corporate work this is the daily statute behind SPV tax profiles,
 
 | Titlu | Subject | Vault file |
 |---|---|---|
-| I | General provisions, principles, definitions, anti-abuse | [[Codul fiscal 227-2015 — text — Titlul I\|Titlul I]] |
-| II | Profit tax | [[Codul fiscal 227-2015 — text — Titlul II\|Titlul II]] |
-| III | Micro-enterprise income tax | [[Codul fiscal 227-2015 — text — Titlul III\|Titlul III]] |
-| IV | Personal income tax | [[Codul fiscal 227-2015 — text — Titlul IV\|Titlul IV]] |
-| V | Mandatory social contributions | [[Codul fiscal 227-2015 — text — Titlul V\|Titlul V]] |
-| VI | Non-residents & foreign representations | [[Codul fiscal 227-2015 — text — Titlul VI\|Titlul VI]] |
-| VII | VAT | [[Codul fiscal 227-2015 — text — Titlul VII\|Titlul VII]] |
-| VIII | Excise & special taxes | [[Codul fiscal 227-2015 — text — Titlul VIII\|Titlul VIII]] |
-| IX | Local taxes | [[Codul fiscal 227-2015 — text — Titlul IX\|Titlul IX]] |
-| X | Construction tax | [[Codul fiscal 227-2015 — text — Titlul X\|Titlul X]] |
-| XI | Final provisions | [[Codul fiscal 227-2015 — text — Titlul XI\|Titlul XI]] |
+| I | General provisions, principles, definitions, anti-abuse | [[Codul fiscal 227-2015 — text — Titlul I|Titlul I]] |
+| II | Profit tax | [[Codul fiscal 227-2015 — text — Titlul II|Titlul II]] |
+| III | Micro-enterprise income tax | [[Codul fiscal 227-2015 — text — Titlul III|Titlul III]] |
+| IV | Personal income tax | [[Codul fiscal 227-2015 — text — Titlul IV|Titlul IV]] |
+| V | Mandatory social contributions | [[Codul fiscal 227-2015 — text — Titlul V|Titlul V]] |
+| VI | Non-residents & foreign representations | [[Codul fiscal 227-2015 — text — Titlul VI|Titlul VI]] |
+| VII | VAT | [[Codul fiscal 227-2015 — text — Titlul VII|Titlul VII]] |
+| VIII | Excise & special taxes | [[Codul fiscal 227-2015 — text — Titlul VIII|Titlul VIII]] |
+| IX | Local taxes | [[Codul fiscal 227-2015 — text — Titlul IX|Titlul IX]] |
+| X | Construction tax | [[Codul fiscal 227-2015 — text — Titlul X|Titlul X]] |
+| XI | Final provisions | [[Codul fiscal 227-2015 — text — Titlul XI|Titlul XI]] |
 
 ~**501** articles numbered across the SOAP split.
 

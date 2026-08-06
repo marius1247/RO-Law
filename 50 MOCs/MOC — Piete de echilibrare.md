@@ -41,9 +41,9 @@ Parent: [[MOC — Energetică]] · Sector: [[Energetică — synthesis]]
 
 | Product | Capacity | Energy | Deep dive |
 |---|---|---|---|
-| **FCR** | [[Concept — PCE — piata capacitatilor de echilibrare#FCR capacity\|PCE § FCR]] | Unpaid — BRP nets | [[Concept — FCR — operare si constrangeri]] |
-| **aFRR** | PCE — asymmetric Up/Down | PE — AGC dispatch | [[Concept — PE — piata energiei de echilibrare#aFRR energy\|PE § aFRR]] |
-| **mFRR** | PCE — asymmetric Up/Down | PE — scheduled + direct | [[Concept — PE — piata energiei de echilibrare#mFRR energy\|PE § mFRR]] |
+| **FCR** | [[Concept — PCE — piata capacitatilor de echilibrare#FCR capacity|PCE § FCR]] | Unpaid — BRP nets | [[Concept — FCR — operare si constrangeri]] |
+| **aFRR** | PCE — asymmetric Up/Down | PE — AGC dispatch | [[Concept — PE — piata energiei de echilibrare#aFRR energy|PE § aFRR]] |
+| **mFRR** | PCE — asymmetric Up/Down | PE — scheduled + direct | [[Concept — PE — piata energiei de echilibrare#mFRR energy|PE § mFRR]] |
 
 ---
 
@@ -59,11 +59,11 @@ Parent: [[MOC — Energetică]] · Sector: [[Energetică — synthesis]]
 
 | Act | Status | Note |
 |---|---|---|
-| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] | Stub | PCE + PE market rules (EBGL) |
-| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] | Stub | 15-min IBS for PREs |
-| [[ANRE — Metodologie tarife servicii sistem 2022 (text)\|Ord. 116/2022]] | Ingested | SS methodology |
-| [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)\|Ord. 73/2025]] | Analysis | SS = 14,70 lei/MWh from Jan 2026 |
-| [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67\|L123 art. 67]] | Ingested | PRE responsibility |
+| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | Stub | PCE + PE market rules (EBGL) |
+| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | Stub | 15-min IBS for PREs |
+| [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022]] | Ingested | SS methodology |
+| [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)|Ord. 73/2025]] | Analysis | SS = 14,70 lei/MWh from Jan 2026 |
+| [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]] | Ingested | PRE responsibility |
 
 ---
 

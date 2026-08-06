@@ -103,11 +103,11 @@ Standalone and hybrid BESS assets can **stack revenues** across PCE capacity, PE
 
 | Act | Subject | Vault |
 |---|---|---|
-| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] | Balancing market rules (PCE + PE) | Stub — **text not ingested** |
-| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] | Imbalance settlement mechanism | Stub — **text not ingested** |
-| [[ANRE — Metodologie tarife servicii sistem 2022 (text)\|Ord. 116/2022]] | SS tariff methodology | Ingested |
-| [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)\|Ord. 73/2025]] | SS tariff value 14,70 lei/MWh (2026) | Analysis only |
-| [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67\|L123 art. 67]] | PRE balancing responsibility | Ingested |
+| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | Balancing market rules (PCE + PE) | Stub — **text not ingested** |
+| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | Imbalance settlement mechanism | Stub — **text not ingested** |
+| [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022]] | SS tariff methodology | Ingested |
+| [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)|Ord. 73/2025]] | SS tariff value 14,70 lei/MWh (2026) | Analysis only |
+| [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]] | PRE balancing responsibility | Ingested |
 | EBGL (EU Reg. 2017/2195) | European balancing guidelines | Cross-vault: `EU Law/` |
 
 ---

@@ -89,7 +89,7 @@ Hubs: [[Home]] · [[MOC — Energetică]] · [[Currency ledger]] · [[Download c
 | Regulament furnizare (Ord. 5/2023) | [[ANRE — Regulament furnizare EE 2023 (text)]] | [[ANRE — Regulament furnizare EE 2023 (notă)]] | ✅ portal 264611 |
 | Metodologii tarifare (67/68/116/96/51) | [[ANRE — Metodologie tarife transport EE 2024 (text)]] et al. | [[ANRE — Metodologii tarifare EE (notă)]] | ✅ |
 | Norme stocare BESS (Ord. 56/2025) | [[ANRE — Norme stocare BESS 2025 (text)]] | [[ANRE — Norme stocare BESS 2025 (notă)]] | ✅ |
-| Tarife 2026 TG/TL/TD (74/76/77) | [[ANRE — Ordin 74-2025 Tarife transport EE (text)]] · [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]] · [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] | ✅ |
+| Tarife 2026 TG/TL/TD (74/76/77) | [[ANRE — Ordin 74-2025 Tarife transport EE (text)]] · [[ANRE — Ordin 76-2025 Tarife distributie Delgaz (text)]] · [[ANRE — Ordin 77-2025 Tarife distributie DEER (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] | ✅ |
 | Cotă CV 2026 (Ord. 81/2025) | [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)]] | [[Concept — Certificat verde]] | ✅ |
 
 ### HG — CfD framework
@@ -195,7 +195,7 @@ Normative sources still available from **Portal Legislativ**, **ANRE**, **OPCOM*
 
 | Act | Why | Retrieve from |
 |---|---|---|
-| **Electricity market rules** (current normative Ordin) | Balancing, scheduling, commercial rules post-2014 repeal | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] — analysis stub ✅; **text ingest** pending |
+| **Electricity market rules** (current normative Ordin) | Balancing, scheduling, commercial rules post-2014 repeal | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] — analysis stub ✅; **text ingest** pending |
 | **Electricity network code(s)** | Redispatch, curtailment compensation, technical requirements | ANRE |
 | **Ord. 6/2025** — autorizare producție/stocare | BESS licensing procedure | Portal / ANRE |
 | Gas connection / supply / market regulamente | Title II L123 | ANRE / portal |

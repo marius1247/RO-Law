@@ -31,20 +31,20 @@ See [[Conventions]] for naming, frontmatter, and ingestion.
 
 | Note | Focus |
 |---|---|
-| [[Constitutia Romaniei (text)\|Constituția]] | Supreme law (republicată 2003) · [[Constitutia Romaniei (notă)\|notă]] |
-| [[Legea 24-2000 — tehnica legislativa (text)\|L24/2000]] | Legislative drafting · [[Legea 24-2000 — tehnica legislativa (notă)\|notă]] |
+| [[Constitutia Romaniei (text)|Constituția]] | Supreme law (republicată 2003) · [[Constitutia Romaniei (notă)|notă]] |
+| [[Legea 24-2000 — tehnica legislativa (text)|L24/2000]] | Legislative drafting · [[Legea 24-2000 — tehnica legislativa (notă)|notă]] |
 | [[Ierarhia actelor normative]] | Force ranking incl. **OUG** |
-| [[OUG 33-2007 — organizarea ANRE (text)\|OUG 33/2007]] | ANRE organic statute |
+| [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]] | ANRE organic statute |
 
 ## Batch A — keystone texts
 
 | Act | Working text | Analysis | Currency |
 |---|---|---|---|
-| L123/2012 — energie & gaze | [[Legea 123-2012 — energia electrica si gazele naturale (text)]] | [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|notă]] | current (~2026-02) |
-| L220/2008 — regenerabile | [[Legea 220-2008 — promovare energie regenerabila (text)]] | [[Legea 220-2008 — promovare energie regenerabila (notă)\|notă]] | current → 2025-11 |
-| L31/1990 — societăți | [[Legea 31-1990 — societatile (text)]] | [[Legea 31-1990 — societatile (notă)\|notă]] | current (print) |
-| Codul fiscal (L227/2015) | [[Codul fiscal 227-2015 (text) — Index]] | [[Codul fiscal 227-2015 (notă)\|notă]] | **lagging** SOAP |
-| CPF (L207/2015) | [[Codul de procedura fiscala 207-2015 (text) — Index]] | [[Codul de procedura fiscala 207-2015 (notă)\|notă]] | **lagging** SOAP |
+| L123/2012 — energie & gaze | [[Legea 123-2012 — energia electrica si gazele naturale (text)]] | [[Legea 123-2012 — energia electrica si gazele naturale (notă)|notă]] | current (~2026-02) |
+| L220/2008 — regenerabile | [[Legea 220-2008 — promovare energie regenerabila (text)]] | [[Legea 220-2008 — promovare energie regenerabila (notă)|notă]] | current → 2025-11 |
+| L31/1990 — societăți | [[Legea 31-1990 — societatile (text)]] | [[Legea 31-1990 — societatile (notă)|notă]] | current (print) |
+| Codul fiscal (L227/2015) | [[Codul fiscal 227-2015 (text) — Index]] | [[Codul fiscal 227-2015 (notă)|notă]] | **lagging** SOAP |
+| CPF (L207/2015) | [[Codul de procedura fiscala 207-2015 (text) — Index]] | [[Codul de procedura fiscala 207-2015 (notă)|notă]] | **lagging** SOAP |
 
 > [!warning] Currency — Cod fiscal & CPF
 > Full SOAP working texts lag portal consolidări through **01.07.2026** (CF) and **08.05.2026** (CPF). Truncated newer dumps are in `99 Attachments/source-portal/`. Browser Forma printabilă still required for full re-ingest — see [[Download checklist — Batch A currency]].
@@ -81,15 +81,19 @@ Deep `(notă)` + concepts for transport / distribution / SS methodologies and Or
 
 Backlog: [[Analysis backlog — texts without notă-concepts]].
 
+## Quality pass (2026-08-06)
+
+Corrected Ord. **76/77** Delgaz/DEER text filenames · fixed broken `\|` wikilinks · deepened OUG 134/143 · Ord. 56 BESS · furnizare · racordare notes.
+
 ## Sectoral analysis (text pending ingestion)
 
 | Act | Analysis |
 |---|---|
-| [[Legea 21-1996 — concurenta (notă)\|L21/1996 — concurență]] | Antitrust, merger control, dawn raids |
-| [[Legea 53-2003 — codul muncii (notă)\|L53/2003 — Codul muncii]] | Employment, REGES, termination |
-| [[Legea 98-2016 — achizitii publice (notă)\|L98/2016 — achiziții publice]] | SEAP, CNSC, tender disputes |
-| [[Legea 208-2015 — piete de capital (notă)\|L208/2015 — piețe financiare]] | BNR/ASF, mandatory takeover bids |
-| [[OUG 195-2005 — protectia mediului (notă)\|OUG 195/2005 — mediu]] | EIA, AIM, ESG / contamination liability |
+| [[Legea 21-1996 — concurenta (notă)|L21/1996 — concurență]] | Antitrust, merger control, dawn raids |
+| [[Legea 53-2003 — codul muncii (notă)|L53/2003 — Codul muncii]] | Employment, REGES, termination |
+| [[Legea 98-2016 — achizitii publice (notă)|L98/2016 — achiziții publice]] | SEAP, CNSC, tender disputes |
+| [[Legea 208-2015 — piete de capital (notă)|L208/2015 — piețe financiare]] | BNR/ASF, mandatory takeover bids |
+| [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005 — mediu]] | EIA, AIM, ESG / contamination liability |
 
 ## Sibling vaults
 

@@ -66,8 +66,8 @@ Normative **Ordine** only. Drop files into `99 Attachments/source-portal/` then 
 ## 2026 tariff Ordine (normative tariff-setting acts — ingested)
 
 - [x] Ord. **74/2025** transport — [[ANRE — Ordin 74-2025 Tarife transport EE (text)]]
-- [x] Ord. **76/2025** DEER distribution — [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]]
-- [x] Ord. **77/2025** Delgaz distribution — [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]]
+- [x] Ord. **76/2025** Delgaz distribution — [[ANRE — Ordin 76-2025 Tarife distributie Delgaz (text)]]
+- [x] Ord. **77/2025** DEER distribution — [[ANRE — Ordin 77-2025 Tarife distributie DEER (text)]]
 - [ ] Ord. **60/2025**, **73/2025**, **10/2026** — SS / perimeter (analysis + snapshot exist; text ingest optional)
 
 ## Naming

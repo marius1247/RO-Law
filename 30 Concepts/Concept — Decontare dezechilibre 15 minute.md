@@ -64,7 +64,7 @@ All PREs settle at the **same unit price** in each 15-minute interval:
 
 | BRP position | System status | Financial result |
 |---|---|---|
-| Short | System Short (needs up) | BRP **pays** TSO: \(P \times \|\text{Imbalance}\|\) |
+| Short | System Short (needs up) | BRP **pays** TSO: \(P \times |\text{Imbalance}|\) |
 | Long | System Short | TSO **pays** BRP: \(P \times \text{Imbalance}\) |
 | Short | System Long (needs down) | BRP **pays** TSO (helps consume excess) |
 | Long | System Long | TSO **pays** BRP (worsens excess — penalised directionally) |

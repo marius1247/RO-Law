@@ -24,7 +24,7 @@ Index of durable **methodologies** (how revenues/tariffs are built) versus annua
 | **Transport** TG/TL | 68/2024 | [[ANRE — Metodologie tarife transport EE 2024 (text)]] | [[ANRE — Metodologie tarife transport EE 2024 (notă)]] | [[Concept — Tarif de transport TG si TL]] |
 | **Distribution** TD | 67/2024 | [[ANRE — Metodologie tarife distributie EE 2024 (text)]] | [[ANRE — Metodologie tarife distributie EE 2024 (notă)]] | [[Concept — Tarif de distributie TD]] |
 | **System services** SS | 116/2022 | [[ANRE — Metodologie tarife servicii sistem 2022 (text)]] | [[ANRE — Metodologie tarife servicii sistem 2022 (notă)]] | [[Concept — Servicii de sistem si tariful SS]] |
-| **Green certificate quota** | 96/2022 | [[ANRE — Metodologie quota certificate verzi 2022 (text)]] | [[ANRE — Metodologie quota certificate verzi 2022 (notă)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)\|Ord. 81/2025]] | [[Concept — Certificat verde]] · [[Concept — Cota obligatorie certificate verzi]] |
+| **Green certificate quota** | 96/2022 | [[ANRE — Metodologie quota certificate verzi 2022 (text)]] | [[ANRE — Metodologie quota certificate verzi 2022 (notă)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] | [[Concept — Certificat verde]] · [[Concept — Cota obligatorie certificate verzi]] |
 | **CfD contribution** | 51/2024 | [[ANRE — Metodologie contributie CfD 2024 (text)]] | [[ANRE — Metodologie contributie CfD 2024 (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] | [[Concept — Contributie CfD]] |
 
 ## How methodologies relate to snapshot tariffs

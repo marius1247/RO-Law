@@ -22,7 +22,7 @@ Domain hub for **company law and corporate governance**: how a company comes int
 ## The layers of the law
 | Layer | Act | Role |
 |---|---|---|
-| **Special — forms** | [[Legea 31-1990 — societatile (text)\|Legea 31/1990]] | SRL, SA, other forms |
+| **Special — forms** | [[Legea 31-1990 — societatile (text)|Legea 31/1990]] | SRL, SA, other forms |
 | **Register** | **Legea 265/2022** *(to ingest)* | ONRC — constitutive registration & publicity |
 | **Background** | Codul civil (L287/2009) | Legal persons, obligations |
 | **Failure** | Legea insolvenței 85/2014 *(to deepen)* | Collective procedures |
@@ -49,7 +49,7 @@ Domain hub for **company law and corporate governance**: how a company comes int
 ## Primary legislation — in the vault
 | Act | Text | Analysis |
 |---|---|---|
-| [[Legea 31-1990 — societatile (text)\|L31/1990]] | ✅ consolidare print | [[Legea 31-1990 — societatile (notă)]] *(stub)* |
+| [[Legea 31-1990 — societatile (text)|L31/1990]] | ✅ consolidare print | [[Legea 31-1990 — societatile (notă)]] *(stub)* |
 
 ## Still open
 - Ingest **L265/2022** (ONRC)

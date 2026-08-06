@@ -22,7 +22,7 @@ Romanian company law is **two-layered for forms, plus a registration statute**:
 
 | Layer | Instrument | Role |
 |---|---|---|
-| Special (forms) | **[[Legea 31-1990 — societatile (text)\|Legea 31/1990]]** | SRL, SA, and other company forms: formation, capital, organs, dissolution |
+| Special (forms) | **[[Legea 31-1990 — societatile (text)|Legea 31/1990]]** | SRL, SA, and other company forms: formation, capital, organs, dissolution |
 | Procedural / register | **Legea 265/2022** (ONRC — to ingest) | Trade register: constitutive registration, publicity, branches, e-procedures |
 | Background private law | **Codul civil** (L287/2009) | Legal persons, obligations, representation — fills gaps |
 

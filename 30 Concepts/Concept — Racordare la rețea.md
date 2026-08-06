@@ -17,7 +17,7 @@ The regulated procedure by which a specific installation — consumer premises, 
 ## Distinguish from licensing
 | Gate | What it authorises |
 |---|---|
-| [[Concept — Licență în energetică\|Licence]] | Carrying on a *regulated activity* |
+| [[Concept — Licență în energetică|Licence]] | Carrying on a *regulated activity* |
 | **Connection** | Attaching a *specific installation* to a *specific network* |
 
 A developer needs both, in that logical order. Projects die at connection far more often than at licensing.

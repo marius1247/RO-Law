@@ -5,70 +5,78 @@ act_type: act-anre
 issuer: ANRE
 nr: 127
 an: 2021
+domain: [energetică, piețe, echilibrare]
 domeniu: [energetică, piețe, echilibrare]
 tags: [act-note, analysis, ANRE, echilibrare, PCE, PE, EBGL]
 status: stub
 source_missing: true
-updated: 2026-08-05
+depth: expert
+updated: 2026-08-06
 ---
 
-**Act:** Ordinul ANRE nr. **127/2021** privind piața de echilibrare a energiei electrice (și piața capacităților de echilibrare) · **Hub:** [[MOC — Piete de echilibrare]] · **Synthesis:** [[Piete de echilibrare — synthesis]]
+# ANRE Ordin 127/2021 — Balancing market rules — Analysis
+
+**Act:** Ordinul ANRE nr. **127/2021** (balancing capacity + balancing energy markets) · **Hub:** [[MOC — Piete de echilibrare]] · **Synthesis:** [[Piete de echilibrare — synthesis]] · **Settlement twin:** [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]]
 
 > [!warning] Text not ingested
-> Working `— text` note pending portal ingest. Values and product rules in linked concept notes are sourced from Transelectrica publications, EBGL, and practitioner analysis — **verify against live consolidare** before transactional use.
+> No working `(text)` in the vault yet. Architecture below is reconstructed from EBGL (Reg. EU 2017/2195), Transelectrica operational publications, and the vault’s concept layer — **verify every product parameter against the live consolidare before transactional use**.
 
-# ANRE Ordin 127/2021 — Balancing market rules (analysis stub)
+## Thesis
 
-## Identificare
+Core secondary act for Romania’s **balancing stack**: daily capacity auctions on **PCE** (FCR / aFRR / mFRR) and real-time activation on **PE**, operated by Transelectrica, with EBGL alignment toward PICASSO (aFRR) and MARI (mFRR). Together with Ord. 213/2020 it determines BSP revenue and PRE imbalance cost.
 
-| Field | Value |
+## Architecture (expected)
+
+| Layer | Function |
 |---|---|
-| **Emitent** | ANRE |
-| **Nr. / an** | 127 / 2021 |
-| **Domeniu** | Piețe de echilibrare — capacitate (PCE) și energie (PE) |
-| **Temei** | [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]]; Regulamentul (UE) 2017/2195 (EBGL) |
-| **Operator piață** | C.N.T.E.E. Transelectrica S.A. |
+| **PCE** — piața capacităților | D-1 capacity auctions; typically 4-hour blocks; MW reserved |
+| **PE** — piața energiei | 15-minute activation energy; up/down |
+| **BSP / FSE qualification** | Technical prequalification to offer products |
+| **DAMAS / platforms** | Bidding, coupling, European platforms |
+| **SS tariff recovery** | Capacity costs recovered via SS — [[ANRE — Metodologie tarife servicii sistem 2022 (notă)|Ord. 116/2022]] · live rate [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)|Ord. 73/2025]] |
 
-## Ce reglementează (pe scurt)
+## Operative regime (practitioner map)
 
-1. **Piața Capacităților de Echilibrare (PCE)** — licitații zilnice D-1 pentru FCR, aFRR, mFRR (capacitate MW, blocuri 4 ore)
-2. **Piața de Echilibrare (PE)** — energie de echilibrare activată în timp real (intervale 15 minute)
-3. **Calificarea BSP/FSE** — cerințe tehnice pentru furnizori de servicii de echilibrare
-4. **Proceduri de licitație** — platforma DAMAS, ofertare, decupaj produse
-5. **Integrare europeană** — aliniere EBGL (PICASSO aFRR, MARI mFRR)
+### Capacity (PCE)
+- Products: **FCR**, **aFRR**, **mFRR** (see [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — FCR — operare si constrangeri]]).
+- Auctions usually D-1; accepted capacity paid even if not activated (capacity payment ≠ energy payment).
+- BESS / demand response participation depends on prequalification and product-specific duration / energy reservoir rules.
 
-## Amendamente relevante (de verificat la ingest)
+### Energy (PE)
+- Activation in **15-minute** ISPs; marginal/pay-as-bid details must be confirmed in consolidare.
+- PE prices feed imbalance settlement under [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] ([[Concept — PE — piata energiei de echilibrare]] · [[Concept — Decontare dezechilibre 15 minute]]).
 
-| Act | Subiect probabil |
+### Who must care
+| Actor | Why |
 |---|---|
-| Ord. **60/2024** | Actualizări EBGL / produse echilibrare |
-| Alte ordine ANRE post-2022 | Gate closure, produse 15 minute |
+| BSP / BESS operator | Revenue stacking — [[Concept — BESS revenue stacking]] |
+| PRE / BRP | Imbalance price risk from PE |
+| Supplier / aggregator | Balancing responsibility for customers (L123 / OUG 143) |
+| Investor DD | Curtailment / redispatch interaction — [[Concept — Curtailment si redispatch RES]] |
 
-*Confirm amendment chain on ingest from Portal Legislativ.*
+## Hard edges
 
-## Concept notes derivate
+- **Partial repeal of Ord. 25/2004** commercial code chapters — wholesale balancing migrated here; do not cite Cod comercial for live PE/PCE rules ([[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)]]).
+- Amendment chain (incl. Ord. 60/2024 and later) must be rebuilt on ingest.
+- SS lei/MWh is **not** the auction clearing price — it is the regulated recovery tariff.
 
-- [[Concept — PCE — piata capacitatilor de echilibrare]]
-- [[Concept — PE — piata energiei de echilibrare]]
-- [[Concept — FCR — operare si constrangeri]]
-- [[Concept — BESS revenue stacking]]
+## Interactions
 
-## Relații
-
-| Act | Legătură |
+| Act | Link |
 |---|---|
-| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] | Leagă prețurile PE de decontarea PRE |
-| [[ANRE — Metodologie tarife servicii sistem 2022 (text)\|Ord. 116/2022]] | Recuperarea costurilor PCE prin tariful SS |
-| [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)\|Ord. 73/2025]] | Valoarea tarifului SS (nu prețul licitațiilor) |
-| [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)\|Ord. 25/2004]] | Cap. abrogate — piețe migrate spre Ord. 127/2021 |
+| [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] | PE prices → PRE settlement |
+| [[ANRE — Metodologie tarife servicii sistem 2022 (text)|Ord. 116/2022]] | PCE cost recovery via SS |
+| [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)|Ord. 73/2025]] | SS unit rate from 2026 |
+| [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)|Ord. 25/2004]] | Superseded balancing chapters |
+| EBGL Reg. 2017/2195 | EU parent |
 
 ## Ingest checklist
 
 - [ ] Portal consolidare → `99 Attachments/source-portal/`
-- [ ] `python3 scripts/ingest_ro_portal.py --convert`
-- [ ] Companion `— text` în `10 Legislation/Regulator Acts/`
-- [ ] Actualizare [[Currency ledger]]
-- [ ] Link `#Articolul N` în concept notes
+- [ ] `python3 scripts/ingest_ro_portal.py --convert` → companion `(text)`
+- [ ] Replace reconstructed parameters with `#Articolul N` anchors
+- [ ] Update [[Currency ledger]] · concept notes with article pins
+- [ ] Map full amendment chain
 
 ## Related
 

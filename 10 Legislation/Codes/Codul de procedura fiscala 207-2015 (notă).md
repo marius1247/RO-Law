@@ -36,18 +36,18 @@ Romania's **tax administration procedure code**: how the tax authority and the t
 
 | Titlu | Subject | Vault file |
 |---|---|---|
-| I | General provisions, definitions, principles | [[Codul de procedura fiscala 207-2015 — text — Titlul I\|Titlul I]] |
-| II | Fiscal legal relationship | [[Codul de procedura fiscala 207-2015 — text — Titlul II\|Titlul II]] |
-| III | General procedural rules | [[Codul de procedura fiscala 207-2015 — text — Titlul III\|Titlul III]] |
-| IV | Tax registration | [[Codul de procedura fiscala 207-2015 — text — Titlul IV\|Titlul IV]] |
-| V | Establishing fiscal claims | [[Codul de procedura fiscala 207-2015 — text — Titlul V\|Titlul V]] |
-| VI | Tax control / inspection | [[Codul de procedura fiscala 207-2015 — text — Titlul VI\|Titlul VI]] |
-| VII | Collection of fiscal claims | [[Codul de procedura fiscala 207-2015 — text — Titlul VII\|Titlul VII]] |
-| VIII | Administrative challenge (*contestații*) | [[Codul de procedura fiscala 207-2015 — text — Titlul VIII\|Titlul VIII]] |
-| IX | Mutual agreement (MAP) | [[Codul de procedura fiscala 207-2015 — text — Titlul IX\|Titlul IX]] |
-| X | International aspects | [[Codul de procedura fiscala 207-2015 — text — Titlul X\|Titlul X]] |
-| XI | Sanctions | [[Codul de procedura fiscala 207-2015 — text — Titlul XI\|Titlul XI]] |
-| XII | Transitional & final | [[Codul de procedura fiscala 207-2015 — text — Titlul XII\|Titlul XII]] |
+| I | General provisions, definitions, principles | [[Codul de procedura fiscala 207-2015 — text — Titlul I|Titlul I]] |
+| II | Fiscal legal relationship | [[Codul de procedura fiscala 207-2015 — text — Titlul II|Titlul II]] |
+| III | General procedural rules | [[Codul de procedura fiscala 207-2015 — text — Titlul III|Titlul III]] |
+| IV | Tax registration | [[Codul de procedura fiscala 207-2015 — text — Titlul IV|Titlul IV]] |
+| V | Establishing fiscal claims | [[Codul de procedura fiscala 207-2015 — text — Titlul V|Titlul V]] |
+| VI | Tax control / inspection | [[Codul de procedura fiscala 207-2015 — text — Titlul VI|Titlul VI]] |
+| VII | Collection of fiscal claims | [[Codul de procedura fiscala 207-2015 — text — Titlul VII|Titlul VII]] |
+| VIII | Administrative challenge (*contestații*) | [[Codul de procedura fiscala 207-2015 — text — Titlul VIII|Titlul VIII]] |
+| IX | Mutual agreement (MAP) | [[Codul de procedura fiscala 207-2015 — text — Titlul IX|Titlul IX]] |
+| X | International aspects | [[Codul de procedura fiscala 207-2015 — text — Titlul X|Titlul X]] |
+| XI | Sanctions | [[Codul de procedura fiscala 207-2015 — text — Titlul XI|Titlul XI]] |
+| XII | Transitional & final | [[Codul de procedura fiscala 207-2015 — text — Titlul XII|Titlul XII]] |
 
 ~**354** articles in the SOAP split.
 

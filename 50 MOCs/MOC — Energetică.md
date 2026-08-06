@@ -32,9 +32,9 @@ Regulator organisation: [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]] 
 ## Tier 1 — Primary legislation
 | Act | What it governs |
 |---|---|
-| [[Legea 123-2012 — energia electrica si gazele naturale (text)\|L123/2012]] | Electricity (**Titlul I**) + natural gas (**Titlul II**): licensing, unbundling, networks, markets, consumers |
-| [[Legea 220-2008 — promovare energie regenerabila (text)\|L220/2008]] | Renewables support — **certificat verde** / mandatory quota |
-| [[OUG 33-2007 — organizarea ANRE (text)\|OUG 33/2007]] | ANRE status, independence, funding, parliamentary control |
+| [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]] | Electricity (**Titlul I**) + natural gas (**Titlul II**): licensing, unbundling, networks, markets, consumers |
+| [[Legea 220-2008 — promovare energie regenerabila (text)|L220/2008]] | Renewables support — **certificat verde** / mandatory quota |
+| [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]] | ANRE status, independence, funding, parliamentary control |
 
 ## Tier 2 — Government
 - [[HG 318-2024 — cadru general CfD (notă)]] — institutional CfD framework (Minister / Transelectrica / OPCOM)
@@ -49,19 +49,19 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 
 | Family | Status | Notes |
 |---|---|---|
-| Wholesale commercial code | [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)\|Ord. 25/2004]] ✅ | Cod comercial angro EE — partially repealed; see note |
-| Green certificates (PCV) | [[ANRE — Ordin 77-2017 Regulament PCV (notă)\|Ord. 77/2017]] ✅ | PCV market rules — OPCOM reading copy |
-| CfD contracts | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)\|Ord. 52/2024]] ✅ | [[ANRE — Metodologie contributie CfD 2024 (notă)\|Ord. 51/2024]] · [[Concept — Contributie CfD]] |
-| Smart grid KPIs | [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)\|Ord. 59/2025]] ✅ | Ordin + methodology PDFs |
-| Forward markets | [[ANRE — Ordin 134-2022 Piata termen (notă)\|Ord. 134/2022]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)\|Ord. 12/2023]] ✅ | General rules + OPCOM regulation |
-| Energy communities | [[ANRE — Ordin 9-2026 Comunitati energie (notă)\|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)\|Ord. 50/2026]] ✅ | [[Concept — Comunitate de energie]] |
-| Gas authorisation | [[ANRE — Ordin 98-2015 Autorizare gaze (notă)\|Ord. 98/2015]] ✅ | |
-| Tariffs (TG/TL/SS/TD / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] · [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|Ord. 74/2025]] · [[Tarife retea — snapshot 2026]] | ✅ Deep methodology notes (Batch C1) · [[ANRE — Metodologii tarifare EE (notă)]] |
-| Racordare EE | [[ANRE — Regulament racordare EE 2013 (notă)\|Ord. 59/2013 regulament]] ✅ | [[ANRE — Regulament racordare EE 2013 (text)\|text]] (portal **160289**) |
-| Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)\|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)\|text]] (portal **264611**) |
-| Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)\|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)\|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |
-| GC quota / methodologies | [[ANRE — Metodologie quota certificate verzi 2022 (notă)\|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)\|Ord. 81/2025]] | ✅ [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Certificat verde]] |
-| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piete de echilibrare]] · texts pending ingest |
+| Wholesale commercial code | [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)|Ord. 25/2004]] ✅ | Cod comercial angro EE — partially repealed; see note |
+| Green certificates (PCV) | [[ANRE — Ordin 77-2017 Regulament PCV (notă)|Ord. 77/2017]] ✅ | PCV market rules — OPCOM reading copy |
+| CfD contracts | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)|Ord. 52/2024]] ✅ | [[ANRE — Metodologie contributie CfD 2024 (notă)|Ord. 51/2024]] · [[Concept — Contributie CfD]] |
+| Smart grid KPIs | [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)|Ord. 59/2025]] ✅ | Ordin + methodology PDFs |
+| Forward markets | [[ANRE — Ordin 134-2022 Piata termen (notă)|Ord. 134/2022]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)|Ord. 12/2023]] ✅ | General rules + OPCOM regulation |
+| Energy communities | [[ANRE — Ordin 9-2026 Comunitati energie (notă)|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)|Ord. 50/2026]] ✅ | [[Concept — Comunitate de energie]] |
+| Gas authorisation | [[ANRE — Ordin 98-2015 Autorizare gaze (notă)|Ord. 98/2015]] ✅ | |
+| Tariffs (TG/TL/SS/TD / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] · [[ANRE — Ordin 74-2025 Tarife transport EE (notă)|Ord. 74/2025]] · [[Tarife retea — snapshot 2026]] | ✅ Deep methodology notes (Batch C1) · [[ANRE — Metodologii tarifare EE (notă)]] |
+| Racordare EE | [[ANRE — Regulament racordare EE 2013 (notă)|Ord. 59/2013 regulament]] ✅ | [[ANRE — Regulament racordare EE 2013 (text)|text]] (portal **160289**) |
+| Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)|text]] (portal **264611**) |
+| Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |
+| GC quota / methodologies | [[ANRE — Metodologie quota certificate verzi 2022 (notă)|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] | ✅ [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Certificat verde]] |
+| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piete de echilibrare]] · texts pending ingest |
 | Piețe / coduri rețea | Pending | Checklist: [[Download checklist — Batch B ANRE]] |
 
 ## OPCOM market procedures (OPEED)

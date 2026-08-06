@@ -17,9 +17,9 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 
 | Stage | Legal focus | Applicable acts |
 |---|---|---|
-| **1. Land & grid permitting** | ATR validity; reinforcement costs; EIA & AIM | [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|L123/2012]] · [[ANRE — Regulament racordare EE 2013 (notă)]] · [[OUG 195-2005 — protectia mediului (notă)\|OUG 195/2005]] |
-| **2. Offtake & subsidies** | CfD strike price; levy & framework contracts; corporate PPAs | [[HG 318-2024 — cadru general CfD (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|L123/2012]] |
-| **3. Corporate & tax** | IMCA; dividend WHT; e-Factura | [[Codul fiscal 227-2015 (notă)]] · [[Legea 21-1996 — concurenta (notă)\|L21/1996]] |
+| **1. Land & grid permitting** | ATR validity; reinforcement costs; EIA & AIM | [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] · [[ANRE — Regulament racordare EE 2013 (notă)]] · [[OUG 195-2005 — protectia mediului (notă)|OUG 195/2005]] |
+| **2. Offtake & subsidies** | CfD strike price; levy & framework contracts; corporate PPAs | [[HG 318-2024 — cadru general CfD (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] |
+| **3. Corporate & tax** | IMCA; dividend WHT; e-Factura | [[Codul fiscal 227-2015 (notă)]] · [[Legea 21-1996 — concurenta (notă)|L21/1996]] |
 | **4. Market access & operating costs** | PRE/BRP; network tariffs; balancing markets; BESS; curtailment; OPCOM | [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[MOC — Piete de echilibrare]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — BESS revenue stacking]] · [[Concept — Curtailment si redispatch RES]] |
 
 ## 1. Grid access & market integration

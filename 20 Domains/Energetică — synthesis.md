@@ -41,8 +41,8 @@ Organisation and independence of the regulator: **[[OUG 33-2007 — organizarea 
 
 | Title | Subject | MD parallel |
 |---|---|---|
-| **Titlul I** | Energia electrică | [[Legea 164-2025 — energia electrica (text)\|L164/2025]] *(MD vault)* |
-| **Titlul II** | Gaze naturale | [[Legea 108-2016 — gazele naturale (text)\|L108/2016]] *(MD vault)* |
+| **Titlul I** | Energia electrică | [[Legea 164-2025 — energia electrica (text)|L164/2025]] *(MD vault)* |
+| **Titlul II** | Gaze naturale | [[Legea 108-2016 — gazele naturale (text)|L108/2016]] *(MD vault)* |
 
 Romania kept electricity and gas in **one statute**; Moldova split them and then replaced the electricity law with a fourth-package act in 2025. When porting analysis across vaults, map **problems** (unbundling, connection, FUI/FUO, tariffs), not article numbers.
 

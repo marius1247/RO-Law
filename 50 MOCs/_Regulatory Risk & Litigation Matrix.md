@@ -17,9 +17,9 @@ Mandatory pre-litigation steps, court jurisdictions, and suspension mechanisms a
 
 | Dispute type | Pre-litigation requirement | Competent forum |
 |---|---|---|
-| **Tax decision (ANAF)** | Mandatory *contestație fiscală* within **45 days** — [[Codul de procedura fiscala 207-2015 (notă)\|CPF]] | Administrative courts (Legea 554/2004) |
-| **Public tender (SEAP)** | Guarantee deposit (*cauțiune*) — [[Legea 98-2016 — achizitii publice (notă)\|L98/2016]] | CNSC **or** Bucharest Court of Appeal |
-| **Unconstitutional statute** | *Excepție de neconstituționalitate* raised in trial — [[Constitutia Romaniei (notă)\|Const.]] | Curtea Constituțională (CCR) |
+| **Tax decision (ANAF)** | Mandatory *contestație fiscală* within **45 days** — [[Codul de procedura fiscala 207-2015 (notă)|CPF]] | Administrative courts (Legea 554/2004) |
+| **Public tender (SEAP)** | Guarantee deposit (*cauțiune*) — [[Legea 98-2016 — achizitii publice (notă)|L98/2016]] | CNSC **or** Bucharest Court of Appeal |
+| **Unconstitutional statute** | *Excepție de neconstituționalitate* raised in trial — [[Constitutia Romaniei (notă)|Const.]] | Curtea Constituțională (CCR) |
 | **ANRE regulatory order** | Prior administrative appeal where required | Bucharest Court of Appeal — *contencios administrativ* |
 | **Employment dismissal** | — (direct court access typical) | Tribunal — *secția litigii de muncă* — [[Legea 53-2003 — codul muncii (notă)]] |
 | **CfD contract (beneficiary–OPCOM)** | — | **Mandatory CACI arbitration** — [[HG 318-2024 — cadru general CfD (notă)]] |

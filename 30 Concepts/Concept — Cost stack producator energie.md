@@ -42,7 +42,7 @@ All rates below **excluding VAT**, **from 1 January 2026** unless noted.
 
 | Component | lei/MWh | Notes |
 |---|---:|---|
-| **TG total** | **3,63** | ANRE Ord. 74/2025 — [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|analysis]] |
+| **TG total** | **3,63** | ANRE Ord. 74/2025 — [[ANRE — Ordin 74-2025 Tarife transport EE (notă)|analysis]] |
 | — CPT recovery (C_CPT_P) | 3,18 | Recovered from producers |
 | — Supplementary CPT (C_CPT_S_P) | 0,45 | Capitalised CPT |
 

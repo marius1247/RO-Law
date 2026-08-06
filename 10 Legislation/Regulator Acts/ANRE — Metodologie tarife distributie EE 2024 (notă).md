@@ -19,14 +19,12 @@ updated: 2026-08-06
 
 # Ordin ANRE 67/2024 — Distribution tariff methodology — Analysis
 
-**Raw text:** [[ANRE — Metodologie tarife distributie EE 2024 (text)]] · **2026 rates:** [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)|Ord. 76/2025 Delgaz]] · [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)|Ord. 77/2025 DEER]] *(filenames swap operator labels — verify annex)* · **Hub:** [[MOC — Energetică]] · **Concept:** [[Concept — Tarif de distributie TD]] · **Index:** [[ANRE — Metodologii tarifare EE (notă)]]
+**Raw text:** [[ANRE — Metodologie tarife distributie EE 2024 (text)]] · **2026 rates:** [[ANRE — Ordin 76-2025 Tarife distributie Delgaz (text)|Ord. 76/2025 Delgaz]] · [[ANRE — Ordin 77-2025 Tarife distributie DEER (text)|Ord. 77/2025 DEER]] · **Hub:** [[MOC — Energetică]] · **Concept:** [[Concept — Tarif de distributie TD]] · **Index:** [[ANRE — Metodologii tarifare EE (notă)]]
 
 ## Thesis
 
 Sister instrument to the transport methodology: builds each **concessionaire DSO’s** regulated distribution revenue and voltage-specific **TD** unit tariffs under a five-year **tariff-basket cap** (*coș de tarife plafon*), not a single revenue-cap scalar. Practitioners use it to explain **why** MT/IT/JT components move, how **CPT** and capitalised CPT sit inside TD, and what costs a DSO cannot put into the basket.
 
-> [!warning] Filename vs operator
-> Working texts `Ordin 76-2025 … DEER` and `Ordin 77-2025 … Delgaz` may invert operator short-names in titles — always read the Ordine annexes / [[Tarife retea — snapshot 2026]] before citing a named DSO.
 
 ## Architecture
 

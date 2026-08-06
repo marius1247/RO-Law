@@ -48,7 +48,17 @@ L21, L53, L98, L208, OUG 195 — deepen notes + ingest texts when available.
 ### Residual thin rate Ordine
 Ord. 76/77/2025 TD rate Ordine still share the Ordine tarifare umbrella — dedicated notes optional if snapshot + TD concept suffice.
 
+### Quality pass — wrong links / shallow notes *(2026-08-06)*
+| Fix | Status |
+|---|---|
+| Ord. **76/77** Delgaz↔DEER filename swap corrected + vault-wide links | ✅ |
+| Escaped `\|` breaking wikilinks (codes, Ord. 127/213, metodologii hub, currency ledger, glosar) | ✅ |
+| PDFs moved into `99 Attachments/source-{anre,hg,opcom}/` | ✅ |
+| Deepened: OUG 134 · OUG 143 · Ord. 56 BESS · furnizare · racordare | ✅ |
+| Ord. 127 / 213 stubs restructured (still `source_missing`) | ✅ |
+
 ## Done log
 - **2026-08-06** — C1 network tariffs
 - **2026-08-06** — C2 CV/CfD · C3 communities · C4 wholesale access
 - **2026-08-06** — C5 partial (L123 + L220 concept graphs)
+- **2026-08-06** — Quality pass (76/77 rename, wikilinks, deepen OUG/BESS/furnizare/racordare)

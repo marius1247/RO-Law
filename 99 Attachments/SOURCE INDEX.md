@@ -41,8 +41,8 @@ Maps **raw dumps** in `99 Attachments/source-portal/` (and legacy `99 Attachment
 | **286240** | `286240_ordin-52-2024-contract-cfd_soap.md` | [[ANRE — Ordin 52-2024 Contract-cadru CfD (text)]] | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] |
 | **299750** | `299750_norme-stocare-bess-2025_soap.md` | [[ANRE — Norme stocare BESS 2025 (text)]] | [[ANRE — Norme stocare BESS 2025 (notă)]] |
 | **305628** | `305628_ordin-74-2025-tarife-transport_soap.md` | [[ANRE — Ordin 74-2025 Tarife transport EE (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] |
-| **305630** | `305630_ordin-76-2025-tarife-distributie_soap.md` | [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] |
-| **305631** | `305631_ordin-77-2025-tarife-distributie_soap.md` | [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] |
+| **305630** | `305630_ordin-76-2025-tarife-distributie_soap.md` | [[ANRE — Ordin 76-2025 Tarife distributie Delgaz (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] |
+| **305631** | `305631_ordin-77-2025-tarife-distributie_soap.md` | [[ANRE — Ordin 77-2025 Tarife distributie DEER (text)]] | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] |
 | **305642** | `305642_ordin-81-2025-quota-cv_soap.md` | [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)]] | [[Concept — Certificat verde]] |
 
 > [!note] Portal ID vs Ordin shell

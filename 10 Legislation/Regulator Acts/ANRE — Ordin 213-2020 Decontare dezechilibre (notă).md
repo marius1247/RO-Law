@@ -5,62 +5,78 @@ act_type: act-anre
 issuer: ANRE
 nr: 213
 an: 2020
+domain: [energetică, piețe, echilibrare, PRE]
 domeniu: [energetică, piețe, echilibrare, PRE]
 tags: [act-note, analysis, ANRE, dezechilibru, PRE, IBS]
 status: stub
 source_missing: true
-updated: 2026-08-05
+depth: expert
+updated: 2026-08-06
 ---
 
-**Act:** Ordinul ANRE nr. **213/2020** privind decontarea dezechilibrelor în sistemul electroenergetic național · **Hub:** [[MOC — Piete de echilibrare]] · **Concept:** [[Concept — Decontare dezechilibre 15 minute]]
+# ANRE Ordin 213/2020 — Imbalance settlement — Analysis
+
+**Act:** Ordinul ANRE nr. **213/2020** — decontarea dezechilibrelor în SEN · **Hub:** [[MOC — Piete de echilibrare]] · **Concept:** [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — PRE si responsabilitate de echilibrare]] · **PE parent:** [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]]
 
 > [!warning] Text not ingested
-> Working `— text` note pending portal ingest. Settlement mechanics in the concept note follow EBGL Art. 53 alignment and Transelectrica operational practice — **verify against live consolidare**.
+> No working `(text)` yet. Mechanics below follow EBGL Art. 53 alignment, Transelectrica practice, and the concept note — **verify against live consolidare**.
 
-# ANRE Ordin 213/2020 — Imbalance settlement (analysis stub)
+## Thesis
 
-## Identificare
+Settlement engine for **balance responsible parties (PRE)**: 15-minute imbalance settlement periods, physical notifications, single imbalance price linked to PE, and TSO neutrality. Determines the imbalance cost line in every producer / supplier / storage commercial model.
 
-| Field | Value |
+## Architecture (expected)
+
+| Element | Role |
 |---|---|
-| **Emitent** | ANRE |
-| **Nr. / an** | 213 / 2020 |
-| **Domeniu** | Decontarea dezechilibrelor (IBS) — mecanism 15 minute |
-| **Temei** | [[Legea 123-2012 — energia electrica si gazele naturale (text)#Articolul 67|L123 art. 67]]; EBGL Art. 53 |
-| **Operator** | Transelectrica — calcul și decontare |
+| **ISP** | 96 × 15-minute intervals / day |
+| **NF (notificare fizică)** | PRE declares net physical position |
+| **Imbalance volume** | Measured − notified, per PRE per ISP |
+| **Single price** | One imbalance price per ISP (PE-linked; PZU fallback when no balancing energy activated — confirm in consolidare) |
+| **Settlement cycle** | Preliminary ~T+5; monthly; TSO neutrality true-up |
+| **Operator** | Transelectrica calculates and settles |
 
-## Ce reglementează (pe scurt)
+Full practitioner math → [[Concept — Decontare dezechilibre 15 minute]].
 
-1. **Intervale de decontare** — 96 perioade de 15 minute pe zi (ISP)
-2. **Notificări fizice (NF)** — obligația PRE de a declara poziția fizică netă
-3. **Calcul dezechilibru** — \(E_{\text{măsurat}} - E_{\text{notificat}}\) per PRE per ISP
-4. **Preț unic** — un singur preț de dezechilibru per ISP (legat de prețul marginal PE)
-5. **Ciclul de decontare** — preliminar T+5 zile; lunar; neutralitate TSO
-6. **Reguli de plată** — între PRE și Transelectrica
+## Operative regime (by problem)
 
-## Concept note derivată
+### Who is exposed
+- Every PRE — including suppliers carrying <400 kW prosumer balancing responsibility under L123 (OUG 143 layer).
+- Generators / BESS in their own PRE or hosted in a third-party PRE.
+- Aggregators once licensed and balancing-responsible for pooled sites.
 
-→ [[Concept — Decontare dezechilibre 15 minute]] — full practitioner breakdown
-
-## Relații
-
-| Act | Legătură |
+### Interaction with wholesale
+| Act | Link |
 |---|---|
-| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] | Piața de echilibrare — sursa prețului marginal |
-| [[OPCOM — PO-PZU Rev7 2025 (notă)]] | PZU ca preț fallback când nu se activează energie de echilibrare |
-| [[OPCOM — Procedura NF PZU-PRE 2015 (notă)]] | Transfer notificări fizice la schimbare PRE |
-| [[Concept — PRE si responsabilitate de echilibrare]] | Rolul PRE în onboarding |
+| [[ANRE — Ordin 127-2021 Piata echilibrare (notă)|Ord. 127/2021]] | PE marginal/activation prices feed IBS |
+| [[OPCOM — PO-PZU Rev7 2025 (notă)]] | PZU as fallback reference when PE inactive |
+| [[OPCOM — Procedura NF PZU-PRE 2015 (notă)]] | NF transfer on PRE change |
+| [[Concept — Participant PEE OPCOM]] | Wholesale registration before PRE operations |
 
-## Amendamente
+### DD checklist (until text lands)
+1. Confirm single vs dual pricing in current consolidare.
+2. Gate closure / NF revision windows.
+3. Collateral / payment deadlines PRE ↔ Transelectrica.
+4. Treatment of storage charging/discharging inside measured volume.
+5. Amendment chain after 2020 (15-min full rollout).
 
-Ord. 213/2020 a fost modificat de ordine ulterioare ANRE — **verificați lanțul de abrogări/modificări la ingest**.
+## Hard edges
+
+- Stub status: do **not** pin lei figures or article numbers until `(text)` exists.
+- Ord. 25/2004 commercial-code imbalance chapters are historical — live rules are here + Ord. 127.
+- Currency risk: EBGL platform go-lives (PICASSO/MARI) can change price formation without a neat Ord. renumber.
+
+## Interactions
+
+- Parent law: [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123]] (balancing responsibility)
+- EU: EBGL Art. 53
+- Concepts: [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]]
 
 ## Ingest checklist
 
 - [ ] Portal consolidare → `99 Attachments/source-portal/`
-- [ ] Convert + `— text` note
-- [ ] Actualizare [[Currency ledger]]
-- [ ] Cross-link art. în [[Concept — Decontare dezechilibre 15 minute]]
+- [ ] Companion `(text)` + [[Currency ledger]] row
+- [ ] Replace this stub’s reconstructed map with `#Articolul N` anchors inside the concept note
 
 ## Related
 
