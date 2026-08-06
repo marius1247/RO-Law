@@ -4,9 +4,9 @@ type: act-note
 act: "[[Legea 123-2012 — energia electrica si gazele naturale (text)]]"
 domeniu: [energetică, energie-electrică, gaze-naturale]
 tags: [act-note, analysis, energetică, UE]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
 # Legea nr. 123/2012 a energiei electrice și a gazelor naturale — Analysis
@@ -93,6 +93,21 @@ Practical consequence: storage, aggregation and trading are inside the RO licens
 - Organisation & detailed ANRE powers: [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]]
 - RES quota / green certificates: [[Legea 220-2008 — promovare energie regenerabila (text)|L220/2008]] (art. 27(3) of L123 guarantees network take-up for accredited CV electricity)
 - Constitutional frame for OUGs that keep rewriting this law: [[Constitutia Romaniei (text)#Articolul 115|Const. art. 115]]
+
+## Concepts extracted
+
+| Concept | Anchor in L123 | Companion |
+|---|---|---|
+| [[Concept — Licență în energetică]] | Art. 10 — licence / authorisation categories (generation, storage, aggregation, trading, supply, networks) | ANRE licensing Ordine |
+| [[Concept — Racordare la rețea]] | Art. 25 — TPA + connection as mandatory TSO/DSO services | [[ANRE — Regulament racordare EE 2013 (notă)]] |
+| [[Concept — Unbundling]] | Art. 48 — distribution unbundling inside VIU | Ownership unbundling of TSO is separate track |
+| [[Concept — Furnizor de ultimă instanță]] | Art. 53 — FUI designation; distinct from universal service (art. 54) | ANRE FUI selection rules |
+| [[Concept — Comunitate de energie]] | Art. 3 — citizen energy community definition (post-OUG 143/2021) | [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] |
+| [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — Servicii de sistem si tariful SS]] | Art. 75–79 — regulated price/tariff typology | [[ANRE — Metodologii tarifare EE (notă)]] |
+| [[Concept — Participant PEE OPCOM]] | Organised wholesale markets under Title I Cap. IV | [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)]] |
+| [[Concept — PRE si responsabilitate de echilibrare]] | Balancing / PRE obligations (arts. linked to market design + Reg. 2019/943) | [[Concept — PE — piata energiei de echilibrare]] · [[Concept — PCE — piata capacitatilor de echilibrare]] |
+| [[Concept — Certificat verde]] · [[Concept — Cota obligatorie certificate verzi]] | Art. 27(3) — network take-up for accredited CV electricity | [[Legea 220-2008 — promovare energie regenerabila (notă)]] |
+| [[Concept — Contributie CfD]] | Post-L220 support stack (not defined in L123; interacts via wholesale settlement) | [[ANRE — Metodologie contributie CfD 2024 (notă)]] |
 
 ## Open questions
 

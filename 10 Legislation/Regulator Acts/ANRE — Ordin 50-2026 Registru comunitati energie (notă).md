@@ -7,13 +7,15 @@ nr: 50
 an: 2026
 domeniu: [energetică, regenerabile, comunități-energie]
 tags: [act-note, analysis, ANRE, CESR, CEC, registru]
-status: draft
+status: reviewed
+depth: expert
 mo_publicare: "MO nr. 535 / 30.06.2026"
 source_pdf: "[[99 Attachments/source-anre/ANRE_Ordin_50-2026_Registru_comunitati_energie.pdf]]"
 created: 2026-07-27
+updated: 2026-08-06
 ---
 
-**Act:** Ordinul ANRE nr. 50/25.06.2026 · **Text:** [[ANRE — Ordin 50-2026 Procedura registru comunitati (text)]] · **Hub:** [[MOC — Energetică]] · **Related:** [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_50-2026_Registru_comunitati_energie.pdf`
+**Act:** Ordinul ANRE nr. 50/25.06.2026 · **Text:** [[ANRE — Ordin 50-2026 Procedura registru comunitati (text)]] · **Hub:** [[MOC — Energetică]] · **Concept:** [[Concept — Comunitate de energie]] · **Related:** [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_50-2026_Registru_comunitati_energie.pdf`
 
 # Memoriu Juridic — Ordinul ANRE nr. 50/2026 — Registrul Național al Comunităților de Energie
 
@@ -48,3 +50,7 @@ Obligația de conformare revine cumulat: comunităților de energie din SRE, com
 - Acest Registru este mecanismul juridic-administrativ care conferă comunităților energetice **recunoaștere oficială opozabilă terților** în raporturile cu operatorii de rețea și ANRE — fără înregistrare, o comunitate legal constituită din perspectiva dreptului civil/societar poate întâmpina dificultăți practice în exercitarea drepturilor specifice de comunitate energetică (partajare energie, acces la scheme de sprijin, derogări tarifare).
 - Fiind un act recent (intrat în vigoare la 30 iunie 2026, operațional din 1 august 2026), reprezintă cea mai actuală piesă normativă privind comunitățile energetice din setul de documente analizate — orice comunitate energetică nou-constituită sau în curs de constituire trebuie să integreze imediat acest termen de 30 de zile în planul de conformare.
 - Recomandare: obținerea anexei complete (Procedura propriu-zisă) este necesară pentru identificarea documentației exacte solicitate la înregistrare, a formatului cererii și a informațiilor publice ce vor fi afișate de ANRE.
+
+## Concepts extracted
+
+- [[Concept — Comunitate de energie]] — eligibility checklist (art. 4), 30-day filing, 180-day conformity, operational status

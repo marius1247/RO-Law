@@ -4,9 +4,9 @@ type: act-note
 act: "[[Legea 220-2008 — promovare energie regenerabila (text)]]"
 domeniu: [energetică, regenerabile]
 tags: [act-note, analysis, energetică, UE]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-06
 ---
 
 # Legea nr. 220/2008 — promovarea energiei din surse regenerabile — Analysis
@@ -52,6 +52,16 @@ Moldova parallel: `Moldovan Law/.../Legea 10-2016 — surse regenerabile` uses a
 - **Domestic:** [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]] (market, licensing, guaranteed take-up); ANRE secondary regulations on accreditation, CV issuance, billing; OPCOM market rules; Environmental Fund (OUG 196/2005).
 - **EU:** originally Dir. 2009/28/EC; now read against `EU Law/10 Legislation/Directives/Dir 2023-2413 — RED III` and Governance Reg. 2018/1999 / PNIESC targets. State-aid decisions (e.g. Commission decision C(2016) 8865) constrain CV numbers when investment aid stacks.
 - **MD:** `Moldovan Law/.../Legea 10-2016 — surse regenerabile` + central-buyer concepts in L164/2025 — different mechanism, same policy problem (bankable RES support without blowing consumer bills).
+
+## Concepts extracted
+
+| Concept | Anchor in L220 | Companion |
+|---|---|---|
+| [[Concept — Certificat verde]] | Art. 2 (definition) · Art. 6 (issuance multipliers) · Art. 10 (trading) | OPCOM CV markets |
+| [[Concept — Cota obligatorie certificate verzi]] | Art. 4 (quota + consumer-impact cap) · Art. 8 (obliged parties) · Art. 12 (shortfall penalty) | [[ANRE — Metodologie quota certificate verzi 2022 (notă)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)]] |
+| [[Concept — Curtailment si redispatch RES]] | Art. 14 — priority dispatch / guaranteed access for contracted RES | [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123 art. 25]] congestion rules |
+| [[Concept — Contributie CfD]] | Contrast: L220 = closed accreditation window; new-build support → CfD stack | [[ANRE — Metodologie contributie CfD 2024 (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] |
+| [[Concept — Cost stack producator energie]] | CV revenue (legacy) vs CfD / PPA / merchant — invoice-side CV cost for suppliers | [[Tarife retea — snapshot 2026]] |
 
 ## Open questions
 

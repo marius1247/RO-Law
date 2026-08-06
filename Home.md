@@ -70,7 +70,16 @@ Racordare · furnizare · metodologii tarifare · OUG 134/143/163 · BESS norme 
 
 ## Batch C1 — network tariff deep analysis (2026-08-06)
 
-Deep `(notă)` + concepts for transport / distribution / SS methodologies and Ord. **74/2025** — [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]]. Backlog: [[Analysis backlog — texts without notă-concepts]].
+Deep `(notă)` + concepts for transport / distribution / SS methodologies and Ord. **74/2025** — [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]].
+
+## Batches C2–C5 — CV / CfD / communities / wholesale / keystones (2026-08-06)
+
+- **C2:** [[ANRE — Metodologie quota certificate verzi 2022 (notă)|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] · [[ANRE — Metodologie contributie CfD 2024 (notă)|Ord. 51/2024]] · [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Contributie CfD]]
+- **C3:** [[Concept — Comunitate de energie]] wired into Ord. 9/50 notes
+- **C4:** [[Concept — Participant PEE OPCOM]] wired into Cod comercial + OPCOM registration
+- **C5 (partial):** concept graphs on [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220]]
+
+Backlog: [[Analysis backlog — texts without notă-concepts]].
 
 ## Sectoral analysis (text pending ingestion)
 

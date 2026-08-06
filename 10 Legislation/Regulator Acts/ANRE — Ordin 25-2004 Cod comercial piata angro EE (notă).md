@@ -10,10 +10,10 @@ tags: [act-note, analysis, ANRE, cod-comercial, piata-angro]
 status: draft
 mo_publicare: "MO nr. 989 / 27.10.2004"
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
-**Act:** Ordinul ANRE nr. 25/22.10.2004 · **Text:** [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (text)]] · **Anexă (Cod comercial):** [[ANRE — Ordin 25-2004 Cod comercial piata angro EE — Anexa (text)]] · **Hub:** [[MOC — Energetică]] · **Parent statute:** [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]]
+**Act:** Ordinul ANRE nr. 25/22.10.2004 · **Text:** [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (text)]] · **Anexă (Cod comercial):** [[ANRE — Ordin 25-2004 Cod comercial piata angro EE — Anexa (text)]] · **Hub:** [[MOC — Energetică]] · **Concept:** [[Concept — Participant PEE OPCOM]] · **Parent statute:** [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]]
 
 > [!warning] Partially repealed — read with later ordinances
 > Multiple ANRE ordinances have **abrogated chapters** of the 2004 Cod comercial (caps. 5, 6, 7, 8, 10, 11, 12, 13, 14 in whole or part — see repeal notes in the ordin text). Day-ahead settlement, guarantees, and several market segments now live in dedicated OPCOM procedures and later ANRE ordinances (e.g. Ord. 82/2014, 31/2018, 127/2021). **Always cross-check** whether a cited chapter remains in force.
@@ -79,3 +79,8 @@ Acces la piață
 
 - [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (text)]]
 - [[ANRE — Ordin 25-2004 Cod comercial piata angro EE — Anexa (text)]]
+
+## Concepts extracted
+
+- [[Concept — Participant PEE OPCOM]] — organised-market access now lives mainly in OPCOM procedures; Cod comercial residual for bilaterals/OTC
+- [[Concept — PRE si responsabilitate de echilibrare]] — balancing chapters largely migrated

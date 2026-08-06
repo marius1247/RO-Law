@@ -18,9 +18,10 @@ Domain hub for the **energy sector**. Romania is an **EU Member State** (not Ene
 ## Analysis layer
 - **[[Energetică — synthesis]]**
 - Act companions: [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220/2008]] · [[OUG 163-2022 — promovare energie regenerabila (notă)|OUG 163/2022]] · [[OUG 134-2024 — stocare energie electrica (notă)|OUG 134/2024]] · [[OUG 143-2021 — Directiva 2019-944 energie (notă)|OUG 143/2021]]
-- Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
+- Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Contributie CfD]] · [[Concept — Comunitate de energie]] · [[Concept — Participant PEE OPCOM]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
 - **Balancing markets:** [[MOC — Piete de echilibrare]] · [[Piete de echilibrare — synthesis]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — BESS revenue stacking]]
 - **Network tariffs (Batch C1):** [[ANRE — Metodologii tarifare EE (notă)]] · [[ANRE — Metodologie tarife transport EE 2024 (notă)|Ord. 68/2024]] · [[ANRE — Metodologie tarife distributie EE 2024 (notă)|Ord. 67/2024]] · [[ANRE — Metodologie tarife servicii sistem 2022 (notă)|Ord. 116/2022]] · [[ANRE — Ordin 74-2025 Tarife transport EE (notă)|Ord. 74/2025]]
+- **CV / CfD / communities (Batch C2–C3):** [[ANRE — Metodologie quota certificate verzi 2022 (notă)|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] · [[ANRE — Metodologie contributie CfD 2024 (notă)|Ord. 51/2024]] · [[ANRE — Ordin 9-2026 Comunitati energie (notă)|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)|Ord. 50/2026]]
 - Currency: [[Currency ledger]]
 
 ## The implementation chain
@@ -50,21 +51,21 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 |---|---|---|
 | Wholesale commercial code | [[ANRE — Ordin 25-2004 Cod comercial piata angro EE (notă)\|Ord. 25/2004]] ✅ | Cod comercial angro EE — partially repealed; see note |
 | Green certificates (PCV) | [[ANRE — Ordin 77-2017 Regulament PCV (notă)\|Ord. 77/2017]] ✅ | PCV market rules — OPCOM reading copy |
-| CfD contracts | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)\|Ord. 52/2024]] ✅ | [[ANRE — Ordin 52-2024 Contract-cadru CfD (text)\|text]] · [[ANRE — Metodologie contributie CfD 2024 (text)\|Metodologie Ord. 51/2024]] |
+| CfD contracts | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)\|Ord. 52/2024]] ✅ | [[ANRE — Metodologie contributie CfD 2024 (notă)\|Ord. 51/2024]] · [[Concept — Contributie CfD]] |
 | Smart grid KPIs | [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)\|Ord. 59/2025]] ✅ | Ordin + methodology PDFs |
 | Forward markets | [[ANRE — Ordin 134-2022 Piata termen (notă)\|Ord. 134/2022]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)\|Ord. 12/2023]] ✅ | General rules + OPCOM regulation |
-| Energy communities | [[ANRE — Ordin 9-2026 Comunitati energie (notă)\|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)\|Ord. 50/2026]] ✅ | Wholesale/storage + national register |
+| Energy communities | [[ANRE — Ordin 9-2026 Comunitati energie (notă)\|Ord. 9/2026]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)\|Ord. 50/2026]] ✅ | [[Concept — Comunitate de energie]] |
 | Gas authorisation | [[ANRE — Ordin 98-2015 Autorizare gaze (notă)\|Ord. 98/2015]] ✅ | |
 | Tariffs (TG/TL/SS/TD / perimeter) | [[ANRE — Ordine tarifare 60-2025 si 10-2026 (notă)]] · [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|Ord. 74/2025]] · [[Tarife retea — snapshot 2026]] | ✅ Deep methodology notes (Batch C1) · [[ANRE — Metodologii tarifare EE (notă)]] |
 | Racordare EE | [[ANRE — Regulament racordare EE 2013 (notă)\|Ord. 59/2013 regulament]] ✅ | [[ANRE — Regulament racordare EE 2013 (text)\|text]] (portal **160289**) |
 | Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)\|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)\|text]] (portal **264611**) |
 | Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)\|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)\|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |
-| GC quota / methodologies | [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Certificat verde]] | ✅ Ord. **96/2022** methodology · **81/2025** 2026 quota text |
+| GC quota / methodologies | [[ANRE — Metodologie quota certificate verzi 2022 (notă)\|Ord. 96/2022]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)\|Ord. 81/2025]] | ✅ [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Certificat verde]] |
 | Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piete de echilibrare]] · texts pending ingest |
 | Piețe / coduri rețea | Pending | Checklist: [[Download checklist — Batch B ANRE]] |
 
 ## OPCOM market procedures (OPEED)
-- [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] — participant registration (Rev. 17 / 2026)
+- [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] — participant registration (Rev. 17 / 2026) · [[Concept — Participant PEE OPCOM]]
 - [[OPCOM — PO-PZU Rev7 2025 (notă)]] — day-ahead operational procedure (15′ products, SDAC)
 - [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] — financial guarantees for PZU / PI-IDCT / PI-IDA
 - [[OPCOM — Act aditional model unic PZU-PI 2025 (notă)]] — standard amendment to Participation Convention

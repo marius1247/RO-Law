@@ -7,14 +7,16 @@ nr: 9
 an: 2026
 domeniu: [energetică, regenerabile, comunități-energie]
 tags: [act-note, analysis, ANRE, CESR, CEC, stocare]
-status: draft
+status: reviewed
+depth: expert
 mo_publicare: "MO nr. 384 / 07.05.2026"
 source_pdf: "[[99 Attachments/source-anre/ANRE_Ordin_9-2026_Comunitati_energie.pdf]]"
 source_missing: false
 created: 2026-07-27
+updated: 2026-08-06
 ---
 
-**Act:** Ordinul ANRE nr. 9/21.04.2026 · **Text:** [[ANRE — Ordin 9-2026 Reguli comunitati energie (text)]] · **Hub:** [[MOC — Energetică]] · **Parent:** [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Related:** [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_9-2026_Comunitati_energie.pdf`
+**Act:** Ordinul ANRE nr. 9/21.04.2026 · **Text:** [[ANRE — Ordin 9-2026 Reguli comunitati energie (text)]] · **Hub:** [[MOC — Energetică]] · **Concept:** [[Concept — Comunitate de energie]] · [[Concept — Participant PEE OPCOM]] · **Parent:** [[OUG 163-2022 — promovare energie regenerabila (notă)]] · **Related:** [[ANRE — Ordin 59-2025 Metodologie indicatori retea inteligenta (notă)]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_9-2026_Comunitati_energie.pdf`
 
 # Memoriu Juridic — Ordinul ANRE nr. 9/2026 — Comunități de Energie și Piețele Angro
 
@@ -52,3 +54,10 @@ Acest ordin este actul de implementare secundară directă a conceptelor introdu
 
 ## Context Sistemic
 Acest ordin se plasează la confluența dintre trei fire normative distincte analizate în acest set de documente: (a) transpunerea RED II privind comunitățile energetice (OUG 163/2022, cu extensiile din OUG 59/2025), (b) arhitectura pieței angro operate de OPCOM (PZU/PI, guvernată de procedurile OPCOM analizate separat), și (c) stimulentele de rețea inteligentă pentru integrarea flexibilității (Metodologia ANRE din 29 iulie 2025). Este, în esență, actul care conectează micii producători/consumatori colectivi la infrastructura de piață majoră administrată de OPCOM/Transelectrica.
+
+## Concepts extracted
+
+- [[Concept — Comunitate de energie]] — CESR/CEC definition, register gate, licence/exemption, wholesale rights
+- [[Concept — Participant PEE OPCOM]] — OPCOM access after Ord. 9 rights attach
+- [[Concept — Licență în energetică]] — licence types in art. 7
+- [[Concept — BESS economics si tarifare stocare]] — community/member storage services to DSOs

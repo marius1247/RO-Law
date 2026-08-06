@@ -7,14 +7,14 @@ nr: 52
 an: 2024
 domeniu: [energetică, regenerabile, CfD]
 tags: [act-note, analysis, ANRE, CfD, OPCOM, Transelectrica, contribuție-CfD]
-status: draft
+status: reviewed
 mo_publicare: "MO nr. 734 / 26.07.2024"
 source_pdf: "[[99 Attachments/source-anre/ANRE_Ordin_52-2024_Contracte_cadru_CfD.pdf]]"
 created: 2026-07-27
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
-**Act:** Ordinul ANRE nr. 52/17.07.2024 (modificat Ord. 5/2025, 71/2025) · **Text:** [[ANRE — Ordin 52-2024 Contract-cadru CfD (text)]] · **Metodologie contribuție:** [[ANRE — Metodologie contributie CfD 2024 (text)]] · **Hub:** [[MOC — Energetică]] · **Parent:** [[HG 318-2024 — cadru general CfD (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_52-2024_Contracte_cadru_CfD.pdf`
+**Act:** Ordinul ANRE nr. 52/17.07.2024 (modificat Ord. 5/2025, 71/2025) · **Text:** [[ANRE — Ordin 52-2024 Contract-cadru CfD (text)]] · **Metodologie contribuție:** [[ANRE — Metodologie contributie CfD 2024 (notă)|Ord. 51/2024 analysis]] · [[ANRE — Metodologie contributie CfD 2024 (text)|text]] · **Concept:** [[Concept — Contributie CfD]] · **Hub:** [[MOC — Energetică]] · **Parent:** [[HG 318-2024 — cadru general CfD (notă)]] · **Raw PDF:** `99 Attachments/source-anre/ANRE_Ordin_52-2024_Contracte_cadru_CfD.pdf`
 
 # Memoriu Juridic — Ordinul ANRE nr. 52/2024 — Contractele-Cadru CfD
 
@@ -72,3 +72,7 @@ Structural, oglindește Anexa 1, dar inversează rolurile: Transelectrica devine
 - Coexistența a **două regimuri de soluționare a litigiilor** (arbitraj CACI pentru contractul CfD propriu-zis vs. instanțe ordinare pentru contractele-cadru de colectare) este un element de complexitate procedurală ce trebuie explicat clar clienților la momentul structurării unui litigiu.
 - Actualizările succesive (martie 2025, decembrie 2025) indică o **schemă în plină rodare operațională**, cu ajustări frecvente ale termenelor și ale bazei de plătitori — recomandabilă monitorizarea continuă a Monitorului Oficial pentru orice client activ în acest sector.
 - Extinderea bazei de plătitori la operatorii de stocare (decembrie 2025) trebuie corelată cu Ordinul ANRE nr. 9/2026 privind comunitățile energetice, pentru o imagine completă a obligațiilor aplicabile proiectelor de stocare distribuită.
+
+## Concepts extracted
+
+- [[Concept — Contributie CfD]] — rate methodology Ord. 51 + this billing engine

@@ -3,8 +3,9 @@ title: "Concept — Certificat verde"
 type: concept
 domeniu: [energetică, regenerabile]
 tags: [concept, energetică, regenerabile]
-status: draft
+status: reviewed
 created: 2026-07-26
+updated: 2026-08-06
 ---
 
 # Concept — Certificat verde
@@ -21,7 +22,7 @@ A tradable instrument issued for eligible electricity produced from renewable so
 4. **Trading** — bilateral / organised market transfers
 5. **Compliance** — surrender / reporting; substitute payment if short
 
-ANRE methodologies below L220 set issuance, trading, and quota mechanics — see [[ANRE — Metodologie quota certificate verzi 2022 (text)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)]] · [[ANRE — Ordin 77-2017 Regulament PCV (text)|Ord. 77/2017 PCV]].
+ANRE methodologies below L220 set issuance, trading, and quota mechanics — see [[ANRE — Metodologie quota certificate verzi 2022 (notă)|Ord. 96/2022 analysis]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)|Ord. 81/2025]] · [[Concept — Cota obligatorie certificate verzi]] · [[ANRE — Ordin 77-2017 Regulament PCV (notă)|Ord. 77/2017 PCV]].
 
 ## Contrast with Moldova
 | | RO L220 | MD L10/2016 |
@@ -41,7 +42,7 @@ ANRE methodologies below L220 set issuance, trading, and quota mechanics — see
 - [[ANRE — Metodologie quota certificate verzi 2022 (text)|Metodologie cotă CV (Ord. 96/2022)]] · [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text)|Ord. 81/2025 quota 2026]] · [[ANRE — Ordin 77-2017 Regulament PCV (notă)|Ord. 77/2017 PCV]]
 
 ## Related
-[[Concept — Racordare la rețea]] · [[Concept — Licență în energetică]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]]
+[[Concept — Cota obligatorie certificate verzi]] · [[Concept — Racordare la rețea]] · [[Concept — Licență în energetică]] · [[Energetică — synthesis]] · [[MOC — Energetică]] · [[ANRE]]
 
 ## Notes / conclusions
 > For an operating asset, model **certificate vintage rules and quota trajectory** before modelling wholesale power — support cash-flows have moved more often than energy prices in several RO cohorts.

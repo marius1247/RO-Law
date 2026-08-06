@@ -8,10 +8,10 @@ domeniu: [energetică, piețe, OPCOM, PEE]
 tags: [act-note, analysis, OPCOM, inregistrare, PEE]
 status: draft
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
-**Procedure:** Rev. 17 / iulie 2026 · **Text:** [[OPCOM — Procedura inregistrare PEE rev 17 (text)]] · **Hub:** [[MOC — Energetică]] · **Related:** [[OPCOM — PO-PZU Rev7 2025 (notă)]] · [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)]]
+**Procedure:** Rev. 17 / iulie 2026 · **Text:** [[OPCOM — Procedura inregistrare PEE rev 17 (text)]] · **Hub:** [[MOC — Energetică]] · **Concept:** [[Concept — Participant PEE OPCOM]] · **Related:** [[OPCOM — PO-PZU Rev7 2025 (notă)]] · [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] · [[ANRE — Ordin 12-2023 Regulament tranzactionare OPCOM (notă)]] · [[Concept — Comunitate de energie]]
 
 # Memoriu Tehnico-Juridic — Procedura OPCOM privind Înregistrarea Participanților la Piețele Organizate de EE (Rev. 17)
 
@@ -82,3 +82,9 @@ Live market access (PZU / IDM / forward per product election)
 
 - [[OPCOM — Procedura inregistrare PEE rev 17 (text)]]
 - [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]]
+
+## Concepts extracted
+
+- [[Concept — Participant PEE OPCOM]] — registration → Convenție → guarantees → trading
+- [[Concept — Licență în energetică]] — prerequisite
+- [[Concept — PRE si responsabilitate de echilibrare]] — operational coupling after access
