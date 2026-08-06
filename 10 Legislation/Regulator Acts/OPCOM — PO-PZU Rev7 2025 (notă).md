@@ -6,7 +6,8 @@ issuer: OPCOM
 adopted: 2025-09-30
 domeniu: [energetică, piețe, PZU]
 tags: [act-note, analysis, OPCOM, PZU, SDAC, EUPHEMIA, 15-minute]
-status: draft
+status: reviewed
+updated: 2026-08-06
 source_pdf: "[[99 Attachments/source-opcom/OPCOM_PO_PZU_Rev7_2025-09-30.pdf]]"
 created: 2026-07-27
 ---
@@ -57,3 +58,11 @@ Documentul definește riguros peste 40 de termeni/acronime tehnice, dintre care 
 - Orice participant la PZU care operează transfrontalier trebuie să monitorizeze simultan două cadre normative: procedura OPCOM (locală) și regulile PCR/JAO (europene), acestea intersectându-se direct în cazul decuplării.
 - Termenele stricte pentru declararea diverselor tipuri de decuplare (10:30, 12:00, 14:20 CET) sunt esențiale pentru orice strategie de gestionare a riscului operațional, întrucât determină dacă tranzacționarea rămâne cuplată la nivel SDAC sau trece la soluții locale/regionale cu prețuri potențial divergente.
 - Trecerea la rezoluția de 15 minute (Rev. 7) impune actualizarea sistemelor interne de ofertare ale participanților pentru a gestiona corect cele trei granularități disponibile simultan (15/30/60 minute) și mecanismul de retransmitere a Notificărilor de Program la schimbarea PRE.
+
+## Concepts extracted
+
+| Concept | Anchor in PO-PZU Rev7 | Companion |
+|---|---|---|
+| [[Concept — Participant PEE OPCOM]] | Cap. 1–2 — PZU participants; aggregated portfolio bidding | [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · [[OPCOM — Procedura garantii PZU-PI 2025 (notă)]] |
+| [[Concept — PRE si responsabilitate de echilibrare]] | CET vs RO time — Program Notification retransmit on PRE change | [[OPCOM — Procedura NF PZU-PRE 2015 (notă)]] |
+| [[Concept — Decontare dezechilibre 15 minute]] | Offer resolution aligned with 15-min imbalance settlement | [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)]] |

@@ -4,9 +4,9 @@ type: act-note
 act: "[[Codul fiscal 227-2015 (text) — Index]]"
 domeniu: [fiscal]
 tags: [act-note, analysis, fiscal]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
 # Codul fiscal (Legea nr. 227/2015) — Analysis
@@ -105,6 +105,14 @@ Energy-sector VAT issues (reverse charge, connection contributions, balancing, G
 - **Corporate vehicles:** [[Legea 31-1990 — societatile (text)|L31/1990]] (SRL/SA); accounting rules feed art. 19 profit computation.
 - **EU:** VAT Directive lineage and CJEU (explicitly art. 11(11)); ATAD / DAC6 / Pillar Two overlays may sit partly outside or in later amendments — confirm in 2026 consolidare.
 - **Energy:** excise Title VIII for energy products; local tax on generation assets; profit/micro choice for project companies; CV invoice line under L220 is not a Cod fiscal tax but interacts with deductible cost analysis.
+
+## Concepts extracted
+
+| Concept | Anchor in CF | Companion |
+|---|---|---|
+| [[Concept — Impozit pe profit]] | Titlul II — Art. 13 · Art. 19 · Art. 25; contrast Titlul III micro | [[Codul fiscal 227-2015 (text) — Index]] · [[Codul de procedura fiscala 207-2015 (notă)]] |
+| [[Concept — TVA]] | Titlul VII — Art. 268 / 269 / 286 / 291 (rates — currency-sensitive) | [[Codul fiscal 227-2015 (text) — Index]] |
+| [[Concept — Ordonanță de urgență]] | Art. 3–4 predictability often bypassed by OUG tax packages | [[Constitutia Romaniei (notă)|Const. art. 115]] |
 
 ## Open questions
 

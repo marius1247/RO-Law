@@ -6,7 +6,8 @@ issuer: OPCOM
 adopted: 2025-10-02
 domeniu: [energetică, piețe]
 tags: [act-note, analysis, OPCOM, PZU, PI, convenție-participare]
-status: draft
+status: reviewed
+updated: 2026-08-06
 source_docx: "[[99 Attachments/source-opcom/OPCOM_Act_Aditional_Model_Unic_2025-10-02.docx]]"
 created: 2026-07-27
 ---
@@ -64,6 +65,14 @@ Documentul include șase note explicative care ghidează completarea corectă:
 4. Lista exhaustivă a elementelor de identificare ce pot fi modificate prin acest tip de act adițional.
 5. Precizarea că data încheierii se completează de OPCOM, ca ultim semnatar.
 6. (referință la data de intrare în vigoare, distinctă de data semnării).
+
+## Concepts extracted
+
+| Concept | Anchor in Act adițional | Companion |
+|---|---|---|
+| [[Concept — Participant PEE OPCOM]] | Updates Convenție de Participare ID fields without renegotiating substance | [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] |
+| [[Concept — Licență în energetică]] | Art. 1 — licence number among amendable ID elements | ANRE licensing Ordine |
+| [[Concept — Societate pe actiuni]] · [[Concept — Societate cu raspundere limitata]] | Art. 1 — legal-form / name / seat changes after L31 events | [[Legea 31-1990 — societatile (notă)]] |
 
 ## Semnificație Practică
 Acest document este un instrument administrativ standardizat, nu o negociere de fond: simplifică și accelerează actualizarea legală a bazei contractuale dintre OPCOM și participanții la piețele centralizate de energie electrică, ori de câte ori aceștia suferă modificări corporative (schimbare de nume, formă juridică, sediu, sau reautorizare ANRE), fără a afecta drepturile și obligațiile substanțiale prevăzute în Convenția de Participare inițială — convenție care, la rândul ei, este completată de procedurile operaționale conexe (garanții financiare, notificări fizice pe PRE) analizate în celelalte documente ale acestui set.

@@ -4,75 +4,108 @@ type: act-note
 act_type: lege
 nr: 53
 an: 2003
+domain: [muncă, HR, employment]
 domeniu: [muncă, HR, employment]
-tags: [act-note, analysis, muncă, REGES]
-status: draft
+tags: [act-note, analysis, muncă, REGES, HR]
+status: reviewed
+depth: expert
 text_pending: true
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
-# Codul Muncii (Legea nr. 53/2003) — Analysis
+# Codul muncii — Legea 53/2003 — Analysis
 
-**Text:** *pending ingestion* — Portal Legislativ · **Hub:** [[_M&A Regulatory Compliance Checklist]]
+**Text:** *pending ingestion* · **Hub:** [[_M&A Regulatory Compliance Checklist]] · **Litigation:** [[_Regulatory Risk & Litigation Matrix]] · **Related:** [[Legea 21-1996 — concurenta (notă)|L21 no-poach]] · [[Legea 31-1990 — societatile (notă)|L31]]
 
-> [!note] Working text not yet in vault
-> Analysis-only companion until consolidated text is ingested into `10 Legislation/Legi/`.
+> [!warning] Working text not yet in vault
+> Article numbers below are orientation aids from standard consolidări — **re-verify on ingest** before formal advice.
 
-## Executive briefing
+## Thesis
 
-| Theme | Takeaway |
+Mandatory framework for hiring, working time and termination in Romania — **no at-will employment**. For energy O&M and post-acquisition restructuring, the critical risks are REGES registration, art. 65 redundancy documentation, collective redundancy thresholds, and reinstatement litigation (employer bears the burden of proof).
+
+## Architecture
+
+| Block | Function |
 |---|---|
-| **Primary labour statute** | Individual and collective employment; working conditions; termination; labour disputes |
-| **Minimum wage alignment** | EU Dir. 2022/2041 — constraints on keeping employees indefinitely on minimum wage |
-| **REGES-ONLINE** | Mandatory real-time reporting of contracts and status changes (replacing REVISAL) |
-| **Termination** | Exhaustive grounds — no at-will dismissal; employer bears **full burden of proof** |
-| **Reinstatement risk** | Void dismissal → reinstatement + full back-wages adjusted for inflation |
+| Individual CIM | Written contract before work starts |
+| REGES-ONLINE | Pre-start electronic employee register (replaces REVISAL) |
+| Working time | 8h/40h baseline; overtime ≥75% or time off |
+| Telework | Legea 81/2018 overlay |
+| Termination | Exhaustive catalogue (arts. 55–65 area) |
+| Collective / transfer | Collective redundancy consultation; TUPE-style transfer of undertaking |
+| Disputes | Tribunal *litigii de muncă* |
 
-## What it is / scope
+## Operative regime (by problem)
 
-Romania's Labour Code, repeatedly amended for EU labour directives, telework (with **Legea 81/2018**), and digital reporting. For M&A and restructuring work it governs contract validity, collective redundancy procedure, and litigation exposure.
+### Onboarding / undeclared work
+Written CIM + REGES registration **before day-1**. *Muncă la negru* = ITM fines and criminal exposure in serious cases.
 
-## Individual employment contracts (CIM)
+### Post-close restructuring (art. 65)
+Economic redundancy requires *desființarea efectivă a locului de muncă* + *cauză reală și serioasă* file (*notă de fundamentare*). Minimum **~20 working days** notice (confirm consolidare). Collective consultation if headcount thresholds crossed.
 
-| Requirement | Detail |
+### Asset vs share deal
+Transfer of undertaking — employees typically follow the activity; dismissals timed to “the transfer” are high-risk.
+
+### Working time / site O&M
+Overtime caps, shift work; OHS sits in separate statutes (flag in DD, don’t collapse into L53).
+
+### Telework / hybrid HQ
+L81/2018 written agreement + equipment/safety duties.
+
+### Non-competes / non-solicits
+Labour-law validity of post-termination restraints ≠ green light under [[Legea 21-1996 — concurenta (notă)|L21]] when restraints are **inter-employer** cartel instruments.
+
+### Minimum wage / Dir. 2022/2041
+Don’t park staff indefinitely on statutory minimum without periodic review of adequacy rules.
+
+## Definitions
+
+| Term | Note |
 |---|---|
-| **Form** | Mandatory written contract **before** work starts |
-| **Digital reporting** | REGES-ONLINE registration prior to commencement of duties |
-| **Working time** | 8 h/day, 40 h/week; overtime capped — time off or ≥75% wage premium |
-| **Telework** | Explicit agreement; workplace safety; equipment arrangements (Law 81/2018) |
+| CIM | Individual employment contract |
+| REGES-ONLINE | Electronic employee register |
+| *Desființarea locului de muncă* | Genuine job elimination (art. 65) |
+| *Preaviz* | Notice period before dismissal |
 
-## Termination of employment (*încetarea CIM*)
+## Obligations
 
-Exhaustive statutory grounds — employers cannot terminate at will:
+Pre-start registration; salary/working-time compliance; information/consultation in collective redundancy; employer burden of proof in disputes.
 
-1. **De jure (art. 56)** — retirement, invalidity, expiry
-2. **Mutual agreement (art. 55b)** — bilateral signed agreement
-3. **Dismissal / redundancy (arts. 61, 65)** — disciplinary, unfitness, economic redundancy (*desființarea locului de muncă*)
+## Enforcement
 
-### Economic redundancy (art. 65)
+ITM inspections/fines; tribunal reinstatement + inflation-adjusted back wages + costs; criminal track for undeclared work in aggravated cases.
 
-Job elimination must be **effective** (*efectivă*) with a **real and serious cause** (*cauză reală și serioasă*). Requires minimum **20 working days' notice** (*preaviz*) and collective consultation if numerical thresholds are crossed.
+## Hard edges
 
-## Dispute resolution & litigation exposure
+- Exhaustive termination list — inventing grounds fails.
+- Documentation quality decides art. 65 cases.
+- Mutual agreement (art. 55b) must be genuine, not coerced dismissal.
+- PFA / temporary-agency misclassification risk on construction/O&M sites.
+- Social contributions → [[Codul fiscal 227-2015 (notă)|Cod fiscal Titlul V]] (when relevant).
 
-- **Jurisdiction:** regional Tribunals — *Secția litigii de muncă*
-- **Burden of proof:** **employer** bears complete burden in all employment disputes
-- **Reinstatement:** courts ordering void dismissal reinstate the employee with full back-wages plus legal fees
+## Interactions
 
-## How it connects
+- [[_M&A Regulatory Compliance Checklist]] Phase 3 · [[_Regulatory Risk & Litigation Matrix]]
+- [[Legea 21-1996 — concurenta (notă)]] · [[Legea 31-1990 — societatile (notă)]]
+- L81/2018 telework · MMSS / ITM practice
 
-- M&A integration: [[_M&A Regulatory Compliance Checklist]]
-- Competition (no-poach): [[Legea 21-1996 — concurenta (notă)|L21/1996]]
-- Company law: [[Legea 31-1990 — societatile (notă)|L31/1990]]
-- Tax / payroll: [[Codul fiscal 227-2015 (notă)|Codul fiscal]] Titlul V (social contributions)
+## Concepts extracted
 
-## Strategic recommendations
+| Concept | Role | Companion |
+|---|---|---|
+| [[Concept — Societate pe actiuni]] · [[Concept — Societate cu raspundere limitata]] | Employer legal form / governance for HR decisions | [[Legea 31-1990 — societatile (notă)]] |
+| [[Concept — Controlul concentrarilor]] | HR antitrust / integration restraints in M&A | [[Legea 21-1996 — concurenta (notă)]] |
 
-1. **REGES-ONLINE compliance:** Audit onboarding — no employee may start work before REGES submission (undeclared work / *muncă la negru* fines).
-2. **Redundancy documentation:** Build economic rationale files (*notă de fundamentare*) before initiating job cancellations under art. 65.
+## File checklist
+
+- [ ] Ingest L53 consolidare + REGES-ONLINE implementing rules
+- [ ] Confirm live collective-redundancy thresholds
+- [x] Wired into M&A / litigation hubs
 
 ## Sources
 
-- Legea nr. 53/2003 — Codul muncii — *to ingest*
-- Legea nr. 81/2018 — telemuncă
+- Portal Legislativ — Legea 53/2003 consolidare *(to ingest)*
+- Legea 81/2018 (telework)
+- MMSS / ITM REGES-ONLINE guidance

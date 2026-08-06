@@ -4,76 +4,108 @@ type: act-note
 act_type: lege
 nr: 21
 an: 1996
+domain: [concurență, antitrust, M&A]
 domeniu: [concurență, antitrust, M&A]
 tags: [act-note, analysis, concurență, merger-control]
-status: draft
+status: reviewed
+depth: expert
 text_pending: true
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
 # Legea Concurenței nr. 21/1996 — Analysis
 
-**Text:** *pending ingestion* — Portal Legislativ · **Authority:** Consiliul Concurenței (RCC) · **Hub:** [[_M&A Regulatory Compliance Checklist]]
+**Text:** *pending ingestion* — Portal Legislativ · **Authority:** Consiliul Concurenței (RCC) · **Hub:** [[_M&A Regulatory Compliance Checklist]] · **DD:** [[_Energy Investment Due Diligence Index]] · **Concept:** [[Concept — Controlul concentrarilor]]
 
-> [!note] Working text not yet in vault
-> This is an analysis-only companion. Ingest consolidated text from [legislatie.just.ro](https://legislatie.just.ro) before citing article numbers in formal advice.
+> [!warning] Working text not yet in vault
+> Analysis-only companion. Article numbers and threshold figures below follow current RCC practice / prior consolidări — **re-verify against the ingested `(text)` before formal advice**.
 
-## Executive briefing
+## Thesis
 
-| Theme | Takeaway |
+Romania’s primary competition statute: **restrictive agreements (art. 5)**, **abuse of dominance (art. 6)**, and **merger control** with standstill, gun-jumping sanctions, and a live **below-threshold call-in**. For energy SPV / portfolio M&A it is a closing condition track parallel to ANRE licence change-of-control and (where relevant) ASF/BNR approvals.
+
+## Architecture
+
+| Block | Function |
 |---|---|
-| **Core framework** | Anti-competitive agreements, abuse of dominance, merger control — enforced by **Consiliul Concurenței** |
-| **Call-in mechanism** | RCC may review below-threshold transactions where combined market impact poses competitive risks (OECD-aligned reforms) |
-| **Labour-market enforcement** | *No-poach* and wage-fixing arrangements treated as restrictive practices under art. 5(1) |
-| **Sanctions** | Fines up to **10% of worldwide turnover** in the preceding financial year for serious infringements |
-| **Gun-jumping** | Implementing a reportable concentration before RCC clearance carries fines up to 10% of turnover |
+| Conduct — art. 5 | Cartels & restrictive agreements (incl. by-object: price-fix, market sharing, bid-rigging, no-poach) |
+| Conduct — art. 6 | Abuse of dominance (unfair pricing, margin squeeze, refusal, tying, discrimination) |
+| Concentrations | Control test + turnover thresholds + notification / standstill |
+| Procedure | Investigations, dawn raids, hearing officer (*ofițer de audiere*), commitments, fines |
+| EU overlay | TFEU 101–102 parallel application; Reg. (EC) 139/2004 when EUMR thresholds met |
 
-## What it is / scope
+## Operative regime (by problem)
 
-Romania's principal competition statute, aligned with EU Treaty arts. 101–102 and the EU Merger Regulation model at national level. Governs horizontal and vertical agreements, dominance abuse, and mandatory merger notification. Recent enforcement trends emphasise HR antitrust (no-poach, wage coordination) and vertical restrictions in distribution.
+### Does this deal notify?
+1. Identify **lasting change of control** (sole/joint — minority vetoes / board seats can suffice).
+2. Apply turnover test (typical formulation — **confirm on ingest**): combined worldwide turnover > **€10M** **and** at least two parties each > **€4M** RO turnover → mandatory pre-close filing.
+3. If below threshold, still document competitive assessment — **call-in** risk in energy/infra.
 
-## Restrictive agreements & dominance
+### Standstill / gun-jumping
+No closing, integration, or exercise of decisive influence before clearance. Use clean teams / hold-separates. Fines historically up to **10% worldwide turnover** (same ceiling as substantive infringements — confirm consolidare).
 
-| Track | Examples |
+### HR antitrust in integration
+Inter-employer no-poach / wage-fixing treated as by-object art. 5 risk. Scan SHA, TSA, JV, secondment and non-solicit clauses; cross-check [[Legea 53-2003 — codul muncii (notă)|Codul muncii]] validity of restraints.
+
+### Bid-rigging interface
+Cover bidding / bid rotation on energy or public EPC tenders = art. 5 + [[Legea 98-2016 — achizitii publice (notă)|L98]] overlap.
+
+### Dominance vs regulated access
+Refusal of access / discrimination by a dominant firm remains an L21 issue even where ANRE [[Concept — Unbundling|unbundling]] / TPA rules also apply — parallel tracks, not substitutes.
+
+### Dawn-raid readiness
+Judicially authorised inspections; privilege claims via hearing officer; IT imaging protocols.
+
+## Definitions
+
+| Term | Note |
 |---|---|
-| **Horizontal (art. 5)** | Price fixing, market sharing, bid rigging, **no-poach / wage coordination** |
-| **Dominance abuse (art. 6)** | Unfair pricing, margin squeeze, refusal to deal, tying, discriminatory terms |
+| Control / concentration | Lasting change of decisive influence |
+| Call-in | RCC power to review non-notifiable deals |
+| Gun-jumping | Implementing before clearance |
+| By-object restriction | Presumed harmful (cartels, no-poach) |
 
-### No-poach & labour-market restrictions
+## Obligations
 
-Non-solicitation clauses and inter-company agreements restricting hiring or fixing compensation are classified as *by-object* restrictions. Joint ventures and outsourcing partners must ensure HR clauses are strictly necessary to the primary legitimate transaction.
+Notify reportable concentrations; observe standstill; respond to RFIs; preserve evidence; implement remedies/commitments.
 
-## Merger control — notification thresholds (art. 15)
+## Enforcement
 
-A concentration is reportable if control is permanently acquired **and**:
+RCC fines (≤10% worldwide TO — verify); periodic penalty payments; structural/behavioural remedies; admin-court challenge of RCC decisions ([[_Regulatory Risk & Litigation Matrix]]).
 
-1. Combined **worldwide turnover** > **EUR 10,000,000**; **and**
-2. At least **two parties** each exceed **EUR 4,000,000** turnover in Romania.
+## Hard edges
 
-```
-Transaction meets art. 15 thresholds?
-    ├── YES → mandatory pre-implementation filing (gun-jumping risk)
-    └── NO  → verify RCC call-in rights for below-threshold M&A
-```
+- Thresholds are **turnover**, not deal value — low-TO SPV can still tip via buyer group.
+- EU vs national filing split when EUMR applies.
+- ANRE [[Concept — Licență în energetică|licence]] CoC ≠ RCC clearance.
+- Article numbers provisional until `(text)` lands.
 
-## Dawn raids & procedural rights (art. 38)
+## Interactions
 
-RCC may conduct unannounced inspections at corporate premises (with judicial authorisation), seizing electronic records. An independent **hearing officer** (*ofiter de audiere*) adjudicates legal professional privilege and access-to-file disputes.
+- [[_M&A Regulatory Compliance Checklist]] · [[_Energy Investment Due Diligence Index]]
+- [[Legea 53-2003 — codul muncii (notă)]] · [[Legea 98-2016 — achizitii publice (notă)]] · [[Legea 31-1990 — societatile (notă)]]
+- [[Concept — Unbundling]] · [[Concept — Licență în energetică]]
+- EU: Reg. 139/2004 · TFEU 101–102
+- Authority: Consiliul Concurenței
 
-## How it connects
+## Concepts extracted
 
-- M&A checklist: [[_M&A Regulatory Compliance Checklist]]
-- EU parallel: `EU Law/` — Reg. (EC) 139/2004 merger control; Dir. antitrust block exemptions
-- Labour integration: [[Legea 53-2003 — codul muncii (notă)|Codul muncii]] — post-acquisition HR restructuring
-- Public procurement: [[Legea 98-2016 — achizitii publice (notă)|L98/2016]] — bid-rigging as cartel conduct
+| Concept | Role | Companion |
+|---|---|---|
+| [[Concept — Controlul concentrarilor]] | Notification, control, standstill, call-in | This note · RCC practice |
+| [[Concept — Licență în energetică]] | Parallel ANRE CoC track | [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] |
+| [[Concept — Unbundling]] | Regulated access ≠ competition clearance | L123 art. 48 |
 
-## Strategic recommendations
+## File checklist
 
-1. **M&A due diligence:** Build merger-control assessment into early transaction timelines; evaluate below-threshold call-in exposure.
-2. **Dawn raid protocols:** Train frontline IT and management on RCC inspection procedures and LPP claims.
+- [ ] Ingest L21 consolidare → `(text)`
+- [ ] Pin live threshold / fine articles
+- [x] Wired into M&A / Energy DD hubs
+- [x] Concept — Controlul concentrarilor created
 
 ## Sources
 
-- Legea nr. 21/1996 privind concurența — *to ingest*
-- Consiliul Concurenței — [concurenta.ro](https://www.consiliulconcurentei.ro)
+- Portal Legislativ — Legea 21/1996 consolidare *(to ingest)*
+- concurenta.ro guidance (call-in, labour markets)
+- Reg. (EC) 139/2004

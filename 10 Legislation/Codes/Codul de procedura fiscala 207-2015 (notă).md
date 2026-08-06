@@ -4,9 +4,9 @@ type: act-note
 act: "[[Codul de procedura fiscala 207-2015 (text) — Index]]"
 domeniu: [fiscal, procedură]
 tags: [act-note, analysis, fiscal]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
 # Codul de procedură fiscală (Legea nr. 207/2015) — Analysis
@@ -90,6 +90,13 @@ Standard path: reasoned *contestație* within the statutory term from communicat
 - **Corporate identity:** [[Legea 31-1990 — societatile (text)|L31/1990]] + ONRC data feed registration (Titlu IV).
 - **EU / international:** Titlu X (automatic exchange, etc.); MAP Titlu IX for treaty cases; DAC/CRS amendments may post-date SOAP.
 - **Energy clients:** inspection risk concentrates on VAT, TP on captive offtake, excise, and micro-vs-profit classification — procedure is always CPF even when the dispute is “about” L123 or L220 economics.
+
+## Concepts extracted
+
+| Concept | Anchor in CPF | Companion |
+|---|---|---|
+| [[Concept — Impozit pe profit]] | Titlu V Art. 95 (*decizie de impunere*) · Titlu VI Art. 113 / 118 (inspection) | [[Codul fiscal 227-2015 (notă)]] |
+| [[Concept — TVA]] | Same inspection / assessment / challenge path (Titlu VI–VIII) | [[Codul fiscal 227-2015 (notă)]] |
 
 ## Open questions
 

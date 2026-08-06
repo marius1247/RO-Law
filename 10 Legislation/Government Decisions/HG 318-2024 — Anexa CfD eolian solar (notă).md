@@ -6,7 +6,8 @@ nr: 318
 an: 2024
 domeniu: [energetică, regenerabile, ajutor-de-stat]
 tags: [act-note, analysis, CfD, HG, OPCOM, eolian, solar]
-status: draft
+status: reviewed
+updated: 2026-08-06
 mo_publicare: "MO nr. 333 bis / 10.04.2024"
 source_pdf: "[[99 Attachments/source-hg/HG_318-2024_Anexa_CfD_eolian_solar.pdf]]"
 created: 2026-07-27
@@ -89,3 +90,13 @@ Datele de producție măsurată provin de la OMEPA (Operatorul de Măsurare a En
 
 ## Relevanță Sistemică
 Acest CfD este un instrument-cheie al tranziției energetice românești, transferând riscul de preț al pieței angro dinspre investitorii în regenerabile către statul român (prin OPCOM ca Contraparte CfD), cu condiționalități stricte legate de autorizare, garanții de bună execuție și termene de punere în funcțiune. Mecanismul de calcul al Prețului de referință îl conectează direct la funcționarea zilnică a PZU (a cărei arhitectură tehnică este descrisă în documentele EUPHEMIA/PCR) și la infrastructura de garanții și decontare administrată de OPCOM (Anexa 4 — Procedura garanții PZU/PI).
+
+## Concepts extracted
+
+| Concept | Anchor in Anexa CfD | Companion |
+|---|---|---|
+| [[Concept — Contract pentru diferență (CfD)]] | Framework contract — Clauza 7 reference price · Clauza 8 measured output · termination / settlement | [[HG 318-2024 — cadru general CfD (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] |
+| [[Concept — Contributie CfD]] | Settlement engine that the contribution ultimately funds | [[ANRE — Metodologie contributie CfD 2024 (notă)]] |
+| [[Concept — Participant PEE OPCOM]] | Clauza 7 — PZU_ID weighted close across RO day-ahead platforms | [[OPCOM — PO-PZU Rev7 2025 (notă)]] |
+| [[Concept — Decontare dezechilibre 15 minute]] | Clauza 7 — 15-min settlement interval | [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)]] |
+| [[Concept — Cost stack producator energie]] | Clauza 7–8 — difference vs strike; OMEPA measured production | [[Concept — Contributie CfD]] |

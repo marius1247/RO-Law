@@ -16,8 +16,9 @@ Domain hub for **company law and corporate governance**: how a company comes int
 
 ## Analysis layer
 - **[[Societăți & guvernanță — synthesis]]**
-- Concepts: [[Concept — Capital social]] · [[Concept — Societate cu raspundere limitata]] · [[Concept — Societate pe actiuni]]
+- Concepts: [[Concept — Capital social]] · [[Concept — Societate cu raspundere limitata]] · [[Concept — Societate pe actiuni]] · [[Concept — Controlul concentrarilor]]
 - Act companion: [[Legea 31-1990 — societatile (notă)|L31/1990]]
+- Overlay: [[Legea 208-2015 — piete de capital (notă)|BNR/ASF / takeover cluster]] · [[Legea 21-1996 — concurenta (notă)|L21 merger control]]
 
 ## The layers of the law
 | Layer | Act | Role |

@@ -4,9 +4,9 @@ type: act-note
 act: "[[OUG 33-2007 — organizarea ANRE (text)]]"
 domeniu: [energetică, sistemul-juridic]
 tags: [act-note, analysis, energetică, ANRE]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-06
 ---
 
 # OUG nr. 33/2007 — organizarea și funcționarea ANRE — Analysis
@@ -44,6 +44,16 @@ Arts. 1–11 cluster: status & parliamentary reporting (1); financing (2); presi
 - OUG constitutionality: [[Constitutia Romaniei (text)#Articolul 115|Const. art. 115]]; autonomous authority creation: Const. art. 117(3)
 - EU: `EU Law/10 Legislation/Directives/Dir 2019-944 — electricity market`; Dir. 2009/73 gas lineage; ACER cooperation (Reg. 2019/942 in EU vault)
 - MD: ANRE under L164/2025 & L108/2016
+
+## Concepts extracted
+
+| Concept | Anchor in OUG 33 | Companion |
+|---|---|---|
+| [[Concept — Ordonanță de urgență]] | Whole act as OUG-form ANRE statute; Const. art. 115 / 117(3) | [[Constitutia Romaniei (notă)]] |
+| [[Concept — Licență în energetică]] | Art. 5 · Art. 9 — licensing competence | [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123 art. 10]] |
+| [[Concept — Unbundling]] | Art. 9 — monitoring unbundling / connection terms | [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123 art. 48]] |
+| [[Concept — Furnizor de ultimă instanță]] | Art. 9 — FUI / universal-service related powers | [[ANRE — Regulament furnizare EE 2023 (notă)]] |
+| [[Concept — Tarif de transport TG si TL]] · [[Concept — Tarif de distributie TD]] · [[Concept — Servicii de sistem si tariful SS]] | Art. 9 — network & system tariff methodologies | [[ANRE — Metodologii tarifare EE (notă)]] |
 
 ## Open questions
 

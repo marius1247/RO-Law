@@ -4,9 +4,9 @@ type: act-note
 act: "[[Legea 31-1990 — societatile (text)]]"
 domeniu: [societăți, guvernanță]
 tags: [act-note, analysis, societăți]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-26
+updated: 2026-08-06
 ---
 
 # Legea nr. 31/1990 a societăților — Analysis
@@ -48,6 +48,15 @@ Prefer the portal consolidare in the vault text over older republicări when cit
 - **Fiscal:** corporate tax and micro regimes in [[Codul fiscal 227-2015 (text) — Index|Codul fiscal]]; procedure in [[Codul de procedura fiscala 207-2015 (text) — Index|CPF]].
 - **Energy SPVs:** licensed activities under [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]] sit on L31 vehicles; change-of-control / shareholder fitness can matter for ANRE licensing (L123 art. 9).
 - **MD stack (different architecture):** MD uses separate laws for SRL (L135/2007), SA (L1134/1997) and registration (L220/2007) rather than one Companies Act.
+
+## Concepts extracted
+
+| Concept | Anchor in L31 | Companion |
+|---|---|---|
+| [[Concept — Societate pe actiuni]] | Art. 2 · Art. 8 · Art. 111 (AGA) · Art. 137 / 143 / 153 ff. | [[Legea 31-1990 — societatile (text)]] |
+| [[Concept — Societate cu raspundere limitata]] | Art. 2 · Art. 5 (single-member) · Art. 192 | [[Legea 31-1990 — societatile (text)]] |
+| [[Concept — Capital social]] | Art. 16 · Art. 8 (SA capital contents) | ONRC / L265/2022 practice |
+| [[Concept — Licență în energetică]] | SPV vehicle; change-of-control / shareholder fitness vs L123 | [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] |
 
 ## Open questions
 

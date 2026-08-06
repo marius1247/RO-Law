@@ -6,7 +6,8 @@ issuer: OPCOM
 adopted: 2025-09-30
 domeniu: [energetică, piețe]
 tags: [act-note, analysis, OPCOM, PZU, PI, garanții, IDA, IDCT]
-status: draft
+status: reviewed
+updated: 2026-08-06
 source_pdf: "[[99 Attachments/source-opcom/OPCOM_Anexa4_Procedura_garantii_PZU_PI_2025-09-30.pdf]]"
 created: 2026-07-27
 ---
@@ -68,6 +69,13 @@ Procedura definește secțiuni distincte pentru:
 - Ordinele președintelui ANRE nr. 178/2019 și nr. 65/2020
 - Procedurile operaționale OPCOM privind funcționarea PZU și PI (IDCT și IDA)
 - Procedura operațională privind încasările și plățile pe PZU/PI
+
+## Concepts extracted
+
+| Concept | Anchor in Procedura garanții | Companion |
+|---|---|---|
+| [[Concept — Participant PEE OPCOM]] | Scope — PZU / PI participants; SGB / cash collateral before buy / negative-sell offers | [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] · [[OPCOM — Act aditional model unic PZU-PI 2025 (notă)]] |
+| [[Concept — Licență în energetică]] | ANRE licence prerequisite in Convenție / related-docs stack | [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] |
 
 ## Semnificație
 Acest document este mecanismul de gestionare a riscului de credit/contrapartidă pentru piața spot românească de electricitate: previne ca un participant să câștige acces la tranzacții cu risc financiar unilateral (cumpărare la preț pozitiv/vânzare la preț negativ) fără acoperire financiară suficientă, protejând astfel stabilitatea decontării centralizate operate de OPCOM. Este direct complementar procedurii de transfer al notificărilor fizice (PZU_ProceduraNF) și cadrului contractual standard (Convenția de Participare, modificată prin Actul Adițional Model Unic).

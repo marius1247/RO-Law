@@ -4,9 +4,9 @@ type: act-note
 act: "[[Constitutia Romaniei (text)]]"
 domeniu: [sistemul-juridic, constituțional]
 tags: [act-note, analysis, constituție]
-status: draft
+status: reviewed
 created: 2026-07-26
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
 # Constituția României — Analysis
@@ -78,6 +78,12 @@ Romania's supreme law (republication after the 2003 revision). For this vault it
 - Energy regulator created/organised by OUG: [[OUG 33-2007 — organizarea ANRE (text)|OUG 33/2007]] (must be read against art. 115 limits and art. 117 autonomous authorities)
 - Sector laws: [[Legea 123-2012 — energia electrica si gazele naturale (text)|L123/2012]], [[Legea 220-2008 — promovare energie regenerabila (text)|L220/2008]]
 - Tax codes: [[Codul fiscal 227-2015 (text) — Index|CF]], [[Codul de procedura fiscala 207-2015 (text) — Index|CPF]]
+
+## Concepts extracted
+
+| Concept | Anchor in Constituție | Companion |
+|---|---|---|
+| [[Concept — Ordonanță de urgență]] | Art. 115 (legislative delegation / OUG limits) · Art. 108 (HG vs OG) | [[Ierarhia actelor normative]] · energy/tax OUG practice |
 
 ## Open questions
 

@@ -6,7 +6,8 @@ nr: 318
 an: 2024
 domeniu: [energetică, regenerabile, ajutor-de-stat, CfD]
 tags: [act-note, analysis, HG, CfD, OPCOM, Transelectrica]
-status: draft
+status: reviewed
+updated: 2026-08-06
 mo_publicare: "MO nr. 333 / 10.04.2024"
 source_pdf: "[[99 Attachments/source-hg/HG_318-2024.pdf]]"
 created: 2026-07-27
@@ -75,3 +76,11 @@ Relația minister–OPCOM este structurată juridic ca un **mandat civil** (art.
 - **Riscul de preț negativ** (art. 3 alin. 9) este frecvent subestimat de investitori la momentul modelării financiare a proiectului — trebuie inclus explicit în orice analiză de bancabilitate.
 - **Structura pe doi solicitanți paraleli (licitație vs. ad-hoc)** creează un regim juridic dual, cu grade diferite de certitudine a prețului de exercitare — relevant pentru tehnologiile eligibile care pot alege între cele două căi (ex. hidro, stocare).
 - **Condiționarea de autorizare CE** transformă orice contract CfD într-un angajament esențialmente precar până la finalizarea procedurii de ajutor de stat, cu risc de suspendare automată ulterioară — o clauză de forță majoră legislativă implicită.
+
+## Concepts extracted
+
+| Concept | Anchor in HG 318 | Companion |
+|---|---|---|
+| [[Concept — Contract pentru diferență (CfD)]] | Art. 2 pct. 34 · Art. 3 (strike/reference) · Art. 4–6 (ME / OPCOM / Transelectrica) | [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · [[HG 318-2024 — Anexa CfD eolian solar (notă)]] |
+| [[Concept — Contributie CfD]] | Art. 2 pct. 16 · Art. 4 lit. f–g — liquidity fund funded by consumer contribution | [[ANRE — Metodologie contributie CfD 2024 (notă)]] |
+| [[Concept — Cost stack producator energie]] | Art. 2 pct. 34 · Art. 3 — bidirectional difference; negative-price exclusion | [[Tarife retea — snapshot 2026]] |

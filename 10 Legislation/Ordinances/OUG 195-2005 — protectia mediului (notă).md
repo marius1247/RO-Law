@@ -1,62 +1,112 @@
 ---
 title: "OUG 195-2005 — protectia mediului (notă)"
 type: act-note
+act: null
 act_type: ordonanță-urgență
 nr: 195
 an: 2005
+domain: [mediu, ESG, permitting]
 domeniu: [mediu, ESG, permitting]
-tags: [act-note, analysis, ESG, EIA, AIM]
-status: draft
+tags: [act-note, analysis, OUG, mediu, EIA, AIM, ESG]
+status: reviewed
+depth: expert
 text_pending: true
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
-# OUG nr. 195/2005 privind protecția mediului — Analysis
+# OUG 195/2005 — protecția mediului — Analysis
 
-**Text:** *pending ingestion* · **Enforcement:** Garda Națională de Mediu (GNM) · **Hub:** [[_Energy Investment Due Diligence Index]]
+**Text:** *pending ingestion* · **Enforcement:** Garda Națională de Mediu (GNM) · **Hub:** [[_Energy Investment Due Diligence Index]] · **Concept:** [[Concept — Acord de mediu si AIM]]
 
-## Executive briefing
+> [!warning] Working text not yet in vault
+> Umbrella analysis. EIA detail lives largely in **Legea 292/2018** — ingest both before citing article numbers.
 
-| Theme | Takeaway |
+## Thesis
+
+Umbrella environmental statute for principles, liability and the permit spine. Energy projects live or die on the **EIA → *acord de mediu* → AIM** chain and on contamination / successor liability in acquisitions. CSRD/ESG reporting is an overlay, not a substitute for permits.
+
+## Architecture
+
+| Layer | Role |
 |---|---|
-| **Core environmental statute** | General principles; industrial permitting; pollution prevention; liability |
-| **Permitting pipeline** | EIA / *acord de mediu* before construction; **AIM** (*autorizație integrată de mediu*) before operation |
-| **CSRD / ESG alignment** | Large corporates — audited sustainability metrics alongside financial reporting (EU overlay) |
-| **Polluter pays** | Strict liability (*răspundere obiectivă*) for contamination — independent of fault |
-| **Criminal exposure** | Operating without valid permit can constitute criminal offence |
+| OUG 195/2005 | Principles (precaution, prevention, polluter-pays); competences; liability |
+| Legea 292/2018 | EIA screening / study / consultation *(to ingest)* |
+| AIM / IED rules | Integrated environmental authorisation before operate |
+| Special laws | Waste, water, air, Natura 2000 (OUG 57/2007) |
+| Acceleration overlays | [[OUG 163-2022 — promovare energie regenerabila (notă)|OUG 163]] dedicated-zone derogations |
 
-## Permitting workflow
+## Operative regime (by problem)
 
-```
-Project design / feasibility
-        │
-        ▼ EIA + public consultation
-Environmental Agreement (Acord de mediu) ──► building permit
-        │
-        ▼ construction complete
-Integrated Environmental Permit (AIM) ──► commercial operations
-```
+### Greenfield RES / BESS
+Design → screening/EIA + public consultation → ***acord de mediu*** → building permit → construction → ***AIM*** (or applicable tier) → commercial operation. Align with ATR / [[Concept — Racordare la rețea|racordare]] and [[Concept — Licență în energetică|ANRE licence]] calendars.
 
-## Historical environmental liabilities (M&A)
+### Permit continuity in M&A
+Verify permit holder name vs SPV; amendments on operator change; GNM/APM suspension or fine history; expiry dates as CPs.
 
-In acquisitions, historical soil and groundwater contamination transfers to the SPV/asset owner unless statutory environmental audits (*bilanț de mediu*) are performed and registered during ownership transfer.
+### Historical contamination
+*Bilanț de mediu* levels; contractual allocation vs statutory successor liability; escrow/indemnity. Pollution often follows the land/shares unless the statutory audit path is used.
 
-**GNM** may issue activity suspension orders and heavy administrative fines for permit violations.
+### Litigation / NGO risk
+Consultation defects = annulment vector delaying COD/PTO. Preserve every notice, publication and response.
 
-## How it connects
+### Acceleration overlays
+OUG 163 dedicated infrastructure zones may modify EIA/Natura timelines — cross-link, don’t assume blanket exemption.
 
-- Energy DD index: [[_Energy Investment Due Diligence Index]]
-- Energy projects: [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]]
-- Public consultation litigation: third-party NGO annulment suits — strict procedural compliance required
-- EU: EIA Directive, IED, CSRD — `EU Law/`
+### ESG / CSRD
+Reporting overlay for large groups — DD asks for metrics/assurance separately from permitting.
 
-## Strategic risk mitigation
+## Definitions
 
-1. **Permit validity:** Confirm active, non-expired environmental permits before acquisition or financing close.
-2. **Public consultation:** Document every EIA consultation step — procedural defects are a common annulment ground.
+| Term | Note |
+|---|---|
+| *Acord de mediu* | Pre-construction environmental agreement after EIA |
+| AIM | Integrated environmental authorisation (operate) |
+| EIA | Impact assessment procedure |
+| *Bilanț de mediu* | Environmental balance / site assessment for transfers |
+| Polluter-pays | Strict liability principle |
+
+## Obligations
+
+Obtain/maintain permits; monitoring/reporting; notify incidents; remediate under polluter-pays; discharge public-consultation duties.
+
+## Enforcement
+
+GNM fines, suspension, shut-down; APM refusal/withdrawal; criminal environmental offences; civil strict liability for damage.
+
+## Hard edges
+
+- **Acord ≠ AIM** — build vs operate.
+- Consultation defects are the usual annulment path.
+- Operating without AIM/authorisation is criminal/admin risk, not a paperwork nicety.
+- OUG 195 + L292 + IED must be read together.
+- Don’t treat CSRD as a permit.
+
+## Interactions
+
+- [[_Energy Investment Due Diligence Index]] stage 1
+- [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123]] · [[ANRE — Regulament racordare EE 2013 (notă)]]
+- [[Concept — Racordare la rețea]] · [[Concept — Licență în energetică]] · [[OUG 163-2022 — promovare energie regenerabila (notă)]]
+- EU: EIA Directive · IED · CSRD
+- Authorities: MMAP · APM · GNM
+
+## Concepts extracted
+
+| Concept | Role | Companion |
+|---|---|---|
+| [[Concept — Acord de mediu si AIM]] | EIA → acord → AIM spine | This note · L292/2018 |
+| [[Concept — Racordare la rețea]] | Parallel grid critical path | [[ANRE — Regulament racordare EE 2013 (notă)]] |
+| [[Concept — Licență în energetică]] | ANRE licence vs environmental permits | [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] |
+| [[Concept — Ordonanță de urgență]] | Form of this umbrella act | [[Constitutia Romaniei (notă)]] |
+
+## File checklist
+
+- [ ] Ingest OUG 195 + Legea 292/2018 consolidări
+- [ ] Map AIM secondary HG/orders used in practice
+- [x] Concept — Acord de mediu si AIM created
+- [x] Wired into Energy DD index
 
 ## Sources
 
-- OUG nr. 195/2005 — *to ingest*
-- GNM enforcement practice
+- Portal Legislativ — OUG 195/2005 · Legea 292/2018 *(to ingest)*
+- GNM / APM practice · EU EIA / IED / CSRD

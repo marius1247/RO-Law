@@ -4,59 +4,111 @@ type: act-note
 act_type: lege
 nr: 208
 an: 2015
+domain: [piețe-financiare, banking, capital-markets]
 domeniu: [piețe-financiare, banking, capital-markets]
-tags: [act-note, analysis, BNR, ASF, BVB]
-status: draft
+tags: [act-note, analysis, ASF, BNR, MAR, takeover]
+status: reviewed
+depth: expert
 text_pending: true
 created: 2026-07-28
-updated: 2026-07-28
+updated: 2026-08-06
 ---
 
-# Cadrul de supraveghere financiară — Legea 208/2015 & BNR/ASF regulations — Analysis
+# Financial supervision & capital markets cluster — Analysis
 
-**Text:** *pending ingestion* · **Authorities:** [[BNR]] (banking) · ASF (capital markets, insurance, pensions) · **Hub:** [[_M&A Regulatory Compliance Checklist]]
+**Filename note (critical):** Vault file is named `Legea 208-2015 — piete de capital`, but **Legea nr. 208/2015 is the parliamentary-elections / AEP statute**, *not* a capital-markets act. This note is a **supervisory-cluster analysis** for BNR/ASF / issuer / takeover diligence. Do **not** ingest electoral L208 as the working text.
 
-## Executive briefing
+**Hubs:** [[_M&A Regulatory Compliance Checklist]] · [[MOC — Societăți & Guvernanță]] · **Related:** [[Legea 31-1990 — societatile (notă)|L31]] · [[Legea 21-1996 — concurenta (notă)|L21]]
 
-| Theme | Takeaway |
+> [!warning] Identity & text pending
+> Primary working texts to ingest for this cluster: **L24/2017** (issuers / takeover), **L126/2018** (MiFID II), **OUG 93/2012** (ASF), **OUG 99/2006** (credit institutions), **L129/2019** (AML). Rename/split this note when those texts land.
+
+## Thesis
+
+Romania’s **dual-peak** financial supervision (BNR vs ASF) plus issuer/takeover and market-abuse rules gates any deal involving BVB issuers, licensed intermediaries, or banks — distinct from L31 company law and L21 merger control. For energy DD the usual hits are: mandatory takeover bid on listed parents, qualifying-holding approvals, MAR walls in data rooms, and AML/UBO refresh.
+
+## Architecture (correct instrument map)
+
+| Pillar | Primary instruments |
 |---|---|
-| **Dual supervisory system** | BNR — credit institutions, payment institutions, IFNs; ASF — BVB issuers, insurance, private pensions |
-| **CRD V / CRR** | EU prudential requirements — CET1, LCR, capital adequacy |
-| **Market abuse** | BVB-listed issuers — MAR (EU 596/2014) inside information and insider trading |
-| **Mandatory takeover bid** | >33% voting rights in BVB-listed company triggers offer to minorities |
-| **AML/CFT** | Legea 129/2019 — KYC, UBO, STR to ONPCSB |
+| Issuers / takeover / disclosure | **Legea 24/2017** |
+| Markets & intermediaries (MiFID II) | **Legea 126/2018** |
+| ASF organisation | **OUG 93/2012** (as amended) |
+| BNR prudential (banks, PI/EMI, IFN) | **OUG 99/2006** + CRD/CRR package |
+| Market abuse | EU **MAR** 596/2014 |
+| AML | **Legea 129/2019** → ONPCSB |
+| Corporate form | [[Legea 31-1990 — societatile (notă)|L31]] public SA |
 
-## Institutional jurisdictions
+## Operative regime (by problem)
 
-| BNR | ASF |
+### Listed-target M&A
+Crossing **~33% voting rights** on a BVB issuer typically triggers a **mandatory takeover bid** (L24 rules — confirm live %). Aggregate concert parties; track creep and indirect holdings; price methodology is regulated.
+
+### Disclosure / MAR
+Inside-information walls in DD; market sounding scripts; PDMR dealing restrictions.
+
+### Change of control on licensed entity
+Fit-and-proper / qualifying-holding approvals at **BNR or ASF before closing** — voting-rights freeze risk if skipped.
+
+### Energy-trading affiliates
+Map whether an affiliate needs an investment-firm (SSIF) authorisation vs only an ANRE [[Concept — Licență în energetică|licence]] / OPCOM [[Concept — Participant PEE OPCOM|PEE]] registration.
+
+### AML / UBO
+KYC refresh on buyer/seller; STR duties to ONPCSB under L129/2019.
+
+### Sanctions posture
+Licence suspension, voting-rights freeze, personal fines — treat as **immediate effect** pending challenge.
+
+## Definitions
+
+| Term | Note |
 |---|---|
-| Commercial credit institutions | Capital markets & BVB issuers |
-| Payment institutions (PI/EMD) | Insurance & reinsurance |
-| Non-banking financial companies (IFN) | Private pension funds (Pillar II/III) |
+| Qualifying holding | Prior-approval stake in supervised entity |
+| Mandatory takeover bid | L24 obligation above voting-rights threshold |
+| SSIF | Investment firm under ASF/MiFID |
+| Inside information | MAR definition |
 
-## Prudential & licensing
+## Obligations
 
-- **Fit-and-proper:** Board and key function holders require prior BNR/ASF authorisation (*aviz de potrivire*).
-- **FinTech / trading APIs:** Verify whether execution models require brokerage (*SSIF*) or payment-services licensing.
+Prior approvals for qualifying holdings; bid launch deadlines; continuous/ad-hoc disclosure; AML KYC/STR.
 
-## Capital market M&A
+## Enforcement
 
-Acquiring direct or indirect control over **>33%** of voting rights in a BVB-listed company triggers a **mandatory public takeover bid** (*ofertă publică de preluare obligatorie*) to minority shareholders.
+ASF/BNR administrative sanctions; MAR admin/criminal tracks; court review. Parallel [[Concept — Controlul concentrarilor|RCC merger control]] remains separate.
 
-## How it connects
+## Hard edges
 
-- M&A checklist: [[_M&A Regulatory Compliance Checklist]]
-- Company law: [[Legea 31-1990 — societatile (notă)|L31/1990]]
-- Competition: [[Legea 21-1996 — concurenta (notă)|L21/1996]]
-- EU: MAR, CRD V, CRR, MiFID II — `EU Law/`
+- **Filename ≠ statute** — electoral L208 must never be the source text.
+- 33% trigger is **voting rights**, not economic interest alone.
+- Four parallel tracks possible: L21 · ANRE licence CoC · ASF/BNR · takeover bid.
+- Sanctions often bite before final court relief.
 
-## Operational risk notes
+## Interactions
 
-1. **Regulatory sanctions:** ASF and BNR enforcement carries immediate effect — licence revocation, voting-right suspension, personal fines on board members.
-2. **Listed-target due diligence:** Map takeover-bid triggers and disclosure obligations before signing.
+- [[_M&A Regulatory Compliance Checklist]] Phase 4
+- [[Concept — Societate pe actiuni]] · [[Concept — Capital social]] · [[Legea 31-1990 — societatile (notă)]]
+- [[Legea 21-1996 — concurenta (notă)]] · [[Concept — Participant PEE OPCOM]]
+- EU: MAR · MiFID II · CRD/CRR
+
+## Concepts extracted
+
+| Concept | Role | Companion |
+|---|---|---|
+| [[Concept — Societate pe actiuni]] | Listed / public SA vehicle | [[Legea 31-1990 — societatile (notă)]] |
+| [[Concept — Capital social]] | Corporate capital events intersecting disclosure | L31 · L24/2017 |
+| [[Concept — Controlul concentrarilor]] | Parallel RCC clearance | [[Legea 21-1996 — concurenta (notă)]] |
+| [[Concept — Licență în energetică]] | Fourth track for energy-licensed targets | [[Legea 123-2012 — energia electrica si gazele naturale (notă)]] |
+| [[Concept — Participant PEE OPCOM]] | Wholesale registration vs SSIF perimeter | [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] |
+
+## File checklist
+
+- [ ] Rename/split note when L24/L126 texts ingested
+- [ ] Ingest L24/2017 · L126/2018 · OUG 93/2012 · OUG 99/2006 · L129/2019 as needed
+- [x] Identity warning documented
+- [x] Wired into M&A + Societăți MOC
 
 ## Sources
 
-- Legea nr. 208/2015 — *to ingest*
-- Legea nr. 129/2019 — AML/CFT
-- BNR · ASF secondary regulations
+- Legea 24/2017 · Legea 126/2018 · OUG 93/2012 · OUG 99/2006 · Legea 129/2019 *(to ingest)*
+- ASF / BNR regulations · EU MAR / MiFID II / CRD/CRR
+- **Not a source:** Legea 208/2015 (electoral)

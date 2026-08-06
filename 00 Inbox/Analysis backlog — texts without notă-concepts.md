@@ -19,46 +19,45 @@ Deep notes Ord. 68/67/116 + Ord. 74/2025 · concepts TG/TL + TD · hub upgraded.
 | Deliverable | Status |
 |---|---|
 | [[ANRE — Metodologie quota certificate verzi 2022 (notă)]] | ✅ |
-| [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)]] | ✅ (was missing entirely) |
+| [[ANRE — Ordin 81-2025 Quota certificate verzi 2026 (notă)]] | ✅ |
 | [[ANRE — Metodologie contributie CfD 2024 (notă)]] | ✅ |
 | [[Concept — Cota obligatorie certificate verzi]] · [[Concept — Contributie CfD]] | ✅ |
-| Deepen [[Concept — Certificat verde]] + Ord. 52 wiring | ✅ |
 
 ### Batch C3 — Energy communities ✅
-| Deliverable | Status |
-|---|---|
-| [[Concept — Comunitate de energie]] | ✅ |
-| Ord. 9 + Ord. 50 notes → reviewed + concept links | ✅ |
+[[Concept — Comunitate de energie]] · Ord. 9/50 reviewed.
 
 ### Batch C4 — Wholesale access ✅
-| Deliverable | Status |
-|---|---|
-| [[Concept — Participant PEE OPCOM]] | ✅ |
-| Cod comercial + OPCOM registration notes wired | ✅ |
+[[Concept — Participant PEE OPCOM]] · Cod comercial + OPCOM registration wired.
 
-### Batch C5 — Keystone concept-extraction pass *(partial)*
+### Batch C5 — Keystone concept-extraction pass ✅
 | Note | Status |
 |---|---|
-| L123 · L220 | ✅ Concepts extracted tables wired |
-| L31, Cod fiscal, CPF, Constituție, OUG 33, OUG 163, HG 318 pair, OPCOM PZU cluster | ⏳ remaining |
+| L123 · L220 | ✅ |
+| L31 · Cod fiscal · CPF · Constituție | ✅ |
+| OUG 33 · OUG 163 | ✅ |
+| HG 318 pair | ✅ (+ [[Concept — Contract pentru diferență (CfD)]]) |
+| OPCOM PZU cluster (PO-PZU · garanții · act adițional · NF) | ✅ |
 
-### Batch C6 — Sectoral stubs (notă-only, no text)
-L21, L53, L98, L208, OUG 195 — deepen notes + ingest texts when available.
-
-### Residual thin rate Ordine
-Ord. 76/77/2025 TD rate Ordine still share the Ordine tarifare umbrella — dedicated notes optional if snapshot + TD concept suffice.
-
-### Quality pass — wrong links / shallow notes *(2026-08-06)*
-| Fix | Status |
+### Batch C6 — Sectoral stubs ✅ *(text still pending)*
+| Note | Status |
 |---|---|
-| Ord. **76/77** Delgaz↔DEER filename swap corrected + vault-wide links | ✅ |
-| Escaped `\|` breaking wikilinks (codes, Ord. 127/213, metodologii hub, currency ledger, glosar) | ✅ |
-| PDFs moved into `99 Attachments/source-{anre,hg,opcom}/` | ✅ |
-| Deepened: OUG 134 · OUG 143 · Ord. 56 BESS · furnizare · racordare | ✅ |
-| Ord. 127 / 213 stubs restructured (still `source_missing`) | ✅ |
+| [[Legea 21-1996 — concurenta (notă)]] | ✅ deepened · [[Concept — Controlul concentrarilor]] |
+| [[Legea 53-2003 — codul muncii (notă)]] | ✅ deepened |
+| [[Legea 98-2016 — achizitii publice (notă)]] | ✅ deepened |
+| [[Legea 208-2015 — piete de capital (notă)]] | ✅ deepened as BNR/ASF cluster (**filename ≠ electoral L208**) |
+| [[OUG 195-2005 — protectia mediului (notă)]] | ✅ deepened · [[Concept — Acord de mediu si AIM]] |
+
+### Residual / next
+| Item | Status |
+|---|---|
+| Ingest texts: Ord. 127/213 · L21/L53/L98 · L24/L126 · OUG 195/L292 · HG 318 | ⏳ |
+| Ord. 76/77 dedicated rate notes | optional (snapshot + TD concept suffice) |
+| Rename L208 vault file when capital-markets texts land | ⏳ |
+
+### Quality pass ✅
+Ord. 76/77 Delgaz/DEER rename · escaped `\|` wikilinks · PDF `source-*` paths · deepened OUG 134/143 · Ord. 56 · furnizare · racordare.
 
 ## Done log
-- **2026-08-06** — C1 network tariffs
-- **2026-08-06** — C2 CV/CfD · C3 communities · C4 wholesale access
-- **2026-08-06** — C5 partial (L123 + L220 concept graphs)
-- **2026-08-06** — Quality pass (76/77 rename, wikilinks, deepen OUG/BESS/furnizare/racordare)
+- **2026-08-06** — C1–C4
+- **2026-08-06** — C5 partial (L123/L220) + quality pass
+- **2026-08-06** — C5 complete + C6 sectoral deepen

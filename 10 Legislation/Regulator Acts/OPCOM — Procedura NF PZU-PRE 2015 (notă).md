@@ -6,7 +6,8 @@ issuer: OPCOM
 adopted: 2015-02-17
 domeniu: [energetică, piețe]
 tags: [act-note, analysis, OPCOM, PZU, PRE, Transelectrica]
-status: draft
+status: reviewed
+updated: 2026-08-06
 source_pdf: "[[99 Attachments/source-opcom/OPCOM_PZU_ProceduraNF_2015-02-17.pdf]]"
 created: 2026-07-27
 ---
@@ -50,6 +51,14 @@ Procedura se aplică de fiecare dată când un titular de licență/decizie (fur
 |---|---|---|
 | OPCOM → Transelectrica | E-mail + telefon | tsoplan@transelectrica.ro / 021 3035823 |
 | Transelectrica → OPCOM | E-mail + telefon | pzu@opcom.ro / 021 3071418 |
+
+## Concepts extracted
+
+| Concept | Anchor in Procedura NF | Companion |
+|---|---|---|
+| [[Concept — PRE si responsabilitate de echilibrare]] | Whole procedure — CET hour 24 ↔ EET hour 1 NF reconciliation on PRE transfer | [[OPCOM — PO-PZU Rev7 2025 (notă)]] |
+| [[Concept — Participant PEE OPCOM]] | Applies when a licensed PZU participant changes PRE | [[OPCOM — Procedura inregistrare PEE rev 17 (notă)]] |
+| [[Concept — Decontare dezechilibre 15 minute]] | Integrity of physical notifications feeding IBS across PRE change | [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)]] |
 
 ## Semnificație
 Această procedură este un mecanism tehnic de reconciliere strict operațional, esențial pentru integritatea decontării pieței românești de electricitate atunci când participanții își schimbă furnizorul de servicii de echilibrare, prevenind dublarea sau omiterea unor cantități de energie în trecerea de la un regim orar (CET) la altul (EET). Este direct legată de arhitectura 4M Market Coupling (menționată explicit ca reper procedural) și, indirect, de armonizarea europeană a pieței descrisă în documentele PCR/EUPHEMIA.

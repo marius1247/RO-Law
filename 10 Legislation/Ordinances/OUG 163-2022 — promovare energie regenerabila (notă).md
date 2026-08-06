@@ -6,11 +6,11 @@ nr: 163
 an: 2022
 domeniu: [energetică, regenerabile]
 tags: [act-note, analysis, OUG, RED-II, comunități-energie, PPA]
-status: draft
+status: reviewed
 mo_publicare: "MO nr. 1165 / 06.12.2022"
 source_pdf: null
 source_missing: false
-updated: 2026-08-05
+updated: 2026-08-06
 created: 2026-07-27
 ---
 
@@ -78,3 +78,13 @@ OUG nr. 163/2022 este actul-cadru general de transpunere RED II; el nu instituie
 - **Instabilitate normativă ridicată** — actul a fost modificat succesiv (cel mai recent, extensiv, prin OUG 59/2025), ceea ce impune verificarea permanentă a versiunii consolidate înainte de orice aviz juridic.
 - **Delegare de competențe extinsă către ANRE** — numeroase noțiuni tehnice (garanții de origine, mix energetic rezidual, autoconsum) rămân operaționalizate prin legislație secundară ANRE, ceea ce deplasează certitudinea juridică efectivă din OUG către ordinele ulterioare.
 - **Fereastra derogatorie de mediu (20 nov. 2025 – 20 nov. 2026)** trebuie monitorizată activ de investitori, fiind susceptibilă de expirare sau de o eventuală prelungire legislativă.
+
+## Concepts extracted
+
+| Concept | Anchor in OUG 163 | Companion |
+|---|---|---|
+| [[Concept — Ordonanță de urgență]] | Const. art. 115(4) urgency basis; successive amendments (incl. OUG 59/2025) | [[Constitutia Romaniei (notă)]] |
+| [[Concept — Comunitate de energie]] | Art. 2 — comunitate de energie din SRE | [[ANRE — Ordin 9-2026 Comunitati energie (notă)]] · [[ANRE — Ordin 50-2026 Registru comunitati energie (notă)]] |
+| [[Concept — Certificat verde]] · [[Concept — Cota obligatorie certificate verzi]] | Art. 2 — schemă de sprijin / obligație SRE (CV as listed instrument) | [[Legea 220-2008 — promovare energie regenerabila (notă)]] |
+| [[Concept — Contributie CfD]] · [[Concept — Contract pentru diferență (CfD)]] | Art. 2 — support-scheme umbrella; precursor to CfD stack | [[HG 318-2024 — cadru general CfD (notă)]] · [[ANRE — Metodologie contributie CfD 2024 (notă)]] |
+| [[Concept — Cost stack producator energie]] | Art. 1–2 — support / PPA / peer-to-peer vs merchant | [[HG 318-2024 — Anexa CfD eolian solar (notă)]] |
