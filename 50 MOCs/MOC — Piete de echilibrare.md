@@ -1,5 +1,5 @@
 ---
-title: "MOC — Piețe de echilibrare"
+title: "MOC — Piete de echilibrare"
 type: moc
 domeniu: energetică
 tags: [moc, index, energetică, echilibrare, PCE, PE, FCR, aFRR, mFRR, PRE]
@@ -8,19 +8,19 @@ updated: 2026-08-05
 status: draft
 ---
 
-# MOC — Piețe de echilibrare
+# MOC — Piete de echilibrare
 
 Domain hub for **balancing capacity markets (PCE)**, **balancing energy markets (PE)**, **system services tariff pass-through**, and **PRE imbalance settlement** in Romania.
 
 > [!tip] Start here
-> **[[Piețe de echilibrare — sinteza]]** — two-market architecture, cost layers, actor map.
+> **[[Piete de echilibrare — synthesis]]** — two-market architecture, cost layers, actor map.
 
-Parent: [[MOC — Energetică]] · Sector: [[Energetică — sinteza sectorului]]
+Parent: [[MOC — Energetică]] · Sector: [[Energetică — synthesis]]
 
 ---
 
 ## Architecture & synthesis
-- **[[Piețe de echilibrare — sinteza]]** — master synthesis
+- **[[Piete de echilibrare — synthesis]]** — master synthesis
 - **[[Concept — Cost stack producator energie]]** — where SS fits in producer bills
 - **[[Concept — PRE si responsabilitate de echilibrare]]** — PRE onboarding & obligations
 

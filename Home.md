@@ -1,31 +1,34 @@
 ---
-title: "Home — Legislația României"
+title: "Home — Romanian Law"
 type: home
 tags: [home, index]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
-# Legislația României
+# Romanian Law
 
-Working vault for Romanian law: **authoritative Romanian legal texts** from [Portal Legislativ](https://legislatie.just.ro) (Ministerul Justiției) with an **English analysis layer** on top — same two-layer model as [[Convenții vault]].
+Working vault for Romanian law: **authoritative Romanian legal texts** from [Portal Legislativ](https://legislatie.just.ro) (Ministerul Justiției) with an **English analysis layer** on top — same two-layer model as [[Conventions]] (identical across EU / RO / MD vaults).
 
 ## How this vault is organised
-1. **The law itself** → `10 Acte normative/` — `— text` notes (RO, article-anchored) + companion `— notă` (EN).
-2. **The value-add** → `20 Domenii` · `30 Concepte` · `50 MOCs` · `60 Autorități`.
-3. **Meta layer** → `01 Sistemul juridic/` — Constitution, hierarchy, OUG, Monitorul Oficial, [[Currency ledger]].
 
-See [[Convenții vault]] for naming, frontmatter, and ingestion.
+1. **The law itself** → `10 Legislation/` — `(text)` notes (RO, article-anchored) + companion `(notă)` (EN), filed by instrument type.
+2. **The value-add** → `20 Domains` · `30 Concepts` · `50 MOCs` · `60 Authorities` · `20 Position Papers`.
+3. **Meta layer** → `01 Legal system/` — hierarchy, OUG, Monitorul Oficial, [[Currency ledger]].
+
+See [[Conventions]] for naming, frontmatter, and ingestion.
 
 ## Start here
-- [[Convenții vault]] — structure & ingestion rules
-- [[Roadmap]] — build plan, vault inventory & energy gaps
+
+- [[Conventions]] — structure & ingestion rules
+- [[Roadmap]] — build plan, vault inventory & energy gaps (`00 Inbox/`)
 - [[Currency ledger]] — per-act currency status
 - [[SOURCE INDEX]] — raw portal dumps → working texts
 - [[Dataview — currency & corpus]] — live tables (Dataview plugin)
 - `00 Inbox/` — download checklists (Batch A currency · Batch B ANRE)
 
 ## Foundations (meta)
+
 | Note | Focus |
 |---|---|
 | [[Constitutia Romaniei (text)\|Constituția]] | Supreme law (republicată 2003) · [[Constitutia Romaniei (notă)\|notă]] |
@@ -47,13 +50,15 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 > Full SOAP working texts lag portal consolidări through **01.07.2026** (CF) and **08.05.2026** (CPF). Truncated newer dumps are in `99 Attachments/source-portal/`. Browser Forma printabilă still required for full re-ingest — see [[Download checklist — Batch A currency]].
 
 ## Domain maps
+
 | Hub | Synthesis | Authorities |
 |---|---|---|
-| [[MOC — Energetică]] | [[Energetică — sinteza sectorului]] | [[ANRE]] |
-| [[MOC — Societăți & Guvernanță]] | [[Societăți & guvernanță — sinteza]] | [[ONRC]] |
-| [[MOC — Fiscalitate]] | [[Fiscalitate — sinteza sistemului fiscal]] | [[ANAF]] |
+| [[MOC — Energetică]] | [[Energetică — synthesis]] | [[ANRE]] |
+| [[MOC — Societăți & Guvernanță]] | [[Societăți & guvernanță — synthesis]] | [[ONRC]] |
+| [[MOC — Fiscalitate]] | [[Fiscalitate — synthesis]] | [[ANAF]] |
 
 ## Cross-disciplinary indexes (RAG hubs)
+
 - [[_Energy Investment Due Diligence Index]] — RES / conventional energy DD pipeline
 - [[Tarife retea — snapshot 2026]] — regulated network tariff snapshot (producers)
 - [[_M&A Regulatory Compliance Checklist]] — competition, tax, HR, sectoral licensing
@@ -64,6 +69,7 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 Racordare · furnizare · metodologii tarifare · OUG 134/143/163 · BESS norme · 2026 tariff Ordine — see [[MOC — Energetică]] · [[Currency ledger]] · [[SOURCE INDEX]].
 
 ## Sectoral analysis (text pending ingestion)
+
 | Act | Analysis |
 |---|---|
 | [[Legea 21-1996 — concurenta (notă)\|L21/1996 — concurență]] | Antitrust, merger control, dawn raids |
@@ -73,5 +79,6 @@ Racordare · furnizare · metodologii tarifare · OUG 134/143/163 · BESS norme 
 | [[OUG 195-2005 — protectia mediului (notă)\|OUG 195/2005 — mediu]] | EIA, AIM, ESG / contamination liability |
 
 ## Sibling vaults
+
 - `Moldovan Law/` — structural model · comparative L164/L108/L10
 - `EU Law/` — EU acquis cross-links (Dir. 2019/944, RED III, gas package)

@@ -15,7 +15,7 @@ Manual ledger (always authoritative): [[Currency ledger]].
 
 ```dataview
 TABLE act_type, nr, an, portal_id, versiune_text, consolidare, text_complet
-FROM "10 Acte normative"
+FROM "10 Legislation"
 WHERE type = "act-text" AND currency_warning = true
 SORT an DESC
 ```
@@ -24,7 +24,7 @@ SORT an DESC
 
 ```dataview
 TABLE act_type, nr, an, portal_id, versiune_text, articole_numarate, text_complet
-FROM "10 Acte normative"
+FROM "10 Legislation"
 WHERE type = "act-text"
 SORT forta_juridica ASC, an DESC
 ```
@@ -33,7 +33,7 @@ SORT forta_juridica ASC, an DESC
 
 ```dataview
 TABLE status, domeniu, file.mtime
-FROM "10 Acte normative"
+FROM "10 Legislation"
 WHERE type = "act-note" AND status = "stub"
 SORT file.name ASC
 ```
@@ -42,7 +42,7 @@ SORT file.name ASC
 
 ```dataview
 LIST
-FROM "20 Domenii" OR "50 MOCs"
+FROM "20 Domains" OR "50 MOCs"
 WHERE type = "domain-note" OR type = "moc"
 SORT file.name ASC
 ```

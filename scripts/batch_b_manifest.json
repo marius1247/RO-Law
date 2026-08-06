@@ -2,8 +2,10 @@
   {
     "portal_id": "160289",
     "dump": "160289_regulament-racordare-ee-2013_soap.md",
-    "search": {"text": "Regulament privind racordarea"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "text": "Regulament privind racordarea"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Regulament racordare EE 2013 (text).md",
     "h1": "Regulament din 2 august 2013 privind racordarea utilizatorilor la rețelele electrice de interes public",
     "meta": {
@@ -12,20 +14,30 @@
       "issuer": "ANRE",
       "nr": "59",
       "an": 2013,
-      "domeniu": ["energetică", "racordare"],
+      "domeniu": [
+        "energetică",
+        "racordare"
+      ],
       "mo_publicare": "MO nr. 494 / 09.08.2013",
       "portal_id": "160289",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/160289",
       "versiune_text": "2013-08-02",
       "consolidare": "Regulament aprobat prin Ordin ANRE nr. 59/2013 — text SOAP Portal Legislativ",
-      "tags": ["act-text", "ANRE", "racordare"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "racordare"
+      ]
     }
   },
   {
     "portal_id": "264611",
     "dump": "264611_regulament-furnizare-ee-2023_soap.md",
-    "search": {"an": "2023", "text": "furnizare a energiei electrice la clientii finali"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "an": "2023",
+      "text": "furnizare a energiei electrice la clientii finali"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Regulament furnizare EE 2023 (text).md",
     "h1": "Regulament din 3 februarie 2023 de furnizare a energiei electrice la clienții finali",
     "meta": {
@@ -34,20 +46,31 @@
       "issuer": "ANRE",
       "nr": "5",
       "an": 2023,
-      "domeniu": ["energetică", "furnizare"],
+      "domeniu": [
+        "energetică",
+        "furnizare"
+      ],
       "mo_publicare": "MO nr. 100 / 06.02.2023",
       "portal_id": "264611",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/264611",
       "versiune_text": "2023-02-03",
       "consolidare": "Regulament aprobat prin Ordin ANRE nr. 5/2023 — text SOAP Portal Legislativ",
-      "tags": ["act-text", "ANRE", "furnizare"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "furnizare"
+      ]
     }
   },
   {
     "portal_id": "262191",
     "dump": "262191_oug-163-2022_regenerabile_soap.md",
-    "search": {"num": "163", "an": "2022", "text": "regenerabile"},
-    "subdir": "Ordonante",
+    "search": {
+      "num": "163",
+      "an": "2022",
+      "text": "regenerabile"
+    },
+    "subdir": "Ordinances",
     "filename": "OUG 163-2022 — promovare energie regenerabila (text).md",
     "h1": "Ordonanța de urgență a Guvernului nr. 163/2022",
     "meta": {
@@ -55,20 +78,31 @@
       "act_type": "ordonanță-urgență",
       "nr": "163",
       "an": 2022,
-      "domeniu": ["energetică", "regenerabile"],
+      "domeniu": [
+        "energetică",
+        "regenerabile"
+      ],
       "mo_publicare": "MO nr. 1165 / 06.12.2022",
       "portal_id": "262191",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/262191",
       "versiune_text": "2022-11-29",
       "consolidare": "Text SOAP Portal Legislativ",
-      "tags": ["act-text", "OUG", "regenerabile"]
+      "tags": [
+        "act-text",
+        "OUG",
+        "regenerabile"
+      ]
     }
   },
   {
     "portal_id": "291380",
     "dump": "291380_oug-134-2024_stocare_soap.md",
-    "search": {"num": "134", "an": "2024", "text": "stocare"},
-    "subdir": "Ordonante",
+    "search": {
+      "num": "134",
+      "an": "2024",
+      "text": "stocare"
+    },
+    "subdir": "Ordinances",
     "filename": "OUG 134-2024 — stocare energie electrica (text).md",
     "h1": "Ordonanța de urgență a Guvernului nr. 134/2024",
     "meta": {
@@ -76,20 +110,31 @@
       "act_type": "ordonanță-urgență",
       "nr": "134",
       "an": 2024,
-      "domeniu": ["energetică", "stocare"],
+      "domeniu": [
+        "energetică",
+        "stocare"
+      ],
       "mo_publicare": "MO nr. 1157 / 22.11.2024",
       "portal_id": "291380",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/291380",
       "versiune_text": "2024-11-21",
       "consolidare": "Text SOAP Portal Legislativ",
-      "tags": ["act-text", "OUG", "stocare"]
+      "tags": [
+        "act-text",
+        "OUG",
+        "stocare"
+      ]
     }
   },
   {
     "portal_id": "250107",
     "dump": "250107_oug-143-2021_energie_soap.md",
-    "search": {"num": "143", "an": "2021", "text": "944"},
-    "subdir": "Ordonante",
+    "search": {
+      "num": "143",
+      "an": "2021",
+      "text": "944"
+    },
+    "subdir": "Ordinances",
     "filename": "OUG 143-2021 — Directiva 2019-944 energie (text).md",
     "h1": "Ordonanța de urgență a Guvernului nr. 143/2021",
     "meta": {
@@ -97,20 +142,30 @@
       "act_type": "ordonanță-urgență",
       "nr": "143",
       "an": 2021,
-      "domeniu": ["energetică", "piete"],
+      "domeniu": [
+        "energetică",
+        "piete"
+      ],
       "mo_publicare": "MO nr. 1259 / 31.12.2021",
       "portal_id": "250107",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/250107",
       "versiune_text": "2021-12-28",
       "consolidare": "Text SOAP Portal Legislativ",
-      "tags": ["act-text", "OUG", "piete"]
+      "tags": [
+        "act-text",
+        "OUG",
+        "piete"
+      ]
     }
   },
   {
     "portal_id": "288733",
     "dump": "288733_metodologie-transport-2024_soap.md",
-    "search": {"an": "2024", "text": "modalitatea de determinare a veniturilor reglementate si de calcul al tarifelor reglementate pentru serviciul de transport"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "an": "2024",
+      "text": "modalitatea de determinare a veniturilor reglementate si de calcul al tarifelor reglementate pentru serviciul de transport"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Metodologie tarife transport EE 2024 (text).md",
     "h1": "Metodologie din 17 septembrie 2024 de stabilire a tarifelor pentru serviciul de transport al energiei electrice",
     "meta": {
@@ -119,20 +174,32 @@
       "issuer": "ANRE",
       "nr": "68",
       "an": 2024,
-      "domeniu": ["energetică", "tarife", "transport"],
+      "domeniu": [
+        "energetică",
+        "tarife",
+        "transport"
+      ],
       "mo_publicare": "MO nr. 946 / 20.09.2024",
       "portal_id": "288733",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/288733",
       "versiune_text": "2024-09-17",
       "consolidare": "Metodologie aprobată prin Ordin ANRE nr. 68/2024",
-      "tags": ["act-text", "ANRE", "tarife", "transport"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "tarife",
+        "transport"
+      ]
     }
   },
   {
     "portal_id": "288712",
     "dump": "288712_metodologie-distributie-2024_soap.md",
-    "search": {"an": "2024", "text": "cos de tarife plafon"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "an": "2024",
+      "text": "cos de tarife plafon"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Metodologie tarife distributie EE 2024 (text).md",
     "h1": "Metodologie din 17 septembrie 2024 de stabilire a tarifelor pentru serviciul de distribuție a energiei electrice",
     "meta": {
@@ -141,20 +208,32 @@
       "issuer": "ANRE",
       "nr": "67",
       "an": 2024,
-      "domeniu": ["energetică", "tarife", "distribuție"],
+      "domeniu": [
+        "energetică",
+        "tarife",
+        "distribuție"
+      ],
       "mo_publicare": "MO nr. 948 / 20.09.2024",
       "portal_id": "288712",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/288712",
       "versiune_text": "2024-09-17",
       "consolidare": "Metodologie aprobată prin Ordin ANRE nr. 67/2024",
-      "tags": ["act-text", "ANRE", "tarife", "distribuție"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "tarife",
+        "distribuție"
+      ]
     }
   },
   {
     "portal_id": "259593",
     "dump": "259593_metodologie-servicii-sistem-2022_soap.md",
-    "search": {"an": "2022", "text": "achizitia serviciilor de sistem"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "an": "2022",
+      "text": "achizitia serviciilor de sistem"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Metodologie tarife servicii sistem 2022 (text).md",
     "h1": "Metodologie din 21 septembrie 2022 de stabilire a tarifului pentru achiziția serviciilor de sistem",
     "meta": {
@@ -163,20 +242,31 @@
       "issuer": "ANRE",
       "nr": "116",
       "an": 2022,
-      "domeniu": ["energetică", "tarife", "servicii-sistem"],
+      "domeniu": [
+        "energetică",
+        "tarife",
+        "servicii-sistem"
+      ],
       "mo_publicare": "MO nr. 936 / 23.09.2022",
       "portal_id": "259593",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/259593",
       "versiune_text": "2022-09-21",
       "consolidare": "Metodologie aprobată prin Ordin ANRE nr. 116/2022",
-      "tags": ["act-text", "ANRE", "tarife", "servicii-sistem"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "tarife",
+        "servicii-sistem"
+      ]
     }
   },
   {
     "portal_id": "257402",
     "dump": "257402_metodologie-cv-quota-2022_soap.md",
-    "search": {"text": "METODOLOGIE de stabilire a cotei anuale obligatorii de achizitie de certificate verzi"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "text": "METODOLOGIE de stabilire a cotei anuale obligatorii de achizitie de certificate verzi"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Metodologie quota certificate verzi 2022 (text).md",
     "h1": "Metodologie din 29 iunie 2022 de stabilire a cotei anuale obligatorii de achiziție de certificate verzi",
     "meta": {
@@ -185,20 +275,30 @@
       "issuer": "ANRE",
       "nr": "96",
       "an": 2022,
-      "domeniu": ["energetică", "certificate-verzi"],
+      "domeniu": [
+        "energetică",
+        "certificate-verzi"
+      ],
       "mo_publicare": "MO nr. 704 / 15.07.2022",
       "portal_id": "257402",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/257402",
       "versiune_text": "2022-06-29",
       "consolidare": "Metodologie aprobată prin Ordin ANRE nr. 96/2022",
-      "tags": ["act-text", "ANRE", "certificate-verzi"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "certificate-verzi"
+      ]
     }
   },
   {
     "portal_id": "286303",
     "dump": "286303_metodologie-cfd-contributie-2024_soap.md",
-    "search": {"an": "2024", "text": "contributiei aferente contractelor"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "an": "2024",
+      "text": "contributiei aferente contractelor"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Metodologie contributie CfD 2024 (text).md",
     "h1": "Metodologie de determinare și colectare a contribuției aferente contractelor pentru diferență",
     "meta": {
@@ -207,20 +307,31 @@
       "issuer": "ANRE",
       "nr": "51",
       "an": 2024,
-      "domeniu": ["energetică", "CfD"],
+      "domeniu": [
+        "energetică",
+        "CfD"
+      ],
       "mo_publicare": "MO nr. 704 / 18.07.2024",
       "portal_id": "286303",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/286303",
       "versiune_text": "2024-07-17",
       "consolidare": "Metodologie aprobată prin Ordin ANRE nr. 51/2024",
-      "tags": ["act-text", "ANRE", "CfD"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "CfD"
+      ]
     }
   },
   {
     "portal_id": "286240",
     "dump": "286240_ordin-52-2024-contract-cfd_soap.md",
-    "search": {"num": "52", "an": "2024", "text": "Contractului-cadru"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "num": "52",
+      "an": "2024",
+      "text": "Contractului-cadru"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Ordin 52-2024 Contract-cadru CfD (text).md",
     "h1": "Ordin nr. 52/2024 privind aprobarea Contractului-cadru CfD",
     "meta": {
@@ -229,20 +340,30 @@
       "issuer": "ANRE",
       "nr": "52",
       "an": 2024,
-      "domeniu": ["energetică", "CfD"],
+      "domeniu": [
+        "energetică",
+        "CfD"
+      ],
       "mo_publicare": "MO nr. 704 / 18.07.2024",
       "portal_id": "286240",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/286240",
       "versiune_text": "2024-07-17",
       "consolidare": "Ordin + contract-cadru — text SOAP Portal Legislativ",
-      "tags": ["act-text", "ANRE", "CfD"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "CfD"
+      ]
     }
   },
   {
     "portal_id": "299750",
     "dump": "299750_norme-stocare-bess-2025_soap.md",
-    "search": {"an": "2025", "text": "exceptarea de la plata tarifelor reglementate"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "an": "2025",
+      "text": "exceptarea de la plata tarifelor reglementate"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Norme stocare BESS 2025 (text).md",
     "h1": "Norme metodologice din 8 iulie 2025 privind exceptarea de la plata tarifelor reglementate pentru energia stocată",
     "meta": {
@@ -251,20 +372,33 @@
       "issuer": "ANRE",
       "nr": "56",
       "an": 2025,
-      "domeniu": ["energetică", "stocare", "tarife"],
+      "domeniu": [
+        "energetică",
+        "stocare",
+        "tarife"
+      ],
       "mo_publicare": "MO nr. 704 / 08.07.2025",
       "portal_id": "299750",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/299750",
       "versiune_text": "2025-07-08",
       "consolidare": "Norme aprobate prin Ordin ANRE nr. 56/2025",
-      "tags": ["act-text", "ANRE", "stocare", "BESS"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "stocare",
+        "BESS"
+      ]
     }
   },
   {
     "portal_id": "305628",
     "dump": "305628_ordin-74-2025-tarife-transport_soap.md",
-    "search": {"num": "74", "an": "2025", "text": "tarife"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "num": "74",
+      "an": "2025",
+      "text": "tarife"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Ordin 74-2025 Tarife transport EE (text).md",
     "h1": "Ordin nr. 74/2025 privind aprobarea tarifelor pentru serviciul de transport al energiei electrice",
     "meta": {
@@ -273,20 +407,33 @@
       "issuer": "ANRE",
       "nr": "74",
       "an": 2025,
-      "domeniu": ["energetică", "tarife", "transport"],
+      "domeniu": [
+        "energetică",
+        "tarife",
+        "transport"
+      ],
       "mo_publicare": "MO nr. 1265 / 16.12.2025",
       "portal_id": "305628",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305628",
       "versiune_text": "2025-12-16",
       "consolidare": "Tarife Transelectrica 2026 — text SOAP Portal Legislativ",
-      "tags": ["act-text", "ANRE", "tarife", "transport"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "tarife",
+        "transport"
+      ]
     }
   },
   {
     "portal_id": "305630",
     "dump": "305630_ordin-76-2025-tarife-distributie_soap.md",
-    "search": {"num": "76", "an": "2025", "text": "tarife"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "num": "76",
+      "an": "2025",
+      "text": "tarife"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Ordin 76-2025 Tarife distributie DEER (text).md",
     "h1": "Ordin nr. 76/2025 privind aprobarea tarifelor specifice pentru serviciul de distribuție DEER",
     "meta": {
@@ -295,20 +442,33 @@
       "issuer": "ANRE",
       "nr": "76",
       "an": 2025,
-      "domeniu": ["energetică", "tarife", "distribuție"],
+      "domeniu": [
+        "energetică",
+        "tarife",
+        "distribuție"
+      ],
       "mo_publicare": "MO nr. 1265 / 16.12.2025",
       "portal_id": "305630",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305630",
       "versiune_text": "2025-12-16",
       "consolidare": "Tarife Distribuție Energie Electrică Romania (DEER) 2026",
-      "tags": ["act-text", "ANRE", "tarife", "distribuție"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "tarife",
+        "distribuție"
+      ]
     }
   },
   {
     "portal_id": "305631",
     "dump": "305631_ordin-77-2025-tarife-distributie_soap.md",
-    "search": {"num": "77", "an": "2025", "text": "tarife"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "num": "77",
+      "an": "2025",
+      "text": "tarife"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Ordin 77-2025 Tarife distributie Delgaz (text).md",
     "h1": "Ordin nr. 77/2025 privind aprobarea tarifelor specifice pentru serviciul de distribuție Delgaz",
     "meta": {
@@ -317,20 +477,33 @@
       "issuer": "ANRE",
       "nr": "77",
       "an": 2025,
-      "domeniu": ["energetică", "tarife", "distribuție"],
+      "domeniu": [
+        "energetică",
+        "tarife",
+        "distribuție"
+      ],
       "mo_publicare": "MO nr. 1265 / 16.12.2025",
       "portal_id": "305631",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305631",
       "versiune_text": "2025-12-16",
       "consolidare": "Tarife Delgaz Grid 2026",
-      "tags": ["act-text", "ANRE", "tarife", "distribuție"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "tarife",
+        "distribuție"
+      ]
     }
   },
   {
     "portal_id": "305642",
     "dump": "305642_ordin-81-2025-quota-cv_soap.md",
-    "search": {"num": "81", "an": "2025", "text": "certificate"},
-    "subdir": "Acte ANRE & Autoritati",
+    "search": {
+      "num": "81",
+      "an": "2025",
+      "text": "certificate"
+    },
+    "subdir": "Regulator Acts",
     "filename": "ANRE — Ordin 81-2025 Quota certificate verzi 2026 (text).md",
     "h1": "Ordin nr. 81/2025 privind stabilirea cotei obligatorii de certificate verzi pentru 2026",
     "meta": {
@@ -339,13 +512,20 @@
       "issuer": "ANRE",
       "nr": "81",
       "an": 2025,
-      "domeniu": ["energetică", "certificate-verzi"],
+      "domeniu": [
+        "energetică",
+        "certificate-verzi"
+      ],
       "mo_publicare": "MO nr. 1270 / 16.12.2025",
       "portal_id": "305642",
       "portal_url": "https://legislatie.just.ro/Public/DetaliiDocumentAfis/305642",
       "versiune_text": "2025-12-16",
       "consolidare": "Cota CV 2026 — text SOAP Portal Legislativ",
-      "tags": ["act-text", "ANRE", "certificate-verzi"]
+      "tags": [
+        "act-text",
+        "ANRE",
+        "certificate-verzi"
+      ]
     }
   }
 ]

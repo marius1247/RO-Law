@@ -13,13 +13,13 @@ status: draft
 Domain hub for the **energy sector**. Romania is an **EU Member State** (not Energy Community). Core primary laws and **Batch B normative texts** (racordare, furnizare, metodologii, OUG 134/143/163) are in the vault; market rules and network codes remain pending.
 
 > [!tip] Start with the synthesis, not the acts
-> **[[Energetică — sinteza sectorului]]** — cascade, L123 two titles, GC scheme, risk map, MD parallels.
+> **[[Energetică — synthesis]]** — cascade, L123 two titles, GC scheme, risk map, MD parallels.
 
 ## Analysis layer
-- **[[Energetică — sinteza sectorului]]**
+- **[[Energetică — synthesis]]**
 - Act companions: [[Legea 123-2012 — energia electrica si gazele naturale (notă)|L123/2012]] · [[Legea 220-2008 — promovare energie regenerabila (notă)|L220/2008]] · [[OUG 163-2022 — promovare energie regenerabila (notă)|OUG 163/2022]] · [[OUG 134-2024 — stocare energie electrica (notă)|OUG 134/2024]] · [[OUG 143-2021 — Directiva 2019-944 energie (notă)|OUG 143/2021]]
 - Concepts: [[Concept — Racordare la rețea]] · [[Concept — Unbundling]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]] · [[Concept — Licență în energetică]] · [[Concept — Cost stack producator energie]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[Concept — Curtailment si redispatch RES]]
-- **Balancing markets:** [[MOC — Piețe de echilibrare]] · [[Piețe de echilibrare — sinteza]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — BESS revenue stacking]]
+- **Balancing markets:** [[MOC — Piete de echilibrare]] · [[Piete de echilibrare — synthesis]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — PCE — piata capacitatilor de echilibrare]] · [[Concept — PE — piata energiei de echilibrare]] · [[Concept — Decontare dezechilibre 15 minute]] · [[Concept — BESS revenue stacking]]
 - Currency: [[Currency ledger]]
 
 ## The implementation chain
@@ -59,7 +59,7 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | Furnizare EE | [[ANRE — Regulament furnizare EE 2023 (notă)\|Ord. 5/2023 regulament]] ✅ | [[ANRE — Regulament furnizare EE 2023 (text)\|text]] (portal **264611**) |
 | Stocare / BESS | [[ANRE — Norme stocare BESS 2025 (notă)\|Ord. 56/2025 norme]] ✅ | [[ANRE — Norme stocare BESS 2025 (text)\|text]] · parent [[OUG 134-2024 — stocare energie electrica (notă)]] |
 | GC quota / methodologies | [[ANRE — Metodologii tarifare EE (notă)]] · [[Concept — Certificat verde]] | ✅ Ord. **96/2022** methodology · **81/2025** 2026 quota text |
-| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piețe de echilibrare]] · texts pending ingest |
+| Balancing markets (PCE/PE/IBS) | [[ANRE — Ordin 127-2021 Piata echilibrare (notă)\|Ord. 127/2021]] · [[ANRE — Ordin 213-2020 Decontare dezechilibre (notă)\|Ord. 213/2020]] ⚠️ stub | Analysis: [[MOC — Piete de echilibrare]] · texts pending ingest |
 | Piețe / coduri rețea | Pending | Checklist: [[Download checklist — Batch B ANRE]] |
 
 ## OPCOM market procedures (OPEED)
@@ -83,13 +83,13 @@ Normative only — same scope rule as MD: **no individual Decizii**.
 | EU Member State | Energy Community + accession track |
 | ANRE Ordine | HANRE |
 
-Cross-vault: `EU Law/` · Moldovan Law `[[Energetică — sinteza sectorului]]`.
+Cross-vault: `EU Law/` · Moldovan Law `[[Energetică — synthesis]]`.
 
 ## Open threads
 - Batch B **remainder:** electricity/gas market rules · network codes · Ord. **6/2025** authorisation
 - Deepen `#Articolul N` links in concept notes against ingested regulamente/metodologii
 - Ingest primary texts for Batch 4–5 sectoral acts (L21, L53, L98, L208, OUG 195)
-- Unbundling ↔ company law → [[Societăți & guvernanță — sinteza]]
+- Unbundling ↔ company law → [[Societăți & guvernanță — synthesis]]
 
 ## Cross-disciplinary indexes
 - [[_Energy Investment Due Diligence Index]]

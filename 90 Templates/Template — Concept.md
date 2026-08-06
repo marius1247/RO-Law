@@ -1,13 +1,14 @@
 ---
-title: "Concept — <Denumire>"
+title: "Concept — <name>"
 type: concept
+domain: []
 domeniu: []
 tags: [concept]
 status: stub
 created:
 ---
 
-# Concept — <Denumire>
+# Concept — <name>
 
 **RO term:** <termen> · **EN:** <english term>
 
@@ -23,6 +24,7 @@ Mechanics, requirements, thresholds, procedure.
 ## Related
 - [[Concept — ...]]
 - Authorities: [[...]]
+- Domain: [[<Industry> — synthesis]] · [[MOC — <domain>]]
 
 ## Notes / conclusions
 > …

@@ -12,13 +12,13 @@ status: draft
 Domain hub for **taxation** — Cod fiscal (substance) + CPF (procedure) + [[ANAF]].
 
 > [!tip] Start here
-> **[[Fiscalitate — sinteza sistemului fiscal]]** — Titlu map, procedure sequence, currency warning.
+> **[[Fiscalitate — synthesis]]** — Titlu map, procedure sequence, currency warning.
 
 > [!danger] Currency
 > Working Cod fiscal / CPF texts are **SOAP-complete but lagging** 2025–2026 consolidări. Re-verify every rate and deadline. → [[Currency ledger]] · [[Download checklist — Batch A currency]]
 
 ## Analysis layer
-- **[[Fiscalitate — sinteza sistemului fiscal]]**
+- **[[Fiscalitate — synthesis]]**
 - Concepts: [[Concept — Impozit pe profit]] · [[Concept — TVA]]
 - Act companions: [[Codul fiscal 227-2015 (notă)]] · [[Codul de procedura fiscala 207-2015 (notă)]]
 
@@ -40,8 +40,8 @@ I General · **II Profit** · III Micro · IV Personal income · V Social contri
 - Customs functions — import VAT / excise
 
 ## Cross-domain bridges
-- Company form & profit extraction → [[Societăți & guvernanță — sinteza]] · [[MOC — Societăți & Guvernanță]]
-- VAT / excise in regulated energy tariffs → [[Energetică — sinteza sectorului]]
+- Company form & profit extraction → [[Societăți & guvernanță — synthesis]] · [[MOC — Societăți & Guvernanță]]
+- VAT / excise in regulated energy tariffs → [[Energetică — synthesis]]
 - MD parallel: Cod fiscal 1163/1997 + SFS (Moldovan Law)
 
 ## Still open

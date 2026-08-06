@@ -9,7 +9,7 @@ updated: 2026-07-28
 # Index general — Romanian Law
 
 ## Entry
-- [[Home]] · [[Convenții vault]] · [[Roadmap]] · [[SOURCE INDEX]]
+- [[Home]] · [[Conventions]] · [[Roadmap]] · [[SOURCE INDEX]]
 - Foundations: [[Sistemul de drept al RO (overview)]] · [[Ierarhia actelor normative]] · [[Currency ledger]]
 
 ## Cross-disciplinary indexes
@@ -18,10 +18,10 @@ updated: 2026-07-28
 - [[_Regulatory Risk & Litigation Matrix]]
 
 ## Domain hubs
-- [[MOC — Energetică]] — [[Energetică — sinteza sectorului]]
-- [[MOC — Piețe de echilibrare]] — [[Piețe de echilibrare — sinteza]]
-- [[MOC — Societăți & Guvernanță]] — [[Societăți & guvernanță — sinteza]]
-- [[MOC — Fiscalitate]] — [[Fiscalitate — sinteza sistemului fiscal]]
+- [[MOC — Energetică]] — [[Energetică — synthesis]]
+- [[MOC — Piete de echilibrare]] — [[Piete de echilibrare — synthesis]]
+- [[MOC — Societăți & Guvernanță]] — [[Societăți & guvernanță — synthesis]]
+- [[MOC — Fiscalitate]] — [[Fiscalitate — synthesis]]
 
 ## Authorities
 - [[00 - Harta instituțională|Harta instituțională]] · [[ANRE]] · [[ONRC]] · [[ANAF]]

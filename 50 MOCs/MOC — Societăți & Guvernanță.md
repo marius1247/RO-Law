@@ -12,10 +12,10 @@ status: draft
 Domain hub for **company law and corporate governance**: how a company comes into existence, who decides what inside it, and how the register makes that opposable to third parties.
 
 > [!tip] Start here
-> **[[Societăți & guvernanță — sinteza]]** — SRL vs SA, L31 architecture, ONRC / L265/2022, MD parallels.
+> **[[Societăți & guvernanță — synthesis]]** — SRL vs SA, L31 architecture, ONRC / L265/2022, MD parallels.
 
 ## Analysis layer
-- **[[Societăți & guvernanță — sinteza]]**
+- **[[Societăți & guvernanță — synthesis]]**
 - Concepts: [[Concept — Capital social]] · [[Concept — Societate cu raspundere limitata]] · [[Concept — Societate pe actiuni]]
 - Act companion: [[Legea 31-1990 — societatile (notă)|L31/1990]]
 
@@ -42,8 +42,8 @@ Domain hub for **company law and corporate governance**: how a company comes int
 - **BNR** — banking perimeter
 
 ## Cross-domain bridges
-- Tax consequences of form and extraction → [[Fiscalitate — sinteza sistemului fiscal]] · [[MOC — Fiscalitate]]
-- Energy unbundling as corporate reorganisation → [[Concept — Unbundling]] · [[Energetică — sinteza sectorului]]
+- Tax consequences of form and extraction → [[Fiscalitate — synthesis]] · [[MOC — Fiscalitate]]
+- Energy unbundling as corporate reorganisation → [[Concept — Unbundling]] · [[Energetică — synthesis]]
 - MD parallels: L135/2007, L1134/1997, L220/2007 (Moldovan Law vault)
 
 ## Primary legislation — in the vault

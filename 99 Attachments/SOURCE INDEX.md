@@ -8,7 +8,7 @@ updated: 2026-08-05
 
 # SOURCE INDEX — portal dumps → working texts
 
-Maps **raw dumps** in `99 Attachments/source-portal/` (and legacy `99 Attachments/` root) to **working `— text` notes** in `10 Acte normative/`. Do not edit raw dumps; re-ingest via `scripts/ingest_ro_portal.py`. Currency: [[Currency ledger]].
+Maps **raw dumps** in `99 Attachments/source-portal/` (and legacy `99 Attachments/` root) to **working `— text` notes** in `10 Legislation/`. Do not edit raw dumps; re-ingest via `scripts/ingest_ro_portal.py`. Currency: [[Currency ledger]].
 
 ## Batch A — keystone legislation
 

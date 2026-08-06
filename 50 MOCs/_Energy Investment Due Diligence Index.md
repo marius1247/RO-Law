@@ -9,7 +9,7 @@ updated: 2026-08-05
 # Master Index: Energy Investment & Development Due Diligence
 
 > **Type:** Cross-disciplinary MOC / RAG hub
-> **Links:** [[MOC — Energetică]] · [[Energetică — sinteza sectorului]] · [[30 Tax & Corporate]] via [[Codul fiscal 227-2015 (notă)]]
+> **Links:** [[MOC — Energetică]] · [[Energetică — synthesis]] · [[30 Tax & Corporate]] via [[Codul fiscal 227-2015 (notă)]]
 
 This index maps the legal, regulatory, and financial compliance pipeline for developing, acquiring, or financing utility-scale renewable (RES) and conventional energy assets in Romania.
 
@@ -20,7 +20,7 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 | **1. Land & grid permitting** | ATR validity; reinforcement costs; EIA & AIM | [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|L123/2012]] · [[ANRE — Regulament racordare EE 2013 (notă)]] · [[OUG 195-2005 — protectia mediului (notă)\|OUG 195/2005]] |
 | **2. Offtake & subsidies** | CfD strike price; levy & framework contracts; corporate PPAs | [[HG 318-2024 — cadru general CfD (notă)]] · [[ANRE — Ordin 52-2024 Contracte-cadru CfD (notă)]] · [[Legea 123-2012 — energia electrica si gazele naturale (notă)\|L123/2012]] |
 | **3. Corporate & tax** | IMCA; dividend WHT; e-Factura | [[Codul fiscal 227-2015 (notă)]] · [[Legea 21-1996 — concurenta (notă)\|L21/1996]] |
-| **4. Market access & operating costs** | PRE/BRP; network tariffs; balancing markets; BESS; curtailment; OPCOM | [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[MOC — Piețe de echilibrare]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — BESS revenue stacking]] · [[Concept — Curtailment si redispatch RES]] |
+| **4. Market access & operating costs** | PRE/BRP; network tariffs; balancing markets; BESS; curtailment; OPCOM | [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]] · [[Concept — PRE si responsabilitate de echilibrare]] · [[MOC — Piete de echilibrare]] · [[Concept — BESS economics si tarifare stocare]] · [[Concept — BESS revenue stacking]] · [[Concept — Curtailment si redispatch RES]] |
 
 ## 1. Grid access & market integration
 
@@ -47,7 +47,7 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 ## 5. Market access & operating costs
 
 - **PRE / BRP:** Confirm Balancing Agreement with Transelectrica or valid delegation — [[Concept — PRE si responsabilitate de echilibrare]].
-- **Balancing markets:** Separate SS (collective), PCE capacity, PE energy, and PRE imbalance — [[Piețe de echilibrare — sinteza]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — Decontare dezechilibre 15 minute]].
+- **Balancing markets:** Separate SS (collective), PCE capacity, PE energy, and PRE imbalance — [[Piete de echilibrare — synthesis]] · [[Concept — Servicii de sistem si tariful SS]] · [[Concept — Decontare dezechilibre 15 minute]].
 - **Network cost stack:** Model TG + SS + TD by delimitation voltage — [[Concept — Cost stack producator energie]] · [[Tarife retea — snapshot 2026]].
 - **BESS:** Verify [[ANRE — Norme stocare BESS 2025 (notă)|Ord. 56/2025]] exemption scope; model PCE/PE revenue stacking — [[Concept — BESS economics si tarifare stocare]] · [[Concept — BESS revenue stacking]].
 - **Curtailment:** PPA + scheme + PRE schedule alignment — [[Concept — Curtailment si redispatch RES]].
@@ -60,7 +60,7 @@ This index maps the legal, regulatory, and financial compliance pipeline for dev
 - [[Concept — BESS economics si tarifare stocare]]
 - [[Concept — PRE si responsabilitate de echilibrare]]
 - [[Concept — Curtailment si redispatch RES]]
-- [[MOC — Piețe de echilibrare]] · [[Piețe de echilibrare — sinteza]]
+- [[MOC — Piete de echilibrare]] · [[Piete de echilibrare — synthesis]]
 - [[Concept — BESS revenue stacking]]
 - [[Legea 123-2012 — energia electrica si gazele naturale (notă)]]
 - [[HG 318-2024 — cadru general CfD (notă)]]

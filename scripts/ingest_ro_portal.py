@@ -12,7 +12,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 ATTACHMENTS = ROOT / "99 Attachments" / "source-portal"
-ACTS = ROOT / "10 Acte Normative"
+ACTS = ROOT / "10 Legislation"
 
 
 def clean_raw(text: str) -> str:

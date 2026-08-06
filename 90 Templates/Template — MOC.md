@@ -1,14 +1,15 @@
 ---
-title: "MOC — <Domeniu>"
+title: "MOC — <domain>"
 type: moc
-domeniu: <domeniu>
+domain: <domain>
+domeniu: <domain>
 tags: [moc, index]
 created:
 ---
 
-# MOC — <Domeniu>
+# MOC — <domain>
 
-Map of content for **<domeniu>**.
+Map of content for **<domain>**. Synthesis: [[<Industry> — synthesis]].
 
 ## Primary legislation
 - [[<act> (text)]] — one-line what-it-does
@@ -21,6 +22,9 @@ Map of content for **<domeniu>**.
 
 ## Authorities
 - [[...]]
+
+## Position papers / soft law
+- [[<Issuer> — <short title> (notă)]]
 
 ## Open threads
 - …
