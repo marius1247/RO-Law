@@ -3,7 +3,7 @@ title: "Home — Legislația României"
 type: home
 tags: [home, index]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Legislația României
@@ -20,6 +20,7 @@ See [[Convenții vault]] for naming, frontmatter, and ingestion.
 ## Start here
 - [[Convenții vault]] — structure & ingestion rules
 - [[Roadmap]] — build plan, vault inventory & energy gaps
+- [[Audit & Roadmap — downloads and analysis backlog]] — **manual downloads with links** + analysis clusters to pre-build
 - [[Currency ledger]] — per-act currency status
 - [[SOURCE INDEX]] — raw portal dumps → working texts
 - [[Dataview — currency & corpus]] — live tables (Dataview plugin)

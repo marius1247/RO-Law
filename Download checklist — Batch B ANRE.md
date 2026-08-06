@@ -3,12 +3,12 @@ title: "Download checklist — Batch B ANRE"
 type: checklist
 tags: [inbox, download, energetică, anre]
 created: 2026-07-26
-updated: 2026-08-05
+updated: 2026-08-06
 ---
 
 # Download checklist — Batch B ANRE
 
-Normative **Ordine** only. Drop files into `99 Attachments/source-portal/` then ping for re-ingest. Track status in [[Currency ledger]] · [[SOURCE INDEX]].
+Normative **Ordine** only. Drop files into `99 Attachments/source-portal/` then ping for re-ingest. Track status in [[Currency ledger]] · [[SOURCE INDEX]]. **Full linked download queue** (portal + ANRE + OPCOM + Transelectrica + analysis backlog): [[Audit & Roadmap — downloads and analysis backlog]].
 
 > [!important] Scope rule — same as Moldovan Law
 > Ingest **structural / normative** ANRE acts: regulations, network codes, market rules, connection & supply procedures, tariff **methodologies**, green-certificate rules.
