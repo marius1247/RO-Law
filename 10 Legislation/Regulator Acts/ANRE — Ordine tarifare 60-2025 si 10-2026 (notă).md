@@ -11,7 +11,7 @@ source_missing: false
 updated: 2026-08-05
 ---
 
-**Acts:** Ordinul ANRE nr. 60/26.08.2025 · Ordinul ANRE nr. 73/16.12.2025 (SS from 2026) · Ordinul ANRE nr. 10/05.05.2026 · **Hub:** [[MOC — Energetică]] · **Live table:** [[Tarife retea — snapshot 2026]] · **Texts (2026 tariffs):** [[ANRE — Ordin 74-2025 Tarife transport EE (text)]] · [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]] · [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]] · **Methodologies:** [[ANRE — Metodologii tarifare EE (notă)]] · **Authority:** [[ANRE]]
+**Acts:** Ordinul ANRE nr. 60/26.08.2025 · Ordinul ANRE nr. 73/16.12.2025 (SS from 2026) · Ordinul ANRE nr. 10/05.05.2026 · **Hub:** [[MOC — Energetică]] · **Live table:** [[Tarife retea — snapshot 2026]] · **Texts (2026 tariffs):** [[ANRE — Ordin 74-2025 Tarife transport EE (notă)|Ord. 74/2025 analysis]] · [[ANRE — Ordin 74-2025 Tarife transport EE (text)|text]] · [[ANRE — Ordin 76-2025 Tarife distributie DEER (text)]] · [[ANRE — Ordin 77-2025 Tarife distributie Delgaz (text)]] · **Methodologies:** [[ANRE — Metodologii tarifare EE (notă)]] · **Authority:** [[ANRE]]
 
 > [!note] Partial text ingest
 > **TG/TL/TD 2026** Ordine ingested (74/76/77/2025). Ord. **60/2025** and **10/2026** remain analysis-only until PDF/portal ingest; values reflected in [[Tarife retea — snapshot 2026]].

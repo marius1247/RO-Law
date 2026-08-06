@@ -42,11 +42,11 @@ All rates below **excluding VAT**, **from 1 January 2026** unless noted.
 
 | Component | lei/MWh | Notes |
 |---|---:|---|
-| **TG total** | **3,63** | ANRE Ord. 74/2025 |
+| **TG total** | **3,63** | ANRE Ord. 74/2025 — [[ANRE — Ordin 74-2025 Tarife transport EE (notă)\|analysis]] |
 | — CPT recovery (C_CPT_P) | 3,18 | Recovered from producers |
 | — Supplementary CPT (C_CPT_S_P) | 0,45 | Capitalised CPT |
 
-**Solar / wind:** payable on every MWh **injected** and measured as export at the connection point.
+**Solar / wind:** payable on every MWh **injected** and measured as export at the connection point. Doctrine: [[Concept — Tarif de transport TG si TL]].
 
 ### 1.2 System services — **SS**
 
@@ -61,7 +61,7 @@ Payable on injected energy (same base as TG for merchant producers). BESS re-inj
 
 ### 1.3 Distribution — **TD** (DSO-specific, voltage-specific)
 
-Only if the plant connects at **distribution** level (typical MT for many wind/solar parks). Examples 2026:
+Only if the plant connects at **distribution** level (typical MT for many wind/solar parks). Doctrine: [[Concept — Tarif de distributie TD]] · methodology [[ANRE — Metodologie tarife distributie EE 2024 (notă)]]. Examples 2026:
 
 | DSO | IT (110 kV) | MT | JT |
 |---|---:|---:|---:|

@@ -5,6 +5,7 @@ tags: [project, roadmap]
 created: 2026-07-26
 updated: 2026-08-06
 ---
+<!-- Batch C1 tariff analysis integrated 2026-08-06; see Analysis backlog -->
 
 # Roadmap — Romanian Law
 
