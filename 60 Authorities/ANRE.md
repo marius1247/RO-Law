@@ -31,6 +31,14 @@ Led by a president (and board structure as amended). Annual activity report to P
 ## Pattern worth noting
 Every operative duty should trace to an enabling article in L123/L220/OUG 33. Methodologies are normative; tariff *Decizii* applying them are individual. Challenge routes differ.
 
+## Market monitoring extracts
+
+Monthly PAN/PAM monitoring reports (Feb 2023 – Apr 2025):
+
+- [[ANRE — Monitorizare piata EE Feb23-Apr25 — idei (nota)]] — deep ideas
+- `60 Authorities/ANRE/Rapoarte monitorizare/anre_monitorizare_data.sql` — structured data
+- Source PDFs: `99 Attachments/source-anre/monitorizare-ee/`
+
 ## Related
 [[MOC — Energetică]] · [[Energetică — synthesis]] · [[00 - Harta instituțională|Harta instituțională]] · [[Concept — Licență în energetică]] · [[Concept — Racordare la rețea]] · [[Concept — Furnizor de ultimă instanță]] · [[Concept — Certificat verde]]  
 MD parallel: Moldovan Law `ANRE` (Energy Community track).
