@@ -1,17 +1,21 @@
 ---
-title: "ANRE — Monitorizare piață EE Feb23–Apr25 — idei (notă)"
+title: "ANRE — Monitorizare piață EE Feb23–Aug25 — idei (notă)"
 type: note
 nivel: analiza
 domeniu: [energetică]
 tags: [anre, monitorizare, piață-angro, piață-amănuntul, MACEE, PZU, FUI]
 created: 2026-08-08
 updated: 2026-08-08
+coverage: Feb 2023 – Aug 2025 (8 monthly reports)
 sources:
   - "[[99 Attachments/source-anre/monitorizare-ee/Monit-feb23.pdf|Monit feb 2023]]"
   - "[[99 Attachments/source-anre/monitorizare-ee/Monit-apr23.pdf|Monit apr 2023]]"
   - "[[99 Attachments/source-anre/monitorizare-ee/Monit-aug23.pdf|Monit aug 2023]]"
   - "[[99 Attachments/source-anre/monitorizare-ee/Monit-apr24.pdf|Monit apr 2024]]"
   - "[[99 Attachments/source-anre/monitorizare-ee/Monit-apr25.pdf|Monit apr 2025]]"
+  - "[[99 Attachments/source-anre/monitorizare-ee/Monit-dec23.pdf|Monit dec 2023]]"
+  - "[[99 Attachments/source-anre/monitorizare-ee/Monit-aug24.pdf|Monit aug 2024]]"
+  - "[[99 Attachments/source-anre/monitorizare-ee/Monit-aug25.pdf|Monit aug 2025]]"
 related:
   - "[[ANRE]]"
   - "[[anre_monitorizare_data.sql]]"
@@ -22,7 +26,7 @@ related:
 
 # Thesis
 
-The five [[ANRE]] monthly electricity-market monitoring reports (Feb 2023 → Apr 2025) describe a market moving through three overlapping transitions:
+The [[ANRE]] monthly electricity-market monitoring reports in this extract (Feb 2023 → Aug 2025; initially five, extended with Dec 2023 / Aug 2024 / Aug 2025) describe a market moving through three overlapping transitions:
 
 1. from the 2022 price-crisis hangover into lower but still volatile wholesale prices;
 2. from the administratively concentrated **MACEE** single-buyer mechanism back toward bilateral and organized forward trading;
@@ -312,3 +316,102 @@ Parallel OPCOM/BRM PZU–PI is a competition experiment **and** a liquidity-frag
 | SQL dataset | same folder — `anre_monitorizare_data.sql` |
 | Immutable PDFs | `99 Attachments/source-anre/monitorizare-ee/` |
 | Authority profile | [[ANRE]] |
+
+
+---
+
+# Addendum — Dec 2023, Aug 2024, Aug 2025
+
+## Extended arc
+
+These three reports sharpen the Feb23→Apr25 transition into three observable stages:
+
+1. **December 2023 — MACEE at full-year intensity.** The year closes with MACEE still comparable in scale to organized forwards and day-ahead. Annual averages preserve the 2022–early-2023 price shock in legacy contracts even though December spot had already fallen.
+2. **August 2024 — hybrid transition.** MACEE remains material, but its price becomes a blend of annual and supplemental auctions; OPCOM adds IDA; BRM’s new PI has begun trading. BRM PZU is **not yet** operational. Overlap month, not mature dual-venue architecture.
+3. **August 2025 — post-MACEE, dual-operator market.** MACEE absent. Direct and centralized bilaterals expand; both OPCOM and BRM operate PZU and PI; BRM adds IDA during the month; PCT-BRM is quantitatively relevant.
+
+Against **August 2023**, the sequence is not simple liberalization: Aug 2024 still mixes administrative procurement with first BRM spot activity; Aug 2025 restores contracting space but also shows stronger competitive-retail concentration and substantial net imports. Against **April 2025**, Aug 2025 confirms the post-MACEE structure while adding stronger summer direct/spot volumes, lower spot prices, a narrower net-import gap, and a retail-price comparability break after July 2025.
+
+## Physical system and generation mix
+
+| Indicator | Dec 2023 | Aug 2024 | Aug 2025 |
+|---|---:|---:|---:|
+| Produced (>5 MW) | 5,250.38 GWh | 3,727.12 GWh | 3,792.35 GWh |
+| Delivered | 4,983.37 GWh | 3,515.90 GWh | 3,583.31 GWh |
+| SEN internal consumption | 4,930.32 GWh | 4,419.29 GWh | 4,154.47 GWh |
+| Hydro | 28.91% | 23.44% | 23.58% |
+| Nuclear | 18.78% | 24.46% | 25.04% |
+| Gas | 24.29% | 22.65% | 19.62% |
+| Coal | 12.71% | 15.01% | 13.57% |
+| Wind | 13.92% | 9.74% | 9.93% |
+| Solar | 0.70% | 3.66% | 7.32% |
+| Storage | 0.01% | 0.03% | 0.31% |
+
+Same-calendar-month: Aug 2023 was hydro-led with marginal solar; by Aug 2025 nuclear leads, solar doubles YoY (**3.66% → 7.32%**), storage reaches **0.31%**. Relative to Apr 2025, August has less hydro/wind and more gas/solar — read post-MACEE through seasonality as well as institutions.
+
+**December annual frame (2023):** monitored production **56,034.13 GWh**, delivered **53,171.31 GWh**. Annual mix: hydro **33.47%**, nuclear **19.36%**, gas **16.81%**, wind **14.13%**, coal **13.44%**, solar **1.88%**. Energy-labeling (Ordin ANRE 61/2016): average sectoral emissions **172.21 gCO₂/kWh** (coal **827.87**, gas **382.09**) — accounting indicator, not marginal emissions.
+
+## Wholesale: single-buyer block → dual venues
+
+| Component | Dec 2023 | Aug 2024 | Aug 2025 |
+|---|---|---|---|
+| Direct bilaterals | 743 / 15.1% / 693.80 | 615 / 13.9% / 502.03 | 1,444 / 34.8% / 515.32 |
+| Centralized bilaterals | 1,315 / 26.7% / 906.07 | 1,019 / 23.1% / 506.07 | 1,947 / 46.9% / 537.68 |
+| MACEE | 1,656 / 33.6% / 450.00 | 885 / 20.0% / **449.87** | — |
+| PZU | 1,566 / 31.8% / 423.01 | 1,462 / 33.1% / 707.58 | 1,859 / 44.7% / 418.45 |
+| PI | 146 / 3.0% / 426.95 | OPCOM 163 + BRM 10 | 414 / 10.0% / 348.52 |
+| PE | 164 / 3.3% (delivered) | 114 / 2.6% (engaged) | 54 / 1.3% (engaged) |
+
+Volumes = GWh / % SEN / lei/MWh. Not additive (resales).
+
+**Full-year 2023 MACEE:** **16,087 GWh** = **29.6%** of SEN at **450 lei/MWh** — one of three principal wholesale channels alongside centralized bilaterals (**16,426 GWh; 30.3%**) and PZU (**17,033 GWh; 31.4%**). Annual price hierarchy: centralized **941.27**, direct **867.60**, PZU **536.23**, PI **524.97**, MACEE **450** — contract lag vs contemporaneous scarcity.
+
+**Aug 2024 MACEE blend (OUG 32/2024):** **449.87** combines annual auction **450** with supplemental monthly auctions **400**. OPCOM PI includes IDCT+IDA from 13 Jun 2024; BRM PI contributes first small volume. Do not treat Aug 2024 as already “dual PZU” — BRM PZU starts **19 Nov 2024**.
+
+**Aug 2025 dual venues:** PZU OPCOM **1,201 @ 409.53** / BRM **658 @ 434.75**; PI OPCOM **164 @ 306.19** / BRM **250 @ 376.20** (BRM PI > OPCOM by volume; BRM IDA from **5 Aug 2025**). PCT-BRM **213 GWh @ 530.41**; PMC-BRM **19 @ 551.99**.
+
+## Cross-border
+
+| Month | Export | Import | Net |
+|---|---:|---:|---|
+| Dec 2023 | 876 | 548 | Net export 328 |
+| Aug 2024 | 352 | 890 | Net import 538 |
+| Aug 2025 | 966 | 1,220 | Net import 254 |
+
+Full-year 2023 was net commercial export (**8,705 vs 5,713 GWh**). All three Augusts in the extended set are net-import months; deficit widens in 2024 then more than halves in 2025. Coupled PZU+PI in Aug 2025 carry **556 GWh** exports and **652 GWh** imports.
+
+## Retail, SU/UI, FUI
+
+- **Aug 2024 HH:** competitive 5.74M / 876.90 GWh; SU 2.96M / 326.62; UI 9,831 / 0.91.
+- **Aug 2025 HH:** competitive 6.15M / 882.21; SU 2.65M / 273.67; UI 9,189 / 1.03.
+
+Competitive HH consumption share ~**73% → >76%** YoY. NH UI: **123.02 → 43.30 GWh**.
+
+FUI nominations: Dec 2023 — Enel Energie Muntenia; Aug 2024 — Electrica Furnizare; Aug 2025 — E.ON Energie România. Ordin ANRE **11/2025** moves FUI to published rotation periods; Aug 2025 UI pricing under amended Art. **19**.
+
+**Retail price break — July 2025:** from then ANRE states contractual conditions represent **prices invoiced** to final customers. Aug 2024 HH total **980.06** vs Aug 2025 **1,127.78** is therefore **not** a clean like-for-like price-rise signal versus earlier capped-invoice observations. Taxes/VAT/CV/cogeneration/CfD contribution still excluded.
+
+## Concentration and balancing
+
+Generation C1/C3/HHI: Aug 2024 **24.46/65.46/1,656** → Aug 2025 **25.04/62.21/1,529**. Competitive retail: **13.90/32.34/613** → **16.57/42.48/789** — deepens the Apr 2025 warning that restored wholesale contracting ≠ retail deconcentration.
+
+Dual-venue Aug 2025 PZU selling HHI: OPCOM **999**, BRM **982** — more balanced than Apr 2025’s OPCOM/BRM divergence; still no combined-PZU HHI published.
+
+PE methodology break at July 2024 remains binding. Aug 2025 relabels products **RRFa / RRFm / RI**; upward RRFm stays concentrated (C1 **71%**, HHI **5,222**).
+
+## Additional hard edges
+
+1. Dec 2023 annual comparison with 2022 is not clean (coverage/definition differences).
+2. Aug 2024 is dual-operator only on PI.
+3. Aug 2025 historical OPCOM-only PZU charts must not be mixed with combined headline PZU.
+4. Printed Aug 2025 PCCB-NC **25.0%** of consumption is a table error (~3.2% implied) — stored as printed in SQL with warning.
+5. PE volume decline across Jul 2024 cannot be read as pure operations without delivered→engaged break.
+6. Retail prices before/after Jul 2025 describe different invoice relationships.
+7. Bilateral reporting legal basis shifts Art. 15(3) OUG 27/2022 → Art. 14(3) OUG 6/2025; contract counts ≠ volume.
+
+## Updated anchors (batch 2)
+
+- Full-year 2023 MACEE: **16,087 GWh @ 450** (29.6% SEN).
+- Dec 2023 PZU: **423.01**; MACEE month: **1,656 GWh**.
+- Aug 2024 MACEE blend: **449.87**; PZU: **707.58**; first BRM PI: **10 GWh**.
+- Aug 2025: no MACEE; PZU combined **418.45** (OPCOM 1,201 / BRM 658); PI **414** (OPCOM 164 / BRM 250); solar **7.32%**; net import **254 GWh**; HH competitive share **>76%**; NH UI **43.30 GWh**.
